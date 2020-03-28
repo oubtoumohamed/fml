@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>896</id> 
+   <name>نادي ميتز لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/896.png</image> 
+   <country>فرنسا</country> 
+   <adrese>3, allée Saint-Symphorien</adrese> 
+   <website>http://www.fcmetz.com</website> 
+   <creation-date>1932</creation-date> 
+   <players> 
+     <player id="5440" /> 
+     <player id="39352" /> 
+     <player id="65766" /> 
+     <player id="162507" /> 
+     <player id="259971" /> 
+     <player id="429798" /> 
+     <player id="508750" /> 
+     <player id="2938" /> 
+     <player id="13115" /> 
+     <player id="44859" /> 
+     <player id="61168" /> 
+     <player id="65807" /> 
+     <player id="70453" /> 
+     <player id="86730" /> 
+     <player id="157884" /> 
+     <player id="158014" /> 
+     <player id="158185" /> 
+     <player id="190754" /> 
+     <player id="320199" /> 
+     <player id="323555" /> 
+     <player id="327921" /> 
+     <player id="336685" /> 
+     <player id="400225" /> 
+     <player id="411528" /> 
+     <player id="417654" /> 
+     <player id="420668" /> 
+     <player id="420686" /> 
+     <player id="457329" /> 
+     <player id="459094" /> 
+     <player id="471554" /> 
+     <player id="538793" /> 
+     <player id="622797" /> 
+     <player id="626474" /> 
+     <player id="640593" /> 
+     <player id="1484" /> 
+     <player id="16110" /> 
+     <player id="21515" /> 
+     <player id="37440" /> 
+     <player id="39351" /> 
+     <player id="137668" /> 
+     <player id="166875" /> 
+     <player id="193385" /> 
+     <player id="206176" /> 
+     <player id="207332" /> 
+     <player id="208630" /> 
+     <player id="215613" /> 
+     <player id="217207" /> 
+     <player id="237183" /> 
+     <player id="296608" /> 
+     <player id="299856" /> 
+     <player id="319033" /> 
+     <player id="327220" /> 
+     <player id="344907" /> 
+     <player id="400207" /> 
+     <player id="405787" /> 
+     <player id="417657" /> 
+     <player id="421293" /> 
+     <player id="425827" /> 
+     <player id="426535" /> 
+     <player id="427752" /> 
+     <player id="431495" /> 
+     <player id="500268" /> 
+     <player id="503673" /> 
+     <player id="538032" /> 
+     <player id="597538" /> 
+     <player id="622207" /> 
+     <player id="39169" /> 
+     <player id="87232" /> 
+     <player id="317347" /> 
+     <player id="327428" /> 
+     <player id="346045" /> 
+     <player id="429799" /> 
+     <player id="445756" /> 
+     <player id="470890" /> 
+     <player id="478578" /> 
+     <player id="538035" /> 
+     <player id="541921" /> 
+   </players> 
+   <coaches> 
+     <coach id="1313" /> 
+     <coach id="110850" /> 
+     <coach id="138861" /> 
+   </coaches> 
+</team>

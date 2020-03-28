@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2762</id> 
+   <name>CSF Speranţa Nisporeni</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2762.png</image> 
+   <country>مولدوفا</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>1991</creation-date> 
+   <players> 
+     <player id="246499" /> 
+     <player id="269980" /> 
+     <player id="520370" /> 
+     <player id="39519" /> 
+     <player id="170772" /> 
+     <player id="365637" /> 
+     <player id="411029" /> 
+     <player id="411030" /> 
+     <player id="476419" /> 
+     <player id="485888" /> 
+     <player id="508762" /> 
+     <player id="559695" /> 
+     <player id="560130" /> 
+     <player id="80570" /> 
+     <player id="252820" /> 
+     <player id="358503" /> 
+     <player id="380469" /> 
+     <player id="384525" /> 
+     <player id="400341" /> 
+     <player id="505627" /> 
+     <player id="543873" /> 
+     <player id="601276" /> 
+     <player id="601277" /> 
+     <player id="59064" /> 
+     <player id="177856" /> 
+     <player id="181447" /> 
+     <player id="205602" /> 
+     <player id="409140" /> 
+     <player id="490898" /> 
+     <player id="552160" /> 
+     <player id="604947" /> 
+   </players> 
+   <coaches> 
+     <coach id="210256" /> 
+     <coach id="605708" /> 
+   </coaches> 
+</team>

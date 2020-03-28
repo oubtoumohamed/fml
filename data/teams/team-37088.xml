@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>37088</id> 
+   <name>Fudbalska Akademija Pandev</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/37088.png</image> 
+   <country>مقدونيا</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>2010</creation-date> 
+   <players> 
+     <player id="347267" /> 
+     <player id="513339" /> 
+     <player id="611534" /> 
+     <player id="19082" /> 
+     <player id="123128" /> 
+     <player id="199015" /> 
+     <player id="246968" /> 
+     <player id="300434" /> 
+     <player id="347473" /> 
+     <player id="401245" /> 
+     <player id="426856" /> 
+     <player id="464957" /> 
+     <player id="520865" /> 
+     <player id="565476" /> 
+     <player id="577054" /> 
+     <player id="581652" /> 
+     <player id="134708" /> 
+     <player id="139845" /> 
+     <player id="157681" /> 
+     <player id="234434" /> 
+     <player id="307039" /> 
+     <player id="372961" /> 
+     <player id="434049" /> 
+     <player id="464959" /> 
+     <player id="518518" /> 
+     <player id="518519" /> 
+     <player id="525833" /> 
+     <player id="538812" /> 
+     <player id="586029" /> 
+     <player id="33684" /> 
+     <player id="91056" /> 
+     <player id="133177" /> 
+     <player id="262935" /> 
+     <player id="308912" /> 
+     <player id="387471" /> 
+     <player id="498421" /> 
+   </players> 
+   <coaches> 
+     <coach id="541898" /> 
+   </coaches> 
+</team>

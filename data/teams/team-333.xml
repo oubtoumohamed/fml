@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>333</id> 
+   <name>سيارا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/333.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Avenida Joáo Pessoa 3532, Porangabuçu</adrese> 
+   <website>http://www.vovo.com.br</website> 
+   <creation-date>1914</creation-date> 
+   <players> 
+     <player id="9126" /> 
+     <player id="9401" /> 
+     <player id="16938" /> 
+     <player id="71915" /> 
+     <player id="112043" /> 
+     <player id="122902" /> 
+     <player id="431776" /> 
+     <player id="553436" /> 
+     <player id="596553" /> 
+     <player id="9462" /> 
+     <player id="44196" /> 
+     <player id="65339" /> 
+     <player id="80072" /> 
+     <player id="82890" /> 
+     <player id="111502" /> 
+     <player id="112310" /> 
+     <player id="112519" /> 
+     <player id="121328" /> 
+     <player id="139126" /> 
+     <player id="184563" /> 
+     <player id="186344" /> 
+     <player id="195341" /> 
+     <player id="196743" /> 
+     <player id="197768" /> 
+     <player id="207110" /> 
+     <player id="227633" /> 
+     <player id="227670" /> 
+     <player id="228358" /> 
+     <player id="282377" /> 
+     <player id="380051" /> 
+     <player id="435204" /> 
+     <player id="483316" /> 
+     <player id="533901" /> 
+     <player id="533902" /> 
+     <player id="538968" /> 
+     <player id="591968" /> 
+     <player id="597899" /> 
+     <player id="602822" /> 
+     <player id="9416" /> 
+     <player id="22388" /> 
+     <player id="32916" /> 
+     <player id="64444" /> 
+     <player id="65223" /> 
+     <player id="78771" /> 
+     <player id="82792" /> 
+     <player id="111808" /> 
+     <player id="112809" /> 
+     <player id="116164" /> 
+     <player id="130639" /> 
+     <player id="152469" /> 
+     <player id="162914" /> 
+     <player id="176777" /> 
+     <player id="196418" /> 
+     <player id="231738" /> 
+     <player id="261156" /> 
+     <player id="282475" /> 
+     <player id="291367" /> 
+     <player id="328721" /> 
+     <player id="402060" /> 
+     <player id="409256" /> 
+     <player id="415615" /> 
+     <player id="433841" /> 
+     <player id="452042" /> 
+     <player id="535347" /> 
+     <player id="539795" /> 
+     <player id="544357" /> 
+     <player id="556428" /> 
+     <player id="571314" /> 
+     <player id="592868" /> 
+     <player id="602821" /> 
+     <player id="3596" /> 
+     <player id="8929" /> 
+     <player id="33077" /> 
+     <player id="34705" /> 
+     <player id="71013" /> 
+     <player id="71782" /> 
+     <player id="101372" /> 
+     <player id="110278" /> 
+     <player id="112413" /> 
+     <player id="136408" /> 
+     <player id="196443" /> 
+     <player id="226126" /> 
+     <player id="226831" /> 
+     <player id="228709" /> 
+     <player id="236688" /> 
+     <player id="242843" /> 
+     <player id="250505" /> 
+     <player id="328581" /> 
+     <player id="330208" /> 
+     <player id="394713" /> 
+     <player id="395312" /> 
+     <player id="396892" /> 
+     <player id="401622" /> 
+     <player id="404725" /> 
+     <player id="409255" /> 
+     <player id="435273" /> 
+     <player id="436626" /> 
+     <player id="449910" /> 
+     <player id="449911" /> 
+     <player id="473439" /> 
+     <player id="511138" /> 
+     <player id="533186" /> 
+     <player id="539796" /> 
+     <player id="543294" /> 
+     <player id="592651" /> 
+   </players> 
+   <coaches> 
+     <coach id="116836" /> 
+     <coach id="132212" /> 
+     <coach id="136484" /> 
+     <coach id="136490" /> 
+     <coach id="149493" /> 
+     <coach id="281641" /> 
+     <coach id="475903" /> 
+   </coaches> 
+</team>

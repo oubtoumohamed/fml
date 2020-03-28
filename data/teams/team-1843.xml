@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1843</id> 
+   <name>نادي لوكوموتيف موسكو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1843.png</image> 
+   <country>روسيا</country> 
+   <adrese>ul. Bol'shaya Cherkizovskaya 125</adrese> 
+   <website>http://www.fclm.ru</website> 
+   <creation-date>1923</creation-date> 
+   <players> 
+     <player id="8992" /> 
+     <player id="72814" /> 
+     <player id="235304" /> 
+     <player id="317374" /> 
+     <player id="559105" /> 
+     <player id="6858" /> 
+     <player id="10720" /> 
+     <player id="16067" /> 
+     <player id="16114" /> 
+     <player id="19671" /> 
+     <player id="39213" /> 
+     <player id="134333" /> 
+     <player id="187071" /> 
+     <player id="243021" /> 
+     <player id="272723" /> 
+     <player id="386285" /> 
+     <player id="451026" /> 
+     <player id="472694" /> 
+     <player id="500394" /> 
+     <player id="556276" /> 
+     <player id="2402" /> 
+     <player id="5200" /> 
+     <player id="5942" /> 
+     <player id="6868" /> 
+     <player id="20899" /> 
+     <player id="27548" /> 
+     <player id="27673" /> 
+     <player id="27821" /> 
+     <player id="95786" /> 
+     <player id="214918" /> 
+     <player id="217198" /> 
+     <player id="252092" /> 
+     <player id="289903" /> 
+     <player id="293676" /> 
+     <player id="321005" /> 
+     <player id="386267" /> 
+     <player id="461873" /> 
+     <player id="463156" /> 
+     <player id="492132" /> 
+     <player id="492134" /> 
+     <player id="492137" /> 
+     <player id="492139" /> 
+     <player id="571629" /> 
+     <player id="632805" /> 
+     <player id="6277" /> 
+     <player id="6451" /> 
+     <player id="42988" /> 
+     <player id="76582" /> 
+     <player id="189102" /> 
+     <player id="295553" /> 
+     <player id="386281" /> 
+     <player id="571650" /> 
+   </players> 
+   <coaches> 
+     <coach id="152863" /> 
+     <coach id="249657" /> 
+   </coaches> 
+</team>

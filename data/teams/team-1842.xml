@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1842</id> 
+   <name>نادي سسكا موسكو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1842.png</image> 
+   <country>روسيا</country> 
+   <adrese>Leningradskij prospekt 39a</adrese> 
+   <website>http://www.pfc-cska.com</website> 
+   <creation-date>1911</creation-date> 
+   <players> 
+     <player id="6389" /> 
+     <player id="232273" /> 
+     <player id="376145" /> 
+     <player id="420109" /> 
+     <player id="501358" /> 
+     <player id="625788" /> 
+     <player id="4534" /> 
+     <player id="6393" /> 
+     <player id="6559" /> 
+     <player id="6789" /> 
+     <player id="66752" /> 
+     <player id="82789" /> 
+     <player id="99948" /> 
+     <player id="269499" /> 
+     <player id="336979" /> 
+     <player id="386261" /> 
+     <player id="406510" /> 
+     <player id="420106" /> 
+     <player id="429988" /> 
+     <player id="505966" /> 
+     <player id="520845" /> 
+     <player id="572088" /> 
+     <player id="6249" /> 
+     <player id="20374" /> 
+     <player id="33080" /> 
+     <player id="87956" /> 
+     <player id="103679" /> 
+     <player id="214919" /> 
+     <player id="269973" /> 
+     <player id="290180" /> 
+     <player id="318353" /> 
+     <player id="320174" /> 
+     <player id="350985" /> 
+     <player id="404511" /> 
+     <player id="406511" /> 
+     <player id="407484" /> 
+     <player id="420103" /> 
+     <player id="420110" /> 
+     <player id="420112" /> 
+     <player id="425100" /> 
+     <player id="451193" /> 
+     <player id="460372" /> 
+     <player id="490537" /> 
+     <player id="491886" /> 
+     <player id="506047" /> 
+     <player id="534324" /> 
+     <player id="57168" /> 
+     <player id="130008" /> 
+     <player id="187560" /> 
+     <player id="263352" /> 
+     <player id="372983" /> 
+     <player id="398191" /> 
+     <player id="420119" /> 
+     <player id="478307" /> 
+     <player id="513349" /> 
+   </players> 
+   <coaches> 
+     <coach id="6392" /> 
+     <coach id="135617" /> 
+     <coach id="195972" /> 
+   </coaches> 
+</team>

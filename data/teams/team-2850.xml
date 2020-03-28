@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2850</id> 
+   <name>FK Radnički Niš</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2850.png</image> 
+   <country>صربيا</country> 
+   <adrese>9. brigade bb, Sportska hala Čair</adrese> 
+   <website>http://www.fcradnicki-nis.com</website> 
+   <creation-date>1923</creation-date> 
+   <players> 
+     <player id="90648" /> 
+     <player id="132070" /> 
+     <player id="143430" /> 
+     <player id="143825" /> 
+     <player id="144603" /> 
+     <player id="409676" /> 
+     <player id="455313" /> 
+     <player id="593043" /> 
+     <player id="68965" /> 
+     <player id="84280" /> 
+     <player id="145063" /> 
+     <player id="183322" /> 
+     <player id="201514" /> 
+     <player id="201587" /> 
+     <player id="211815" /> 
+     <player id="227020" /> 
+     <player id="233848" /> 
+     <player id="236921" /> 
+     <player id="263004" /> 
+     <player id="317314" /> 
+     <player id="320652" /> 
+     <player id="328515" /> 
+     <player id="330103" /> 
+     <player id="336895" /> 
+     <player id="354983" /> 
+     <player id="381795" /> 
+     <player id="438295" /> 
+     <player id="438297" /> 
+     <player id="513279" /> 
+     <player id="616295" /> 
+     <player id="5060" /> 
+     <player id="36671" /> 
+     <player id="49783" /> 
+     <player id="75148" /> 
+     <player id="76587" /> 
+     <player id="82994" /> 
+     <player id="90645" /> 
+     <player id="120903" /> 
+     <player id="146761" /> 
+     <player id="189119" /> 
+     <player id="192085" /> 
+     <player id="194691" /> 
+     <player id="259038" /> 
+     <player id="286335" /> 
+     <player id="292311" /> 
+     <player id="299979" /> 
+     <player id="333812" /> 
+     <player id="334573" /> 
+     <player id="343865" /> 
+     <player id="417041" /> 
+     <player id="417043" /> 
+     <player id="461778" /> 
+     <player id="521198" /> 
+     <player id="538870" /> 
+     <player id="541224" /> 
+     <player id="632598" /> 
+     <player id="47288" /> 
+     <player id="51796" /> 
+     <player id="126600" /> 
+     <player id="139239" /> 
+     <player id="157659" /> 
+     <player id="245644" /> 
+     <player id="248034" /> 
+     <player id="252538" /> 
+     <player id="288169" /> 
+     <player id="308813" /> 
+     <player id="363061" /> 
+     <player id="404969" /> 
+     <player id="616296" /> 
+     <player id="645151" /> 
+   </players> 
+   <coaches> 
+     <coach id="185058" /> 
+     <coach id="185604" /> 
+     <coach id="201488" /> 
+     <coach id="431040" /> 
+   </coaches> 
+</team>

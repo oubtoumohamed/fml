@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3439</id> 
+   <name>نادي اتلتيك بارادو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3439.png</image> 
+   <country>الجزائر</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>1994</creation-date> 
+   <players> 
+     <player id="89117" /> 
+     <player id="495282" /> 
+     <player id="495301" /> 
+     <player id="296809" /> 
+     <player id="438591" /> 
+     <player id="438592" /> 
+     <player id="495296" /> 
+     <player id="495297" /> 
+     <player id="495300" /> 
+     <player id="495302" /> 
+     <player id="495307" /> 
+     <player id="495308" /> 
+     <player id="560940" /> 
+     <player id="560941" /> 
+     <player id="564048" /> 
+     <player id="622526" /> 
+     <player id="641893" /> 
+     <player id="438593" /> 
+     <player id="438595" /> 
+     <player id="483356" /> 
+     <player id="494988" /> 
+     <player id="495133" /> 
+     <player id="495298" /> 
+     <player id="495299" /> 
+     <player id="495303" /> 
+     <player id="495310" /> 
+     <player id="501847" /> 
+     <player id="531058" /> 
+     <player id="544602" /> 
+     <player id="549507" /> 
+     <player id="560942" /> 
+     <player id="564047" /> 
+     <player id="591554" /> 
+     <player id="622527" /> 
+     <player id="622912" /> 
+     <player id="640927" /> 
+     <player id="643445" /> 
+     <player id="645559" /> 
+     <player id="431192" /> 
+     <player id="438594" /> 
+     <player id="470295" /> 
+     <player id="495284" /> 
+     <player id="534231" /> 
+     <player id="547287" /> 
+     <player id="548820" /> 
+     <player id="622522" /> 
+     <player id="622525" /> 
+     <player id="622917" /> 
+     <player id="636210" /> 
+     <player id="650036" /> 
+   </players> 
+   <coaches> 
+     <coach id="195785" /> 
+     <coach id="299415" /> 
+   </coaches> 
+</team>

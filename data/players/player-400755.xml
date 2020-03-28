@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>164</team_id> 
+   <id>400755</id> 
+   <name>ك. جولياني</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/400755.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>النمسا</nationality> 
+   <birth-day>1999-05-07</birth-day> 
+   <length  unit="cm">187</length> 
+   <weight  unit="kg">81</weight> 
+</player>

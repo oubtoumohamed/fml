@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2001</team_id> 
+   <id>494357</id> 
+   <name>N. Irgolić</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/494357.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>سلوفينيا</nationality> 
+   <birth-day>1998-03-24</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>214</id> 
+   <name>نادي جينت الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/214.png</image> 
+   <country>بلجيكا</country> 
+   <adrese>Ottergemsesteenweg-Zuid 808</adrese> 
+   <website>http://www.kaagent.be</website> 
+   <creation-date>1900</creation-date> 
+   <players> 
+     <player id="63948" /> 
+     <player id="78469" /> 
+     <player id="134021" /> 
+     <player id="135452" /> 
+     <player id="405628" /> 
+     <player id="451008" /> 
+     <player id="468848" /> 
+     <player id="2257" /> 
+     <player id="13381" /> 
+     <player id="28186" /> 
+     <player id="83668" /> 
+     <player id="99145" /> 
+     <player id="115179" /> 
+     <player id="120110" /> 
+     <player id="129319" /> 
+     <player id="240099" /> 
+     <player id="240174" /> 
+     <player id="250667" /> 
+     <player id="252340" /> 
+     <player id="281344" /> 
+     <player id="284283" /> 
+     <player id="320617" /> 
+     <player id="327921" /> 
+     <player id="349781" /> 
+     <player id="354185" /> 
+     <player id="381121" /> 
+     <player id="398771" /> 
+     <player id="399758" /> 
+     <player id="419785" /> 
+     <player id="478158" /> 
+     <player id="543314" /> 
+     <player id="619132" /> 
+     <player id="646446" /> 
+     <player id="13561" /> 
+     <player id="42502" /> 
+     <player id="56324" /> 
+     <player id="79514" /> 
+     <player id="79688" /> 
+     <player id="131098" /> 
+     <player id="143891" /> 
+     <player id="215119" /> 
+     <player id="246647" /> 
+     <player id="267300" /> 
+     <player id="274253" /> 
+     <player id="290154" /> 
+     <player id="306063" /> 
+     <player id="319022" /> 
+     <player id="332791" /> 
+     <player id="338263" /> 
+     <player id="361115" /> 
+     <player id="400952" /> 
+     <player id="427702" /> 
+     <player id="439049" /> 
+     <player id="491798" /> 
+     <player id="498072" /> 
+     <player id="519786" /> 
+     <player id="575073" /> 
+     <player id="86235" /> 
+     <player id="92514" /> 
+     <player id="156467" /> 
+     <player id="218038" /> 
+     <player id="235896" /> 
+     <player id="263052" /> 
+     <player id="280882" /> 
+     <player id="283151" /> 
+     <player id="298167" /> 
+     <player id="308253" /> 
+     <player id="319132" /> 
+     <player id="419797" /> 
+     <player id="435202" /> 
+     <player id="437251" /> 
+     <player id="481528" /> 
+     <player id="507330" /> 
+     <player id="599681" /> 
+   </players> 
+   <coaches> 
+     <coach id="1823" /> 
+     <coach id="13363" /> 
+     <coach id="195545" /> 
+     <coach id="274923" /> 
+   </coaches> 
+</team>

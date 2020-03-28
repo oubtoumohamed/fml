@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>812</id> 
+   <name>روفانييمن بالوسورا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/812.png</image> 
+   <country>فينلندا</country> 
+   <adrese>PL 2254</adrese> 
+   <website>http://www.rops.fi</website> 
+   <creation-date>1950</creation-date> 
+   <players> 
+     <player id="62213" /> 
+     <player id="128079" /> 
+     <player id="154198" /> 
+     <player id="268768" /> 
+     <player id="407093" /> 
+     <player id="535278" /> 
+     <player id="594001" /> 
+     <player id="650088" /> 
+     <player id="1526" /> 
+     <player id="108641" /> 
+     <player id="282382" /> 
+     <player id="314517" /> 
+     <player id="328384" /> 
+     <player id="328407" /> 
+     <player id="356565" /> 
+     <player id="362855" /> 
+     <player id="400866" /> 
+     <player id="403682" /> 
+     <player id="403683" /> 
+     <player id="434224" /> 
+     <player id="434226" /> 
+     <player id="440874" /> 
+     <player id="463313" /> 
+     <player id="480016" /> 
+     <player id="578650" /> 
+     <player id="8486" /> 
+     <player id="8534" /> 
+     <player id="21127" /> 
+     <player id="61731" /> 
+     <player id="204360" /> 
+     <player id="243231" /> 
+     <player id="266336" /> 
+     <player id="271043" /> 
+     <player id="291342" /> 
+     <player id="327962" /> 
+     <player id="339885" /> 
+     <player id="383299" /> 
+     <player id="400165" /> 
+     <player id="413506" /> 
+     <player id="423862" /> 
+     <player id="472778" /> 
+     <player id="519612" /> 
+     <player id="594000" /> 
+     <player id="605132" /> 
+     <player id="8399" /> 
+     <player id="12483" /> 
+     <player id="160214" /> 
+     <player id="188450" /> 
+     <player id="214138" /> 
+     <player id="300857" /> 
+     <player id="403195" /> 
+     <player id="407750" /> 
+     <player id="421106" /> 
+     <player id="472777" /> 
+     <player id="516779" /> 
+     <player id="538530" /> 
+     <player id="541409" /> 
+     <player id="596867" /> 
+   </players> 
+   <coaches> 
+     <coach id="28942" /> 
+     <coach id="291273" /> 
+     <coach id="605970" /> 
+   </coaches> 
+</team>

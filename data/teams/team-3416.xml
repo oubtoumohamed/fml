@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3416</id> 
+   <name>وفاق سطيف</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3416.png</image> 
+   <country>الجزائر</country> 
+   <adrese>15, avenue du 8 mai 45</adrese> 
+   <website>http://www.entente-setif.com</website> 
+   <creation-date>1958</creation-date> 
+   <players> 
+     <player id="49108" /> 
+     <player id="87560" /> 
+     <player id="217094" /> 
+     <player id="312081" /> 
+     <player id="495574" /> 
+     <player id="548448" /> 
+     <player id="551651" /> 
+     <player id="622214" /> 
+     <player id="99366" /> 
+     <player id="103072" /> 
+     <player id="115056" /> 
+     <player id="235504" /> 
+     <player id="242165" /> 
+     <player id="256483" /> 
+     <player id="266143" /> 
+     <player id="312089" /> 
+     <player id="316016" /> 
+     <player id="360357" /> 
+     <player id="416756" /> 
+     <player id="431452" /> 
+     <player id="455407" /> 
+     <player id="487144" /> 
+     <player id="487149" /> 
+     <player id="495575" /> 
+     <player id="506752" /> 
+     <player id="547282" /> 
+     <player id="550653" /> 
+     <player id="550654" /> 
+     <player id="555085" /> 
+     <player id="555514" /> 
+     <player id="572451" /> 
+     <player id="572452" /> 
+     <player id="637448" /> 
+     <player id="31442" /> 
+     <player id="49033" /> 
+     <player id="73102" /> 
+     <player id="89021" /> 
+     <player id="193825" /> 
+     <player id="273624" /> 
+     <player id="326170" /> 
+     <player id="331273" /> 
+     <player id="332270" /> 
+     <player id="380519" /> 
+     <player id="405529" /> 
+     <player id="455509" /> 
+     <player id="487145" /> 
+     <player id="487147" /> 
+     <player id="487148" /> 
+     <player id="550655" /> 
+     <player id="551652" /> 
+     <player id="551653" /> 
+     <player id="555086" /> 
+     <player id="591551" /> 
+     <player id="643438" /> 
+     <player id="131132" /> 
+     <player id="209337" /> 
+     <player id="222965" /> 
+     <player id="245204" /> 
+     <player id="266273" /> 
+     <player id="266653" /> 
+     <player id="359729" /> 
+     <player id="427870" /> 
+     <player id="430815" /> 
+     <player id="441187" /> 
+     <player id="455434" /> 
+     <player id="456180" /> 
+     <player id="495537" /> 
+     <player id="547931" /> 
+     <player id="550656" /> 
+     <player id="583873" /> 
+     <player id="635751" /> 
+   </players> 
+   <coaches> 
+     <coach id="151905" /> 
+     <coach id="165477" /> 
+     <coach id="209737" /> 
+     <coach id="230463" /> 
+     <coach id="231389" /> 
+     <coach id="470756" /> 
+     <coach id="490504" /> 
+     <coach id="641888" /> 
+   </coaches> 
+</team>

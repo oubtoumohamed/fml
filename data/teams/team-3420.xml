@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3420</id> 
+   <name>نادي مولودية وهران</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3420.png</image> 
+   <country>الجزائر</country> 
+   <adrese>5/7, Boulevard Abane Ramdane</adrese> 
+   <website>http://www.mouloudia.com</website> 
+   <creation-date>1946</creation-date> 
+   <players> 
+     <player id="49016" /> 
+     <player id="89211" /> 
+     <player id="131123" /> 
+     <player id="241845" /> 
+     <player id="424360" /> 
+     <player id="495820" /> 
+     <player id="49141" /> 
+     <player id="49164" /> 
+     <player id="89360" /> 
+     <player id="89412" /> 
+     <player id="188753" /> 
+     <player id="267550" /> 
+     <player id="329560" /> 
+     <player id="357795" /> 
+     <player id="358621" /> 
+     <player id="414256" /> 
+     <player id="428122" /> 
+     <player id="455389" /> 
+     <player id="471075" /> 
+     <player id="494980" /> 
+     <player id="495821" /> 
+     <player id="495822" /> 
+     <player id="514164" /> 
+     <player id="31442" /> 
+     <player id="48944" /> 
+     <player id="49009" /> 
+     <player id="49025" /> 
+     <player id="89415" /> 
+     <player id="103095" /> 
+     <player id="156376" /> 
+     <player id="156422" /> 
+     <player id="209336" /> 
+     <player id="245203" /> 
+     <player id="256487" /> 
+     <player id="357781" /> 
+     <player id="428721" /> 
+     <player id="437808" /> 
+     <player id="441333" /> 
+     <player id="482537" /> 
+     <player id="487151" /> 
+     <player id="490500" /> 
+     <player id="495823" /> 
+     <player id="551638" /> 
+     <player id="649100" /> 
+     <player id="48984" /> 
+     <player id="131132" /> 
+     <player id="208102" /> 
+     <player id="209337" /> 
+     <player id="281383" /> 
+     <player id="286366" /> 
+     <player id="371931" /> 
+     <player id="455145" /> 
+     <player id="483624" /> 
+     <player id="483843" /> 
+     <player id="487152" /> 
+     <player id="495818" /> 
+     <player id="495826" /> 
+     <player id="496076" /> 
+     <player id="596169" /> 
+     <player id="622256" /> 
+     <player id="649122" /> 
+   </players> 
+   <coaches> 
+     <coach id="138879" /> 
+     <coach id="281757" /> 
+     <coach id="296543" /> 
+     <coach id="445569" /> 
+     <coach id="455516" /> 
+     <coach id="470231" /> 
+     <coach id="522430" /> 
+     <coach id="570429" /> 
+   </coaches> 
+</team>

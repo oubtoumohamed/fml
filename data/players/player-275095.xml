@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2032</team_id> 
+   <id>275095</id> 
+   <name>باكو لوبيز</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/275095.png</image> 
+   <position>إسبانيا</position> 
+   <nationality>1967-09-19</nationality> 
+   <birth-day>Silla</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

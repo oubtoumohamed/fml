@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>9133</id> 
+   <name>نادي ميلسامي أورسيدوس أوري لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/9133.png</image> 
+   <country>مولدوفا</country> 
+   <adrese>Str. Grozescu, nr. 91A</adrese> 
+   <website>http://www.milsami.md</website> 
+   <creation-date>2005</creation-date> 
+   <players> 
+     <player id="38922" /> 
+     <player id="296165" /> 
+     <player id="297926" /> 
+     <player id="427807" /> 
+     <player id="427808" /> 
+     <player id="39482" /> 
+     <player id="122072" /> 
+     <player id="122667" /> 
+     <player id="217617" /> 
+     <player id="269981" /> 
+     <player id="272393" /> 
+     <player id="281043" /> 
+     <player id="312323" /> 
+     <player id="423820" /> 
+     <player id="605705" /> 
+     <player id="616213" /> 
+     <player id="616214" /> 
+     <player id="38912" /> 
+     <player id="38924" /> 
+     <player id="39495" /> 
+     <player id="76700" /> 
+     <player id="83017" /> 
+     <player id="83390" /> 
+     <player id="138902" /> 
+     <player id="262293" /> 
+     <player id="298614" /> 
+     <player id="335701" /> 
+     <player id="423825" /> 
+     <player id="446192" /> 
+     <player id="563800" /> 
+     <player id="586273" /> 
+     <player id="635746" /> 
+     <player id="12040" /> 
+     <player id="38911" /> 
+     <player id="38913" /> 
+     <player id="59591" /> 
+     <player id="163584" /> 
+     <player id="315823" /> 
+     <player id="384531" /> 
+     <player id="397079" /> 
+     <player id="445642" /> 
+     <player id="452712" /> 
+     <player id="463296" /> 
+   </players> 
+   <coaches> 
+     <coach id="198456" /> 
+     <coach id="335178" /> 
+     <coach id="393128" /> 
+   </coaches> 
+</team>

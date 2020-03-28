@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1995</team_id> 
+   <id>540605</id> 
+   <name>M. Malý</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/540605.png</image> 
+   <position>مدافع</position> 
+   <nationality>سلوفاكيا</nationality> 
+   <birth-day>2001-07-11</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

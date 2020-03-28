@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1357</team_id> 
+   <id>464998</id> 
+   <name>B. Shaizada</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/464998.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>كازاخستان</nationality> 
+   <birth-day>1998-02-28</birth-day> 
+   <length  unit="cm">187</length> 
+   <weight  unit="kg">82</weight> 
+</player>

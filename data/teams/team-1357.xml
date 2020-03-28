@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1357</id> 
+   <name>أورداباسه شمكينت</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1357.png</image> 
+   <country>كازاخستان</country> 
+   <adrese>ul. Madely Kozha 1</adrese> 
+   <website>http://www.fcordabasy.kz/</website> 
+   <creation-date>1998</creation-date> 
+   <players> 
+     <player id="39367" /> 
+     <player id="41368" /> 
+     <player id="116736" /> 
+     <player id="137124" /> 
+     <player id="464998" /> 
+     <player id="33502" /> 
+     <player id="36610" /> 
+     <player id="39168" /> 
+     <player id="39204" /> 
+     <player id="110245" /> 
+     <player id="123216" /> 
+     <player id="123359" /> 
+     <player id="130613" /> 
+     <player id="152931" /> 
+     <player id="269787" /> 
+     <player id="292885" /> 
+     <player id="350835" /> 
+     <player id="403919" /> 
+     <player id="421608" /> 
+     <player id="481293" /> 
+     <player id="27771" /> 
+     <player id="39314" /> 
+     <player id="41376" /> 
+     <player id="67959" /> 
+     <player id="78245" /> 
+     <player id="87616" /> 
+     <player id="131591" /> 
+     <player id="137931" /> 
+     <player id="191216" /> 
+     <player id="242241" /> 
+     <player id="273273" /> 
+     <player id="278416" /> 
+     <player id="322446" /> 
+     <player id="421618" /> 
+     <player id="479196" /> 
+     <player id="575627" /> 
+     <player id="599349" /> 
+     <player id="604565" /> 
+     <player id="32375" /> 
+     <player id="81772" /> 
+     <player id="97489" /> 
+     <player id="120624" /> 
+     <player id="129160" /> 
+     <player id="130246" /> 
+     <player id="134967" /> 
+     <player id="180541" /> 
+     <player id="189549" /> 
+     <player id="248406" /> 
+     <player id="492048" /> 
+     <player id="599158" /> 
+     <player id="604564" /> 
+   </players> 
+   <coaches> 
+     <coach id="135597" /> 
+     <coach id="225487" /> 
+     <coach id="354015" /> 
+   </coaches> 
+</team>

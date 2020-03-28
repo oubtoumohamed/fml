@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2174</team_id> 
+   <id>261489</id> 
+   <name>ي. ديركس</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/261489.png</image> 
+   <position>هولندا</position> 
+   <nationality>1975-08-15</nationality> 
+   <birth-day>Reusel</birth-day> 
+   <length  unit="cm">182</length> 
+   <weight  unit="kg">80</weight> 
+</player>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2762</team_id> 
+   <id>601277</id> 
+   <name>R. Chelari</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/601277.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>مولدوفا</nationality> 
+   <birth-day>1999-02-27</birth-day> 
+   <length  unit="cm">مولدوفا</length> 
+   <weight  unit="kg"></weight> 
+</player>

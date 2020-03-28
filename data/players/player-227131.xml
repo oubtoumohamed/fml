@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1943</team_id> 
+   <id>227131</id> 
+   <name>B. Akrapović</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/227131.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>البوسنة والهرسك</nationality> 
+   <birth-day>1967-09-26</birth-day> 
+   <length  unit="cm">البوسنة</length> 
+   <weight  unit="kg"></weight> 
+</player>

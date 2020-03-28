@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>308</id> 
+   <name>نادي إنترناسيونال الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/308.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Avenida Padre Cacique 891, Bairro Menino Deus</adrese> 
+   <website>http://www.internacional.com.br</website> 
+   <creation-date>1909</creation-date> 
+   <players> 
+     <player id="9062" /> 
+     <player id="103538" /> 
+     <player id="446980" /> 
+     <player id="458346" /> 
+     <player id="592643" /> 
+     <player id="9156" /> 
+     <player id="9241" /> 
+     <player id="32574" /> 
+     <player id="64372" /> 
+     <player id="86277" /> 
+     <player id="113709" /> 
+     <player id="180820" /> 
+     <player id="184542" /> 
+     <player id="192705" /> 
+     <player id="282342" /> 
+     <player id="288076" /> 
+     <player id="301816" /> 
+     <player id="319262" /> 
+     <player id="328427" /> 
+     <player id="329652" /> 
+     <player id="332808" /> 
+     <player id="380051" /> 
+     <player id="448000" /> 
+     <player id="467253" /> 
+     <player id="472675" /> 
+     <player id="472677" /> 
+     <player id="485426" /> 
+     <player id="590953" /> 
+     <player id="594326" /> 
+     <player id="617111" /> 
+     <player id="649920" /> 
+     <player id="3827" /> 
+     <player id="50225" /> 
+     <player id="56294" /> 
+     <player id="72088" /> 
+     <player id="94923" /> 
+     <player id="104850" /> 
+     <player id="112806" /> 
+     <player id="112809" /> 
+     <player id="176410" /> 
+     <player id="178238" /> 
+     <player id="180828" /> 
+     <player id="180885" /> 
+     <player id="196418" /> 
+     <player id="197822" /> 
+     <player id="234967" /> 
+     <player id="282120" /> 
+     <player id="282430" /> 
+     <player id="317939" /> 
+     <player id="318534" /> 
+     <player id="390405" /> 
+     <player id="395935" /> 
+     <player id="398756" /> 
+     <player id="418229" /> 
+     <player id="421817" /> 
+     <player id="440539" /> 
+     <player id="452042" /> 
+     <player id="473218" /> 
+     <player id="475981" /> 
+     <player id="475983" /> 
+     <player id="575144" /> 
+     <player id="617106" /> 
+     <player id="617107" /> 
+     <player id="619966" /> 
+     <player id="2009" /> 
+     <player id="3596" /> 
+     <player id="33077" /> 
+     <player id="102692" /> 
+     <player id="113526" /> 
+     <player id="159586" /> 
+     <player id="171374" /> 
+     <player id="187303" /> 
+     <player id="207386" /> 
+     <player id="226564" /> 
+     <player id="236747" /> 
+     <player id="242519" /> 
+     <player id="285008" /> 
+     <player id="287918" /> 
+     <player id="289800" /> 
+     <player id="299992" /> 
+     <player id="306712" /> 
+     <player id="322455" /> 
+     <player id="402964" /> 
+     <player id="451582" /> 
+     <player id="472396" /> 
+     <player id="475985" /> 
+     <player id="485349" /> 
+     <player id="519669" /> 
+     <player id="535042" /> 
+     <player id="535776" /> 
+     <player id="538903" /> 
+     <player id="577124" /> 
+     <player id="590956" /> 
+     <player id="593146" /> 
+     <player id="619967" /> 
+   </players> 
+   <coaches> 
+     <coach id="14585" /> 
+     <coach id="413130" /> 
+     <coach id="446484" /> 
+     <coach id="639011" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>518</team_id> 
+   <id>442123</id> 
+   <name>D. Bučma</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/442123.png</image> 
+   <position>غير معروف</position> 
+   <nationality>لتوانيا</nationality> 
+   <birth-day>لتوانيا</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

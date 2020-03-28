@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2842</team_id> 
+   <id>593051</id> 
+   <name>N. Mićović</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/593051.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>صربيا</nationality> 
+   <birth-day>2001-10-25</birth-day> 
+   <length  unit="cm">190</length> 
+   <weight  unit="kg"></weight> 
+</player>

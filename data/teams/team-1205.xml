@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1205</id> 
+   <name>Hapoel Be'er Sheva FC</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1205.png</image> 
+   <country>اسرائيل</country> 
+   <adrese>Yehuda Halevi Str.</adrese> 
+   <website>http://www.hapoelb7.co.il</website> 
+   <creation-date>1949</creation-date> 
+   <players> 
+     <player id="27504" /> 
+     <player id="63445" /> 
+     <player id="95367" /> 
+     <player id="130393" /> 
+     <player id="195814" /> 
+     <player id="222486" /> 
+     <player id="273298" /> 
+     <player id="366923" /> 
+     <player id="572065" /> 
+     <player id="18041" /> 
+     <player id="37801" /> 
+     <player id="49574" /> 
+     <player id="56129" /> 
+     <player id="83963" /> 
+     <player id="134479" /> 
+     <player id="134483" /> 
+     <player id="147366" /> 
+     <player id="147485" /> 
+     <player id="149773" /> 
+     <player id="213282" /> 
+     <player id="217514" /> 
+     <player id="340665" /> 
+     <player id="366929" /> 
+     <player id="462155" /> 
+     <player id="494921" /> 
+     <player id="45596" /> 
+     <player id="56087" /> 
+     <player id="64537" /> 
+     <player id="89261" /> 
+     <player id="91882" /> 
+     <player id="91957" /> 
+     <player id="92067" /> 
+     <player id="110980" /> 
+     <player id="129329" /> 
+     <player id="136019" /> 
+     <player id="151767" /> 
+     <player id="195821" /> 
+     <player id="205925" /> 
+     <player id="210724" /> 
+     <player id="213280" /> 
+     <player id="213289" /> 
+     <player id="285156" /> 
+     <player id="321341" /> 
+     <player id="404494" /> 
+     <player id="462154" /> 
+     <player id="484835" /> 
+     <player id="517009" /> 
+     <player id="517010" /> 
+     <player id="525053" /> 
+     <player id="550796" /> 
+     <player id="571370" /> 
+     <player id="592053" /> 
+     <player id="619211" /> 
+     <player id="647463" /> 
+     <player id="2947" /> 
+     <player id="4719" /> 
+     <player id="13743" /> 
+     <player id="64533" /> 
+     <player id="66092" /> 
+     <player id="84527" /> 
+     <player id="112401" /> 
+     <player id="153909" /> 
+     <player id="156609" /> 
+     <player id="210930" /> 
+     <player id="231828" /> 
+     <player id="301056" /> 
+     <player id="327716" /> 
+     <player id="426515" /> 
+     <player id="437694" /> 
+     <player id="637986" /> 
+   </players> 
+   <coaches> 
+     <coach id="195755" /> 
+     <coach id="271125" /> 
+   </coaches> 
+</team>

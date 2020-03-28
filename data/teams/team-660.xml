@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>660</id> 
+   <name>نادي أرسنال لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/660.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Highbury House, 75 Drayton Park</adrese> 
+   <website>http://www.arsenal.com</website> 
+   <creation-date>1886</creation-date> 
+   <players> 
+     <player id="237" /> 
+     <player id="22426" /> 
+     <player id="102533" /> 
+     <player id="102587" /> 
+     <player id="214821" /> 
+     <player id="233546" /> 
+     <player id="16" /> 
+     <player id="2057" /> 
+     <player id="3469" /> 
+     <player id="16580" /> 
+     <player id="19278" /> 
+     <player id="37785" /> 
+     <player id="96308" /> 
+     <player id="134612" /> 
+     <player id="142739" /> 
+     <player id="166646" /> 
+     <player id="212062" /> 
+     <player id="235617" /> 
+     <player id="235942" /> 
+     <player id="320214" /> 
+     <player id="323402" /> 
+     <player id="376577" /> 
+     <player id="401408" /> 
+     <player id="419621" /> 
+     <player id="420556" /> 
+     <player id="431967" /> 
+     <player id="453118" /> 
+     <player id="1986" /> 
+     <player id="18102" /> 
+     <player id="39797" /> 
+     <player id="61075" /> 
+     <player id="66532" /> 
+     <player id="102647" /> 
+     <player id="149750" /> 
+     <player id="153493" /> 
+     <player id="264176" /> 
+     <player id="286104" /> 
+     <player id="314521" /> 
+     <player id="326466" /> 
+     <player id="335457" /> 
+     <player id="348191" /> 
+     <player id="372903" /> 
+     <player id="376593" /> 
+     <player id="376613" /> 
+     <player id="395213" /> 
+     <player id="426963" /> 
+     <player id="442227" /> 
+     <player id="453085" /> 
+     <player id="453125" /> 
+     <player id="453132" /> 
+     <player id="496730" /> 
+     <player id="37644" /> 
+     <player id="53886" /> 
+     <player id="87653" /> 
+     <player id="102896" /> 
+     <player id="115127" /> 
+     <player id="215570" /> 
+     <player id="280626" /> 
+     <player id="376597" /> 
+     <player id="376605" /> 
+     <player id="420816" /> 
+     <player id="453134" /> 
+     <player id="533164" /> 
+   </players> 
+   <coaches> 
+     <coach id="162" /> 
+     <coach id="2876" /> 
+     <coach id="110681" /> 
+     <coach id="110779" /> 
+     <coach id="235800" /> 
+   </coaches> 
+</team>

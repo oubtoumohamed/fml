@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>964</team_id> 
+   <id>564301</id> 
+   <name>علاء بكر</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/564301.png</image> 
+   <position>مهاجم</position> 
+   <nationality>ألمانيا</nationality> 
+   <birth-day>2001-01-15</birth-day> 
+   <length  unit="cm">اليمني</length> 
+   <weight  unit="kg"></weight> 
+</player>

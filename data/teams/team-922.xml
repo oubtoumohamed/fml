@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>922</id> 
+   <name>ستاد دو بريست 29</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/922.png</image> 
+   <country>فرنسا</country> 
+   <adrese>Rue du Bot</adrese> 
+   <website>http://www.sb29.com</website> 
+   <creation-date>1950</creation-date> 
+   <players> 
+     <player id="158640" /> 
+     <player id="217613" /> 
+     <player id="343417" /> 
+     <player id="376889" /> 
+     <player id="468159" /> 
+     <player id="1248" /> 
+     <player id="37973" /> 
+     <player id="45215" /> 
+     <player id="132634" /> 
+     <player id="139737" /> 
+     <player id="189400" /> 
+     <player id="215634" /> 
+     <player id="246083" /> 
+     <player id="262006" /> 
+     <player id="262018" /> 
+     <player id="284016" /> 
+     <player id="320107" /> 
+     <player id="334253" /> 
+     <player id="370211" /> 
+     <player id="37620" /> 
+     <player id="44716" /> 
+     <player id="47071" /> 
+     <player id="49964" /> 
+     <player id="88220" /> 
+     <player id="111829" /> 
+     <player id="140520" /> 
+     <player id="159231" /> 
+     <player id="163755" /> 
+     <player id="178354" /> 
+     <player id="215646" /> 
+     <player id="249284" /> 
+     <player id="258603" /> 
+     <player id="322428" /> 
+     <player id="327832" /> 
+     <player id="395124" /> 
+     <player id="431477" /> 
+     <player id="432883" /> 
+     <player id="459824" /> 
+     <player id="472482" /> 
+     <player id="39296" /> 
+     <player id="75251" /> 
+     <player id="185987" /> 
+     <player id="309091" /> 
+     <player id="327428" /> 
+     <player id="372195" /> 
+     <player id="435612" /> 
+     <player id="447128" /> 
+     <player id="481963" /> 
+   </players> 
+   <coaches> 
+     <coach id="138880" /> 
+     <coach id="254286" /> 
+   </coaches> 
+</team>

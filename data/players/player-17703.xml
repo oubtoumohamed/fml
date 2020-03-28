@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>885</team_id> 
+   <id>17703</id> 
+   <name>مانويل كوبولا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/17703.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>إيطاليا</nationality> 
+   <birth-day>1982-05-11</birth-day> 
+   <length  unit="cm">إيطاليا</length> 
+   <weight  unit="kg">172</weight> 
+</player>

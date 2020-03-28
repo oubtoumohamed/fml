@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>17074</id> 
+   <name>نادي سليمان الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/17074.png</image> 
+   <country>تونس</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="241844" /> 
+     <player id="622202" /> 
+     <player id="426011" /> 
+     <player id="463233" /> 
+     <player id="503613" /> 
+     <player id="548748" /> 
+     <player id="622203" /> 
+     <player id="622204" /> 
+     <player id="622205" /> 
+     <player id="622206" /> 
+     <player id="622211" /> 
+     <player id="622216" /> 
+     <player id="53389" /> 
+     <player id="70505" /> 
+     <player id="319088" /> 
+     <player id="399990" /> 
+     <player id="419970" /> 
+     <player id="449059" /> 
+     <player id="469707" /> 
+     <player id="500463" /> 
+     <player id="508480" /> 
+     <player id="519365" /> 
+     <player id="622226" /> 
+     <player id="622229" /> 
+     <player id="622230" /> 
+     <player id="622236" /> 
+     <player id="622255" /> 
+     <player id="262532" /> 
+     <player id="517098" /> 
+     <player id="590886" /> 
+     <player id="594652" /> 
+     <player id="594670" /> 
+     <player id="622259" /> 
+     <player id="622265" /> 
+   </players> 
+   <coaches> 
+     <coach id="622455" /> 
+   </coaches> 
+</team>

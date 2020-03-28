@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>315</id> 
+   <name>أتلتيكو باراناينسي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/315.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Rua Petit Carneiro 57, Bairro Água Verde</adrese> 
+   <website>http://www.atleticoparanaense.com</website> 
+   <creation-date>1924</creation-date> 
+   <players> 
+     <player id="64987" /> 
+     <player id="71014" /> 
+     <player id="115496" /> 
+     <player id="328556" /> 
+     <player id="398285" /> 
+     <player id="398739" /> 
+     <player id="481952" /> 
+     <player id="540817" /> 
+     <player id="556440" /> 
+     <player id="599782" /> 
+     <player id="4481" /> 
+     <player id="4520" /> 
+     <player id="8964" /> 
+     <player id="8974" /> 
+     <player id="32616" /> 
+     <player id="65339" /> 
+     <player id="173980" /> 
+     <player id="227603" /> 
+     <player id="242516" /> 
+     <player id="288069" /> 
+     <player id="288077" /> 
+     <player id="328071" /> 
+     <player id="329711" /> 
+     <player id="331836" /> 
+     <player id="395233" /> 
+     <player id="401521" /> 
+     <player id="403840" /> 
+     <player id="404133" /> 
+     <player id="404438" /> 
+     <player id="409837" /> 
+     <player id="421656" /> 
+     <player id="441513" /> 
+     <player id="442647" /> 
+     <player id="443208" /> 
+     <player id="447769" /> 
+     <player id="449265" /> 
+     <player id="460277" /> 
+     <player id="471667" /> 
+     <player id="475262" /> 
+     <player id="481953" /> 
+     <player id="513255" /> 
+     <player id="546714" /> 
+     <player id="579360" /> 
+     <player id="592899" /> 
+     <player id="599783" /> 
+     <player id="639997" /> 
+     <player id="648865" /> 
+     <player id="648866" /> 
+     <player id="112" /> 
+     <player id="8991" /> 
+     <player id="37941" /> 
+     <player id="53471" /> 
+     <player id="73192" /> 
+     <player id="75811" /> 
+     <player id="84752" /> 
+     <player id="115497" /> 
+     <player id="158904" /> 
+     <player id="183204" /> 
+     <player id="190787" /> 
+     <player id="244205" /> 
+     <player id="327804" /> 
+     <player id="351995" /> 
+     <player id="402388" /> 
+     <player id="404439" /> 
+     <player id="404440" /> 
+     <player id="434096" /> 
+     <player id="435665" /> 
+     <player id="443649" /> 
+     <player id="472048" /> 
+     <player id="473111" /> 
+     <player id="478734" /> 
+     <player id="479042" /> 
+     <player id="480918" /> 
+     <player id="481281" /> 
+     <player id="530991" /> 
+     <player id="532391" /> 
+     <player id="532889" /> 
+     <player id="533326" /> 
+     <player id="533881" /> 
+     <player id="538567" /> 
+     <player id="546717" /> 
+     <player id="560195" /> 
+     <player id="562176" /> 
+     <player id="590812" /> 
+     <player id="591547" /> 
+     <player id="591548" /> 
+     <player id="592453" /> 
+     <player id="592957" /> 
+     <player id="592958" /> 
+     <player id="595031" /> 
+     <player id="611370" /> 
+     <player id="649693" /> 
+     <player id="649694" /> 
+     <player id="15372" /> 
+     <player id="50103" /> 
+     <player id="81529" /> 
+     <player id="110278" /> 
+     <player id="130585" /> 
+     <player id="172407" /> 
+     <player id="228750" /> 
+     <player id="231842" /> 
+     <player id="232650" /> 
+     <player id="236688" /> 
+     <player id="276338" /> 
+     <player id="328436" /> 
+     <player id="351203" /> 
+     <player id="395694" /> 
+     <player id="395695" /> 
+     <player id="396117" /> 
+     <player id="396973" /> 
+     <player id="423056" /> 
+     <player id="425087" /> 
+     <player id="433634" /> 
+     <player id="433835" /> 
+     <player id="434545" /> 
+     <player id="441514" /> 
+     <player id="441525" /> 
+     <player id="448412" /> 
+     <player id="449913" /> 
+     <player id="450011" /> 
+     <player id="469746" /> 
+     <player id="471384" /> 
+     <player id="492183" /> 
+     <player id="527391" /> 
+     <player id="533880" /> 
+     <player id="537376" /> 
+     <player id="553662" /> 
+     <player id="554182" /> 
+     <player id="591549" /> 
+     <player id="592365" /> 
+     <player id="618662" /> 
+     <player id="648867" /> 
+   </players> 
+   <coaches> 
+     <coach id="127737" /> 
+     <coach id="167923" /> 
+     <coach id="288419" /> 
+     <coach id="447416" /> 
+     <coach id="471736" /> 
+   </coaches> 
+</team>

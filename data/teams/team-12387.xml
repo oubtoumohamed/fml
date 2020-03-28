@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>12387</id> 
+   <name>لودوغريتس 1947 رازغراد</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/12387.png</image> 
+   <country>بلغاريا</country> 
+   <adrese>bul. Aprilsko vastanie 68A</adrese> 
+   <website>http://www.ludogorets.com</website> 
+   <creation-date>1945</creation-date> 
+   <players> 
+     <player id="15180" /> 
+     <player id="32310" /> 
+     <player id="39177" /> 
+     <player id="138958" /> 
+     <player id="404396" /> 
+     <player id="459957" /> 
+     <player id="460794" /> 
+     <player id="11962" /> 
+     <player id="51809" /> 
+     <player id="68828" /> 
+     <player id="72265" /> 
+     <player id="83668" /> 
+     <player id="88042" /> 
+     <player id="91817" /> 
+     <player id="92357" /> 
+     <player id="113650" /> 
+     <player id="162508" /> 
+     <player id="202008" /> 
+     <player id="319415" /> 
+     <player id="377345" /> 
+     <player id="423764" /> 
+     <player id="429271" /> 
+     <player id="459962" /> 
+     <player id="459966" /> 
+     <player id="51856" /> 
+     <player id="84337" /> 
+     <player id="87616" /> 
+     <player id="122206" /> 
+     <player id="131704" /> 
+     <player id="174033" /> 
+     <player id="178238" /> 
+     <player id="206571" /> 
+     <player id="211022" /> 
+     <player id="211027" /> 
+     <player id="232067" /> 
+     <player id="260573" /> 
+     <player id="318269" /> 
+     <player id="319430" /> 
+     <player id="350009" /> 
+     <player id="372229" /> 
+     <player id="372259" /> 
+     <player id="440357" /> 
+     <player id="459968" /> 
+     <player id="460793" /> 
+     <player id="473305" /> 
+     <player id="485479" /> 
+     <player id="509000" /> 
+     <player id="1389" /> 
+     <player id="32375" /> 
+     <player id="51900" /> 
+     <player id="112481" /> 
+     <player id="154748" /> 
+     <player id="158584" /> 
+     <player id="180122" /> 
+     <player id="193338" /> 
+     <player id="197084" /> 
+     <player id="314035" /> 
+     <player id="372235" /> 
+     <player id="423220" /> 
+     <player id="459973" /> 
+     <player id="509013" /> 
+   </players> 
+   <coaches> 
+     <coach id="41446" /> 
+     <coach id="135169" /> 
+     <coach id="143755" /> 
+     <coach id="152680" /> 
+     <coach id="160065" /> 
+     <coach id="179348" /> 
+     <coach id="642055" /> 
+   </coaches> 
+</team>

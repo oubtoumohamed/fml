@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>963</team_id> 
+   <id>553685</id> 
+   <name>مايكل فيمر</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/553685.png</image> 
+   <position>ألمانيا</position> 
+   <nationality>1980-06-18</nationality> 
+   <birth-day>Dingolfing</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

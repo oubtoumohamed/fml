@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>516</id> 
+   <name>نادي أبويل لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/516.png</image> 
+   <country>قبرص</country> 
+   <adrese>Dimofontos 5-7</adrese> 
+   <website>http://www.apoelfc.com.cy</website> 
+   <creation-date>1926</creation-date> 
+   <players> 
+     <player id="2295" /> 
+     <player id="52469" /> 
+     <player id="62191" /> 
+     <player id="85489" /> 
+     <player id="289442" /> 
+     <player id="326519" /> 
+     <player id="372517" /> 
+     <player id="463240" /> 
+     <player id="506362" /> 
+     <player id="4618" /> 
+     <player id="9042" /> 
+     <player id="17928" /> 
+     <player id="18969" /> 
+     <player id="22899" /> 
+     <player id="35211" /> 
+     <player id="47941" /> 
+     <player id="63978" /> 
+     <player id="65885" /> 
+     <player id="70882" /> 
+     <player id="89248" /> 
+     <player id="94317" /> 
+     <player id="112955" /> 
+     <player id="213011" /> 
+     <player id="277977" /> 
+     <player id="372497" /> 
+     <player id="372499" /> 
+     <player id="374853" /> 
+     <player id="381147" /> 
+     <player id="423600" /> 
+     <player id="463241" /> 
+     <player id="463244" /> 
+     <player id="463246" /> 
+     <player id="463247" /> 
+     <player id="463248" /> 
+     <player id="467595" /> 
+     <player id="534332" /> 
+     <player id="2534" /> 
+     <player id="11681" /> 
+     <player id="16395" /> 
+     <player id="34885" /> 
+     <player id="46011" /> 
+     <player id="51562" /> 
+     <player id="56716" /> 
+     <player id="66307" /> 
+     <player id="85792" /> 
+     <player id="90590" /> 
+     <player id="134082" /> 
+     <player id="134157" /> 
+     <player id="154455" /> 
+     <player id="212681" /> 
+     <player id="213273" /> 
+     <player id="233905" /> 
+     <player id="257713" /> 
+     <player id="258642" /> 
+     <player id="263737" /> 
+     <player id="288279" /> 
+     <player id="316330" /> 
+     <player id="372509" /> 
+     <player id="381159" /> 
+     <player id="381165" /> 
+     <player id="423605" /> 
+     <player id="423606" /> 
+     <player id="423607" /> 
+     <player id="433688" /> 
+     <player id="454613" /> 
+     <player id="463254" /> 
+     <player id="506368" /> 
+     <player id="9883" /> 
+     <player id="13532" /> 
+     <player id="17318" /> 
+     <player id="28196" /> 
+     <player id="37626" /> 
+     <player id="38659" /> 
+     <player id="66577" /> 
+     <player id="111585" /> 
+     <player id="162561" /> 
+     <player id="191974" /> 
+     <player id="278793" /> 
+     <player id="316292" /> 
+     <player id="342857" /> 
+     <player id="350937" /> 
+     <player id="420352" /> 
+     <player id="423611" /> 
+     <player id="423614" /> 
+     <player id="441391" /> 
+     <player id="451000" /> 
+     <player id="467599" /> 
+   </players> 
+   <coaches> 
+     <coach id="110726" /> 
+     <coach id="217480" /> 
+     <coach id="223564" /> 
+     <coach id="304358" /> 
+     <coach id="389579" /> 
+     <coach id="473429" /> 
+     <coach id="595055" /> 
+   </coaches> 
+</team>

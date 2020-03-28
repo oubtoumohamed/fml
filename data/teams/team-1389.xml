@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1389</id> 
+   <name>نادي فنتسبيلس لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1389.png</image> 
+   <country>لاتفيا</country> 
+   <adrese>Sporta ielā 7/9</adrese> 
+   <website>http://www.fkventspils.lv</website> 
+   <creation-date>1997</creation-date> 
+   <players> 
+     <player id="29671" /> 
+     <player id="65910" /> 
+     <player id="67093" /> 
+     <player id="335240" /> 
+     <player id="354259" /> 
+     <player id="467971" /> 
+     <player id="611299" /> 
+     <player id="9987" /> 
+     <player id="29466" /> 
+     <player id="29493" /> 
+     <player id="38967" /> 
+     <player id="102969" /> 
+     <player id="137820" /> 
+     <player id="141781" /> 
+     <player id="166349" /> 
+     <player id="172014" /> 
+     <player id="215537" /> 
+     <player id="274656" /> 
+     <player id="306129" /> 
+     <player id="333814" /> 
+     <player id="384509" /> 
+     <player id="399895" /> 
+     <player id="461826" /> 
+     <player id="468564" /> 
+     <player id="29449" /> 
+     <player id="40057" /> 
+     <player id="127811" /> 
+     <player id="149150" /> 
+     <player id="175891" /> 
+     <player id="176595" /> 
+     <player id="185661" /> 
+     <player id="205211" /> 
+     <player id="214613" /> 
+     <player id="215603" /> 
+     <player id="237049" /> 
+     <player id="290037" /> 
+     <player id="319114" /> 
+     <player id="334492" /> 
+     <player id="352107" /> 
+     <player id="370369" /> 
+     <player id="443959" /> 
+     <player id="461838" /> 
+     <player id="468563" /> 
+     <player id="492941" /> 
+     <player id="555240" /> 
+     <player id="555241" /> 
+     <player id="633444" /> 
+     <player id="37099" /> 
+     <player id="141528" /> 
+     <player id="161342" /> 
+     <player id="170744" /> 
+     <player id="195357" /> 
+     <player id="248034" /> 
+     <player id="251834" /> 
+     <player id="303206" /> 
+     <player id="439252" /> 
+     <player id="450464" /> 
+     <player id="477117" /> 
+     <player id="477118" /> 
+   </players> 
+   <coaches> 
+     <coach id="108521" /> 
+     <coach id="456210" /> 
+     <coach id="633450" /> 
+   </coaches> 
+</team>

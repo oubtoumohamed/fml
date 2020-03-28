@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1582</id> 
+   <name>نادي كليتونفيل لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1582.png</image> 
+   <country>إيرلندا الشمالية</country> 
+   <adrese>Cliftonville Street</adrese> 
+   <website>http://www.cliftonvillefc.net</website> 
+   <creation-date>1879</creation-date> 
+   <players> 
+     <player id="7153" /> 
+     <player id="38199" /> 
+     <player id="45715" /> 
+     <player id="129777" /> 
+     <player id="216329" /> 
+     <player id="235301" /> 
+     <player id="284557" /> 
+     <player id="383401" /> 
+     <player id="481262" /> 
+     <player id="590510" /> 
+     <player id="646069" /> 
+     <player id="6978" /> 
+     <player id="25542" /> 
+     <player id="38123" /> 
+     <player id="40301" /> 
+     <player id="40383" /> 
+     <player id="45685" /> 
+     <player id="74574" /> 
+     <player id="100031" /> 
+     <player id="101250" /> 
+     <player id="134321" /> 
+     <player id="199390" /> 
+     <player id="217886" /> 
+     <player id="274906" /> 
+     <player id="285845" /> 
+     <player id="305856" /> 
+     <player id="322551" /> 
+     <player id="322555" /> 
+     <player id="344903" /> 
+     <player id="395368" /> 
+     <player id="426540" /> 
+     <player id="435826" /> 
+     <player id="442981" /> 
+     <player id="457428" /> 
+     <player id="459504" /> 
+     <player id="559768" /> 
+     <player id="575479" /> 
+     <player id="638546" /> 
+     <player id="40305" /> 
+     <player id="40306" /> 
+     <player id="40307" /> 
+     <player id="53105" /> 
+     <player id="66380" /> 
+     <player id="74901" /> 
+     <player id="91087" /> 
+     <player id="129143" /> 
+     <player id="134690" /> 
+     <player id="161904" /> 
+     <player id="162916" /> 
+     <player id="182615" /> 
+     <player id="200517" /> 
+     <player id="210171" /> 
+     <player id="229838" /> 
+     <player id="274652" /> 
+     <player id="284558" /> 
+     <player id="311518" /> 
+     <player id="326316" /> 
+     <player id="378813" /> 
+     <player id="444169" /> 
+     <player id="559389" /> 
+     <player id="559390" /> 
+     <player id="25546" /> 
+     <player id="45479" /> 
+     <player id="74542" /> 
+     <player id="92941" /> 
+     <player id="134692" /> 
+     <player id="144275" /> 
+     <player id="154597" /> 
+     <player id="166435" /> 
+     <player id="187442" /> 
+     <player id="194658" /> 
+     <player id="199518" /> 
+     <player id="212728" /> 
+     <player id="272743" /> 
+     <player id="288124" /> 
+     <player id="313349" /> 
+     <player id="322566" /> 
+     <player id="354229" /> 
+     <player id="425233" /> 
+     <player id="426555" /> 
+     <player id="430926" /> 
+     <player id="441847" /> 
+     <player id="451705" /> 
+     <player id="470119" /> 
+     <player id="587812" /> 
+     <player id="600911" /> 
+     <player id="643073" /> 
+   </players> 
+   <coaches> 
+     <coach id="194712" /> 
+     <coach id="295926" /> 
+     <coach id="421235" /> 
+     <coach id="481654" /> 
+     <coach id="514015" /> 
+     <coach id="593310" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3188</team_id> 
+   <id>491268</id> 
+   <name>S. Zukić</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/491268.png</image> 
+   <position>مهاجم</position> 
+   <nationality>البوسنة والهرسك</nationality> 
+   <birth-day>1994-04-09</birth-day> 
+   <length  unit="cm">البوسنة</length> 
+   <weight  unit="kg">198</weight> 
+</player>

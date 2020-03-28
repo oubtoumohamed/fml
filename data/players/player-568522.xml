@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>9936</team_id> 
+   <id>568522</id> 
+   <name>عمر العودة</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/568522.png</image> 
+   <position>مدافع</position> 
+   <nationality>السعودية</nationality> 
+   <birth-day>1998-12-29</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

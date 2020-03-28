@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3133</team_id> 
+   <id>596533</id> 
+   <name>F. Dymerski</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/596533.png</image> 
+   <position>مدافع</position> 
+   <nationality>بولندا</nationality> 
+   <birth-day>2002-04-05</birth-day> 
+   <length  unit="cm">187</length> 
+   <weight  unit="kg">79</weight> 
+</player>

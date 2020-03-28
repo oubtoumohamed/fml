@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>39043</team_id> 
+   <id>648492</id> 
+   <name>I. El Baz</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/648492.png</image> 
+   <position>مدافع</position> 
+   <nationality>المغرب</nationality> 
+   <birth-day>1991-07-25</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

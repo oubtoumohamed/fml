@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>480</id> 
+   <name>نادي رييكا الكرواتي لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/480.png</image> 
+   <country>كرواتيا</country> 
+   <adrese>Portic 3</adrese> 
+   <website>http://www.nk-rijeka.hr</website> 
+   <creation-date>1946</creation-date> 
+   <players> 
+     <player id="35174" /> 
+     <player id="196264" /> 
+     <player id="318346" /> 
+     <player id="397030" /> 
+     <player id="489646" /> 
+     <player id="557480" /> 
+     <player id="625950" /> 
+     <player id="35786" /> 
+     <player id="76543" /> 
+     <player id="85740" /> 
+     <player id="112433" /> 
+     <player id="131563" /> 
+     <player id="157656" /> 
+     <player id="161797" /> 
+     <player id="194670" /> 
+     <player id="198132" /> 
+     <player id="198702" /> 
+     <player id="227958" /> 
+     <player id="273284" /> 
+     <player id="382601" /> 
+     <player id="420347" /> 
+     <player id="427786" /> 
+     <player id="489649" /> 
+     <player id="517576" /> 
+     <player id="559005" /> 
+     <player id="579282" /> 
+     <player id="594663" /> 
+     <player id="601146" /> 
+     <player id="625953" /> 
+     <player id="84676" /> 
+     <player id="95096" /> 
+     <player id="131098" /> 
+     <player id="138172" /> 
+     <player id="156186" /> 
+     <player id="156566" /> 
+     <player id="198980" /> 
+     <player id="215503" /> 
+     <player id="218104" /> 
+     <player id="235950" /> 
+     <player id="266707" /> 
+     <player id="273295" /> 
+     <player id="340589" /> 
+     <player id="340705" /> 
+     <player id="382705" /> 
+     <player id="387457" /> 
+     <player id="398299" /> 
+     <player id="427660" /> 
+     <player id="436389" /> 
+     <player id="472520" /> 
+     <player id="489650" /> 
+     <player id="489651" /> 
+     <player id="541151" /> 
+     <player id="572787" /> 
+     <player id="579290" /> 
+     <player id="16068" /> 
+     <player id="35793" /> 
+     <player id="85521" /> 
+     <player id="132094" /> 
+     <player id="211030" /> 
+     <player id="220364" /> 
+     <player id="226504" /> 
+     <player id="404334" /> 
+     <player id="482602" /> 
+     <player id="489652" /> 
+     <player id="489655" /> 
+     <player id="560665" /> 
+     <player id="625954" /> 
+   </players> 
+   <coaches> 
+     <coach id="35554" /> 
+     <coach id="36573" /> 
+     <coach id="130159" /> 
+     <coach id="339203" /> 
+     <coach id="559542" /> 
+   </coaches> 
+</team>

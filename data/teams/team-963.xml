@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>963</id> 
+   <name>باير ليفركوزن 4</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/963.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Bismarckstr. 122-124</adrese> 
+   <website>http://www.bayer04.de</website> 
+   <creation-date>1904</creation-date> 
+   <players> 
+     <player id="8570" /> 
+     <player id="11043" /> 
+     <player id="16687" /> 
+     <player id="102533" /> 
+     <player id="177258" /> 
+     <player id="413824" /> 
+     <player id="16890" /> 
+     <player id="35792" /> 
+     <player id="159866" /> 
+     <player id="171186" /> 
+     <player id="245801" /> 
+     <player id="261653" /> 
+     <player id="290354" /> 
+     <player id="300873" /> 
+     <player id="372303" /> 
+     <player id="476883" /> 
+     <player id="16892" /> 
+     <player id="21922" /> 
+     <player id="29434" /> 
+     <player id="79410" /> 
+     <player id="161221" /> 
+     <player id="237351" /> 
+     <player id="252721" /> 
+     <player id="289180" /> 
+     <player id="296416" /> 
+     <player id="398818" /> 
+     <player id="439598" /> 
+     <player id="440864" /> 
+     <player id="441380" /> 
+     <player id="476880" /> 
+     <player id="562560" /> 
+     <player id="1897" /> 
+     <player id="102537" /> 
+     <player id="160201" /> 
+     <player id="187768" /> 
+     <player id="192930" /> 
+     <player id="235441" /> 
+     <player id="415585" /> 
+     <player id="436589" /> 
+     <player id="475123" /> 
+     <player id="497047" /> 
+   </players> 
+   <coaches> 
+     <coach id="66645" /> 
+     <coach id="110757" /> 
+     <coach id="137189" /> 
+     <coach id="202393" /> 
+     <coach id="221756" /> 
+   </coaches> 
+</team>

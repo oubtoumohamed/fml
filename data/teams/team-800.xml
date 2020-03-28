@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>800</id> 
+   <name>نادي رونافيك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/800.png</image> 
+   <country>جزر فارو</country> 
+   <adrese>Heiðavegur 15</adrese> 
+   <website>http://www.nsi.fo</website> 
+   <creation-date>1957</creation-date> 
+   <players> 
+     <player id="28291" /> 
+     <player id="28335" /> 
+     <player id="28419" /> 
+     <player id="438059" /> 
+     <player id="577014" /> 
+     <player id="28283" /> 
+     <player id="28421" /> 
+     <player id="28424" /> 
+     <player id="29813" /> 
+     <player id="77691" /> 
+     <player id="77693" /> 
+     <player id="124719" /> 
+     <player id="293861" /> 
+     <player id="422172" /> 
+     <player id="498334" /> 
+     <player id="511161" /> 
+     <player id="28272" /> 
+     <player id="28359" /> 
+     <player id="28420" /> 
+     <player id="28429" /> 
+     <player id="124723" /> 
+     <player id="133909" /> 
+     <player id="158227" /> 
+     <player id="239847" /> 
+     <player id="272861" /> 
+     <player id="319279" /> 
+     <player id="375179" /> 
+     <player id="422178" /> 
+     <player id="438060" /> 
+     <player id="440508" /> 
+     <player id="574483" /> 
+     <player id="622235" /> 
+     <player id="28262" /> 
+     <player id="55720" /> 
+     <player id="78285" /> 
+     <player id="83214" /> 
+     <player id="247380" /> 
+     <player id="443071" /> 
+   </players> 
+   <coaches> 
+     <coach id="48181" /> 
+     <coach id="288720" /> 
+     <coach id="599886" /> 
+   </coaches> 
+</team>

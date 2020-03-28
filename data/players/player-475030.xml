@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3563</team_id> 
+   <id>475030</id> 
+   <name>Mohammad Khater</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/475030.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>الأردن</nationality> 
+   <birth-day>1989-08-25</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

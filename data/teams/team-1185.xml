@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1185</id> 
+   <name>نادي كورك سيتي لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1185.png</image> 
+   <country>أيرلندا</country> 
+   <adrese>Curragh Road, Turner’s Cross</adrese> 
+   <website>http://www.corkcityfc.net</website> 
+   <creation-date>1984</creation-date> 
+   <players> 
+     <player id="7019" /> 
+     <player id="38199" /> 
+     <player id="212237" /> 
+     <player id="447964" /> 
+     <player id="532047" /> 
+     <player id="536992" /> 
+     <player id="538159" /> 
+     <player id="595660" /> 
+     <player id="5314" /> 
+     <player id="15760" /> 
+     <player id="89060" /> 
+     <player id="134927" /> 
+     <player id="182613" /> 
+     <player id="194145" /> 
+     <player id="213972" /> 
+     <player id="234980" /> 
+     <player id="272873" /> 
+     <player id="320317" /> 
+     <player id="320318" /> 
+     <player id="398083" /> 
+     <player id="401964" /> 
+     <player id="462772" /> 
+     <player id="493159" /> 
+     <player id="624902" /> 
+     <player id="74884" /> 
+     <player id="91920" /> 
+     <player id="132238" /> 
+     <player id="155834" /> 
+     <player id="194449" /> 
+     <player id="241330" /> 
+     <player id="333300" /> 
+     <player id="347279" /> 
+     <player id="460025" /> 
+     <player id="462789" /> 
+     <player id="529555" /> 
+     <player id="540804" /> 
+     <player id="547490" /> 
+     <player id="566181" /> 
+     <player id="575200" /> 
+     <player id="583396" /> 
+     <player id="25502" /> 
+     <player id="121189" /> 
+     <player id="135014" /> 
+     <player id="270545" /> 
+     <player id="285789" /> 
+     <player id="287880" /> 
+     <player id="332470" /> 
+     <player id="390051" /> 
+     <player id="399158" /> 
+     <player id="404055" /> 
+     <player id="459610" /> 
+     <player id="491702" /> 
+     <player id="494981" /> 
+     <player id="528658" /> 
+     <player id="538352" /> 
+     <player id="547492" /> 
+     <player id="604803" /> 
+     <player id="604995" /> 
+     <player id="639005" /> 
+   </players> 
+   <coaches> 
+     <coach id="6989" /> 
+     <coach id="334329" /> 
+     <coach id="609025" /> 
+     <coach id="616783" /> 
+   </coaches> 
+</team>

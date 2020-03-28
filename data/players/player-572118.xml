@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1515</team_id> 
+   <id>572118</id> 
+   <name>N. Ünüvar</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/572118.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>هولندا</nationality> 
+   <birth-day>2003-06-13</birth-day> 
+   <length  unit="cm">هولندا</length> 
+   <weight  unit="kg">كلتاهما</weight> 
+</player>

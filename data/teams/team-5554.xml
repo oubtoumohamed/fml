@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>5554</id> 
+   <name>المغرب أتلتيك تطوان</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/5554.png</image> 
+   <country>المغرب</country> 
+   <adrese>Boulevard Yaacoub Mensour 13</adrese> 
+   <website>http://www.matfoot.com</website> 
+   <creation-date>1933</creation-date> 
+   <players> 
+     <player id="159190" /> 
+     <player id="326723" /> 
+     <player id="392139" /> 
+     <player id="633010" /> 
+     <player id="633035" /> 
+     <player id="645136" /> 
+     <player id="169967" /> 
+     <player id="230482" /> 
+     <player id="231011" /> 
+     <player id="245725" /> 
+     <player id="392129" /> 
+     <player id="392130" /> 
+     <player id="392136" /> 
+     <player id="392143" /> 
+     <player id="633026" /> 
+     <player id="633183" /> 
+     <player id="633184" /> 
+     <player id="633186" /> 
+     <player id="633200" /> 
+     <player id="633465" /> 
+     <player id="642190" /> 
+     <player id="81856" /> 
+     <player id="144705" /> 
+     <player id="196289" /> 
+     <player id="263168" /> 
+     <player id="288048" /> 
+     <player id="326562" /> 
+     <player id="389875" /> 
+     <player id="392131" /> 
+     <player id="392140" /> 
+     <player id="407540" /> 
+     <player id="548474" /> 
+     <player id="630844" /> 
+     <player id="632215" /> 
+     <player id="633029" /> 
+     <player id="633033" /> 
+     <player id="633182" /> 
+     <player id="633215" /> 
+     <player id="648943" /> 
+     <player id="96210" /> 
+     <player id="301895" /> 
+     <player id="315092" /> 
+     <player id="326722" /> 
+     <player id="392132" /> 
+     <player id="392138" /> 
+     <player id="392141" /> 
+     <player id="392144" /> 
+     <player id="521871" /> 
+     <player id="548493" /> 
+     <player id="633214" /> 
+   </players> 
+   <coaches> 
+     <coach id="257580" /> 
+   </coaches> 
+</team>

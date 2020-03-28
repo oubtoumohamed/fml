@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>353</id> 
+   <name>نادي ليفسكي صوفيا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/353.png</image> 
+   <country>بلغاريا</country> 
+   <adrese>ul. Todorini Kukli 47</adrese> 
+   <website>http://www.levski.bg</website> 
+   <creation-date>1914</creation-date> 
+   <players> 
+     <player id="13575" /> 
+     <player id="16069" /> 
+     <player id="51701" /> 
+     <player id="92026" /> 
+     <player id="135417" /> 
+     <player id="235205" /> 
+     <player id="273939" /> 
+     <player id="404397" /> 
+     <player id="463271" /> 
+     <player id="4618" /> 
+     <player id="9846" /> 
+     <player id="46337" /> 
+     <player id="80583" /> 
+     <player id="134611" /> 
+     <player id="182400" /> 
+     <player id="183915" /> 
+     <player id="185245" /> 
+     <player id="215644" /> 
+     <player id="257317" /> 
+     <player id="270099" /> 
+     <player id="319423" /> 
+     <player id="322289" /> 
+     <player id="515348" /> 
+     <player id="2992" /> 
+     <player id="8817" /> 
+     <player id="39872" /> 
+     <player id="84311" /> 
+     <player id="84314" /> 
+     <player id="160127" /> 
+     <player id="163091" /> 
+     <player id="201982" /> 
+     <player id="210779" /> 
+     <player id="214885" /> 
+     <player id="228701" /> 
+     <player id="235774" /> 
+     <player id="254290" /> 
+     <player id="261627" /> 
+     <player id="262476" /> 
+     <player id="263928" /> 
+     <player id="271920" /> 
+     <player id="275122" /> 
+     <player id="404404" /> 
+     <player id="404406" /> 
+     <player id="404408" /> 
+     <player id="449297" /> 
+     <player id="463291" /> 
+     <player id="463758" /> 
+     <player id="515368" /> 
+     <player id="16068" /> 
+     <player id="35588" /> 
+     <player id="134081" /> 
+     <player id="141191" /> 
+     <player id="156117" /> 
+     <player id="247995" /> 
+     <player id="273946" /> 
+     <player id="284555" /> 
+     <player id="328118" /> 
+     <player id="377383" /> 
+     <player id="385287" /> 
+     <player id="414319" /> 
+     <player id="426831" /> 
+     <player id="465901" /> 
+     <player id="555914" /> 
+     <player id="605622" /> 
+     <player id="612463" /> 
+   </players> 
+   <coaches> 
+     <coach id="51745" /> 
+     <coach id="110812" /> 
+     <coach id="140447" /> 
+     <coach id="201985" /> 
+     <coach id="215027" /> 
+     <coach id="302332" /> 
+     <coach id="354015" /> 
+   </coaches> 
+</team>

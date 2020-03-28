@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>199</team_id> 
+   <id>573300</id> 
+   <name>M. Zuntners</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/573300.png</image> 
+   <position>غير معروف</position> 
+   <nationality>لاتفيا</nationality> 
+   <birth-day>1983-02-13</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

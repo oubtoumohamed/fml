@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1943</id> 
+   <name>نادي بارتيزان بيوغراد لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1943.png</image> 
+   <country>صربيا</country> 
+   <adrese>Humska 1</adrese> 
+   <website>http://www.partizan.rs</website> 
+   <creation-date>1945</creation-date> 
+   <players> 
+     <player id="750" /> 
+     <player id="129124" /> 
+     <player id="180629" /> 
+     <player id="235297" /> 
+     <player id="276460" /> 
+     <player id="427723" /> 
+     <player id="495758" /> 
+     <player id="21079" /> 
+     <player id="47163" /> 
+     <player id="47964" /> 
+     <player id="143846" /> 
+     <player id="152873" /> 
+     <player id="201570" /> 
+     <player id="209423" /> 
+     <player id="295267" /> 
+     <player id="307311" /> 
+     <player id="381389" /> 
+     <player id="385241" /> 
+     <player id="427727" /> 
+     <player id="467536" /> 
+     <player id="467537" /> 
+     <player id="495792" /> 
+     <player id="510399" /> 
+     <player id="517436" /> 
+     <player id="761" /> 
+     <player id="18111" /> 
+     <player id="20374" /> 
+     <player id="45544" /> 
+     <player id="56945" /> 
+     <player id="92000" /> 
+     <player id="139528" /> 
+     <player id="161803" /> 
+     <player id="162639" /> 
+     <player id="170283" /> 
+     <player id="189118" /> 
+     <player id="213870" /> 
+     <player id="213878" /> 
+     <player id="214380" /> 
+     <player id="270001" /> 
+     <player id="286104" /> 
+     <player id="319827" /> 
+     <player id="383439" /> 
+     <player id="402460" /> 
+     <player id="410241" /> 
+     <player id="436312" /> 
+     <player id="482635" /> 
+     <player id="517416" /> 
+     <player id="537223" /> 
+     <player id="543313" /> 
+     <player id="638790" /> 
+     <player id="51796" /> 
+     <player id="151100" /> 
+     <player id="189127" /> 
+     <player id="205177" /> 
+     <player id="205705" /> 
+     <player id="279287" /> 
+     <player id="383985" /> 
+     <player id="397399" /> 
+     <player id="403139" /> 
+     <player id="427735" /> 
+     <player id="457857" /> 
+     <player id="500148" /> 
+     <player id="588438" /> 
+   </players> 
+   <coaches> 
+     <coach id="3965" /> 
+     <coach id="45548" /> 
+     <coach id="182699" /> 
+     <coach id="394787" /> 
+   </coaches> 
+</team>

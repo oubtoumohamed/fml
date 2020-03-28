@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3479</id> 
+   <name>النادي الأفريقي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3479.png</image> 
+   <country>تونس</country> 
+   <adrese>57, avenue Bab Jedid, Hached</adrese> 
+   <website>http://www.clubafricain.com</website> 
+   <creation-date>1920</creation-date> 
+   <players> 
+     <player id="21417" /> 
+     <player id="138430" /> 
+     <player id="315590" /> 
+     <player id="463198" /> 
+     <player id="464464" /> 
+     <player id="483070" /> 
+     <player id="615083" /> 
+     <player id="71301" /> 
+     <player id="71451" /> 
+     <player id="138346" /> 
+     <player id="188777" /> 
+     <player id="216930" /> 
+     <player id="220168" /> 
+     <player id="223160" /> 
+     <player id="284929" /> 
+     <player id="299729" /> 
+     <player id="309984" /> 
+     <player id="326073" /> 
+     <player id="379691" /> 
+     <player id="404585" /> 
+     <player id="419242" /> 
+     <player id="436104" /> 
+     <player id="442143" /> 
+     <player id="558663" /> 
+     <player id="587869" /> 
+     <player id="14971" /> 
+     <player id="53222" /> 
+     <player id="53224" /> 
+     <player id="64553" /> 
+     <player id="103528" /> 
+     <player id="215646" /> 
+     <player id="237412" /> 
+     <player id="298422" /> 
+     <player id="314619" /> 
+     <player id="316780" /> 
+     <player id="344083" /> 
+     <player id="361405" /> 
+     <player id="436833" /> 
+     <player id="445450" /> 
+     <player id="449059" /> 
+     <player id="463908" /> 
+     <player id="470697" /> 
+     <player id="534708" /> 
+     <player id="538575" /> 
+     <player id="558659" /> 
+     <player id="571564" /> 
+     <player id="589726" /> 
+     <player id="590878" /> 
+     <player id="642192" /> 
+     <player id="41379" /> 
+     <player id="53317" /> 
+     <player id="326169" /> 
+     <player id="338811" /> 
+     <player id="438070" /> 
+     <player id="447100" /> 
+     <player id="469821" /> 
+     <player id="485834" /> 
+     <player id="507160" /> 
+     <player id="525375" /> 
+     <player id="530743" /> 
+     <player id="532513" /> 
+     <player id="558666" /> 
+     <player id="596515" /> 
+     <player id="607353" /> 
+     <player id="609973" /> 
+     <player id="614146" /> 
+   </players> 
+   <coaches> 
+     <coach id="134817" /> 
+     <coach id="141819" /> 
+     <coach id="145487" /> 
+     <coach id="270192" /> 
+     <coach id="317207" /> 
+     <coach id="526571" /> 
+     <coach id="597904" /> 
+   </coaches> 
+</team>

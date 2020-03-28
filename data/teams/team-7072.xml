@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>7072</id> 
+   <name>نادي غرناطة لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/7072.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Calle Recogidas 35, 1º Dcha</adrese> 
+   <website>http://www.granadacf.es</website> 
+   <creation-date>1931</creation-date> 
+   <players> 
+     <player id="58314" /> 
+     <player id="252494" /> 
+     <player id="324437" /> 
+     <player id="369295" /> 
+     <player id="415612" /> 
+     <player id="58308" /> 
+     <player id="59005" /> 
+     <player id="66602" /> 
+     <player id="88218" /> 
+     <player id="90434" /> 
+     <player id="151964" /> 
+     <player id="152764" /> 
+     <player id="159060" /> 
+     <player id="175301" /> 
+     <player id="207329" /> 
+     <player id="210762" /> 
+     <player id="263163" /> 
+     <player id="269099" /> 
+     <player id="273232" /> 
+     <player id="274933" /> 
+     <player id="316436" /> 
+     <player id="328785" /> 
+     <player id="335227" /> 
+     <player id="344951" /> 
+     <player id="451331" /> 
+     <player id="456160" /> 
+     <player id="466286" /> 
+     <player id="480294" /> 
+     <player id="20636" /> 
+     <player id="62132" /> 
+     <player id="63916" /> 
+     <player id="69346" /> 
+     <player id="85494" /> 
+     <player id="91490" /> 
+     <player id="95853" /> 
+     <player id="99575" /> 
+     <player id="102564" /> 
+     <player id="103177" /> 
+     <player id="150393" /> 
+     <player id="160266" /> 
+     <player id="172063" /> 
+     <player id="207391" /> 
+     <player id="213115" /> 
+     <player id="240975" /> 
+     <player id="311682" /> 
+     <player id="324805" /> 
+     <player id="327246" /> 
+     <player id="372867" /> 
+     <player id="397725" /> 
+     <player id="398781" /> 
+     <player id="456576" /> 
+     <player id="537437" /> 
+     <player id="597156" /> 
+     <player id="627297" /> 
+     <player id="3967" /> 
+     <player id="22397" /> 
+     <player id="120145" /> 
+     <player id="133388" /> 
+     <player id="134879" /> 
+     <player id="203121" /> 
+     <player id="310226" /> 
+     <player id="357321" /> 
+     <player id="372443" /> 
+     <player id="401023" /> 
+     <player id="420316" /> 
+     <player id="458802" /> 
+     <player id="566940" /> 
+   </players> 
+   <coaches> 
+     <coach id="110788" /> 
+     <coach id="152161" /> 
+     <coach id="346615" /> 
+     <coach id="392008" /> 
+   </coaches> 
+</team>

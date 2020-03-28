@@ -1,0 +1,757 @@
+/*
+Script Name: Koora Life
+version: 1.0
+Author: Oubtou Mohamed
+*/
+@font-face {
+  font-family: 'JFFlat-Regular';
+  src: url('../fonts/JF-Flat/JF-Flat-regular.eot?#iefix') format('embedded-opentype'),  
+    url('../fonts/JF-Flat/JF-Flat-regular.woff') format('woff'), 
+    url('../fonts/JF-Flat/JF-Flat-regular.ttf')  format('truetype'), 
+    url('../fonts/JF-Flat/JJF-Flat-regular.svg#JFFlat-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+:root{
+  --blue: #04357c;
+  --ciel: #008dd9;
+  --red: #eb0000;
+  --chib: #c3e0ff;
+  --green: #eaeaea;
+}
+body,html{
+  font-family: 'JFFlat-Regular';
+  padding: 0;
+  margin: 0;
+}
+body{
+  background: var(--green);
+  margin: 0 auto;
+  font-size: 15px;
+}
+.white-bg{
+  background: #fff;
+}
+.clear{
+  clear: both;
+  text-align: center;
+}
+.loading{
+  text-align: center;
+  padding: 20px;
+  color: var(--blue)
+}
+img{
+  max-width: 100%;
+}
+.container-fluid{
+  width: 85%;
+}
+.navbar-custom{
+  margin: 0;
+  background: var(--blue);
+}
+.navbar-custom .container-fluid{
+  padding-left: 0 !important;
+}
+.navbar-custom #myNavbar{
+  border-top: 0;
+  margin: 0 !important;
+  width: 100% !important;
+}
+.navbar-custom #logo{
+  padding-top: 0;
+  padding-right: 0;
+}
+.navbar-custom #logo img{
+  display: block;
+  padding: 10px 0 10px 10px;
+  height: 50px;
+  width: 130px;
+}
+.navbar-custom a{
+  outline: none;
+  text-decoration: none;
+}
+.navbar-custom li{
+  padding-top: 9px
+}
+.navbar-custom li a{
+  background-image: url('../img/pays.png');
+  height: 30px;
+  width: 30px;
+  background-size: auto 100% ;
+  display: inline-block;
+}
+.navbar-custom li.maroc a{
+  background-position: 99.8% 0%;
+}
+.navbar-custom li.maroc a{
+  background-position: 99.8% 0%;
+}
+.navbar-custom li.espange a{
+  background-position: 85.5% 0%;
+}
+.navbar-custom li.brasil a{
+  background-position: 71% 0%;
+}
+.navbar-custom li.france a{
+  background-position: 57% 0%;
+}
+.navbar-custom li.landon a{
+  background-position: 43% 0%;
+}
+.navbar-custom li.egypt a{
+  background-position: 28.5% 0%;
+}
+.navbar-custom li.germ a{
+  background-position: 14.2% 0%;
+}
+.navbar-custom li.ksa a{
+  background-position: 0% 0%;
+}
+#main-navbar{
+}
+#main-navbar ul.navbar-nav li a{
+  color: #000;
+  text-decoration: none;
+  outline: none;
+}
+#main-navbar ul.navbar-nav li a i{
+  margin-left: 5px;
+}
+#main-navbar ul.navbar-nav li.active >a,#main-navbar ul.navbar-nav li a:hover{
+  background-color: var(--ciel);
+  color: #fff;
+}
+#main-navbar ul.navbar-nav.navbar-left li a{
+  padding:7px 14px 0 0;
+}
+#main-navbar ul.navbar-nav.navbar-left li a:hover{
+  background: transparent;
+}
+#main-navbar ul.navbar-nav.navbar-left li.bat a span{
+  background: #fff;
+  color: #000;
+  display: inline-block;
+  padding: 8px 15px;
+  border-radius: 100px;
+}
+#main-navbar ul.navbar-nav.navbar-left li.bat a span i{
+  color: #f00;
+  border-radius: 50px;
+  display: inline-block;
+  letter-spacing: 1px;
+  background: rgba(255, 0, 0, 0.6);
+  animation: shadow-pulse 1s infinite;   
+}
+@keyframes shadow-pulse
+{
+  0% {
+    box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+  }
+  100% {
+    box-shadow: 0 0 0 15px rgba(0, 0, 0, 0);
+  }
+}
+#main-navbar ul.navbar-nav.navbar-left li.sign a span{
+  background: var(--ciel);
+  color: #fff;
+  display: inline-block;
+  padding: 8px 15px;
+  border-radius: 100px;
+}
+#dawriyat {
+  background: var(--green);
+  padding: 0;
+  border: none;
+  max-height: 80vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+#dawriyat .competition_>a{
+  background-image: url("../img/icons.png");
+  background-repeat: no-repeat;
+  padding-right: 40px;
+  background-size: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  outline: 0;
+  color: #fff;
+  border-bottom: solid 1px #ccc;
+  background-color: var(--green);;
+}
+#dawriyat .competition_ ul{
+  display: none;
+  padding: 0 20px 0 0;
+  list-style: none;
+  background: #fff;
+}
+#dawriyat .competition_:hover ul{
+  display: block;
+}
+#dawriyat .competition_:hover >a{
+  background-color: var(--ciel);
+  color: #fff;
+}
+#dawriyat .competition_ ul li{
+}
+#dawriyat .competition_ ul li a{
+  display: block;
+  padding: 5px 10px;
+}
+#dawriyat .competition_ ul li:hover a{
+  border-right-color: var(--ciel);
+  background: transparent;
+  color: var(--blue);
+}
+#dawriyat .competition_ ul li:hover a:before{
+  content: "\f0d9";
+  font-family:'FontAwesome';
+  color: var(--blue);
+  display: inline-block;
+  margin-left: 10px
+}
+#dawriyat li a.competition_matchs{background-position:right -95px}
+#dawriyat li a.competition_position{background-position:right -128px}
+#dawriyat li a.competition_players{background-position:right -164px}
+#dawriyat li a.news{background-position:right -203px}
+#dawriyat li a.news_special{background-position:right -1585px}
+#dawriyat li a.match_jour{background-position:right -236px}
+#dawriyat li a.match_live{background-position:right -273px}
+#dawriyat li a.game{background-position:right -310px}
+#dawriyat li a.cmp_botola_pro{background-position:right -350px;}
+#dawriyat li a.cmp_spain_primera_division{background-position:right -750px}
+#dawriyat li a.cmp_england_premier_league{background-position:right -475px}
+#dawriyat li a.cmp_italy_serie_a{background-position:right -588px}
+#dawriyat li a.cmp_france_ligue_1{background-position:right -550px}
+#dawriyat li a.cmp_bundesliga{background-position:right -435px}
+#dawriyat li a.cmp_uefa_champions_league{background-position:right -822px}
+#dawriyat li a.cmp_uefa_europa_league{background-position:right -862px}
+#dawriyat li a.cmp_jupiler_pro_league{background-position:right -668px}
+#dawriyat li a.cmp_eredivisie{background-position:right -510px}
+#dawriyat li a.cmp_brazil_serie_a{background-position:right -394px}
+#dawriyat li a.cmp_qatar_stars_league{background-position:right -708px}
+#dawriyat li a.cmp_algerie_ligue_1{background-position:right -902px}
+#dawriyat li a.cmp_tinisie_ligue_1{background-position:right -786px}
+#dawriyat li a.cmp_jordan_league{background-position:right -624px}
+#dawriyat li a.cmp_arabian_ulf_eague{background-position:right -937px}
+#dawriyat li a.cmp_saudi_arabia_pro{background-position:right -1520px}
+
+
+
+
+.white-bg{
+  padding: 10px;
+}
+#live_matches .matche{
+  display: inline-block;
+  text-align: center;
+  padding: 5px;
+  width: 15%;
+  float: right;
+}
+#live_matches .matche .contain{
+  border: solid 1px var(--green);
+  box-shadow: 0 0 5px var(--green);
+  padding: 5px;
+  border-radius: 8px;
+  position: relative;
+  display: block;
+}
+#live_matches .matche .contain img{
+  display: inline-block;
+  width: 25%;
+}
+#live_matches .matche .contain img.team_a{
+  float: right;
+}
+#live_matches .matche .contain img.team_b{
+  float: left;
+}
+#live_matches .matche .contain .score_{
+  display: inline-block;
+  width: 40%;
+  height: 30px;
+  text-align: center;
+  padding-top: 12px
+}
+#live_matches .matche .contain .score_ span{
+  background: var(--blue);
+  color: #fff;
+  padding: 2px 10px;
+  font-size: 14px;
+  border-radius: 5px;
+}
+#live_matches .matche .contain .blink{
+  display: block;
+  background: red;
+  color: #fff;
+  width: 30px;
+  height: 15px;
+  top: 0px;
+  right: 40%;
+  font-size: 11px;  
+  position: absolute;
+  animation: shadow 1s ease-in-out infinite;
+}
+@keyframes shadow
+{
+  0% {
+    opacity: 0.2;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#live_matches .matche.more-matche{
+  width: 10%;
+}
+#live_matches .more-matche .contain{
+  padding: 0;
+}
+#live_matches .more-matche .contain a{
+  background: var(--chib);
+  padding: 12px 5px;
+  width: 100%;;
+  display: inline-block;
+  text-decoration: none;
+  outline: none;
+  color: var(--blue);
+}
+#live_matches .more-matche .contain a:hover{
+  color: #000;
+}
+.right-side{
+  padding: 5px;
+}
+.right-side .dawryat{
+  text-align: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  border-radius: 8px 8px 0 0;
+  border: solid 1px var(--green);
+  overflow: hidden;
+}
+.right-side .dawryat li{
+  float: right;
+  width: 20%;
+  height: 50px;
+  border-right: solid 1px var(--green);
+  padding: 5px;
+  margin: 0;
+}
+.right-side .dawryat li:first-child{
+  border-right: none;
+}
+.right-side .dawryat li.active{
+  background-color: var(--chib);
+}
+.right-side .dawryat li a{
+  background-image: url("../img/menu-icons.png");
+  background-repeat: no-repeat;
+  display: block;
+  height: 100%;
+  background-size: 35px;
+  text-decoration: none;
+  outline: none;
+}
+a.cmp_botola_pro{background-position:center -415px;}
+a.cmp_spain_primera_division{background-position:center -880px}
+a.cmp_england_premier_league{background-position:center -555px}
+a.cmp_italy_serie_a{background-position:center -690px}
+a.cmp_bundesliga{background-position:center -510px;}
+a.cmp_france_ligue_1{background-position:center -645px}
+a.cmp_uefa_europa_league{background-position:center -1008px}
+a.cmp_eredivisie{background-position:center -600px}
+
+.right-side .cmp_details{
+  border-right: solid 1px var(--green);
+  border-left: solid 1px var(--green);
+  border-bottom: solid 1px var(--green);
+  border-radius: 0 0 8px 8px;
+  overflow: hidden;
+}
+.right-side .cmp_details .cmp_name{
+  color: var(--blue);
+  border-bottom: solid 1px var(--green);
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  margin: 0;
+}
+.right-side .crono{
+  margin: 20px 0;
+  padding: 5px 0;
+  width: 100%;
+  border-radius: 8px;
+  border: solid 1px var(--green);
+}
+.right-side .crono .title_{
+  padding: 7px 10px 10px 10px;
+}
+.right-side .crono .title_ span{
+  background: var(--ciel);
+  color: #fff;
+  display: inline-block;
+  padding: 8px 15px;
+  border-radius: 8px;
+  font-size: 18px;
+  min-width: 100px;
+  text-align: center;
+}
+.right-side .crono ul{
+  list-style: none;
+  padding: 0;
+}
+.right-side .crono ul li{
+  border-top: solid 1px #f1f1f1;
+  padding: 5px 0;
+}
+.right-side .crono ul li span{
+  display: inline-block;
+  background: #f7f7f7;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px 10px 2px 10px;
+  border-radius: 8px 0 0 8px;
+  float: right;
+}
+.right-side .crono ul li a{
+  float: left;
+  display: inline-block;
+  color: #000;
+  width: calc(100% - 60px);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 5px 5px 0 5px;
+}
+.right-side .competitions{
+  text-align: center;
+  margin: 20px 0;
+  padding: 5px;
+  width: 100%;
+  border-radius: 8px;
+  border: solid 1px var(--green);
+}
+.right-side .competitions h2{
+  margin: 30px 0;
+  color: var(--blue);
+}
+.right-side .competitions ul{
+  list-style: none;
+  width: 100%;
+  padding: 0;
+  margin-bottom: 3px;
+}
+.right-side .competitions ul li{
+  float: right;
+  width: calc( 25% - 10px );
+  border-right: solid 1px var(--green);
+  padding: 10px;
+  margin: 5px;
+  border: solid 1px var(--green);
+  box-shadow: 0 0 5px var(--green);
+  border-radius: 8px;
+}
+.right-side .competitions ul li:hover,.right-side .competitions ul li:hover span{
+  background: var(--chib);
+}
+.right-side .competitions ul li a{
+  background-repeat: no-repeat;
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  text-decoration: none;
+  outline: none;
+}
+.right-side .competitions ul li b{
+  display: block;
+  color: #000;
+}
+.right-side .competitions ul li img{
+  display: block;
+  margin: 0 auto 10px auto;
+  height: 100px;
+}
+.right-side .page_fb iframe{
+  width: 100%;
+  border-radius: 8px;
+  height: 130px
+}
+
+
+/*--------LeftSide----------*/
+.left-side{
+  padding: 5px;
+}
+.competition_title{
+  text-align: center;
+  margin: 10px 0;
+}
+.competition_title{
+  text-align: center;
+  margin: 0px 0 20px 0;
+  font-size: 24px;
+  font-weight: bold;
+}
+.competition_title img{
+  width: 50px;
+}
+.matches_ {
+  border: solid 1px #f1f1f1;
+}
+.matches_ .nav-tabs{
+  background:  #f1f1f1;
+}
+.matches_ .nav-tabs li a{
+  border-radius: 0;
+  display: block;
+  margin: 0;
+  border: none !important;
+  color: #000;
+}
+.matches_ .nav-tabs .active a{
+  background-color: var(--ciel) !important;
+  color: #fff !important;
+}
+.matches_ #table_raking thead tr td{
+  background: #a2a2a2;
+}
+#table_raking{
+  width: 100%;
+}
+#table_raking thead tr td{
+  background: var(--ciel);
+  padding: 5px 10px;
+  color: #fff;
+  text-align: center;
+}
+#table_raking thead tr td:nth-child(1){
+  text-align: right;
+}
+#table_raking tbody tr:nth-of-type(even){
+  background: var(--green);
+}
+#table_raking tbody tr td{
+  padding: 5px;
+  text-align: center;
+}
+#table_raking tbody tr td a{
+  display: block;
+  text-align: right;
+  text-decoration: none;
+  outline: none;
+  color: #000;
+}
+#table_raking tbody tr td a img{
+  width: 30px;
+}
+#top_raking{
+  width: 100%;
+}
+#top_raking tr{
+  border-bottom: solid 1px #f1f1f1;
+}
+#top_raking td{
+  padding: 5px 10px;
+}
+#top_raking .goals{
+  min-width: 50px;
+  text-align: center;
+  font-weight: bold;
+  background-image: url("../img/menu-icons.png?v=05");
+  background-repeat: no-repeat;
+  background-size: 40px;
+  background-position: right -1360px;
+}
+#top_raking .player span{
+  font-weight: bold;
+  font-size: 16px;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+#top_raking .player a{
+  font-size: 13px;
+  color: #555;
+  display: block;
+}
+#top_raking .player img{
+  width: 20px;
+}
+#top_raking .image a{
+  display: block;
+  text-align: left;
+}
+#top_raking .image a img{
+  width: 40px;
+}
+.matches_ .round_name_gameweek{
+  background: var(--blue);
+  color: #fff;
+  padding: 10px;
+  font-size: 18px;
+}
+.matches_ .round_name_gameweek img{
+  display: inline-block;
+  margin-left: 10px;
+  width: 30px;
+}
+.matches_ .round_name_gameweek i{
+  display: inline-block;
+  margin-left: 10px;
+}
+.matches_ .day{
+  display: block;
+  text-align: center;
+  background-color: var(--chib);
+  color: #000;
+  padding: 5px;
+}
+.matches_ .matche{
+  border-bottom: solid 1px #f1f1f1;
+}
+.matches_ .matche a{
+  text-decoration: none;
+  outline: none;
+  color: #000;
+  padding: 8px 0;
+  display: block;
+}
+.matches_ .matche img{
+  width: 30px;
+  display: inline-block;
+}
+.matches_ .matche .team_a{
+  text-align: left;
+}
+.matches_ .matche .team_a img{
+  margin-right: 10px
+}
+.matches_ .matche .score{
+  text-align: center;
+}
+.matches_ .matche .score a{
+  font-weight: bold;
+  padding-top: 12px;
+}
+.matches_ .matche .team_b{
+  text-align: right;
+}
+.matches_ .matche .team_b img{
+  margin-left: 10px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+  background-color: var(--blue);
+  padding: 20px;
+  color: #fff;
+}
+footer .f1{
+  padding: 10px;
+}
+footer .f1 .col-md-4{
+  padding: 5px;
+}
+footer .f1 .fw-title{
+  margin: 0 0 10px 0;
+}
+footer .f1 .description p{
+  text-align: justify;
+  padding: 15px;
+}
+footer .f1 .partenaires{
+  padding: 5px 30px;
+  text-align: center;
+}
+footer .f1 .partenaires ul{
+  padding: 0;
+  list-style: "-";
+  display: inline-block;
+  text-align: right;
+}
+footer .f1 .partenaires ul li a{
+  color: #fff;
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  padding: 3px 5px;
+}
+footer .f1 .subscribe{
+  text-align: center;
+}
+footer .f1 .subscribe form button{
+  background: var(--ciel);
+  border: none;
+  padding: 8px;
+  text-align: center;
+  width: 60px
+}
+footer .f1 .subscribe form input{
+  color: #555;
+  padding: 8px 10px;
+  border: none;
+  float: left;
+  width: calc(100% - 60px)
+}
+footer .f1 .subscribe .social{
+  clear: both;
+}
+footer .social a{
+  display: inline-block;
+  color: #fff;
+  padding: 5px;
+  margin: 0 3px;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 1em
+}
+footer .social .fb{
+  background: #4267b2;
+}
+footer .social .twi{
+  background: #5dbced;
+}
+footer .social .inst{
+  background: #ef4d5c;
+}
+footer .social .andr{
+  background: #539604;
+}
+footer .rights{
+  padding-top: 15px;
+  border-top: dotted 1px #fff;
+  color: #fff;
+  margin: 0 15px
+}
+footer .rights .me{
+  text-align: left;
+}
+footer .rights a{
+  color: #eee;
+  text-decoration: none;
+  outline: none;
+}

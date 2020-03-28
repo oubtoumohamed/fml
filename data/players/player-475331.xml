@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2021</team_id> 
+   <id>475331</id> 
+   <name>Alfonso Pastor</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/475331.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>2000-10-04</birth-day> 
+   <length  unit="cm">إسبانيا</length> 
+   <weight  unit="kg">190</weight> 
+</player>

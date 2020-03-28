@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>532</team_id> 
+   <id>462956</id> 
+   <name>D. Plechaty</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/462956.png</image> 
+   <position>مدافع</position> 
+   <nationality>التشيك</nationality> 
+   <birth-day>1999-04-18</birth-day> 
+   <length  unit="cm">التشيك</length> 
+   <weight  unit="kg">182</weight> 
+</player>

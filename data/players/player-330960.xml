@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1516</team_id> 
+   <id>330960</id> 
+   <name>جورج روزاريو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/330960.png</image> 
+   <position>غير معروف</position> 
+   <nationality>البرتغال</nationality> 
+   <birth-day>1961-07-18</birth-day> 
+   <length  unit="cm">البرتغال</length> 
+   <weight  unit="kg"></weight> 
+</player>

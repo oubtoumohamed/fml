@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>245</id> 
+   <name>KAS Eupen</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/245.png</image> 
+   <country>بلجيكا</country> 
+   <adrese>Kehrweg 14</adrese> 
+   <website>http://www.as-eupen.be</website> 
+   <creation-date>1945</creation-date> 
+   <players> 
+     <player id="193841" /> 
+     <player id="395579" /> 
+     <player id="460590" /> 
+     <player id="483474" /> 
+     <player id="489059" /> 
+     <player id="549000" /> 
+     <player id="1928" /> 
+     <player id="2138" /> 
+     <player id="21079" /> 
+     <player id="37635" /> 
+     <player id="54804" /> 
+     <player id="102758" /> 
+     <player id="103174" /> 
+     <player id="105472" /> 
+     <player id="129175" /> 
+     <player id="161299" /> 
+     <player id="202469" /> 
+     <player id="247077" /> 
+     <player id="314140" /> 
+     <player id="370003" /> 
+     <player id="374489" /> 
+     <player id="381121" /> 
+     <player id="394657" /> 
+     <player id="405580" /> 
+     <player id="434755" /> 
+     <player id="465705" /> 
+     <player id="471636" /> 
+     <player id="478572" /> 
+     <player id="489027" /> 
+     <player id="489061" /> 
+     <player id="550377" /> 
+     <player id="619236" /> 
+     <player id="37440" /> 
+     <player id="53857" /> 
+     <player id="88726" /> 
+     <player id="112261" /> 
+     <player id="121509" /> 
+     <player id="130411" /> 
+     <player id="139362" /> 
+     <player id="246647" /> 
+     <player id="259919" /> 
+     <player id="275548" /> 
+     <player id="297481" /> 
+     <player id="312180" /> 
+     <player id="448394" /> 
+     <player id="467871" /> 
+     <player id="534712" /> 
+     <player id="549757" /> 
+     <player id="550380" /> 
+     <player id="551151" /> 
+     <player id="566772" /> 
+     <player id="596379" /> 
+     <player id="596383" /> 
+     <player id="614047" /> 
+     <player id="647970" /> 
+     <player id="3261" /> 
+     <player id="37958" /> 
+     <player id="66418" /> 
+     <player id="93885" /> 
+     <player id="146383" /> 
+     <player id="154342" /> 
+     <player id="160800" /> 
+     <player id="212917" /> 
+     <player id="263617" /> 
+     <player id="287931" /> 
+     <player id="292088" /> 
+     <player id="314204" /> 
+     <player id="334388" /> 
+     <player id="376913" /> 
+     <player id="402574" /> 
+     <player id="425439" /> 
+     <player id="469901" /> 
+     <player id="587283" /> 
+   </players> 
+   <coaches> 
+     <coach id="545" /> 
+     <coach id="13616" /> 
+     <coach id="286498" /> 
+   </coaches> 
+</team>

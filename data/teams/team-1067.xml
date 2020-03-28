@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1067</id> 
+   <name>أتروميتوس أثينا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1067.png</image> 
+   <country>اليونان</country> 
+   <adrese>94 - 96 Paparigopolou, Peristeri</adrese> 
+   <website>http://www.atromitosfc.gr</website> 
+   <creation-date>1923</creation-date> 
+   <players> 
+     <player id="80420" /> 
+     <player id="85438" /> 
+     <player id="95505" /> 
+     <player id="104990" /> 
+     <player id="154135" /> 
+     <player id="219921" /> 
+     <player id="272919" /> 
+     <player id="407721" /> 
+     <player id="505317" /> 
+     <player id="505318" /> 
+     <player id="18796" /> 
+     <player id="18930" /> 
+     <player id="19079" /> 
+     <player id="32444" /> 
+     <player id="33237" /> 
+     <player id="39369" /> 
+     <player id="62880" /> 
+     <player id="68424" /> 
+     <player id="73165" /> 
+     <player id="120010" /> 
+     <player id="134646" /> 
+     <player id="134704" /> 
+     <player id="143807" /> 
+     <player id="156179" /> 
+     <player id="156183" /> 
+     <player id="160610" /> 
+     <player id="176960" /> 
+     <player id="182596" /> 
+     <player id="205231" /> 
+     <player id="214614" /> 
+     <player id="217078" /> 
+     <player id="220028" /> 
+     <player id="262361" /> 
+     <player id="268914" /> 
+     <player id="274908" /> 
+     <player id="304387" /> 
+     <player id="379063" /> 
+     <player id="396732" /> 
+     <player id="524276" /> 
+     <player id="5927" /> 
+     <player id="13713" /> 
+     <player id="19096" /> 
+     <player id="19153" /> 
+     <player id="19171" /> 
+     <player id="20794" /> 
+     <player id="25437" /> 
+     <player id="39123" /> 
+     <player id="40001" /> 
+     <player id="40708" /> 
+     <player id="46517" /> 
+     <player id="50012" /> 
+     <player id="56495" /> 
+     <player id="58926" /> 
+     <player id="66728" /> 
+     <player id="70395" /> 
+     <player id="70396" /> 
+     <player id="77829" /> 
+     <player id="84439" /> 
+     <player id="99575" /> 
+     <player id="115391" /> 
+     <player id="148811" /> 
+     <player id="154800" /> 
+     <player id="163338" /> 
+     <player id="176308" /> 
+     <player id="217930" /> 
+     <player id="218183" /> 
+     <player id="219966" /> 
+     <player id="261999" /> 
+     <player id="275012" /> 
+     <player id="276279" /> 
+     <player id="283577" /> 
+     <player id="285434" /> 
+     <player id="288727" /> 
+     <player id="298567" /> 
+     <player id="372347" /> 
+     <player id="379077" /> 
+     <player id="408630" /> 
+     <player id="416155" /> 
+     <player id="428249" /> 
+     <player id="524277" /> 
+     <player id="532551" /> 
+     <player id="534783" /> 
+     <player id="573533" /> 
+     <player id="619100" /> 
+     <player id="4650" /> 
+     <player id="12764" /> 
+     <player id="25414" /> 
+     <player id="32886" /> 
+     <player id="67649" /> 
+     <player id="67667" /> 
+     <player id="77882" /> 
+     <player id="83993" /> 
+     <player id="148670" /> 
+     <player id="192195" /> 
+     <player id="203549" /> 
+     <player id="224617" /> 
+     <player id="268920" /> 
+     <player id="302499" /> 
+     <player id="362707" /> 
+     <player id="379121" /> 
+     <player id="448207" /> 
+     <player id="482254" /> 
+     <player id="578722" /> 
+   </players> 
+   <coaches> 
+     <coach id="63368" /> 
+     <coach id="148898" /> 
+     <coach id="173820" /> 
+     <coach id="173884" /> 
+     <coach id="223510" /> 
+     <coach id="292220" /> 
+     <coach id="296452" /> 
+     <coach id="376395" /> 
+   </coaches> 
+</team>

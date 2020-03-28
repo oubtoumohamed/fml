@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1051</team_id> 
+   <id>376395</id> 
+   <name>G. Korakakis</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/376395.png</image> 
+   <position>اليونان</position> 
+   <nationality>1976-02-09</nationality> 
+   <birth-day>اليونان</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

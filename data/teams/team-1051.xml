@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1051</id> 
+   <name>آريس سالونيكي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1051.png</image> 
+   <country>اليونان</country> 
+   <adrese>69 Alkminis, Charilaou</adrese> 
+   <website>http://www.arisfc.gr</website> 
+   <creation-date>1914</creation-date> 
+   <players> 
+     <player id="99238" /> 
+     <player id="149922" /> 
+     <player id="203523" /> 
+     <player id="304388" /> 
+     <player id="315170" /> 
+     <player id="467454" /> 
+     <player id="578969" /> 
+     <player id="616862" /> 
+     <player id="2999" /> 
+     <player id="16475" /> 
+     <player id="18841" /> 
+     <player id="18849" /> 
+     <player id="19286" /> 
+     <player id="77667" /> 
+     <player id="78588" /> 
+     <player id="83963" /> 
+     <player id="110277" /> 
+     <player id="125696" /> 
+     <player id="125945" /> 
+     <player id="131284" /> 
+     <player id="146815" /> 
+     <player id="148835" /> 
+     <player id="148901" /> 
+     <player id="191596" /> 
+     <player id="220635" /> 
+     <player id="233602" /> 
+     <player id="255717" /> 
+     <player id="467455" /> 
+     <player id="525872" /> 
+     <player id="558126" /> 
+     <player id="565605" /> 
+     <player id="17112" /> 
+     <player id="19200" /> 
+     <player id="46517" /> 
+     <player id="58298" /> 
+     <player id="59230" /> 
+     <player id="62894" /> 
+     <player id="67714" /> 
+     <player id="70187" /> 
+     <player id="70395" /> 
+     <player id="83257" /> 
+     <player id="86311" /> 
+     <player id="95428" /> 
+     <player id="103765" /> 
+     <player id="122206" /> 
+     <player id="141498" /> 
+     <player id="148836" /> 
+     <player id="154136" /> 
+     <player id="156184" /> 
+     <player id="176308" /> 
+     <player id="222489" /> 
+     <player id="308534" /> 
+     <player id="345931" /> 
+     <player id="408936" /> 
+     <player id="417723" /> 
+     <player id="467462" /> 
+     <player id="478735" /> 
+     <player id="509681" /> 
+     <player id="565607" /> 
+     <player id="573847" /> 
+     <player id="18816" /> 
+     <player id="29865" /> 
+     <player id="32887" /> 
+     <player id="47958" /> 
+     <player id="53293" /> 
+     <player id="135752" /> 
+     <player id="155107" /> 
+     <player id="162024" /> 
+     <player id="218200" /> 
+     <player id="329826" /> 
+     <player id="388469" /> 
+     <player id="509458" /> 
+     <player id="509459" /> 
+     <player id="616861" /> 
+   </players> 
+   <coaches> 
+     <coach id="5228" /> 
+     <coach id="110227" /> 
+     <coach id="173549" /> 
+     <coach id="173820" /> 
+     <coach id="472857" /> 
+     <coach id="622732" /> 
+   </coaches> 
+</team>

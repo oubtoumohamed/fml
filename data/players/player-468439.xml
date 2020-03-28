@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>899</team_id> 
+   <id>468439</id> 
+   <name>F. Bloch</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/468439.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>فرنسا</nationality> 
+   <birth-day>2000-02-02</birth-day> 
+   <length  unit="cm">191</length> 
+   <weight  unit="kg">87</weight> 
+</player>

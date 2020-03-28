@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>9067</id> 
+   <name>حتا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/9067.png</image> 
+   <country>الإمارات</country> 
+   <adrese>P.O. Box 2245</adrese> 
+   <website></website> 
+   <creation-date>1981</creation-date> 
+   <players> 
+     <player id="151341" /> 
+     <player id="177754" /> 
+     <player id="213843" /> 
+     <player id="280881" /> 
+     <player id="458461" /> 
+     <player id="459104" /> 
+     <player id="504444" /> 
+     <player id="506799" /> 
+     <player id="506864" /> 
+     <player id="506867" /> 
+     <player id="625415" /> 
+     <player id="10823" /> 
+     <player id="10829" /> 
+     <player id="64088" /> 
+     <player id="64204" /> 
+     <player id="75230" /> 
+     <player id="154844" /> 
+     <player id="161478" /> 
+     <player id="213635" /> 
+     <player id="213834" /> 
+     <player id="244000" /> 
+     <player id="267493" /> 
+     <player id="281260" /> 
+     <player id="283972" /> 
+     <player id="294299" /> 
+     <player id="310301" /> 
+     <player id="458463" /> 
+     <player id="470645" /> 
+     <player id="504442" /> 
+     <player id="506789" /> 
+     <player id="506791" /> 
+     <player id="506793" /> 
+     <player id="506830" /> 
+     <player id="506869" /> 
+     <player id="568239" /> 
+     <player id="569457" /> 
+     <player id="633088" /> 
+     <player id="639024" /> 
+     <player id="11975" /> 
+     <player id="26332" /> 
+     <player id="80102" /> 
+     <player id="97589" /> 
+     <player id="99086" /> 
+     <player id="121607" /> 
+     <player id="153486" /> 
+     <player id="176270" /> 
+     <player id="179329" /> 
+     <player id="212999" /> 
+     <player id="214615" /> 
+     <player id="244617" /> 
+     <player id="294731" /> 
+     <player id="294810" /> 
+     <player id="458464" /> 
+     <player id="506787" /> 
+     <player id="506796" /> 
+     <player id="506803" /> 
+     <player id="506807" /> 
+     <player id="625421" /> 
+     <player id="625431" /> 
+     <player id="626633" /> 
+     <player id="633099" /> 
+     <player id="64273" /> 
+     <player id="99230" /> 
+     <player id="113140" /> 
+     <player id="149466" /> 
+     <player id="188961" /> 
+     <player id="209588" /> 
+     <player id="213776" /> 
+     <player id="213803" /> 
+     <player id="226419" /> 
+     <player id="271518" /> 
+     <player id="289001" /> 
+     <player id="289800" /> 
+     <player id="310300" /> 
+     <player id="470362" /> 
+     <player id="471103" /> 
+     <player id="506794" /> 
+     <player id="506859" /> 
+     <player id="506886" /> 
+     <player id="531831" /> 
+     <player id="626636" /> 
+     <player id="647538" /> 
+     <player id="650667" /> 
+   </players> 
+   <coaches> 
+     <coach id="40275" /> 
+     <coach id="258582" /> 
+     <coach id="542476" /> 
+   </coaches> 
+</team>

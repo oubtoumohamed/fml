@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1140</id> 
+   <name>نادي ريكيافيك لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1140.png</image> 
+   <country>أيسلندا</country> 
+   <adrese>Frostaskjóli 2</adrese> 
+   <website>http://www.kr.is</website> 
+   <creation-date>1899</creation-date> 
+   <players> 
+     <player id="9577" /> 
+     <player id="9665" /> 
+     <player id="79122" /> 
+     <player id="384469" /> 
+     <player id="511120" /> 
+     <player id="571909" /> 
+     <player id="6155" /> 
+     <player id="7831" /> 
+     <player id="9543" /> 
+     <player id="9681" /> 
+     <player id="9880" /> 
+     <player id="45370" /> 
+     <player id="188847" /> 
+     <player id="196984" /> 
+     <player id="421594" /> 
+     <player id="468298" /> 
+     <player id="468300" /> 
+     <player id="511123" /> 
+     <player id="9709" /> 
+     <player id="32126" /> 
+     <player id="96748" /> 
+     <player id="100535" /> 
+     <player id="244599" /> 
+     <player id="245534" /> 
+     <player id="304785" /> 
+     <player id="406448" /> 
+     <player id="419993" /> 
+     <player id="443950" /> 
+     <player id="446360" /> 
+     <player id="483586" /> 
+     <player id="502013" /> 
+     <player id="552009" /> 
+     <player id="553931" /> 
+     <player id="574356" /> 
+     <player id="7756" /> 
+     <player id="9686" /> 
+     <player id="114628" /> 
+     <player id="147628" /> 
+     <player id="155784" /> 
+     <player id="196071" /> 
+     <player id="213027" /> 
+     <player id="400837" /> 
+     <player id="421598" /> 
+   </players> 
+   <coaches> 
+     <coach id="194713" /> 
+     <coach id="196359" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1498</team_id> 
+   <id>134837</id> 
+   <name>ف. فورناليك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/134837.png</image> 
+   <position>بولندا</position> 
+   <nationality>1963-04-11</nationality> 
+   <birth-day>Myślenice</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

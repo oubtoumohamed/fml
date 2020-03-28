@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>256</id> 
+   <name>ميشيلين</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/256.png</image> 
+   <country>بلجيكا</country> 
+   <adrese>Kleine Nieuwedijk 53</adrese> 
+   <website>http://www.kvmechelen.be</website> 
+   <creation-date>1904</creation-date> 
+   <players> 
+     <player id="2429" /> 
+     <player id="53122" /> 
+     <player id="63948" /> 
+     <player id="134021" /> 
+     <player id="277760" /> 
+     <player id="477615" /> 
+     <player id="495005" /> 
+     <player id="559228" /> 
+     <player id="2114" /> 
+     <player id="69015" /> 
+     <player id="78337" /> 
+     <player id="79248" /> 
+     <player id="89956" /> 
+     <player id="92183" /> 
+     <player id="129125" /> 
+     <player id="154036" /> 
+     <player id="169808" /> 
+     <player id="242945" /> 
+     <player id="249731" /> 
+     <player id="274387" /> 
+     <player id="301168" /> 
+     <player id="329201" /> 
+     <player id="409838" /> 
+     <player id="424579" /> 
+     <player id="461827" /> 
+     <player id="477606" /> 
+     <player id="492438" /> 
+     <player id="593523" /> 
+     <player id="594726" /> 
+     <player id="2136" /> 
+     <player id="13449" /> 
+     <player id="13555" /> 
+     <player id="44358" /> 
+     <player id="71281" /> 
+     <player id="89765" /> 
+     <player id="89989" /> 
+     <player id="99420" /> 
+     <player id="138183" /> 
+     <player id="148990" /> 
+     <player id="168759" /> 
+     <player id="184146" /> 
+     <player id="257288" /> 
+     <player id="279647" /> 
+     <player id="323285" /> 
+     <player id="402073" /> 
+     <player id="409839" /> 
+     <player id="459759" /> 
+     <player id="481633" /> 
+     <player id="530483" /> 
+     <player id="538696" /> 
+     <player id="617903" /> 
+     <player id="617905" /> 
+     <player id="617906" /> 
+     <player id="13532" /> 
+     <player id="26789" /> 
+     <player id="39679" /> 
+     <player id="44363" /> 
+     <player id="86070" /> 
+     <player id="183121" /> 
+     <player id="259669" /> 
+     <player id="270038" /> 
+     <player id="409840" /> 
+     <player id="424582" /> 
+     <player id="489072" /> 
+     <player id="531952" /> 
+   </players> 
+   <coaches> 
+     <coach id="2489" /> 
+     <coach id="114534" /> 
+     <coach id="200884" /> 
+     <coach id="244413" /> 
+     <coach id="520004" /> 
+   </coaches> 
+</team>

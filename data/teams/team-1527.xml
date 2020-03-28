@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1527</id> 
+   <name>نادي جرونينجن لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1527.png</image> 
+   <country>هولندا</country> 
+   <adrese>Boumaboulevard 41</adrese> 
+   <website>http://www.fcgroningen.nl</website> 
+   <creation-date>1971</creation-date> 
+   <players> 
+     <player id="17374" /> 
+     <player id="49731" /> 
+     <player id="95824" /> 
+     <player id="398941" /> 
+     <player id="452950" /> 
+     <player id="497148" /> 
+     <player id="537543" /> 
+     <player id="49847" /> 
+     <player id="137188" /> 
+     <player id="138300" /> 
+     <player id="292623" /> 
+     <player id="317405" /> 
+     <player id="381081" /> 
+     <player id="391407" /> 
+     <player id="397842" /> 
+     <player id="414054" /> 
+     <player id="452431" /> 
+     <player id="497053" /> 
+     <player id="497149" /> 
+     <player id="517838" /> 
+     <player id="537576" /> 
+     <player id="537606" /> 
+     <player id="7987" /> 
+     <player id="132792" /> 
+     <player id="148887" /> 
+     <player id="168503" /> 
+     <player id="236417" /> 
+     <player id="307697" /> 
+     <player id="319923" /> 
+     <player id="323285" /> 
+     <player id="381099" /> 
+     <player id="395770" /> 
+     <player id="396704" /> 
+     <player id="421641" /> 
+     <player id="422169" /> 
+     <player id="437218" /> 
+     <player id="439598" /> 
+     <player id="440873" /> 
+     <player id="476167" /> 
+     <player id="477595" /> 
+     <player id="497147" /> 
+     <player id="49374" /> 
+     <player id="68839" /> 
+     <player id="171773" /> 
+     <player id="173344" /> 
+     <player id="180145" /> 
+     <player id="260046" /> 
+     <player id="269925" /> 
+     <player id="325410" /> 
+     <player id="395433" /> 
+     <player id="423563" /> 
+     <player id="455715" /> 
+     <player id="456971" /> 
+     <player id="512732" /> 
+     <player id="525940" /> 
+     <player id="527824" /> 
+     <player id="546196" /> 
+     <player id="577393" /> 
+     <player id="625358" /> 
+     <player id="645520" /> 
+   </players> 
+   <coaches> 
+     <coach id="2275" /> 
+     <coach id="139255" /> 
+     <coach id="304874" /> 
+     <coach id="415472" /> 
+   </coaches> 
+</team>

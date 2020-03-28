@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>158</id> 
+   <name>أوستريا فيينا لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/158.png</image> 
+   <country>النمسا</country> 
+   <adrese>Fischhofgasse 14</adrese> 
+   <website>http://www.fk-austria.at</website> 
+   <creation-date>1911</creation-date> 
+   <players> 
+     <player id="11169" /> 
+     <player id="199098" /> 
+     <player id="237193" /> 
+     <player id="304004" /> 
+     <player id="402656" /> 
+     <player id="1716" /> 
+     <player id="10967" /> 
+     <player id="11030" /> 
+     <player id="35794" /> 
+     <player id="83554" /> 
+     <player id="110910" /> 
+     <player id="138191" /> 
+     <player id="159803" /> 
+     <player id="159817" /> 
+     <player id="181479" /> 
+     <player id="182934" /> 
+     <player id="245916" /> 
+     <player id="253559" /> 
+     <player id="283334" /> 
+     <player id="314272" /> 
+     <player id="332589" /> 
+     <player id="341471" /> 
+     <player id="353087" /> 
+     <player id="395280" /> 
+     <player id="399297" /> 
+     <player id="421625" /> 
+     <player id="427592" /> 
+     <player id="433270" /> 
+     <player id="451140" /> 
+     <player id="3133" /> 
+     <player id="35673" /> 
+     <player id="90590" /> 
+     <player id="121291" /> 
+     <player id="128985" /> 
+     <player id="144133" /> 
+     <player id="178660" /> 
+     <player id="192413" /> 
+     <player id="289074" /> 
+     <player id="314274" /> 
+     <player id="344959" /> 
+     <player id="435979" /> 
+     <player id="447895" /> 
+     <player id="448844" /> 
+     <player id="462543" /> 
+     <player id="485232" /> 
+     <player id="493790" /> 
+     <player id="493792" /> 
+     <player id="616536" /> 
+     <player id="134485" /> 
+     <player id="159815" /> 
+     <player id="200238" /> 
+     <player id="200301" /> 
+     <player id="228714" /> 
+     <player id="248140" /> 
+     <player id="288088" /> 
+     <player id="350121" /> 
+     <player id="408366" /> 
+     <player id="438009" /> 
+     <player id="564692" /> 
+   </players> 
+   <coaches> 
+     <coach id="226391" /> 
+     <coach id="390393" /> 
+     <coach id="409265" /> 
+     <coach id="599841" /> 
+   </coaches> 
+</team>

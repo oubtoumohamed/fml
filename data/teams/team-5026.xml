@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>5026</id> 
+   <name>الشبيبة الرياضية القيروانية</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/5026.png</image> 
+   <country>تونس</country> 
+   <adrese>Avenue des Nations Unis</adrese> 
+   <website>http://www.jskairouanaise.net</website> 
+   <creation-date>1942</creation-date> 
+   <players> 
+     <player id="71420" /> 
+     <player id="291047" /> 
+     <player id="319085" /> 
+     <player id="407403" /> 
+     <player id="504792" /> 
+     <player id="642328" /> 
+     <player id="71604" /> 
+     <player id="138434" /> 
+     <player id="156000" /> 
+     <player id="188763" /> 
+     <player id="265988" /> 
+     <player id="328131" /> 
+     <player id="336947" /> 
+     <player id="435680" /> 
+     <player id="463131" /> 
+     <player id="503613" /> 
+     <player id="504765" /> 
+     <player id="504793" /> 
+     <player id="504794" /> 
+     <player id="508488" /> 
+     <player id="517097" /> 
+     <player id="567757" /> 
+     <player id="569173" /> 
+     <player id="592513" /> 
+     <player id="625762" /> 
+     <player id="627423" /> 
+     <player id="160733" /> 
+     <player id="223165" /> 
+     <player id="316780" /> 
+     <player id="345011" /> 
+     <player id="379689" /> 
+     <player id="420834" /> 
+     <player id="429521" /> 
+     <player id="429526" /> 
+     <player id="446657" /> 
+     <player id="471061" /> 
+     <player id="559298" /> 
+     <player id="567758" /> 
+     <player id="567759" /> 
+     <player id="609974" /> 
+     <player id="626328" /> 
+     <player id="629174" /> 
+     <player id="630135" /> 
+     <player id="53330" /> 
+     <player id="70278" /> 
+     <player id="138589" /> 
+     <player id="262532" /> 
+     <player id="265792" /> 
+     <player id="326088" /> 
+     <player id="336859" /> 
+     <player id="361305" /> 
+     <player id="393287" /> 
+     <player id="394770" /> 
+     <player id="400343" /> 
+     <player id="419757" /> 
+     <player id="427537" /> 
+     <player id="435882" /> 
+     <player id="457974" /> 
+     <player id="463149" /> 
+     <player id="504788" /> 
+     <player id="535969" /> 
+     <player id="567760" /> 
+     <player id="567761" /> 
+     <player id="572743" /> 
+     <player id="572745" /> 
+     <player id="592511" /> 
+     <player id="597725" /> 
+     <player id="626331" /> 
+   </players> 
+   <coaches> 
+     <coach id="7777" /> 
+     <coach id="231654" /> 
+     <coach id="231782" /> 
+     <coach id="542598" /> 
+     <coach id="550881" /> 
+     <coach id="567762" /> 
+     <coach id="579422" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>546</id> 
+   <name>نادي فيكتوريا بلزين لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/546.png</image> 
+   <country>التشيك</country> 
+   <adrese>Štruncovy sady 3</adrese> 
+   <website>http://www.fcviktoria.cz</website> 
+   <creation-date>1911</creation-date> 
+   <players> 
+     <player id="14977" /> 
+     <player id="14997" /> 
+     <player id="48271" /> 
+     <player id="320186" /> 
+     <player id="424980" /> 
+     <player id="6557" /> 
+     <player id="24533" /> 
+     <player id="26206" /> 
+     <player id="38036" /> 
+     <player id="46414" /> 
+     <player id="47082" /> 
+     <player id="80095" /> 
+     <player id="86759" /> 
+     <player id="125820" /> 
+     <player id="296378" /> 
+     <player id="313999" /> 
+     <player id="314004" /> 
+     <player id="314012" /> 
+     <player id="539738" /> 
+     <player id="572033" /> 
+     <player id="15005" /> 
+     <player id="15009" /> 
+     <player id="19148" /> 
+     <player id="20734" /> 
+     <player id="31977" /> 
+     <player id="39872" /> 
+     <player id="46186" /> 
+     <player id="48785" /> 
+     <player id="86526" /> 
+     <player id="135931" /> 
+     <player id="155477" /> 
+     <player id="158205" /> 
+     <player id="232915" /> 
+     <player id="319368" /> 
+     <player id="327851" /> 
+     <player id="400886" /> 
+     <player id="401171" /> 
+     <player id="466795" /> 
+     <player id="492661" /> 
+     <player id="534502" /> 
+     <player id="20787" /> 
+     <player id="35499" /> 
+     <player id="64419" /> 
+     <player id="178264" /> 
+     <player id="205699" /> 
+     <player id="214355" /> 
+     <player id="320098" /> 
+     <player id="478437" /> 
+     <player id="572018" /> 
+   </players> 
+   <coaches> 
+     <coach id="135169" /> 
+     <coach id="480033" /> 
+   </coaches> 
+</team>

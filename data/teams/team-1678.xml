@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1678</id> 
+   <name>نادي بورتو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1678.png</image> 
+   <country>البرتغال</country> 
+   <adrese>Estádio Do Dragão, Entrada Poente - Piso 3</adrese> 
+   <website>http://www.fcporto.pt</website> 
+   <creation-date>1893</creation-date> 
+   <players> 
+     <player id="317" /> 
+     <player id="14242" /> 
+     <player id="112506" /> 
+     <player id="233294" /> 
+     <player id="257644" /> 
+     <player id="270469" /> 
+     <player id="289442" /> 
+     <player id="377255" /> 
+     <player id="452422" /> 
+     <player id="4579" /> 
+     <player id="10391" /> 
+     <player id="18902" /> 
+     <player id="86684" /> 
+     <player id="102626" /> 
+     <player id="115167" /> 
+     <player id="171943" /> 
+     <player id="192900" /> 
+     <player id="229723" /> 
+     <player id="234742" /> 
+     <player id="288100" /> 
+     <player id="290255" /> 
+     <player id="311877" /> 
+     <player id="334012" /> 
+     <player id="335690" /> 
+     <player id="371205" /> 
+     <player id="372949" /> 
+     <player id="396832" /> 
+     <player id="400243" /> 
+     <player id="419697" /> 
+     <player id="419698" /> 
+     <player id="425510" /> 
+     <player id="571790" /> 
+     <player id="56937" /> 
+     <player id="74510" /> 
+     <player id="85145" /> 
+     <player id="111263" /> 
+     <player id="150118" /> 
+     <player id="193120" /> 
+     <player id="217199" /> 
+     <player id="218161" /> 
+     <player id="227289" /> 
+     <player id="228717" /> 
+     <player id="234138" /> 
+     <player id="234408" /> 
+     <player id="241873" /> 
+     <player id="251491" /> 
+     <player id="289439" /> 
+     <player id="334526" /> 
+     <player id="378055" /> 
+     <player id="405578" /> 
+     <player id="442556" /> 
+     <player id="460582" /> 
+     <player id="460583" /> 
+     <player id="509320" /> 
+     <player id="5272" /> 
+     <player id="39221" /> 
+     <player id="62141" /> 
+     <player id="64417" /> 
+     <player id="79513" /> 
+     <player id="109730" /> 
+     <player id="113404" /> 
+     <player id="119308" /> 
+     <player id="122047" /> 
+     <player id="131021" /> 
+     <player id="141078" /> 
+     <player id="161790" /> 
+     <player id="166311" /> 
+     <player id="214400" /> 
+     <player id="234697" /> 
+     <player id="290176" /> 
+     <player id="356459" /> 
+     <player id="374849" /> 
+     <player id="377319" /> 
+     <player id="395671" /> 
+     <player id="509309" /> 
+     <player id="555004" /> 
+     <player id="559309" /> 
+   </players> 
+   <coaches> 
+     <coach id="224029" /> 
+     <coach id="623846" /> 
+   </coaches> 
+</team>

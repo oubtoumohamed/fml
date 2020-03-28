@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>353</team_id> 
+   <id>515348</id> 
+   <name>T. Papazov</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/515348.png</image> 
+   <position>مدافع</position> 
+   <nationality>بلغاريا</nationality> 
+   <birth-day>2001-08-24</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

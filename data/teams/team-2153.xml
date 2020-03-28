@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2153</id> 
+   <name>الجمعية الرياضية العامة لكرة القدم - آيك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2153.png</image> 
+   <country>السويد</country> 
+   <adrese>Parkvägen 4 B</adrese> 
+   <website>http://www.aikfotboll.se</website> 
+   <creation-date>1891</creation-date> 
+   <players> 
+     <player id="7969" /> 
+     <player id="90287" /> 
+     <player id="138556" /> 
+     <player id="408189" /> 
+     <player id="460391" /> 
+     <player id="463432" /> 
+     <player id="6036" /> 
+     <player id="32207" /> 
+     <player id="53032" /> 
+     <player id="73473" /> 
+     <player id="76769" /> 
+     <player id="77667" /> 
+     <player id="111278" /> 
+     <player id="127282" /> 
+     <player id="130364" /> 
+     <player id="157687" /> 
+     <player id="199125" /> 
+     <player id="240886" /> 
+     <player id="282282" /> 
+     <player id="463436" /> 
+     <player id="463450" /> 
+     <player id="464213" /> 
+     <player id="464220" /> 
+     <player id="464227" /> 
+     <player id="476591" /> 
+     <player id="500894" /> 
+     <player id="635951" /> 
+     <player id="645148" /> 
+     <player id="16025" /> 
+     <player id="31215" /> 
+     <player id="31332" /> 
+     <player id="73300" /> 
+     <player id="75262" /> 
+     <player id="175267" /> 
+     <player id="209823" /> 
+     <player id="270571" /> 
+     <player id="299717" /> 
+     <player id="310557" /> 
+     <player id="349843" /> 
+     <player id="355839" /> 
+     <player id="385469" /> 
+     <player id="464222" /> 
+     <player id="464223" /> 
+     <player id="464225" /> 
+     <player id="640652" /> 
+     <player id="643730" /> 
+     <player id="6234" /> 
+     <player id="7759" /> 
+     <player id="9605" /> 
+     <player id="17912" /> 
+     <player id="20962" /> 
+     <player id="171267" /> 
+     <player id="176844" /> 
+     <player id="336745" /> 
+     <player id="475654" /> 
+     <player id="478391" /> 
+     <player id="485446" /> 
+     <player id="517072" /> 
+   </players> 
+   <coaches> 
+     <coach id="112440" /> 
+   </coaches> 
+</team>

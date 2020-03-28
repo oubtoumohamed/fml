@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>532</id> 
+   <name>نادي سبارتا براغ</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/532.png</image> 
+   <country>التشيك</country> 
+   <adrese>Milady Horákové 1066/98</adrese> 
+   <website>http://www.sparta.cz</website> 
+   <creation-date>1893</creation-date> 
+   <players> 
+     <player id="35439" /> 
+     <player id="46322" /> 
+     <player id="84749" /> 
+     <player id="128110" /> 
+     <player id="289858" /> 
+     <player id="441350" /> 
+     <player id="462951" /> 
+     <player id="15004" /> 
+     <player id="36876" /> 
+     <player id="65953" /> 
+     <player id="83768" /> 
+     <player id="86591" /> 
+     <player id="120167" /> 
+     <player id="189114" /> 
+     <player id="232573" /> 
+     <player id="270630" /> 
+     <player id="290655" /> 
+     <player id="302572" /> 
+     <player id="319002" /> 
+     <player id="354039" /> 
+     <player id="377499" /> 
+     <player id="391059" /> 
+     <player id="424981" /> 
+     <player id="424982" /> 
+     <player id="424985" /> 
+     <player id="427844" /> 
+     <player id="444081" /> 
+     <player id="462955" /> 
+     <player id="462956" /> 
+     <player id="1491" /> 
+     <player id="14809" /> 
+     <player id="15037" /> 
+     <player id="16110" /> 
+     <player id="18784" /> 
+     <player id="43606" /> 
+     <player id="56118" /> 
+     <player id="63040" /> 
+     <player id="67519" /> 
+     <player id="130620" /> 
+     <player id="138996" /> 
+     <player id="154982" /> 
+     <player id="193496" /> 
+     <player id="207890" /> 
+     <player id="234139" /> 
+     <player id="248145" /> 
+     <player id="263184" /> 
+     <player id="318321" /> 
+     <player id="322459" /> 
+     <player id="354035" /> 
+     <player id="354297" /> 
+     <player id="357395" /> 
+     <player id="383249" /> 
+     <player id="441537" /> 
+     <player id="444082" /> 
+     <player id="462966" /> 
+     <player id="462972" /> 
+     <player id="464417" /> 
+     <player id="607691" /> 
+     <player id="10984" /> 
+     <player id="63526" /> 
+     <player id="95365" /> 
+     <player id="189031" /> 
+     <player id="320096" /> 
+     <player id="354033" /> 
+     <player id="405513" /> 
+     <player id="427854" /> 
+     <player id="462975" /> 
+     <player id="509257" /> 
+   </players> 
+   <coaches> 
+     <coach id="135603" /> 
+     <coach id="180751" /> 
+     <coach id="244244" /> 
+     <coach id="304400" /> 
+   </coaches> 
+</team>

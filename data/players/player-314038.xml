@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>908</team_id> 
+   <id>314038</id> 
+   <name>اترييك فييرا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/314038.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>فرنسا</nationality> 
+   <birth-day>1976-06-23</birth-day> 
+   <length  unit="cm">السنغال</length> 
+   <weight  unit="kg"></weight> 
+</player>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2028</id> 
+   <name>نادي ريال سوسيداد لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2028.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Paseo de Anoeta 1</adrese> 
+   <website>http://www.realsociedad.com</website> 
+   <creation-date>1909</creation-date> 
+   <players> 
+     <player id="3195" /> 
+     <player id="62745" /> 
+     <player id="152109" /> 
+     <player id="263177" /> 
+     <player id="314189" /> 
+     <player id="441078" /> 
+     <player id="3469" /> 
+     <player id="15159" /> 
+     <player id="60961" /> 
+     <player id="61060" /> 
+     <player id="80580" /> 
+     <player id="157319" /> 
+     <player id="208325" /> 
+     <player id="245336" /> 
+     <player id="262202" /> 
+     <player id="311705" /> 
+     <player id="312763" /> 
+     <player id="314191" /> 
+     <player id="315493" /> 
+     <player id="372541" /> 
+     <player id="444193" /> 
+     <player id="444379" /> 
+     <player id="478644" /> 
+     <player id="505465" /> 
+     <player id="4503" /> 
+     <player id="61687" /> 
+     <player id="62758" /> 
+     <player id="62761" /> 
+     <player id="63970" /> 
+     <player id="146704" /> 
+     <player id="294439" /> 
+     <player id="314195" /> 
+     <player id="314202" /> 
+     <player id="324336" /> 
+     <player id="334861" /> 
+     <player id="362649" /> 
+     <player id="417127" /> 
+     <player id="440666" /> 
+     <player id="444378" /> 
+     <player id="464478" /> 
+     <player id="475748" /> 
+     <player id="481772" /> 
+     <player id="494851" /> 
+     <player id="559169" /> 
+     <player id="3230" /> 
+     <player id="86467" /> 
+     <player id="111768" /> 
+     <player id="207207" /> 
+     <player id="214369" /> 
+     <player id="314196" /> 
+     <player id="314204" /> 
+     <player id="390151" /> 
+     <player id="422165" /> 
+     <player id="500110" /> 
+     <player id="535775" /> 
+     <player id="567322" /> 
+     <player id="587199" /> 
+     <player id="587686" /> 
+   </players> 
+   <coaches> 
+     <coach id="3228" /> 
+     <coach id="209677" /> 
+     <coach id="391907" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>540</id> 
+   <name>نادي يابلونك 97 لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/540.png</image> 
+   <country>التشيك</country> 
+   <adrese>U stadionu 4904/5</adrese> 
+   <website>http://www.fkjablonec.cz</website> 
+   <creation-date>1945</creation-date> 
+   <players> 
+     <player id="66542" /> 
+     <player id="84740" /> 
+     <player id="94112" /> 
+     <player id="138897" /> 
+     <player id="475139" /> 
+     <player id="555899" /> 
+     <player id="24770" /> 
+     <player id="125820" /> 
+     <player id="132709" /> 
+     <player id="134090" /> 
+     <player id="137634" /> 
+     <player id="181567" /> 
+     <player id="215365" /> 
+     <player id="230375" /> 
+     <player id="230506" /> 
+     <player id="273632" /> 
+     <player id="290655" /> 
+     <player id="297852" /> 
+     <player id="302572" /> 
+     <player id="313999" /> 
+     <player id="320087" /> 
+     <player id="368249" /> 
+     <player id="400658" /> 
+     <player id="424982" /> 
+     <player id="462956" /> 
+     <player id="540367" /> 
+     <player id="605942" /> 
+     <player id="5910" /> 
+     <player id="8587" /> 
+     <player id="47218" /> 
+     <player id="83525" /> 
+     <player id="126139" /> 
+     <player id="154982" /> 
+     <player id="191099" /> 
+     <player id="193496" /> 
+     <player id="212281" /> 
+     <player id="254900" /> 
+     <player id="314008" /> 
+     <player id="322463" /> 
+     <player id="354631" /> 
+     <player id="377535" /> 
+     <player id="423848" /> 
+     <player id="430384" /> 
+     <player id="450222" /> 
+     <player id="451735" /> 
+     <player id="466790" /> 
+     <player id="509251" /> 
+     <player id="48817" /> 
+     <player id="64421" /> 
+     <player id="76584" /> 
+     <player id="238089" /> 
+     <player id="318377" /> 
+     <player id="450223" /> 
+     <player id="541505" /> 
+     <player id="612352" /> 
+     <player id="621510" /> 
+   </players> 
+   <coaches> 
+     <coach id="181280" /> 
+     <coach id="467114" /> 
+   </coaches> 
+</team>

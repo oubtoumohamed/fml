@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>696</id> 
+   <name>نادي واتفورد لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/696.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Vicarage Road</adrese> 
+   <website>http://www.watfordfc.com</website> 
+   <creation-date>1881</creation-date> 
+   <players> 
+     <player id="2386" /> 
+     <player id="2528" /> 
+     <player id="12275" /> 
+     <player id="19129" /> 
+     <player id="180020" /> 
+     <player id="335179" /> 
+     <player id="400803" /> 
+     <player id="440987" /> 
+     <player id="1406" /> 
+     <player id="2546" /> 
+     <player id="11105" /> 
+     <player id="16897" /> 
+     <player id="23349" /> 
+     <player id="53407" /> 
+     <player id="53627" /> 
+     <player id="58948" /> 
+     <player id="59416" /> 
+     <player id="68469" /> 
+     <player id="88227" /> 
+     <player id="138691" /> 
+     <player id="155813" /> 
+     <player id="163502" /> 
+     <player id="175301" /> 
+     <player id="263958" /> 
+     <player id="368537" /> 
+     <player id="405506" /> 
+     <player id="417099" /> 
+     <player id="453123" /> 
+     <player id="453640" /> 
+     <player id="453682" /> 
+     <player id="464749" /> 
+     <player id="471120" /> 
+     <player id="531243" /> 
+     <player id="645803" /> 
+     <player id="39171" /> 
+     <player id="70764" /> 
+     <player id="78933" /> 
+     <player id="110254" /> 
+     <player id="155131" /> 
+     <player id="163602" /> 
+     <player id="216855" /> 
+     <player id="269538" /> 
+     <player id="286735" /> 
+     <player id="298160" /> 
+     <player id="299942" /> 
+     <player id="420218" /> 
+     <player id="421581" /> 
+     <player id="453274" /> 
+     <player id="453848" /> 
+     <player id="457690" /> 
+     <player id="471122" /> 
+     <player id="471604" /> 
+     <player id="506452" /> 
+     <player id="542729" /> 
+     <player id="590855" /> 
+     <player id="17385" /> 
+     <player id="18418" /> 
+     <player id="22236" /> 
+     <player id="51197" /> 
+     <player id="53886" /> 
+     <player id="83681" /> 
+     <player id="160268" /> 
+     <player id="269271" /> 
+     <player id="292088" /> 
+     <player id="301169" /> 
+     <player id="314580" /> 
+     <player id="319116" /> 
+     <player id="324923" /> 
+     <player id="407737" /> 
+     <player id="424688" /> 
+     <player id="451804" /> 
+     <player id="453991" /> 
+     <player id="458142" /> 
+     <player id="471123" /> 
+     <player id="482407" /> 
+     <player id="591522" /> 
+   </players> 
+   <coaches> 
+     <coach id="2722" /> 
+     <coach id="110781" /> 
+     <coach id="157108" /> 
+     <coach id="164995" /> 
+   </coaches> 
+</team>

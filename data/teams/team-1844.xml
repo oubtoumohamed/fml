@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1844</id> 
+   <name>نادي سبارتاك موسكو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1844.png</image> 
+   <country>روسيا</country> 
+   <adrese>Krasnopresnenskaja naberezhnaja, dom 10 str. 4</adrese> 
+   <website>http://spartak.com</website> 
+   <creation-date>1922</creation-date> 
+   <players> 
+     <player id="72353" /> 
+     <player id="246448" /> 
+     <player id="303119" /> 
+     <player id="335231" /> 
+     <player id="400904" /> 
+     <player id="461865" /> 
+     <player id="506285" /> 
+     <player id="506288" /> 
+     <player id="1945" /> 
+     <player id="4441" /> 
+     <player id="36870" /> 
+     <player id="84284" /> 
+     <player id="150022" /> 
+     <player id="158204" /> 
+     <player id="191103" /> 
+     <player id="211922" /> 
+     <player id="281344" /> 
+     <player id="290179" /> 
+     <player id="310099" /> 
+     <player id="315806" /> 
+     <player id="337005" /> 
+     <player id="386265" /> 
+     <player id="399179" /> 
+     <player id="408608" /> 
+     <player id="410737" /> 
+     <player id="423538" /> 
+     <player id="423540" /> 
+     <player id="440123" /> 
+     <player id="4699" /> 
+     <player id="6436" /> 
+     <player id="6471" /> 
+     <player id="26178" /> 
+     <player id="51810" /> 
+     <player id="78557" /> 
+     <player id="82793" /> 
+     <player id="84455" /> 
+     <player id="86503" /> 
+     <player id="88296" /> 
+     <player id="160153" /> 
+     <player id="160294" /> 
+     <player id="215485" /> 
+     <player id="219459" /> 
+     <player id="269968" /> 
+     <player id="301944" /> 
+     <player id="315814" /> 
+     <player id="336865" /> 
+     <player id="338693" /> 
+     <player id="347955" /> 
+     <player id="354213" /> 
+     <player id="377541" /> 
+     <player id="386263" /> 
+     <player id="423555" /> 
+     <player id="450842" /> 
+     <player id="451981" /> 
+     <player id="461870" /> 
+     <player id="461871" /> 
+     <player id="9428" /> 
+     <player id="109730" /> 
+     <player id="191107" /> 
+     <player id="235306" /> 
+     <player id="283522" /> 
+     <player id="315817" /> 
+     <player id="317832" /> 
+     <player id="322416" /> 
+     <player id="351409" /> 
+     <player id="423557" /> 
+     <player id="469530" /> 
+     <player id="476838" /> 
+     <player id="501367" /> 
+   </players> 
+   <coaches> 
+     <coach id="27707" /> 
+     <coach id="135601" /> 
+     <coach id="258080" /> 
+     <coach id="453826" /> 
+     <coach id="577524" /> 
+     <coach id="579579" /> 
+   </coaches> 
+</team>

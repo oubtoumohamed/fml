@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>6223</id> 
+   <name>جمعية شابيكوينسي لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/6223.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Rua Clevelandia 807E, Bairro Centro</adrese> 
+   <website>http://www.chapecoense.com</website> 
+   <creation-date>1973</creation-date> 
+   <players> 
+     <player id="71953" /> 
+     <player id="136754" /> 
+     <player id="171506" /> 
+     <player id="177575" /> 
+     <player id="327864" /> 
+     <player id="395709" /> 
+     <player id="473992" /> 
+     <player id="531156" /> 
+     <player id="9462" /> 
+     <player id="10609" /> 
+     <player id="23729" /> 
+     <player id="32679" /> 
+     <player id="32928" /> 
+     <player id="33252" /> 
+     <player id="42129" /> 
+     <player id="44196" /> 
+     <player id="64688" /> 
+     <player id="80586" /> 
+     <player id="103783" /> 
+     <player id="111502" /> 
+     <player id="132040" /> 
+     <player id="180919" /> 
+     <player id="227670" /> 
+     <player id="227886" /> 
+     <player id="280792" /> 
+     <player id="286196" /> 
+     <player id="311146" /> 
+     <player id="328076" /> 
+     <player id="395772" /> 
+     <player id="438564" /> 
+     <player id="448864" /> 
+     <player id="472453" /> 
+     <player id="473993" /> 
+     <player id="474008" /> 
+     <player id="474026" /> 
+     <player id="474028" /> 
+     <player id="481978" /> 
+     <player id="593048" /> 
+     <player id="9166" /> 
+     <player id="9261" /> 
+     <player id="32286" /> 
+     <player id="56294" /> 
+     <player id="72468" /> 
+     <player id="84337" /> 
+     <player id="120553" /> 
+     <player id="166614" /> 
+     <player id="170348" /> 
+     <player id="180390" /> 
+     <player id="186280" /> 
+     <player id="188039" /> 
+     <player id="193049" /> 
+     <player id="258914" /> 
+     <player id="262606" /> 
+     <player id="292139" /> 
+     <player id="368941" /> 
+     <player id="397602" /> 
+     <player id="399075" /> 
+     <player id="405658" /> 
+     <player id="433627" /> 
+     <player id="441491" /> 
+     <player id="450401" /> 
+     <player id="472790" /> 
+     <player id="473995" /> 
+     <player id="474016" /> 
+     <player id="474027" /> 
+     <player id="476608" /> 
+     <player id="495354" /> 
+     <player id="648983" /> 
+     <player id="648984" /> 
+     <player id="648985" /> 
+     <player id="648986" /> 
+     <player id="32327" /> 
+     <player id="71779" /> 
+     <player id="74784" /> 
+     <player id="119807" /> 
+     <player id="122231" /> 
+     <player id="148322" /> 
+     <player id="172278" /> 
+     <player id="225224" /> 
+     <player id="228361" /> 
+     <player id="247022" /> 
+     <player id="287562" /> 
+     <player id="322455" /> 
+     <player id="323750" /> 
+     <player id="403481" /> 
+     <player id="420897" /> 
+     <player id="425529" /> 
+     <player id="428491" /> 
+     <player id="433625" /> 
+     <player id="433628" /> 
+     <player id="434106" /> 
+     <player id="437641" /> 
+     <player id="447813" /> 
+     <player id="474012" /> 
+     <player id="474702" /> 
+     <player id="530879" /> 
+     <player id="531157" /> 
+     <player id="533425" /> 
+     <player id="564044" /> 
+     <player id="595118" /> 
+   </players> 
+   <coaches> 
+     <coach id="32478" /> 
+     <coach id="129514" /> 
+     <coach id="129814" /> 
+     <coach id="176428" /> 
+     <coach id="179353" /> 
+     <coach id="243575" /> 
+     <coach id="264954" /> 
+     <coach id="298397" /> 
+     <coach id="488724" /> 
+   </coaches> 
+</team>

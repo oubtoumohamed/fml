@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>37088</team_id> 
+   <id>249557</id> 
+   <name>أرماندو كونجو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/249557.png</image> 
+   <position>ألبانيا</position> 
+   <nationality>1973-04-23</nationality> 
+   <birth-day>Shkodër</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

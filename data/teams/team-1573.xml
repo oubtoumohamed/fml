@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1573</id> 
+   <name>Ballymena United FC</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1573.png</image> 
+   <country>إيرلندا الشمالية</country> 
+   <adrese>Warden Street</adrese> 
+   <website>http://www.ballymenaunitedfc.com</website> 
+   <creation-date>1928</creation-date> 
+   <players> 
+     <player id="135467" /> 
+     <player id="383451" /> 
+     <player id="400889" /> 
+     <player id="465683" /> 
+     <player id="617203" /> 
+     <player id="21019" /> 
+     <player id="39531" /> 
+     <player id="45370" /> 
+     <player id="45464" /> 
+     <player id="101250" /> 
+     <player id="166433" /> 
+     <player id="199520" /> 
+     <player id="202947" /> 
+     <player id="215914" /> 
+     <player id="218065" /> 
+     <player id="281786" /> 
+     <player id="322552" /> 
+     <player id="322553" /> 
+     <player id="335273" /> 
+     <player id="468513" /> 
+     <player id="470919" /> 
+     <player id="482126" /> 
+     <player id="493255" /> 
+     <player id="608364" /> 
+     <player id="608365" /> 
+     <player id="608367" /> 
+     <player id="91357" /> 
+     <player id="100745" /> 
+     <player id="129137" /> 
+     <player id="129143" /> 
+     <player id="131214" /> 
+     <player id="200517" /> 
+     <player id="212067" /> 
+     <player id="212724" /> 
+     <player id="212789" /> 
+     <player id="274652" /> 
+     <player id="335272" /> 
+     <player id="432704" /> 
+     <player id="480066" /> 
+     <player id="506204" /> 
+     <player id="532295" /> 
+     <player id="539488" /> 
+     <player id="608366" /> 
+     <player id="642276" /> 
+     <player id="83057" /> 
+     <player id="90234" /> 
+     <player id="101334" /> 
+     <player id="161587" /> 
+     <player id="161893" /> 
+     <player id="206838" /> 
+     <player id="212757" /> 
+     <player id="218526" /> 
+     <player id="272743" /> 
+     <player id="390959" /> 
+     <player id="461234" /> 
+     <player id="579025" /> 
+     <player id="614485" /> 
+   </players> 
+   <coaches> 
+     <coach id="135623" /> 
+   </coaches> 
+</team>

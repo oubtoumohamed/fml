@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1358</team_id> 
+   <id>551712</id> 
+   <name>P. Kriventsev</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/551712.png</image> 
+   <position>مهاجم</position> 
+   <nationality>كازاخستان</nationality> 
+   <birth-day>1996-01-16</birth-day> 
+   <length  unit="cm">184</length> 
+   <weight  unit="kg">78</weight> 
+</player>

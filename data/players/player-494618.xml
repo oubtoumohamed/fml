@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1682</team_id> 
+   <id>494618</id> 
+   <name>ميغيل كاردوسو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/494618.png</image> 
+   <position>غير معروف</position> 
+   <nationality>البرتغال</nationality> 
+   <birth-day>1972-05-28</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

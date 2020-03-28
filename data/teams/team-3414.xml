@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3414</id> 
+   <name>الشباب الرياضي بلوزداد</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3414.png</image> 
+   <country>الجزائر</country> 
+   <adrese>Complexe Sportif du Caroubier, Hussein-Dey</adrese> 
+   <website>http://www.chabab-belouizdad.org</website> 
+   <creation-date>1962</creation-date> 
+   <players> 
+     <player id="89427" /> 
+     <player id="312081" /> 
+     <player id="312110" /> 
+     <player id="316744" /> 
+     <player id="417714" /> 
+     <player id="476551" /> 
+     <player id="495533" /> 
+     <player id="560936" /> 
+     <player id="49220" /> 
+     <player id="76083" /> 
+     <player id="99366" /> 
+     <player id="115056" /> 
+     <player id="178609" /> 
+     <player id="191279" /> 
+     <player id="217090" /> 
+     <player id="268464" /> 
+     <player id="278579" /> 
+     <player id="297188" /> 
+     <player id="311129" /> 
+     <player id="329560" /> 
+     <player id="418915" /> 
+     <player id="424402" /> 
+     <player id="455228" /> 
+     <player id="468255" /> 
+     <player id="495098" /> 
+     <player id="532708" /> 
+     <player id="556043" /> 
+     <player id="556045" /> 
+     <player id="556046" /> 
+     <player id="1348" /> 
+     <player id="49178" /> 
+     <player id="87405" /> 
+     <player id="168414" /> 
+     <player id="185952" /> 
+     <player id="191276" /> 
+     <player id="197695" /> 
+     <player id="293767" /> 
+     <player id="295981" /> 
+     <player id="297053" /> 
+     <player id="331273" /> 
+     <player id="333044" /> 
+     <player id="336815" /> 
+     <player id="357751" /> 
+     <player id="380519" /> 
+     <player id="413916" /> 
+     <player id="432211" /> 
+     <player id="446573" /> 
+     <player id="455123" /> 
+     <player id="455152" /> 
+     <player id="455439" /> 
+     <player id="487148" /> 
+     <player id="495100" /> 
+     <player id="540952" /> 
+     <player id="592334" /> 
+     <player id="599586" /> 
+     <player id="79705" /> 
+     <player id="89417" /> 
+     <player id="295979" /> 
+     <player id="304805" /> 
+     <player id="318053" /> 
+     <player id="335482" /> 
+     <player id="357749" /> 
+     <player id="430815" /> 
+     <player id="455434" /> 
+     <player id="456180" /> 
+     <player id="495542" /> 
+     <player id="496084" /> 
+     <player id="549514" /> 
+     <player id="550810" /> 
+     <player id="560949" /> 
+     <player id="560950" /> 
+     <player id="590886" /> 
+     <player id="591546" /> 
+     <player id="592388" /> 
+     <player id="612656" /> 
+     <player id="621540" /> 
+   </players> 
+   <coaches> 
+     <coach id="138182" /> 
+     <coach id="208046" /> 
+     <coach id="208145" /> 
+     <coach id="231389" /> 
+     <coach id="281757" /> 
+     <coach id="435045" /> 
+     <coach id="446574" /> 
+     <coach id="459223" /> 
+   </coaches> 
+</team>

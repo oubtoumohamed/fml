@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1529</id> 
+   <name>زفولي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1529.png</image> 
+   <country>هولندا</country> 
+   <adrese>Stadionplein 1</adrese> 
+   <website>http://www.peczwolle.nl</website> 
+   <creation-date>1990</creation-date> 
+   <players> 
+     <player id="49656" /> 
+     <player id="97595" /> 
+     <player id="218009" /> 
+     <player id="259781" /> 
+     <player id="314245" /> 
+     <player id="321048" /> 
+     <player id="535392" /> 
+     <player id="642236" /> 
+     <player id="2145" /> 
+     <player id="8014" /> 
+     <player id="49666" /> 
+     <player id="102830" /> 
+     <player id="102887" /> 
+     <player id="102905" /> 
+     <player id="103350" /> 
+     <player id="216585" /> 
+     <player id="275116" /> 
+     <player id="288433" /> 
+     <player id="335174" /> 
+     <player id="340513" /> 
+     <player id="376489" /> 
+     <player id="381097" /> 
+     <player id="404592" /> 
+     <player id="426561" /> 
+     <player id="452954" /> 
+     <player id="453644" /> 
+     <player id="508631" /> 
+     <player id="509516" /> 
+     <player id="534986" /> 
+     <player id="586363" /> 
+     <player id="606154" /> 
+     <player id="20999" /> 
+     <player id="39900" /> 
+     <player id="49873" /> 
+     <player id="102892" /> 
+     <player id="148887" /> 
+     <player id="168503" /> 
+     <player id="173547" /> 
+     <player id="200302" /> 
+     <player id="215382" /> 
+     <player id="215556" /> 
+     <player id="264397" /> 
+     <player id="291585" /> 
+     <player id="322328" /> 
+     <player id="379793" /> 
+     <player id="414203" /> 
+     <player id="423564" /> 
+     <player id="426814" /> 
+     <player id="456716" /> 
+     <player id="461786" /> 
+     <player id="483495" /> 
+     <player id="561616" /> 
+     <player id="577288" /> 
+     <player id="589308" /> 
+     <player id="616032" /> 
+     <player id="627458" /> 
+     <player id="629146" /> 
+     <player id="638362" /> 
+     <player id="642230" /> 
+     <player id="17318" /> 
+     <player id="90949" /> 
+     <player id="102530" /> 
+     <player id="161288" /> 
+     <player id="185178" /> 
+     <player id="192772" /> 
+     <player id="199345" /> 
+     <player id="206086" /> 
+     <player id="242831" /> 
+     <player id="251687" /> 
+     <player id="257719" /> 
+     <player id="330044" /> 
+     <player id="377105" /> 
+     <player id="401124" /> 
+     <player id="497089" /> 
+     <player id="621139" /> 
+   </players> 
+   <coaches> 
+     <coach id="2180" /> 
+     <coach id="17487" /> 
+     <coach id="107020" /> 
+     <coach id="370043" /> 
+     <coach id="408047" /> 
+   </coaches> 
+</team>

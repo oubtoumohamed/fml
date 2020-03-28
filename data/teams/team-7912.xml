@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>7912</id> 
+   <name>St Joseph's FC</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/7912.png</image> 
+   <country>جبل طارق</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="249077" /> 
+     <player id="285994" /> 
+     <player id="486126" /> 
+     <player id="488134" /> 
+     <player id="17886" /> 
+     <player id="51923" /> 
+     <player id="60051" /> 
+     <player id="243502" /> 
+     <player id="262282" /> 
+     <player id="322355" /> 
+     <player id="324009" /> 
+     <player id="347155" /> 
+     <player id="375219" /> 
+     <player id="390077" /> 
+     <player id="409899" /> 
+     <player id="468878" /> 
+     <player id="488136" /> 
+     <player id="488137" /> 
+     <player id="554537" /> 
+     <player id="554539" /> 
+     <player id="554546" /> 
+     <player id="554679" /> 
+     <player id="615497" /> 
+     <player id="19205" /> 
+     <player id="60069" /> 
+     <player id="152765" /> 
+     <player id="206430" /> 
+     <player id="206431" /> 
+     <player id="320348" /> 
+     <player id="320349" /> 
+     <player id="333135" /> 
+     <player id="469877" /> 
+     <player id="486127" /> 
+     <player id="488138" /> 
+     <player id="488141" /> 
+     <player id="488142" /> 
+     <player id="488144" /> 
+     <player id="554536" /> 
+     <player id="554540" /> 
+     <player id="554544" /> 
+     <player id="554545" /> 
+     <player id="60120" /> 
+     <player id="132910" /> 
+     <player id="182313" /> 
+     <player id="194945" /> 
+     <player id="229481" /> 
+     <player id="322369" /> 
+     <player id="407772" /> 
+     <player id="468879" /> 
+     <player id="478291" /> 
+     <player id="554530" /> 
+     <player id="554541" /> 
+   </players> 
+   <coaches> 
+     <coach id="209721" /> 
+   </coaches> 
+</team>

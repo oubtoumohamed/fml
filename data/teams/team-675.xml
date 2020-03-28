@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>675</id> 
+   <name>نادي توتنهام هوتسبر لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/675.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Bill Nicholson Way, 748 High Road</adrese> 
+   <website>http://www.tottenhamhotspur.com</website> 
+   <creation-date>1882</creation-date> 
+   <players> 
+     <player id="1255" /> 
+     <player id="2476" /> 
+     <player id="199612" /> 
+     <player id="424596" /> 
+     <player id="453672" /> 
+     <player id="459480" /> 
+     <player id="2190" /> 
+     <player id="16050" /> 
+     <player id="70508" /> 
+     <player id="97354" /> 
+     <player id="155098" /> 
+     <player id="207547" /> 
+     <player id="290497" /> 
+     <player id="393436" /> 
+     <player id="425059" /> 
+     <player id="440989" /> 
+     <player id="450522" /> 
+     <player id="453675" /> 
+     <player id="453866" /> 
+     <player id="456479" /> 
+     <player id="460110" /> 
+     <player id="2197" /> 
+     <player id="13622" /> 
+     <player id="53437" /> 
+     <player id="81992" /> 
+     <player id="95871" /> 
+     <player id="141970" /> 
+     <player id="217739" /> 
+     <player id="245831" /> 
+     <player id="274469" /> 
+     <player id="274470" /> 
+     <player id="306873" /> 
+     <player id="327388" /> 
+     <player id="374837" /> 
+     <player id="392369" /> 
+     <player id="440992" /> 
+     <player id="450521" /> 
+     <player id="453680" /> 
+     <player id="453686" /> 
+     <player id="453867" /> 
+     <player id="454542" /> 
+     <player id="455768" /> 
+     <player id="457163" /> 
+     <player id="459481" /> 
+     <player id="460113" /> 
+     <player id="509346" /> 
+     <player id="561688" /> 
+     <player id="3153" /> 
+     <player id="103043" /> 
+     <player id="158575" /> 
+     <player id="303286" /> 
+     <player id="319305" /> 
+     <player id="400987" /> 
+     <player id="515624" /> 
+   </players> 
+   <coaches> 
+     <coach id="104084" /> 
+     <coach id="110802" /> 
+     <coach id="304313" /> 
+   </coaches> 
+</team>

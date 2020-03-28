@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1196</id> 
+   <name>نادي دوندالك لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1196.png</image> 
+   <country>أيرلندا</country> 
+   <adrese>Carrick Road</adrese> 
+   <website>http://www.dundalkfc.com</website> 
+   <creation-date>1903</creation-date> 
+   <players> 
+     <player id="7089" /> 
+     <player id="77134" /> 
+     <player id="121512" /> 
+     <player id="375143" /> 
+     <player id="25608" /> 
+     <player id="74014" /> 
+     <player id="74927" /> 
+     <player id="129846" /> 
+     <player id="185477" /> 
+     <player id="270390" /> 
+     <player id="270538" /> 
+     <player id="274905" /> 
+     <player id="283049" /> 
+     <player id="465847" /> 
+     <player id="537040" /> 
+     <player id="598508" /> 
+     <player id="75120" /> 
+     <player id="76075" /> 
+     <player id="86718" /> 
+     <player id="122827" /> 
+     <player id="123059" /> 
+     <player id="169718" /> 
+     <player id="187232" /> 
+     <player id="216984" /> 
+     <player id="274197" /> 
+     <player id="320321" /> 
+     <player id="358365" /> 
+     <player id="373871" /> 
+     <player id="402358" /> 
+     <player id="442826" /> 
+     <player id="482390" /> 
+     <player id="537058" /> 
+     <player id="538353" /> 
+     <player id="550148" /> 
+     <player id="550150" /> 
+     <player id="605012" /> 
+     <player id="74918" /> 
+     <player id="112696" /> 
+     <player id="114003" /> 
+     <player id="155833" /> 
+     <player id="250508" /> 
+     <player id="399049" /> 
+     <player id="596219" /> 
+   </players> 
+   <coaches> 
+     <coach id="968" /> 
+     <coach id="185695" /> 
+     <coach id="265596" /> 
+     <coach id="598910" /> 
+   </coaches> 
+</team>

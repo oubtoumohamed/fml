@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>6676</team_id> 
+   <id>640640</id> 
+   <name>N. Milenković</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/640640.png</image> 
+   <position>غير معروف</position> 
+   <nationality>سلوفينيا</nationality> 
+   <birth-day>سلوفينيا</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

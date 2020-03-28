@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2729</id> 
+   <name>Cardiff Metropolitan University FC</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2729.png</image> 
+   <country>ويلز</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="198651" /> 
+     <player id="370493" /> 
+     <player id="438263" /> 
+     <player id="453050" /> 
+     <player id="471053" /> 
+     <player id="570228" /> 
+     <player id="187945" /> 
+     <player id="265181" /> 
+     <player id="438265" /> 
+     <player id="438269" /> 
+     <player id="453036" /> 
+     <player id="464980" /> 
+     <player id="473515" /> 
+     <player id="474112" /> 
+     <player id="509395" /> 
+     <player id="573020" /> 
+     <player id="573203" /> 
+     <player id="586476" /> 
+     <player id="634642" /> 
+     <player id="92731" /> 
+     <player id="325757" /> 
+     <player id="438273" /> 
+     <player id="438277" /> 
+     <player id="438278" /> 
+     <player id="473773" /> 
+     <player id="494598" /> 
+     <player id="521382" /> 
+     <player id="573423" /> 
+     <player id="582783" /> 
+     <player id="608394" /> 
+     <player id="608395" /> 
+     <player id="608663" /> 
+     <player id="627306" /> 
+     <player id="642279" /> 
+     <player id="435442" /> 
+     <player id="438271" /> 
+     <player id="438272" /> 
+     <player id="438274" /> 
+     <player id="453065" /> 
+     <player id="453070" /> 
+     <player id="454344" /> 
+     <player id="464976" /> 
+     <player id="497586" /> 
+     <player id="570226" /> 
+     <player id="594988" /> 
+   </players> 
+   <coaches> 
+     <coach id="55117" /> 
+     <coach id="82552" /> 
+   </coaches> 
+</team>

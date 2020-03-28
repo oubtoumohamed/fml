@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2693</id> 
+   <name>نادي سكنديا 79 لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2693.png</image> 
+   <country>مقدونيا</country> 
+   <adrese>ul. Blagoja Toska nr.1</adrese> 
+   <website>http://http://www.kfshkendija.com/</website> 
+   <creation-date>1979</creation-date> 
+   <players> 
+     <player id="194623" /> 
+     <player id="214416" /> 
+     <player id="270607" /> 
+     <player id="488174" /> 
+     <player id="41475" /> 
+     <player id="57333" /> 
+     <player id="103539" /> 
+     <player id="141781" /> 
+     <player id="154200" /> 
+     <player id="154202" /> 
+     <player id="199014" /> 
+     <player id="299153" /> 
+     <player id="349671" /> 
+     <player id="391131" /> 
+     <player id="395379" /> 
+     <player id="509947" /> 
+     <player id="509952" /> 
+     <player id="515363" /> 
+     <player id="40769" /> 
+     <player id="85791" /> 
+     <player id="91412" /> 
+     <player id="235331" /> 
+     <player id="319455" /> 
+     <player id="392082" /> 
+     <player id="407992" /> 
+     <player id="426864" /> 
+     <player id="440022" /> 
+     <player id="509954" /> 
+     <player id="509956" /> 
+     <player id="514390" /> 
+     <player id="540970" /> 
+     <player id="612720" /> 
+     <player id="35765" /> 
+     <player id="35820" /> 
+     <player id="84088" /> 
+     <player id="140093" /> 
+     <player id="140118" /> 
+     <player id="141782" /> 
+     <player id="170797" /> 
+     <player id="226136" /> 
+     <player id="234444" /> 
+     <player id="307033" /> 
+     <player id="343525" /> 
+     <player id="437497" /> 
+     <player id="485893" /> 
+     <player id="509969" /> 
+     <player id="509975" /> 
+   </players> 
+   <coaches> 
+     <coach id="195346" /> 
+     <coach id="195663" /> 
+     <coach id="484443" /> 
+   </coaches> 
+</team>

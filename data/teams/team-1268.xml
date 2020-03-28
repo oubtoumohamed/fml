@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1268</id> 
+   <name>نادي تورينو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1268.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Via Dell'Arcivescovado 1</adrese> 
+   <website>http://www.torinofc.it</website> 
+   <creation-date>1906</creation-date> 
+   <players> 
+     <player id="17781" /> 
+     <player id="18505" /> 
+     <player id="58378" /> 
+     <player id="103065" /> 
+     <player id="167762" /> 
+     <player id="317299" /> 
+     <player id="440085" /> 
+     <player id="477614" /> 
+     <player id="104" /> 
+     <player id="3019" /> 
+     <player id="4059" /> 
+     <player id="4315" /> 
+     <player id="9042" /> 
+     <player id="14270" /> 
+     <player id="39105" /> 
+     <player id="112357" /> 
+     <player id="189565" /> 
+     <player id="196792" /> 
+     <player id="199874" /> 
+     <player id="274798" /> 
+     <player id="323251" /> 
+     <player id="332746" /> 
+     <player id="401062" /> 
+     <player id="408131" /> 
+     <player id="426560" /> 
+     <player id="429805" /> 
+     <player id="462884" /> 
+     <player id="471121" /> 
+     <player id="473494" /> 
+     <player id="477619" /> 
+     <player id="528135" /> 
+     <player id="548104" /> 
+     <player id="598633" /> 
+     <player id="46469" /> 
+     <player id="52645" /> 
+     <player id="61073" /> 
+     <player id="72309" /> 
+     <player id="85498" /> 
+     <player id="148164" /> 
+     <player id="162513" /> 
+     <player id="201154" /> 
+     <player id="224322" /> 
+     <player id="268856" /> 
+     <player id="273837" /> 
+     <player id="283838" /> 
+     <player id="319610" /> 
+     <player id="389037" /> 
+     <player id="423450" /> 
+     <player id="547046" /> 
+     <player id="62803" /> 
+     <player id="77386" /> 
+     <player id="111753" /> 
+     <player id="162512" /> 
+     <player id="213201" /> 
+     <player id="228719" /> 
+     <player id="351879" /> 
+     <player id="362653" /> 
+     <player id="413971" /> 
+     <player id="423463" /> 
+     <player id="423840" /> 
+     <player id="459637" /> 
+     <player id="528136" /> 
+     <player id="530390" /> 
+     <player id="575673" /> 
+   </players> 
+   <coaches> 
+     <coach id="110809" /> 
+     <coach id="265391" /> 
+   </coaches> 
+</team>

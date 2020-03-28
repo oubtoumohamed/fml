@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3416</team_id> 
+   <id>643438</id> 
+   <name>L. Bellaouel</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/643438.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>الجزائر</nationality> 
+   <birth-day>2000-12-27</birth-day> 
+   <length  unit="cm">الجزائر</length> 
+   <weight  unit="kg"></weight> 
+</player>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3569</id> 
+   <name>الوحدات الأردني (عمان)</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3569.png</image> 
+   <country>الأردن</country> 
+   <adrese></adrese> 
+   <website>http://www.alweehdat.net</website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="81128" /> 
+     <player id="120097" /> 
+     <player id="329069" /> 
+     <player id="373469" /> 
+     <player id="576356" /> 
+     <player id="77061" /> 
+     <player id="81500" /> 
+     <player id="81917" /> 
+     <player id="84873" /> 
+     <player id="165298" /> 
+     <player id="168667" /> 
+     <player id="235029" /> 
+     <player id="395721" /> 
+     <player id="434371" /> 
+     <player id="475016" /> 
+     <player id="595059" /> 
+     <player id="595060" /> 
+     <player id="595061" /> 
+     <player id="61043" /> 
+     <player id="80750" /> 
+     <player id="81119" /> 
+     <player id="84871" /> 
+     <player id="128792" /> 
+     <player id="208745" /> 
+     <player id="326943" /> 
+     <player id="373495" /> 
+     <player id="373527" /> 
+     <player id="390311" /> 
+     <player id="470697" /> 
+     <player id="474985" /> 
+     <player id="531136" /> 
+     <player id="595057" /> 
+     <player id="595062" /> 
+     <player id="168670" /> 
+     <player id="184438" /> 
+     <player id="233242" /> 
+     <player id="373505" /> 
+     <player id="395722" /> 
+   </players> 
+   <coaches> 
+     <coach id="168671" /> 
+     <coach id="429613" /> 
+   </coaches> 
+</team>

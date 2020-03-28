@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1517</id> 
+   <name>نادي بي أس في إيندهوفن</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1517.png</image> 
+   <country>هولندا</country> 
+   <adrese>Fredriklaan 10a</adrese> 
+   <website>http://www.psv.nl</website> 
+   <creation-date>1913</creation-date> 
+   <players> 
+     <player id="59070" /> 
+     <player id="61206" /> 
+     <player id="64680" /> 
+     <player id="81320" /> 
+     <player id="149059" /> 
+     <player id="301076" /> 
+     <player id="319269" /> 
+     <player id="419543" /> 
+     <player id="459765" /> 
+     <player id="16344" /> 
+     <player id="75061" /> 
+     <player id="76685" /> 
+     <player id="78529" /> 
+     <player id="95797" /> 
+     <player id="131663" /> 
+     <player id="146680" /> 
+     <player id="218113" /> 
+     <player id="218158" /> 
+     <player id="271137" /> 
+     <player id="275116" /> 
+     <player id="314031" /> 
+     <player id="322329" /> 
+     <player id="329542" /> 
+     <player id="335376" /> 
+     <player id="335401" /> 
+     <player id="356783" /> 
+     <player id="426581" /> 
+     <player id="426583" /> 
+     <player id="426584" /> 
+     <player id="463312" /> 
+     <player id="463697" /> 
+     <player id="477592" /> 
+     <player id="2381" /> 
+     <player id="124939" /> 
+     <player id="215382" /> 
+     <player id="215544" /> 
+     <player id="284215" /> 
+     <player id="289180" /> 
+     <player id="315849" /> 
+     <player id="319923" /> 
+     <player id="377539" /> 
+     <player id="387005" /> 
+     <player id="394807" /> 
+     <player id="396704" /> 
+     <player id="398754" /> 
+     <player id="407735" /> 
+     <player id="408534" /> 
+     <player id="460279" /> 
+     <player id="509344" /> 
+     <player id="512218" /> 
+     <player id="525933" /> 
+     <player id="537847" /> 
+     <player id="19125" /> 
+     <player id="65056" /> 
+     <player id="159042" /> 
+     <player id="250530" /> 
+     <player id="319305" /> 
+     <player id="319397" /> 
+     <player id="327531" /> 
+     <player id="349513" /> 
+     <player id="396272" /> 
+     <player id="399771" /> 
+     <player id="407736" /> 
+     <player id="436584" /> 
+     <player id="459316" /> 
+     <player id="459760" /> 
+     <player id="460071" /> 
+     <player id="463703" /> 
+   </players> 
+   <coaches> 
+     <coach id="25" /> 
+     <coach id="36" /> 
+     <coach id="110886" /> 
+     <coach id="139255" /> 
+     <coach id="261489" /> 
+   </coaches> 
+</team>

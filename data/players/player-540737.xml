@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2407</team_id> 
+   <id>540737</id> 
+   <name>V. Fridriksson</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/540737.png</image> 
+   <position>مدافع</position> 
+   <nationality>أيسلندا</nationality> 
+   <birth-day>2001-09-24</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3442</id> 
+   <name>الاتحاد الرياضي لبسكرة</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3442.png</image> 
+   <country>الجزائر</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>1934</creation-date> 
+   <players> 
+     <player id="89427" /> 
+     <player id="438590" /> 
+     <player id="455115" /> 
+     <player id="494977" /> 
+     <player id="184086" /> 
+     <player id="188753" /> 
+     <player id="208122" /> 
+     <player id="309953" /> 
+     <player id="311127" /> 
+     <player id="344299" /> 
+     <player id="431194" /> 
+     <player id="480085" /> 
+     <player id="494978" /> 
+     <player id="532706" /> 
+     <player id="551642" /> 
+     <player id="624045" /> 
+     <player id="624051" /> 
+     <player id="80768" /> 
+     <player id="89139" /> 
+     <player id="89586" /> 
+     <player id="113716" /> 
+     <player id="160453" /> 
+     <player id="182465" /> 
+     <player id="326170" /> 
+     <player id="411520" /> 
+     <player id="413900" /> 
+     <player id="455125" /> 
+     <player id="455423" /> 
+     <player id="471077" /> 
+     <player id="494987" /> 
+     <player id="494988" /> 
+     <player id="494997" /> 
+     <player id="531605" /> 
+     <player id="624047" /> 
+     <player id="624048" /> 
+     <player id="624049" /> 
+     <player id="624053" /> 
+     <player id="624054" /> 
+     <player id="89245" /> 
+     <player id="281753" /> 
+     <player id="311548" /> 
+     <player id="330095" /> 
+     <player id="431213" /> 
+     <player id="441187" /> 
+     <player id="480086" /> 
+     <player id="530719" /> 
+     <player id="531607" /> 
+     <player id="596169" /> 
+     <player id="624044" /> 
+   </players> 
+   <coaches> 
+     <coach id="217266" /> 
+     <coach id="520010" /> 
+     <coach id="522428" /> 
+     <coach id="522430" /> 
+   </coaches> 
+</team>

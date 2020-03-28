@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>24902</team_id> 
+   <id>362155</id> 
+   <name>فيكتور ميهالوف</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/362155.png</image> 
+   <position>غير معروف</position> 
+   <nationality>مولدوفا</nationality> 
+   <birth-day>1981-12-18</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

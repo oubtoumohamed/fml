@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2700</team_id> 
+   <id>513270</id> 
+   <name>B. Dizdarević</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/513270.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>البوسنة والهرسك</nationality> 
+   <birth-day>2001-08-09</birth-day> 
+   <length  unit="cm">البوسنة</length> 
+   <weight  unit="kg">189</weight> 
+</player>

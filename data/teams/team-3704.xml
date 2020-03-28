@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3704</id> 
+   <name>زوريا لوهانشك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3704.png</image> 
+   <country>أوكرانيا</country> 
+   <adrese>vul. Oboronna 4-b</adrese> 
+   <website>http://www.zarya-lugansk.com</website> 
+   <creation-date>1923</creation-date> 
+   <players> 
+     <player id="37059" /> 
+     <player id="179305" /> 
+     <player id="196324" /> 
+     <player id="292645" /> 
+     <player id="427940" /> 
+     <player id="542458" /> 
+     <player id="613107" /> 
+     <player id="37007" /> 
+     <player id="37042" /> 
+     <player id="65027" /> 
+     <player id="74724" /> 
+     <player id="130072" /> 
+     <player id="135237" /> 
+     <player id="253049" /> 
+     <player id="295364" /> 
+     <player id="297458" /> 
+     <player id="319813" /> 
+     <player id="324626" /> 
+     <player id="427824" /> 
+     <player id="427945" /> 
+     <player id="485030" /> 
+     <player id="36892" /> 
+     <player id="37114" /> 
+     <player id="120112" /> 
+     <player id="125173" /> 
+     <player id="140915" /> 
+     <player id="158317" /> 
+     <player id="161221" /> 
+     <player id="209885" /> 
+     <player id="215367" /> 
+     <player id="235454" /> 
+     <player id="275134" /> 
+     <player id="302177" /> 
+     <player id="317621" /> 
+     <player id="319815" /> 
+     <player id="375875" /> 
+     <player id="376527" /> 
+     <player id="377505" /> 
+     <player id="389947" /> 
+     <player id="404641" /> 
+     <player id="434994" /> 
+     <player id="459864" /> 
+     <player id="477589" /> 
+     <player id="482696" /> 
+     <player id="509611" /> 
+     <player id="556382" /> 
+     <player id="158375" /> 
+     <player id="303038" /> 
+     <player id="317311" /> 
+     <player id="318378" /> 
+     <player id="320114" /> 
+     <player id="335818" /> 
+     <player id="336709" /> 
+     <player id="363507" /> 
+     <player id="401075" /> 
+     <player id="450328" /> 
+     <player id="493713" /> 
+   </players> 
+   <coaches> 
+     <coach id="219845" /> 
+     <coach id="225033" /> 
+     <coach id="305413" /> 
+     <coach id="392338" /> 
+   </coaches> 
+</team>

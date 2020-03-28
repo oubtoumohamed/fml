@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1142</id> 
+   <name>نادي بريدابليك لألعاب الكرة للشباب</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1142.png</image> 
+   <country>أيسلندا</country> 
+   <adrese>Dalsmára 5</adrese> 
+   <website>http://www.blikar.is/</website> 
+   <creation-date>1950</creation-date> 
+   <players> 
+     <player id="9578" /> 
+     <player id="245841" /> 
+     <player id="249525" /> 
+     <player id="463461" /> 
+     <player id="573075" /> 
+     <player id="9884" /> 
+     <player id="32179" /> 
+     <player id="32241" /> 
+     <player id="79224" /> 
+     <player id="86224" /> 
+     <player id="231133" /> 
+     <player id="339823" /> 
+     <player id="384489" /> 
+     <player id="463464" /> 
+     <player id="463483" /> 
+     <player id="482187" /> 
+     <player id="9877" /> 
+     <player id="84170" /> 
+     <player id="155499" /> 
+     <player id="194453" /> 
+     <player id="203430" /> 
+     <player id="250520" /> 
+     <player id="250524" /> 
+     <player id="315746" /> 
+     <player id="315748" /> 
+     <player id="381651" /> 
+     <player id="407281" /> 
+     <player id="421596" /> 
+     <player id="429065" /> 
+     <player id="451841" /> 
+     <player id="463472" /> 
+     <player id="463475" /> 
+     <player id="463488" /> 
+     <player id="463548" /> 
+     <player id="463550" /> 
+     <player id="509657" /> 
+     <player id="634888" /> 
+     <player id="634889" /> 
+     <player id="636342" /> 
+     <player id="115392" /> 
+     <player id="131277" /> 
+     <player id="150726" /> 
+     <player id="215726" /> 
+     <player id="253351" /> 
+     <player id="305772" /> 
+     <player id="408438" /> 
+     <player id="463553" /> 
+     <player id="463554" /> 
+     <player id="634890" /> 
+   </players> 
+   <coaches> 
+     <coach id="9677" /> 
+     <coach id="346573" /> 
+   </coaches> 
+</team>

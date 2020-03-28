@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1863</id> 
+   <name>أرسنال تولا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1863.png</image> 
+   <country>روسيا</country> 
+   <adrese>Krasnoarmeyskiy prospekt 20</adrese> 
+   <website>http://arsenaltula.ru</website> 
+   <creation-date>2008</creation-date> 
+   <players> 
+     <player id="95788" /> 
+     <player id="128636" /> 
+     <player id="190468" /> 
+     <player id="300933" /> 
+     <player id="314362" /> 
+     <player id="348959" /> 
+     <player id="5976" /> 
+     <player id="6445" /> 
+     <player id="26121" /> 
+     <player id="27761" /> 
+     <player id="55703" /> 
+     <player id="65807" /> 
+     <player id="84800" /> 
+     <player id="135674" /> 
+     <player id="176575" /> 
+     <player id="209801" /> 
+     <player id="258970" /> 
+     <player id="295602" /> 
+     <player id="371113" /> 
+     <player id="423537" /> 
+     <player id="484984" /> 
+     <player id="26107" /> 
+     <player id="26131" /> 
+     <player id="52893" /> 
+     <player id="54822" /> 
+     <player id="75764" /> 
+     <player id="95746" /> 
+     <player id="103679" /> 
+     <player id="124643" /> 
+     <player id="158208" /> 
+     <player id="211989" /> 
+     <player id="219459" /> 
+     <player id="253606" /> 
+     <player id="269971" /> 
+     <player id="301540" /> 
+     <player id="319033" /> 
+     <player id="320971" /> 
+     <player id="336865" /> 
+     <player id="338693" /> 
+     <player id="377523" /> 
+     <player id="386263" /> 
+     <player id="402556" /> 
+     <player id="435979" /> 
+     <player id="540646" /> 
+     <player id="573626" /> 
+     <player id="614110" /> 
+     <player id="6665" /> 
+     <player id="27828" /> 
+     <player id="72327" /> 
+     <player id="189102" /> 
+     <player id="189127" /> 
+     <player id="226405" /> 
+     <player id="239620" /> 
+     <player id="270583" /> 
+     <player id="444199" /> 
+     <player id="521556" /> 
+   </players> 
+   <coaches> 
+     <coach id="135601" /> 
+     <coach id="152874" /> 
+     <coach id="253142" /> 
+     <coach id="373521" /> 
+   </coaches> 
+</team>

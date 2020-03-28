@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1452</id> 
+   <name>Balzan FC</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1452.png</image> 
+   <country>مالطا</country> 
+   <adrese></adrese> 
+   <website>http://www.balzanyouths.com</website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="40594" /> 
+     <player id="40987" /> 
+     <player id="84253" /> 
+     <player id="128920" /> 
+     <player id="165067" /> 
+     <player id="424759" /> 
+     <player id="638522" /> 
+     <player id="22659" /> 
+     <player id="39390" /> 
+     <player id="39414" /> 
+     <player id="45779" /> 
+     <player id="84042" /> 
+     <player id="134583" /> 
+     <player id="136157" /> 
+     <player id="159855" /> 
+     <player id="171046" /> 
+     <player id="182401" /> 
+     <player id="275693" /> 
+     <player id="282679" /> 
+     <player id="289815" /> 
+     <player id="322477" /> 
+     <player id="387445" /> 
+     <player id="422187" /> 
+     <player id="422190" /> 
+     <player id="460599" /> 
+     <player id="574760" /> 
+     <player id="637784" /> 
+     <player id="41000" /> 
+     <player id="42142" /> 
+     <player id="49340" /> 
+     <player id="72498" /> 
+     <player id="136163" /> 
+     <player id="155889" /> 
+     <player id="165010" /> 
+     <player id="217501" /> 
+     <player id="283755" /> 
+     <player id="328059" /> 
+     <player id="336034" /> 
+     <player id="408041" /> 
+     <player id="422195" /> 
+     <player id="428034" /> 
+     <player id="433217" /> 
+     <player id="437709" /> 
+     <player id="468586" /> 
+     <player id="513130" /> 
+     <player id="565593" /> 
+     <player id="567614" /> 
+     <player id="567623" /> 
+     <player id="567642" /> 
+     <player id="593054" /> 
+     <player id="628381" /> 
+     <player id="56528" /> 
+     <player id="134142" /> 
+     <player id="155883" /> 
+     <player id="165098" /> 
+     <player id="194641" /> 
+     <player id="237167" /> 
+     <player id="290902" /> 
+     <player id="402142" /> 
+     <player id="408043" /> 
+     <player id="437705" /> 
+     <player id="612194" /> 
+     <player id="650136" /> 
+     <player id="650137" /> 
+   </players> 
+   <coaches> 
+     <coach id="56540" /> 
+     <coach id="480329" /> 
+   </coaches> 
+</team>

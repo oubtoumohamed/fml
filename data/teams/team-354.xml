@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>354</id> 
+   <name>نادي سيسكا صوفيا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/354.png</image> 
+   <country>بلغاريا</country> 
+   <adrese>bul. Dragan Tzankov 3, Borisova Gradina</adrese> 
+   <website>http://www.cska.bg</website> 
+   <creation-date>1948</creation-date> 
+   <players> 
+     <player id="27377" /> 
+     <player id="85768" /> 
+     <player id="115221" /> 
+     <player id="211010" /> 
+     <player id="403608" /> 
+     <player id="423753" /> 
+     <player id="470940" /> 
+     <player id="616465" /> 
+     <player id="51809" /> 
+     <player id="51845" /> 
+     <player id="55843" /> 
+     <player id="59574" /> 
+     <player id="88102" /> 
+     <player id="156236" /> 
+     <player id="207233" /> 
+     <player id="232816" /> 
+     <player id="235206" /> 
+     <player id="259265" /> 
+     <player id="319151" /> 
+     <player id="329914" /> 
+     <player id="366417" /> 
+     <player id="392362" /> 
+     <player id="393161" /> 
+     <player id="416117" /> 
+     <player id="423770" /> 
+     <player id="480346" /> 
+     <player id="551250" /> 
+     <player id="74509" /> 
+     <player id="134625" /> 
+     <player id="137130" /> 
+     <player id="142666" /> 
+     <player id="148186" /> 
+     <player id="156251" /> 
+     <player id="159055" /> 
+     <player id="211948" /> 
+     <player id="333780" /> 
+     <player id="347803" /> 
+     <player id="423394" /> 
+     <player id="423778" /> 
+     <player id="440956" /> 
+     <player id="460796" /> 
+     <player id="470948" /> 
+     <player id="515357" /> 
+     <player id="515364" /> 
+     <player id="546980" /> 
+     <player id="56902" /> 
+     <player id="74106" /> 
+     <player id="90669" /> 
+     <player id="104766" /> 
+     <player id="186645" /> 
+     <player id="201874" /> 
+     <player id="211016" /> 
+     <player id="235207" /> 
+     <player id="235306" /> 
+     <player id="245915" /> 
+     <player id="246638" /> 
+     <player id="314035" /> 
+     <player id="319436" /> 
+     <player id="321436" /> 
+     <player id="354909" /> 
+     <player id="404413" /> 
+     <player id="410058" /> 
+     <player id="424090" /> 
+     <player id="460470" /> 
+     <player id="470949" /> 
+     <player id="597363" /> 
+   </players> 
+   <coaches> 
+     <coach id="6612" /> 
+     <coach id="39453" /> 
+     <coach id="140351" /> 
+     <coach id="152527" /> 
+     <coach id="160373" /> 
+     <coach id="163088" /> 
+     <coach id="223985" /> 
+     <coach id="231276" /> 
+     <coach id="304374" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>9967</team_id> 
+   <id>637750</id> 
+   <name>لوكا فارياس</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/637750.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>البرازيل</nationality> 
+   <birth-day>2000-03-10</birth-day> 
+   <length  unit="cm">177</length> 
+   <weight  unit="kg">60</weight> 
+</player>

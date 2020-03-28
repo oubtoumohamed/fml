@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>979</team_id> 
+   <id>442705</id> 
+   <name>نيلسون مبوحوم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/442705.png</image> 
+   <position>مهاجم</position> 
+   <nationality>الكاميرون</nationality> 
+   <birth-day>1999-05-04</birth-day> 
+   <length  unit="cm">الكاميرون</length> 
+   <weight  unit="kg">177</weight> 
+</player>

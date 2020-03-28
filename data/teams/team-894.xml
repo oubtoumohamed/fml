@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>894</id> 
+   <name>نادي نيس كوت دازور الأوليمبي الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/894.png</image> 
+   <country>فرنسا</country> 
+   <adrese>177 route de Grenoble</adrese> 
+   <website>http://www.ogcnice.com</website> 
+   <creation-date>1904</creation-date> 
+   <players> 
+     <player id="1450" /> 
+     <player id="210145" /> 
+     <player id="235483" /> 
+     <player id="247908" /> 
+     <player id="389083" /> 
+     <player id="1118" /> 
+     <player id="53129" /> 
+     <player id="87243" /> 
+     <player id="99145" /> 
+     <player id="155061" /> 
+     <player id="158001" /> 
+     <player id="266544" /> 
+     <player id="299242" /> 
+     <player id="329542" /> 
+     <player id="334253" /> 
+     <player id="338143" /> 
+     <player id="340853" /> 
+     <player id="416488" /> 
+     <player id="419553" /> 
+     <player id="431193" /> 
+     <player id="470660" /> 
+     <player id="477858" /> 
+     <player id="543717" /> 
+     <player id="582916" /> 
+     <player id="611778" /> 
+     <player id="140912" /> 
+     <player id="162523" /> 
+     <player id="171726" /> 
+     <player id="235481" /> 
+     <player id="259621" /> 
+     <player id="288087" /> 
+     <player id="310845" /> 
+     <player id="312701" /> 
+     <player id="320110" /> 
+     <player id="334096" /> 
+     <player id="387427" /> 
+     <player id="402947" /> 
+     <player id="429607" /> 
+     <player id="429866" /> 
+     <player id="431081" /> 
+     <player id="446668" /> 
+     <player id="454972" /> 
+     <player id="506331" /> 
+     <player id="527997" /> 
+     <player id="531058" /> 
+     <player id="574972" /> 
+     <player id="610654" /> 
+     <player id="22357" /> 
+     <player id="129155" /> 
+     <player id="161113" /> 
+     <player id="316064" /> 
+     <player id="316494" /> 
+     <player id="387431" /> 
+     <player id="426537" /> 
+     <player id="447092" /> 
+     <player id="481081" /> 
+     <player id="497988" /> 
+     <player id="516989" /> 
+     <player id="542649" /> 
+   </players> 
+   <coaches> 
+     <coach id="176620" /> 
+     <coach id="304821" /> 
+     <coach id="314038" /> 
+   </coaches> 
+</team>

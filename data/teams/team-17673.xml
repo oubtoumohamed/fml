@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>17673</id> 
+   <name>نادي تراكو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/17673.png</image> 
+   <country>لتوانيا</country> 
+   <adrese>Liubarto gatvė 33</adrese> 
+   <website>http://www.tfk.lt</website> 
+   <creation-date>2005</creation-date> 
+   <players> 
+     <player id="27425" /> 
+     <player id="134701" /> 
+     <player id="181929" /> 
+     <player id="398251" /> 
+     <player id="437925" /> 
+     <player id="451875" /> 
+     <player id="856" /> 
+     <player id="122997" /> 
+     <player id="123697" /> 
+     <player id="299573" /> 
+     <player id="302473" /> 
+     <player id="318451" /> 
+     <player id="319935" /> 
+     <player id="319936" /> 
+     <player id="437922" /> 
+     <player id="452855" /> 
+     <player id="458776" /> 
+     <player id="517703" /> 
+     <player id="517719" /> 
+     <player id="6472" /> 
+     <player id="27416" /> 
+     <player id="27438" /> 
+     <player id="123032" /> 
+     <player id="129013" /> 
+     <player id="182824" /> 
+     <player id="213887" /> 
+     <player id="244323" /> 
+     <player id="272936" /> 
+     <player id="285892" /> 
+     <player id="288319" /> 
+     <player id="300040" /> 
+     <player id="319940" /> 
+     <player id="387345" /> 
+     <player id="387353" /> 
+     <player id="424653" /> 
+     <player id="427764" /> 
+     <player id="427766" /> 
+     <player id="429058" /> 
+     <player id="461907" /> 
+     <player id="469811" /> 
+     <player id="476658" /> 
+     <player id="482521" /> 
+     <player id="513695" /> 
+     <player id="539616" /> 
+     <player id="605638" /> 
+     <player id="607588" /> 
+     <player id="611957" /> 
+     <player id="155164" /> 
+     <player id="211924" /> 
+     <player id="213895" /> 
+     <player id="255176" /> 
+     <player id="275169" /> 
+     <player id="301056" /> 
+     <player id="305631" /> 
+     <player id="412937" /> 
+     <player id="498521" /> 
+     <player id="549162" /> 
+     <player id="550837" /> 
+   </players> 
+   <coaches> 
+     <coach id="27492" /> 
+     <coach id="195973" /> 
+     <coach id="196161" /> 
+     <coach id="293814" /> 
+     <coach id="345035" /> 
+     <coach id="452860" /> 
+     <coach id="554372" /> 
+   </coaches> 
+</team>

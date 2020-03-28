@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>6676</id> 
+   <name>FK Rīgas Futbola skola</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/6676.png</image> 
+   <country>لاتفيا</country> 
+   <adrese>Uzvaras bulvāris 10, Imantā</adrese> 
+   <website></website> 
+   <creation-date>2005</creation-date> 
+   <players> 
+     <player id="29632" /> 
+     <player id="237047" /> 
+     <player id="477081" /> 
+     <player id="29466" /> 
+     <player id="29649" /> 
+     <player id="102969" /> 
+     <player id="125600" /> 
+     <player id="160309" /> 
+     <player id="160641" /> 
+     <player id="288229" /> 
+     <player id="360727" /> 
+     <player id="410792" /> 
+     <player id="617102" /> 
+     <player id="29676" /> 
+     <player id="35674" /> 
+     <player id="39946" /> 
+     <player id="74668" /> 
+     <player id="84110" /> 
+     <player id="85828" /> 
+     <player id="102992" /> 
+     <player id="126139" /> 
+     <player id="275134" /> 
+     <player id="275723" /> 
+     <player id="278371" /> 
+     <player id="300041" /> 
+     <player id="334637" /> 
+     <player id="460472" /> 
+     <player id="461846" /> 
+     <player id="610148" /> 
+     <player id="614722" /> 
+     <player id="642333" /> 
+     <player id="642361" /> 
+     <player id="39216" /> 
+     <player id="82765" /> 
+     <player id="87638" /> 
+     <player id="103419" /> 
+     <player id="143802" /> 
+     <player id="196043" /> 
+     <player id="248034" /> 
+     <player id="332712" /> 
+     <player id="427638" /> 
+     <player id="549009" /> 
+     <player id="555189" /> 
+   </players> 
+   <coaches> 
+     <coach id="218005" /> 
+   </coaches> 
+</team>

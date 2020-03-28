@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3464</id> 
+   <name>الاتحاد الرياضي حسنية أغادير</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3464.png</image> 
+   <country>المغرب</country> 
+   <adrese></adrese> 
+   <website>http://www1.husafootball.com</website> 
+   <creation-date>1946</creation-date> 
+   <players> 
+     <player id="432149" /> 
+     <player id="594404" /> 
+     <player id="594417" /> 
+     <player id="594737" /> 
+     <player id="632326" /> 
+     <player id="168133" /> 
+     <player id="213345" /> 
+     <player id="405630" /> 
+     <player id="594406" /> 
+     <player id="594412" /> 
+     <player id="594418" /> 
+     <player id="594725" /> 
+     <player id="594738" /> 
+     <player id="594739" /> 
+     <player id="632328" /> 
+     <player id="648771" /> 
+     <player id="594407" /> 
+     <player id="594408" /> 
+     <player id="594409" /> 
+     <player id="594411" /> 
+     <player id="594413" /> 
+     <player id="594414" /> 
+     <player id="594415" /> 
+     <player id="594416" /> 
+     <player id="594419" /> 
+     <player id="594422" /> 
+     <player id="632319" /> 
+     <player id="632322" /> 
+     <player id="647510" /> 
+     <player id="648772" /> 
+     <player id="649719" /> 
+     <player id="139251" /> 
+     <player id="233242" /> 
+     <player id="314250" /> 
+     <player id="324524" /> 
+     <player id="342707" /> 
+     <player id="532513" /> 
+     <player id="594410" /> 
+     <player id="594424" /> 
+     <player id="594425" /> 
+     <player id="596436" /> 
+     <player id="632323" /> 
+     <player id="632324" /> 
+     <player id="632325" /> 
+     <player id="647509" /> 
+     <player id="647700" /> 
+   </players> 
+   <coaches> 
+     <coach id="229968" /> 
+     <coach id="250458" /> 
+     <coach id="649724" /> 
+     <coach id="650024" /> 
+   </coaches> 
+</team>

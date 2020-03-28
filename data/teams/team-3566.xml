@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3566</id> 
+   <name>نادي شباب الأردن القادسية</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3566.png</image> 
+   <country>الأردن</country> 
+   <adrese></adrese> 
+   <website>http://www.jordanyouthclub.net</website> 
+   <creation-date>2002</creation-date> 
+   <players> 
+     <player id="329067" /> 
+     <player id="98197" /> 
+     <player id="119530" /> 
+     <player id="329071" /> 
+     <player id="329073" /> 
+     <player id="329075" /> 
+     <player id="329077" /> 
+     <player id="329079" /> 
+     <player id="329082" /> 
+     <player id="329086" /> 
+     <player id="329088" /> 
+     <player id="329089" /> 
+     <player id="70783" /> 
+     <player id="81079" /> 
+     <player id="139521" /> 
+     <player id="307579" /> 
+     <player id="329091" /> 
+     <player id="329092" /> 
+   </players> 
+   <coaches> 
+   </coaches> 
+</team>

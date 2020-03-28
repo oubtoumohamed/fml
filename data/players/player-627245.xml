@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>7249</team_id> 
+   <id>627245</id> 
+   <name>مشعل علي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/627245.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>السعودية</nationality> 
+   <birth-day>السعودية</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

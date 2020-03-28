@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1953</team_id> 
+   <id>540091</id> 
+   <name>D. Bakić</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/540091.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>مونتينيغرو</nationality> 
+   <birth-day>1999-02-23</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

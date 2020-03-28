@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1355</id> 
+   <name>نادي توبول كوستاناي لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1355.png</image> 
+   <country>كازاخستان</country> 
+   <adrese>ul. 1 Maya 153</adrese> 
+   <website>http://www.fc-tobol.kz</website> 
+   <creation-date>1967</creation-date> 
+   <players> 
+     <player id="39367" /> 
+     <player id="116736" /> 
+     <player id="134759" /> 
+     <player id="186798" /> 
+     <player id="199444" /> 
+     <player id="233551" /> 
+     <player id="403929" /> 
+     <player id="12097" /> 
+     <player id="19082" /> 
+     <player id="29131" /> 
+     <player id="84406" /> 
+     <player id="162346" /> 
+     <player id="195751" /> 
+     <player id="269787" /> 
+     <player id="306942" /> 
+     <player id="350835" /> 
+     <player id="399451" /> 
+     <player id="403201" /> 
+     <player id="421608" /> 
+     <player id="431999" /> 
+     <player id="467025" /> 
+     <player id="557245" /> 
+     <player id="558799" /> 
+     <player id="606077" /> 
+     <player id="36875" /> 
+     <player id="40678" /> 
+     <player id="76468" /> 
+     <player id="89680" /> 
+     <player id="124325" /> 
+     <player id="124353" /> 
+     <player id="137931" /> 
+     <player id="273270" /> 
+     <player id="301528" /> 
+     <player id="316862" /> 
+     <player id="345403" /> 
+     <player id="385885" /> 
+     <player id="403926" /> 
+     <player id="465001" /> 
+     <player id="606075" /> 
+     <player id="606076" /> 
+     <player id="606078" /> 
+     <player id="65971" /> 
+     <player id="121480" /> 
+     <player id="135408" /> 
+     <player id="180541" /> 
+     <player id="186789" /> 
+     <player id="300790" /> 
+     <player id="351763" /> 
+     <player id="386659" /> 
+     <player id="547031" /> 
+     <player id="554883" /> 
+   </players> 
+   <coaches> 
+     <coach id="36923" /> 
+     <coach id="40683" /> 
+     <coach id="183606" /> 
+     <coach id="184212" /> 
+     <coach id="241856" /> 
+     <coach id="267537" /> 
+     <coach id="290796" /> 
+     <coach id="618783" /> 
+   </coaches> 
+</team>

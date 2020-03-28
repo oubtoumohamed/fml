@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>200</id> 
+   <name>نادي باتي بوريسوف لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/200.png</image> 
+   <country>بلاروسيا</country> 
+   <adrese>prospekt Revoljutsni 16</adrese> 
+   <website>http://www.fcbate.by</website> 
+   <creation-date>1973</creation-date> 
+   <players> 
+     <player id="80489" /> 
+     <player id="269554" /> 
+     <player id="399666" /> 
+     <player id="420613" /> 
+     <player id="424008" /> 
+     <player id="26106" /> 
+     <player id="35211" /> 
+     <player id="47192" /> 
+     <player id="127750" /> 
+     <player id="135674" /> 
+     <player id="136632" /> 
+     <player id="161799" /> 
+     <player id="189113" /> 
+     <player id="189128" /> 
+     <player id="269937" /> 
+     <player id="386361" /> 
+     <player id="407568" /> 
+     <player id="420615" /> 
+     <player id="420616" /> 
+     <player id="2960" /> 
+     <player id="35222" /> 
+     <player id="39580" /> 
+     <player id="39581" /> 
+     <player id="40001" /> 
+     <player id="41056" /> 
+     <player id="59517" /> 
+     <player id="80457" /> 
+     <player id="90084" /> 
+     <player id="225851" /> 
+     <player id="252092" /> 
+     <player id="263461" /> 
+     <player id="267208" /> 
+     <player id="282372" /> 
+     <player id="318755" /> 
+     <player id="348067" /> 
+     <player id="387895" /> 
+     <player id="420619" /> 
+     <player id="420620" /> 
+     <player id="451841" /> 
+     <player id="467575" /> 
+     <player id="467583" /> 
+     <player id="489252" /> 
+     <player id="489253" /> 
+     <player id="555441" /> 
+     <player id="555442" /> 
+     <player id="39942" /> 
+     <player id="40004" /> 
+     <player id="121480" /> 
+     <player id="149660" /> 
+     <player id="179836" /> 
+     <player id="183916" /> 
+     <player id="381193" /> 
+     <player id="420624" /> 
+     <player id="467584" /> 
+     <player id="467589" /> 
+     <player id="514191" /> 
+   </players> 
+   <coaches> 
+     <coach id="77808" /> 
+     <coach id="407713" /> 
+     <coach id="467590" /> 
+   </coaches> 
+</team>

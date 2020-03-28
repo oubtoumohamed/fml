@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1995</team_id> 
+   <id>610338</id> 
+   <name>A. Petrosyan</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/610338.png</image> 
+   <position>غير معروف</position> 
+   <nationality>أرمينيا</nationality> 
+   <birth-day>1987-11-04</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

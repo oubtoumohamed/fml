@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>308</team_id> 
+   <id>592643</id> 
+   <name>Carlos Miguel</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/592643.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>البرازيل</nationality> 
+   <birth-day>1998-10-09</birth-day> 
+   <length  unit="cm">البرازيل</length> 
+   <weight  unit="kg">200</weight> 
+</player>

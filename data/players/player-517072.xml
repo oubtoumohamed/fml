@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2153</team_id> 
+   <id>517072</id> 
+   <name>J. Larsson</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/517072.png</image> 
+   <position>مهاجم</position> 
+   <nationality>السويد</nationality> 
+   <birth-day>2001-04-21</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

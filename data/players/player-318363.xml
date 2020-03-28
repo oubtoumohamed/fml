@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>665</team_id> 
+   <id>318363</id> 
+   <name>ماتيجا ساركيك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/318363.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>مونتينيغرو</nationality> 
+   <birth-day>1997-07-23</birth-day> 
+   <length  unit="cm">إنجلترا</length> 
+   <weight  unit="kg">195</weight> 
+</player>

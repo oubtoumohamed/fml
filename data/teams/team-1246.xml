@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1246</id> 
+   <name>نادي أودينيزي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1246.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Via Agostino e Angelo Candolini 2</adrese> 
+   <website>http://www.udinese.it</website> 
+   <creation-date>1896</creation-date> 
+   <players> 
+     <player id="3372" /> 
+     <player id="19129" /> 
+     <player id="74343" /> 
+     <player id="261928" /> 
+     <player id="273826" /> 
+     <player id="319830" /> 
+     <player id="404197" /> 
+     <player id="418267" /> 
+     <player id="523797" /> 
+     <player id="534228" /> 
+     <player id="9001" /> 
+     <player id="44556" /> 
+     <player id="63052" /> 
+     <player id="65724" /> 
+     <player id="68469" /> 
+     <player id="84193" /> 
+     <player id="86442" /> 
+     <player id="132296" /> 
+     <player id="132634" /> 
+     <player id="163502" /> 
+     <player id="164836" /> 
+     <player id="196103" /> 
+     <player id="196109" /> 
+     <player id="218093" /> 
+     <player id="229970" /> 
+     <player id="273911" /> 
+     <player id="280971" /> 
+     <player id="319299" /> 
+     <player id="403084" /> 
+     <player id="415580" /> 
+     <player id="427709" /> 
+     <player id="429988" /> 
+     <player id="436104" /> 
+     <player id="464749" /> 
+     <player id="529349" /> 
+     <player id="533796" /> 
+     <player id="621114" /> 
+     <player id="206" /> 
+     <player id="17965" /> 
+     <player id="19283" /> 
+     <player id="36750" /> 
+     <player id="65306" /> 
+     <player id="80295" /> 
+     <player id="81899" /> 
+     <player id="180844" /> 
+     <player id="215640" /> 
+     <player id="235774" /> 
+     <player id="248912" /> 
+     <player id="286735" /> 
+     <player id="298183" /> 
+     <player id="298484" /> 
+     <player id="299942" /> 
+     <player id="334070" /> 
+     <player id="335207" /> 
+     <player id="338353" /> 
+     <player id="379231" /> 
+     <player id="385253" /> 
+     <player id="391087" /> 
+     <player id="394834" /> 
+     <player id="402524" /> 
+     <player id="424428" /> 
+     <player id="478375" /> 
+     <player id="498291" /> 
+     <player id="544086" /> 
+     <player id="601097" /> 
+     <player id="632881" /> 
+     <player id="644918" /> 
+     <player id="3619" /> 
+     <player id="18418" /> 
+     <player id="91070" /> 
+     <player id="147965" /> 
+     <player id="157470" /> 
+     <player id="181034" /> 
+     <player id="203121" /> 
+     <player id="270151" /> 
+     <player id="276935" /> 
+     <player id="288088" /> 
+     <player id="349701" /> 
+     <player id="362983" /> 
+     <player id="425819" /> 
+     <player id="434545" /> 
+     <player id="485334" /> 
+     <player id="598663" /> 
+     <player id="621111" /> 
+   </players> 
+   <coaches> 
+     <coach id="62" /> 
+     <coach id="352" /> 
+     <coach id="18616" /> 
+     <coach id="182389" /> 
+     <coach id="233758" /> 
+     <coach id="304629" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<matche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="matche.xsd"> 
+   <id>2989168</id> 
+   <competition_id>16888</competition_id> 
+   <date>2019-10-16</date> 
+   <time>23:00:00</time> 
+   <status>Played</status> 
+   <stadium></stadium> 
+   <winner>team_B</winner> 
+ 
+   <team_a id="327" score="1" /> 
+   <team_b id="318" score="2" /> 
+</matche>

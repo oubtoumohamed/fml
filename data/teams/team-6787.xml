@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>6787</id> 
+   <name>نادي نيو سانتس لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/6787.png</image> 
+   <country>ويلز</country> 
+   <adrese>Burma Road</adrese> 
+   <website>http://www.saints-alive.co.uk</website> 
+   <creation-date>1959 / 2003</creation-date> 
+   <players> 
+     <player id="40440" /> 
+     <player id="134591" /> 
+     <player id="394458" /> 
+     <player id="426942" /> 
+     <player id="557919" /> 
+     <player id="36411" /> 
+     <player id="55233" /> 
+     <player id="68671" /> 
+     <player id="82550" /> 
+     <player id="89071" /> 
+     <player id="274834" /> 
+     <player id="320161" /> 
+     <player id="376847" /> 
+     <player id="386231" /> 
+     <player id="453032" /> 
+     <player id="470426" /> 
+     <player id="519012" /> 
+     <player id="520820" /> 
+     <player id="555216" /> 
+     <player id="40982" /> 
+     <player id="55184" /> 
+     <player id="79478" /> 
+     <player id="169720" /> 
+     <player id="298270" /> 
+     <player id="320331" /> 
+     <player id="360473" /> 
+     <player id="447815" /> 
+     <player id="487739" /> 
+     <player id="507988" /> 
+     <player id="509024" /> 
+     <player id="514388" /> 
+     <player id="532401" /> 
+     <player id="616364" /> 
+     <player id="634643" /> 
+     <player id="634648" /> 
+     <player id="17653" /> 
+     <player id="36224" /> 
+     <player id="83748" /> 
+     <player id="85206" /> 
+     <player id="88742" /> 
+     <player id="155047" /> 
+     <player id="160116" /> 
+     <player id="237557" /> 
+   </players> 
+   <coaches> 
+     <coach id="40446" /> 
+   </coaches> 
+</team>

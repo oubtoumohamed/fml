@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2331</team_id> 
+   <id>82552</id> 
+   <name>W. Allison</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/82552.png</image> 
+   <position>مهاجم</position> 
+   <nationality>إنجلترا</nationality> 
+   <birth-day>1968-10-16</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

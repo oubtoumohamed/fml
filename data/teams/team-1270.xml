@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1270</id> 
+   <name>نادي نابولي الرياضي الاجتماعي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1270.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Via S.S. Domitana, Km 35</adrese> 
+   <website>http://www.sscnapoli.it</website> 
+   <creation-date>1904 / 1926 / 2004</creation-date> 
+   <players> 
+     <player id="318" /> 
+     <player id="19129" /> 
+     <player id="22426" /> 
+     <player id="71501" /> 
+     <player id="78660" /> 
+     <player id="314519" /> 
+     <player id="319830" /> 
+     <player id="459867" /> 
+     <player id="459869" /> 
+     <player id="571846" /> 
+     <player id="571848" /> 
+     <player id="611373" /> 
+     <player id="3017" /> 
+     <player id="4147" /> 
+     <player id="36585" /> 
+     <player id="68268" /> 
+     <player id="74396" /> 
+     <player id="84284" /> 
+     <player id="134609" /> 
+     <player id="139596" /> 
+     <player id="145358" /> 
+     <player id="146639" /> 
+     <player id="155954" /> 
+     <player id="158334" /> 
+     <player id="192013" /> 
+     <player id="213125" /> 
+     <player id="213899" /> 
+     <player id="307047" /> 
+     <player id="314538" /> 
+     <player id="506196" /> 
+     <player id="535923" /> 
+     <player id="17671" /> 
+     <player id="91340" /> 
+     <player id="94859" /> 
+     <player id="141226" /> 
+     <player id="160328" /> 
+     <player id="169273" /> 
+     <player id="211949" /> 
+     <player id="213128" /> 
+     <player id="232822" /> 
+     <player id="314549" /> 
+     <player id="317624" /> 
+     <player id="321614" /> 
+     <player id="334096" /> 
+     <player id="375571" /> 
+     <player id="396155" /> 
+     <player id="424964" /> 
+     <player id="459893" /> 
+     <player id="459894" /> 
+     <player id="470400" /> 
+     <player id="3153" /> 
+     <player id="49531" /> 
+     <player id="58320" /> 
+     <player id="93392" /> 
+     <player id="111753" /> 
+     <player id="113160" /> 
+     <player id="176472" /> 
+     <player id="197974" /> 
+     <player id="213133" /> 
+     <player id="245593" /> 
+     <player id="279741" /> 
+     <player id="327531" /> 
+     <player id="398748" /> 
+     <player id="449861" /> 
+   </players> 
+   <coaches> 
+     <coach id="73" /> 
+     <coach id="105040" /> 
+     <coach id="168782" /> 
+   </coaches> 
+</team>

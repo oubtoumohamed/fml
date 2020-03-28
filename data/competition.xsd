@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+    <xs:element name="competition" type="complexroot">
+        <xs:complexType>
+            <xs:sequence>
+                <!-- 
+                    id : Identification of competiton 
+                    name : name of competiton 
+                    image : competiton flag URL
+                    session : competiton session
+                    matches : list of matches
+                -->
+                <xs:element name="id" type="xs:integer" maxOccurs="1"/>
+                <xs:element name="name" type="xs:string" maxOccurs="1"/>
+                <xs:element name="image" type="xs:string" maxOccurs="1"/>
+                <xs:element name="session" type="xs:string" maxOccurs="1"/>
+
+                <xs:element name="matches" type="complexmatches" minOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="complexmatches">
+        <xs:sequence>
+            <xs:element name="matche">
+                <!--
+                    any matche need an id attribute contain reference of match
+                -->
+                <xs:complexType>
+                    <xs:attribute name="id" type="xs:integer"/>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:schema>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1974</team_id> 
+   <id>598661</id> 
+   <name>M. Bobček</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/598661.png</image> 
+   <position>مهاجم</position> 
+   <nationality>سلوفاكيا</nationality> 
+   <birth-day>1999-03-14</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

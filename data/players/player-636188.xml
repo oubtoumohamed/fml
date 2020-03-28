@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>133</team_id> 
+   <id>636188</id> 
+   <name>P. Afajanyan</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/636188.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>أرمينيا</nationality> 
+   <birth-day>1998-10-31</birth-day> 
+   <length  unit="cm">185</length> 
+   <weight  unit="kg">72</weight> 
+</player>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1103</team_id> 
+   <id>597391</id> 
+   <name>D. Bárány</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/597391.png</image> 
+   <position>مهاجم</position> 
+   <nationality>المجر</nationality> 
+   <birth-day>2000-09-04</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

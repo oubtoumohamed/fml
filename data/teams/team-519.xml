@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>519</id> 
+   <name>أيل ليماسول</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/519.png</image> 
+   <country>قبرص</country> 
+   <adrese>Fysco Lotus Plaza</adrese> 
+   <website>http://www.ael-fc.com/</website> 
+   <creation-date>1930</creation-date> 
+   <players> 
+     <player id="182701" /> 
+     <player id="212679" /> 
+     <player id="354041" /> 
+     <player id="424276" /> 
+     <player id="523841" /> 
+     <player id="574552" /> 
+     <player id="74" /> 
+     <player id="67870" /> 
+     <player id="94317" /> 
+     <player id="95152" /> 
+     <player id="190980" /> 
+     <player id="196040" /> 
+     <player id="205106" /> 
+     <player id="255703" /> 
+     <player id="272906" /> 
+     <player id="340551" /> 
+     <player id="393000" /> 
+     <player id="402105" /> 
+     <player id="467593" /> 
+     <player id="467594" /> 
+     <player id="549007" /> 
+     <player id="574557" /> 
+     <player id="574566" /> 
+     <player id="9926" /> 
+     <player id="18808" /> 
+     <player id="40700" /> 
+     <player id="58920" /> 
+     <player id="60496" /> 
+     <player id="67157" /> 
+     <player id="67356" /> 
+     <player id="85526" /> 
+     <player id="96347" /> 
+     <player id="120668" /> 
+     <player id="146687" /> 
+     <player id="148537" /> 
+     <player id="161774" /> 
+     <player id="202793" /> 
+     <player id="217634" /> 
+     <player id="263736" /> 
+     <player id="319452" /> 
+     <player id="372957" /> 
+     <player id="387403" /> 
+     <player id="405757" /> 
+     <player id="423607" /> 
+     <player id="424299" /> 
+     <player id="438967" /> 
+     <player id="517029" /> 
+     <player id="517030" /> 
+     <player id="540543" /> 
+     <player id="574586" /> 
+     <player id="39792" /> 
+     <player id="120172" /> 
+     <player id="144324" /> 
+     <player id="149625" /> 
+     <player id="152620" /> 
+     <player id="158513" /> 
+     <player id="162561" /> 
+     <player id="206473" /> 
+     <player id="214833" /> 
+     <player id="278793" /> 
+     <player id="315069" /> 
+     <player id="342855" /> 
+     <player id="403829" /> 
+     <player id="480762" /> 
+     <player id="574611" /> 
+   </players> 
+   <coaches> 
+     <coach id="434436" /> 
+     <coach id="469421" /> 
+     <coach id="540890" /> 
+   </coaches> 
+</team>

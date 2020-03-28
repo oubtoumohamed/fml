@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3472</id> 
+   <name>نادي أوليمبيك أسفي</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3472.png</image> 
+   <country>المغرب</country> 
+   <adrese>Ville nouvelle</adrese> 
+   <website>http://www.ocsfoot.com</website> 
+   <creation-date>1921</creation-date> 
+   <players> 
+     <player id="633412" /> 
+     <player id="633448" /> 
+     <player id="633467" /> 
+     <player id="633468" /> 
+     <player id="638280" /> 
+     <player id="648425" /> 
+     <player id="102781" /> 
+     <player id="137507" /> 
+     <player id="324682" /> 
+     <player id="633138" /> 
+     <player id="633441" /> 
+     <player id="633447" /> 
+     <player id="633465" /> 
+     <player id="633470" /> 
+     <player id="235868" /> 
+     <player id="274311" /> 
+     <player id="319060" /> 
+     <player id="432064" /> 
+     <player id="432263" /> 
+     <player id="515632" /> 
+     <player id="633141" /> 
+     <player id="633142" /> 
+     <player id="633446" /> 
+     <player id="633451" /> 
+     <player id="633455" /> 
+     <player id="633457" /> 
+     <player id="633459" /> 
+     <player id="633461" /> 
+     <player id="633462" /> 
+     <player id="633463" /> 
+     <player id="646229" /> 
+     <player id="649713" /> 
+     <player id="131643" /> 
+     <player id="169979" /> 
+     <player id="588558" /> 
+     <player id="633145" /> 
+     <player id="633445" /> 
+     <player id="646228" /> 
+   </players> 
+   <coaches> 
+     <coach id="235238" /> 
+     <coach id="633144" /> 
+   </coaches> 
+</team>

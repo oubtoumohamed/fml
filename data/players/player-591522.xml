@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>696</team_id> 
+   <id>591522</id> 
+   <name>João Pedro</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/591522.png</image> 
+   <position>مهاجم</position> 
+   <nationality>البرازيل</nationality> 
+   <birth-day>2001-09-26</birth-day> 
+   <length  unit="cm">البرازيل</length> 
+   <weight  unit="kg">182</weight> 
+</player>

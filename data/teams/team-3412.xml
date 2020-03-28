@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3412</id> 
+   <name>أولمبي الشلف</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3412.png</image> 
+   <country>الجزائر</country> 
+   <adrese>25, rue de Martyrs</adrese> 
+   <website>http://www.asochlef.net</website> 
+   <creation-date>1947</creation-date> 
+   <players> 
+     <player id="208113" /> 
+     <player id="209358" /> 
+     <player id="249436" /> 
+     <player id="312110" /> 
+     <player id="622547" /> 
+     <player id="628022" /> 
+     <player id="48936" /> 
+     <player id="49198" /> 
+     <player id="89018" /> 
+     <player id="103068" /> 
+     <player id="184120" /> 
+     <player id="188753" /> 
+     <player id="191279" /> 
+     <player id="243655" /> 
+     <player id="296244" /> 
+     <player id="297570" /> 
+     <player id="298008" /> 
+     <player id="309934" /> 
+     <player id="313922" /> 
+     <player id="414148" /> 
+     <player id="622548" /> 
+     <player id="622550" /> 
+     <player id="622551" /> 
+     <player id="622553" /> 
+     <player id="623486" /> 
+     <player id="48949" /> 
+     <player id="48951" /> 
+     <player id="49146" /> 
+     <player id="86068" /> 
+     <player id="89157" /> 
+     <player id="89344" /> 
+     <player id="243775" /> 
+     <player id="265351" /> 
+     <player id="309818" /> 
+     <player id="356329" /> 
+     <player id="413671" /> 
+     <player id="455423" /> 
+     <player id="560933" /> 
+     <player id="622544" /> 
+     <player id="622555" /> 
+     <player id="623481" /> 
+     <player id="628026" /> 
+     <player id="628029" /> 
+     <player id="16679" /> 
+     <player id="49156" /> 
+     <player id="74131" /> 
+     <player id="91186" /> 
+     <player id="157323" /> 
+     <player id="222965" /> 
+     <player id="236999" /> 
+     <player id="288368" /> 
+     <player id="294671" /> 
+     <player id="338621" /> 
+     <player id="357749" /> 
+     <player id="357791" /> 
+     <player id="392070" /> 
+     <player id="392530" /> 
+     <player id="398678" /> 
+     <player id="414210" /> 
+     <player id="469821" /> 
+     <player id="496078" /> 
+     <player id="586466" /> 
+     <player id="622546" /> 
+     <player id="622549" /> 
+     <player id="628024" /> 
+     <player id="628423" /> 
+   </players> 
+   <coaches> 
+     <coach id="274668" /> 
+     <coach id="622271" /> 
+   </coaches> 
+</team>

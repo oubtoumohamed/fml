@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1412</id> 
+   <name>جمعية جونيس ايش الرياضية للشباب</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1412.png</image> 
+   <country>لوكسمبورغ</country> 
+   <adrese>Boite postale 45</adrese> 
+   <website>http://www.jeunesse-esch.lu</website> 
+   <creation-date>1907</creation-date> 
+   <players> 
+     <player id="41010" /> 
+     <player id="46522" /> 
+     <player id="71799" /> 
+     <player id="140693" /> 
+     <player id="200012" /> 
+     <player id="215900" /> 
+     <player id="310910" /> 
+     <player id="509115" /> 
+     <player id="35057" /> 
+     <player id="44321" /> 
+     <player id="46528" /> 
+     <player id="46532" /> 
+     <player id="46615" /> 
+     <player id="46720" /> 
+     <player id="53597" /> 
+     <player id="55053" /> 
+     <player id="90254" /> 
+     <player id="154222" /> 
+     <player id="191447" /> 
+     <player id="218744" /> 
+     <player id="235915" /> 
+     <player id="347185" /> 
+     <player id="353637" /> 
+     <player id="387289" /> 
+     <player id="391415" /> 
+     <player id="436119" /> 
+     <player id="521442" /> 
+     <player id="537537" /> 
+     <player id="559392" /> 
+     <player id="46540" /> 
+     <player id="53596" /> 
+     <player id="88462" /> 
+     <player id="90204" /> 
+     <player id="90912" /> 
+     <player id="95006" /> 
+     <player id="128992" /> 
+     <player id="134173" /> 
+     <player id="156805" /> 
+     <player id="158823" /> 
+     <player id="200018" /> 
+     <player id="201040" /> 
+     <player id="215931" /> 
+     <player id="247478" /> 
+     <player id="252141" /> 
+     <player id="258623" /> 
+     <player id="322545" /> 
+     <player id="347135" /> 
+     <player id="347187" /> 
+     <player id="411027" /> 
+     <player id="411038" /> 
+     <player id="442790" /> 
+     <player id="457332" /> 
+     <player id="480193" /> 
+     <player id="493170" /> 
+     <player id="537573" /> 
+     <player id="616338" /> 
+     <player id="618408" /> 
+     <player id="618410" /> 
+     <player id="37582" /> 
+     <player id="46542" /> 
+     <player id="46630" /> 
+     <player id="53629" /> 
+     <player id="97377" /> 
+     <player id="132620" /> 
+     <player id="140718" /> 
+     <player id="141149" /> 
+     <player id="154224" /> 
+     <player id="158022" /> 
+     <player id="182073" /> 
+     <player id="185404" /> 
+     <player id="235918" /> 
+     <player id="257094" /> 
+     <player id="311274" /> 
+     <player id="347189" /> 
+     <player id="411565" /> 
+     <player id="435668" /> 
+     <player id="440534" /> 
+     <player id="492980" /> 
+     <player id="492983" /> 
+   </players> 
+   <coaches> 
+     <coach id="46745" /> 
+     <coach id="134864" /> 
+     <coach id="135802" /> 
+     <coach id="200025" /> 
+     <coach id="200040" /> 
+     <coach id="256731" /> 
+   </coaches> 
+</team>

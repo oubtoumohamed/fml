@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>518</id> 
+   <name>أبولون ليماسول</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/518.png</image> 
+   <country>قبرص</country> 
+   <adrese>Glastonos 93</adrese> 
+   <website>http://www.apollon.com.cy</website> 
+   <creation-date>1954</creation-date> 
+   <players> 
+     <player id="340" /> 
+     <player id="40266" /> 
+     <player id="65877" /> 
+     <player id="208769" /> 
+     <player id="403054" /> 
+     <player id="424277" /> 
+     <player id="450554" /> 
+     <player id="489575" /> 
+     <player id="22899" /> 
+     <player id="40269" /> 
+     <player id="95301" /> 
+     <player id="95426" /> 
+     <player id="128975" /> 
+     <player id="181707" /> 
+     <player id="212671" /> 
+     <player id="213272" /> 
+     <player id="272906" /> 
+     <player id="315861" /> 
+     <player id="319634" /> 
+     <player id="386535" /> 
+     <player id="387401" /> 
+     <player id="400225" /> 
+     <player id="404180" /> 
+     <player id="424279" /> 
+     <player id="454978" /> 
+     <player id="587872" /> 
+     <player id="610358" /> 
+     <player id="9926" /> 
+     <player id="13631" /> 
+     <player id="13712" /> 
+     <player id="37017" /> 
+     <player id="37661" /> 
+     <player id="52341" /> 
+     <player id="62079" /> 
+     <player id="71208" /> 
+     <player id="85792" /> 
+     <player id="97844" /> 
+     <player id="131362" /> 
+     <player id="141498" /> 
+     <player id="145011" /> 
+     <player id="153998" /> 
+     <player id="183501" /> 
+     <player id="206639" /> 
+     <player id="242475" /> 
+     <player id="266792" /> 
+     <player id="270006" /> 
+     <player id="288279" /> 
+     <player id="296983" /> 
+     <player id="387405" /> 
+     <player id="387409" /> 
+     <player id="391105" /> 
+     <player id="411698" /> 
+     <player id="444756" /> 
+     <player id="455110" /> 
+     <player id="467981" /> 
+     <player id="479050" /> 
+     <player id="486773" /> 
+     <player id="544447" /> 
+     <player id="590831" /> 
+     <player id="1513" /> 
+     <player id="15201" /> 
+     <player id="37996" /> 
+     <player id="49374" /> 
+     <player id="56660" /> 
+     <player id="68379" /> 
+     <player id="69137" /> 
+     <player id="85758" /> 
+     <player id="111771" /> 
+     <player id="204850" /> 
+     <player id="313608" /> 
+     <player id="320114" /> 
+     <player id="335211" /> 
+     <player id="387413" /> 
+     <player id="610357" /> 
+     <player id="611361" /> 
+     <player id="611362" /> 
+   </players> 
+   <coaches> 
+     <coach id="13502" /> 
+     <coach id="470570" /> 
+     <coach id="494520" /> 
+   </coaches> 
+</team>

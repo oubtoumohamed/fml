@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2180</id> 
+   <name>نادي تون لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2180.png</image> 
+   <country>سويسرا</country> 
+   <adrese>Weststraße 12</adrese> 
+   <website>http://www.fcthun.ch</website> 
+   <creation-date>1898</creation-date> 
+   <players> 
+     <player id="11384" /> 
+     <player id="163232" /> 
+     <player id="301468" /> 
+     <player id="317310" /> 
+     <player id="408261" /> 
+     <player id="490900" /> 
+     <player id="556261" /> 
+     <player id="20607" /> 
+     <player id="65885" /> 
+     <player id="130196" /> 
+     <player id="287934" /> 
+     <player id="329224" /> 
+     <player id="331090" /> 
+     <player id="350335" /> 
+     <player id="353265" /> 
+     <player id="396303" /> 
+     <player id="429168" /> 
+     <player id="461090" /> 
+     <player id="519658" /> 
+     <player id="598668" /> 
+     <player id="11472" /> 
+     <player id="37181" /> 
+     <player id="37850" /> 
+     <player id="85557" /> 
+     <player id="164803" /> 
+     <player id="213354" /> 
+     <player id="213356" /> 
+     <player id="213976" /> 
+     <player id="245612" /> 
+     <player id="251062" /> 
+     <player id="340417" /> 
+     <player id="409826" /> 
+     <player id="411313" /> 
+     <player id="419381" /> 
+     <player id="446138" /> 
+     <player id="490621" /> 
+     <player id="490660" /> 
+     <player id="519278" /> 
+     <player id="521419" /> 
+     <player id="539597" /> 
+     <player id="617765" /> 
+     <player id="642290" /> 
+     <player id="11382" /> 
+     <player id="162908" /> 
+     <player id="177348" /> 
+     <player id="235510" /> 
+     <player id="304550" /> 
+     <player id="403881" /> 
+     <player id="489072" /> 
+   </players> 
+   <coaches> 
+     <coach id="26074" /> 
+   </coaches> 
+</team>

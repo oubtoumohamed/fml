@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>5642</team_id> 
+   <id>626164</id> 
+   <name>حازم مصطفى فرج</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/626164.png</image> 
+   <position>مدافع</position> 
+   <nationality>مصر</nationality> 
+   <birth-day>مصر</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

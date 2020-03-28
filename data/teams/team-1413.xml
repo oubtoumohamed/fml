@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1413</id> 
+   <name>إف.91 دوديلانج</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1413.png</image> 
+   <country>لوكسمبورغ</country> 
+   <adrese>23, Place de l'Hôtel de Ville</adrese> 
+   <website>http://www.f91.lu</website> 
+   <creation-date>1991</creation-date> 
+   <players> 
+     <player id="37630" /> 
+     <player id="40210" /> 
+     <player id="140698" /> 
+     <player id="379269" /> 
+     <player id="420190" /> 
+     <player id="427739" /> 
+     <player id="492981" /> 
+     <player id="509123" /> 
+     <player id="616334" /> 
+     <player id="13115" /> 
+     <player id="40875" /> 
+     <player id="44314" /> 
+     <player id="46528" /> 
+     <player id="63722" /> 
+     <player id="89787" /> 
+     <player id="90254" /> 
+     <player id="125988" /> 
+     <player id="167400" /> 
+     <player id="178372" /> 
+     <player id="191447" /> 
+     <player id="193477" /> 
+     <player id="228790" /> 
+     <player id="261201" /> 
+     <player id="316270" /> 
+     <player id="322536" /> 
+     <player id="372267" /> 
+     <player id="377129" /> 
+     <player id="509139" /> 
+     <player id="555016" /> 
+     <player id="574505" /> 
+     <player id="1963" /> 
+     <player id="16612" /> 
+     <player id="54900" /> 
+     <player id="63399" /> 
+     <player id="75819" /> 
+     <player id="87485" /> 
+     <player id="95006" /> 
+     <player id="99762" /> 
+     <player id="134179" /> 
+     <player id="147042" /> 
+     <player id="157696" /> 
+     <player id="157987" /> 
+     <player id="215936" /> 
+     <player id="227270" /> 
+     <player id="252310" /> 
+     <player id="257197" /> 
+     <player id="263969" /> 
+     <player id="309592" /> 
+     <player id="314101" /> 
+     <player id="355099" /> 
+     <player id="362967" /> 
+     <player id="393515" /> 
+     <player id="405700" /> 
+     <player id="411065" /> 
+     <player id="446671" /> 
+     <player id="470312" /> 
+     <player id="645622" /> 
+     <player id="71330" /> 
+     <player id="87645" /> 
+     <player id="132620" /> 
+     <player id="141149" /> 
+     <player id="154224" /> 
+     <player id="163360" /> 
+     <player id="182073" /> 
+     <player id="188319" /> 
+     <player id="206816" /> 
+     <player id="322547" /> 
+     <player id="323547" /> 
+     <player id="334158" /> 
+     <player id="376259" /> 
+     <player id="381131" /> 
+     <player id="475636" /> 
+     <player id="492980" /> 
+     <player id="492983" /> 
+     <player id="532497" /> 
+     <player id="616283" /> 
+   </players> 
+   <coaches> 
+     <coach id="40218" /> 
+     <coach id="63934" /> 
+     <coach id="104420" /> 
+     <coach id="114531" /> 
+     <coach id="200052" /> 
+     <coach id="555394" /> 
+   </coaches> 
+</team>

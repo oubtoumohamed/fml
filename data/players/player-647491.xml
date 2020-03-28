@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>236</team_id> 
+   <id>647491</id> 
+   <name>E. Deleu</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/647491.png</image> 
+   <position>غير معروف</position> 
+   <nationality>بلجيكا</nationality> 
+   <birth-day>1960-01-30</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

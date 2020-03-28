@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>71</team_id> 
+   <id>633450</id> 
+   <name>A. Kulakovs</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/633450.png</image> 
+   <position>غير معروف</position> 
+   <nationality>لاتفيا</nationality> 
+   <birth-day>1956-04-14</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

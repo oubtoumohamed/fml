@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2032</team_id> 
+   <id>479746</id> 
+   <name>Rubén Enri</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/479746.png</image> 
+   <position>مهاجم</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>1998-04-10</birth-day> 
+   <length  unit="cm">إسبانيا</length> 
+   <weight  unit="kg">179</weight> 
+</player>

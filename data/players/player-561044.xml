@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>895</team_id> 
+   <id>561044</id> 
+   <name>أرتون زكاج</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/561044.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>كوسوفو</nationality> 
+   <birth-day>2000-04-16</birth-day> 
+   <length  unit="cm">صربيا</length> 
+   <weight  unit="kg">187</weight> 
+</player>

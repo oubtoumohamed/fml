@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1949</team_id> 
+   <id>571447</id> 
+   <name>V. Radenkovič</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/571447.png</image> 
+   <position>غير معروف</position> 
+   <nationality>صربيا</nationality> 
+   <birth-day>1978-01-22</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

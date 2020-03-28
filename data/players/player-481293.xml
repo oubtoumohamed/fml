@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1357</team_id> 
+   <id>481293</id> 
+   <name>A. Zulfikarov</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/481293.png</image> 
+   <position>مدافع</position> 
+   <nationality>كازاخستان</nationality> 
+   <birth-day>1994-06-04</birth-day> 
+   <length  unit="cm">183</length> 
+   <weight  unit="kg">72</weight> 
+</player>

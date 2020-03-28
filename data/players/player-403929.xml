@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1355</team_id> 
+   <id>403929</id> 
+   <name>S. Busurmanov</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/403929.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>كازاخستان</nationality> 
+   <birth-day>1996-05-10</birth-day> 
+   <length  unit="cm">189</length> 
+   <weight  unit="kg">78</weight> 
+</player>

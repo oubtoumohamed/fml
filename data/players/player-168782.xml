@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1246</team_id> 
+   <id>168782</id> 
+   <name>ماوريزيو ساري</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/168782.png</image> 
+   <position>إيطاليا</position> 
+   <nationality>1959-01-10</nationality> 
+   <birth-day>Napoli</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

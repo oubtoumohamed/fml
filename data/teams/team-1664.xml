@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1664</id> 
+   <name>كراكوفيا كراكوف</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1664.png</image> 
+   <country>بولندا</country> 
+   <adrese>ul. Josefa Kałuży 1</adrese> 
+   <website>http://www.cracovia.pl</website> 
+   <creation-date>1906</creation-date> 
+   <players> 
+     <player id="12606" /> 
+     <player id="35340" /> 
+     <player id="53076" /> 
+     <player id="256091" /> 
+     <player id="406772" /> 
+     <player id="485803" /> 
+     <player id="617651" /> 
+     <player id="69393" /> 
+     <player id="78872" /> 
+     <player id="80583" /> 
+     <player id="86211" /> 
+     <player id="124281" /> 
+     <player id="251459" /> 
+     <player id="302566" /> 
+     <player id="303019" /> 
+     <player id="318999" /> 
+     <player id="447950" /> 
+     <player id="500427" /> 
+     <player id="556283" /> 
+     <player id="617654" /> 
+     <player id="623493" /> 
+     <player id="20784" /> 
+     <player id="53067" /> 
+     <player id="62133" /> 
+     <player id="63318" /> 
+     <player id="101167" /> 
+     <player id="123876" /> 
+     <player id="125582" /> 
+     <player id="143377" /> 
+     <player id="154528" /> 
+     <player id="160149" /> 
+     <player id="191677" /> 
+     <player id="200132" /> 
+     <player id="251621" /> 
+     <player id="262295" /> 
+     <player id="289816" /> 
+     <player id="302733" /> 
+     <player id="319433" /> 
+     <player id="353407" /> 
+     <player id="389213" /> 
+     <player id="433976" /> 
+     <player id="447949" /> 
+     <player id="448834" /> 
+     <player id="468252" /> 
+     <player id="496146" /> 
+     <player id="532494" /> 
+     <player id="549500" /> 
+     <player id="550359" /> 
+     <player id="551139" /> 
+     <player id="572886" /> 
+     <player id="60327" /> 
+     <player id="85209" /> 
+     <player id="134380" /> 
+     <player id="134790" /> 
+     <player id="148538" /> 
+     <player id="152884" /> 
+     <player id="167031" /> 
+     <player id="273930" /> 
+     <player id="295747" /> 
+     <player id="324223" /> 
+     <player id="342295" /> 
+     <player id="354379" /> 
+     <player id="440491" /> 
+     <player id="500426" /> 
+     <player id="526748" /> 
+     <player id="535303" /> 
+     <player id="572965" /> 
+   </players> 
+   <coaches> 
+     <coach id="138492" /> 
+     <coach id="333930" /> 
+     <coach id="546120" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1535</id> 
+   <name>سبارتا روتردام</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1535.png</image> 
+   <country>هولندا</country> 
+   <adrese>Spartapark Noord 1</adrese> 
+   <website>http://www.sparta-rotterdam.nl</website> 
+   <creation-date>1888</creation-date> 
+   <players> 
+     <player id="86402" /> 
+     <player id="122977" /> 
+     <player id="130393" /> 
+     <player id="200996" /> 
+     <player id="259922" /> 
+     <player id="277760" /> 
+     <player id="452038" /> 
+     <player id="534491" /> 
+     <player id="537513" /> 
+     <player id="2297" /> 
+     <player id="49799" /> 
+     <player id="95483" /> 
+     <player id="100123" /> 
+     <player id="134885" /> 
+     <player id="136110" /> 
+     <player id="137134" /> 
+     <player id="155059" /> 
+     <player id="192662" /> 
+     <player id="195206" /> 
+     <player id="215551" /> 
+     <player id="217925" /> 
+     <player id="275121" /> 
+     <player id="356783" /> 
+     <player id="385271" /> 
+     <player id="414054" /> 
+     <player id="419538" /> 
+     <player id="427038" /> 
+     <player id="452052" /> 
+     <player id="460703" /> 
+     <player id="463015" /> 
+     <player id="464544" /> 
+     <player id="481619" /> 
+     <player id="537541" /> 
+     <player id="569294" /> 
+     <player id="603235" /> 
+     <player id="640645" /> 
+     <player id="2246" /> 
+     <player id="19678" /> 
+     <player id="49578" /> 
+     <player id="73139" /> 
+     <player id="97305" /> 
+     <player id="103352" /> 
+     <player id="199356" /> 
+     <player id="232700" /> 
+     <player id="270007" /> 
+     <player id="275122" /> 
+     <player id="387005" /> 
+     <player id="407735" /> 
+     <player id="443834" /> 
+     <player id="452039" /> 
+     <player id="452045" /> 
+     <player id="455208" /> 
+     <player id="455481" /> 
+     <player id="477501" /> 
+     <player id="532299" /> 
+     <player id="540617" /> 
+     <player id="566000" /> 
+     <player id="566002" /> 
+     <player id="569290" /> 
+     <player id="571606" /> 
+     <player id="19677" /> 
+     <player id="19680" /> 
+     <player id="54161" /> 
+     <player id="171773" /> 
+     <player id="182653" /> 
+     <player id="189983" /> 
+     <player id="218130" /> 
+     <player id="228671" /> 
+     <player id="274647" /> 
+     <player id="305986" /> 
+     <player id="308063" /> 
+     <player id="355919" /> 
+     <player id="394561" /> 
+     <player id="426279" /> 
+     <player id="452046" /> 
+     <player id="459316" /> 
+     <player id="463704" /> 
+     <player id="465397" /> 
+     <player id="504032" /> 
+     <player id="529648" /> 
+   </players> 
+   <coaches> 
+     <coach id="459" /> 
+     <coach id="107055" /> 
+     <coach id="273478" /> 
+   </coaches> 
+</team>

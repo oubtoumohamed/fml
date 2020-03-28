@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>233</id> 
+   <name>Royal Antwerp FC</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/233.png</image> 
+   <country>بلجيكا</country> 
+   <adrese>Oude Bosuilbaan 54a</adrese> 
+   <website>http://www.rafc.be</website> 
+   <creation-date>1880</creation-date> 
+   <players> 
+     <player id="9912" /> 
+     <player id="13391" /> 
+     <player id="37452" /> 
+     <player id="53610" /> 
+     <player id="386989" /> 
+     <player id="558075" /> 
+     <player id="4587" /> 
+     <player id="13626" /> 
+     <player id="47987" /> 
+     <player id="97343" /> 
+     <player id="158663" /> 
+     <player id="242513" /> 
+     <player id="242945" /> 
+     <player id="258359" /> 
+     <player id="300856" /> 
+     <player id="314384" /> 
+     <player id="318344" /> 
+     <player id="352419" /> 
+     <player id="356229" /> 
+     <player id="558076" /> 
+     <player id="638410" /> 
+     <player id="13523" /> 
+     <player id="13549" /> 
+     <player id="13742" /> 
+     <player id="16351" /> 
+     <player id="56060" /> 
+     <player id="74658" /> 
+     <player id="77244" /> 
+     <player id="89765" /> 
+     <player id="89928" /> 
+     <player id="137283" /> 
+     <player id="215352" /> 
+     <player id="246552" /> 
+     <player id="265948" /> 
+     <player id="284962" /> 
+     <player id="289439" /> 
+     <player id="296548" /> 
+     <player id="319221" /> 
+     <player id="383475" /> 
+     <player id="437702" /> 
+     <player id="439049" /> 
+     <player id="452076" /> 
+     <player id="456576" /> 
+     <player id="502269" /> 
+     <player id="601111" /> 
+     <player id="606276" /> 
+     <player id="2073" /> 
+     <player id="9908" /> 
+     <player id="115149" /> 
+     <player id="180819" /> 
+     <player id="182709" /> 
+     <player id="214895" /> 
+     <player id="301169" /> 
+     <player id="308253" /> 
+     <player id="334388" /> 
+     <player id="337057" /> 
+     <player id="381131" /> 
+     <player id="421083" /> 
+     <player id="434702" /> 
+     <player id="523690" /> 
+     <player id="532497" /> 
+     <player id="544367" /> 
+   </players> 
+   <coaches> 
+     <coach id="13741" /> 
+     <coach id="114518" /> 
+   </coaches> 
+</team>

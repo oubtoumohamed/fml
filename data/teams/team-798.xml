@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>798</id> 
+   <name>كي كلاكسفيك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/798.png</image> 
+   <country>جزر فارو</country> 
+   <adrese>Postrúm 204</adrese> 
+   <website>http://www.ki.fo</website> 
+   <creation-date>1905</creation-date> 
+   <players> 
+     <player id="28248" /> 
+     <player id="28457" /> 
+     <player id="124720" /> 
+     <player id="96585" /> 
+     <player id="98597" /> 
+     <player id="136108" /> 
+     <player id="166165" /> 
+     <player id="184337" /> 
+     <player id="215655" /> 
+     <player id="271120" /> 
+     <player id="319275" /> 
+     <player id="319276" /> 
+     <player id="403822" /> 
+     <player id="511159" /> 
+     <player id="564697" /> 
+     <player id="28411" /> 
+     <player id="42453" /> 
+     <player id="76567" /> 
+     <player id="77734" /> 
+     <player id="92666" /> 
+     <player id="132846" /> 
+     <player id="191876" /> 
+     <player id="215843" /> 
+     <player id="215848" /> 
+     <player id="239930" /> 
+     <player id="272394" /> 
+     <player id="319287" /> 
+     <player id="319657" /> 
+     <player id="333898" /> 
+     <player id="402179" /> 
+     <player id="403823" /> 
+     <player id="438051" /> 
+     <player id="438052" /> 
+     <player id="450274" /> 
+     <player id="493985" /> 
+     <player id="511164" /> 
+     <player id="547773" /> 
+     <player id="28434" /> 
+     <player id="130092" /> 
+     <player id="154562" /> 
+     <player id="184336" /> 
+     <player id="233003" /> 
+     <player id="489232" /> 
+   </players> 
+   <coaches> 
+     <coach id="236803" /> 
+   </coaches> 
+</team>

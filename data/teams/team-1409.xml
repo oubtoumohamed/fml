@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1409</id> 
+   <name>نادي سودوفا ماريجامبول لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1409.png</image> 
+   <country>لتوانيا</country> 
+   <adrese>P. Armino 27</adrese> 
+   <website>http://www.fksuduva.lt</website> 
+   <creation-date>1930</creation-date> 
+   <players> 
+     <player id="27461" /> 
+     <player id="85747" /> 
+     <player id="181929" /> 
+     <player id="357465" /> 
+     <player id="544118" /> 
+     <player id="27413" /> 
+     <player id="27469" /> 
+     <player id="27485" /> 
+     <player id="80442" /> 
+     <player id="84406" /> 
+     <player id="85399" /> 
+     <player id="90299" /> 
+     <player id="94534" /> 
+     <player id="134639" /> 
+     <player id="135933" /> 
+     <player id="220290" /> 
+     <player id="245916" /> 
+     <player id="273283" /> 
+     <player id="319936" /> 
+     <player id="452751" /> 
+     <player id="13189" /> 
+     <player id="27465" /> 
+     <player id="27497" /> 
+     <player id="32296" /> 
+     <player id="65392" /> 
+     <player id="85755" /> 
+     <player id="87955" /> 
+     <player id="101136" /> 
+     <player id="209080" /> 
+     <player id="214379" /> 
+     <player id="217509" /> 
+     <player id="234968" /> 
+     <player id="288371" /> 
+     <player id="302367" /> 
+     <player id="381449" /> 
+     <player id="387351" /> 
+     <player id="398202" /> 
+     <player id="487914" /> 
+     <player id="523673" /> 
+     <player id="615163" /> 
+     <player id="630928" /> 
+     <player id="1898" /> 
+     <player id="78332" /> 
+     <player id="83285" /> 
+     <player id="121842" /> 
+     <player id="160648" /> 
+     <player id="214138" /> 
+     <player id="281872" /> 
+   </players> 
+   <coaches> 
+     <coach id="134836" /> 
+     <coach id="195250" /> 
+   </coaches> 
+</team>

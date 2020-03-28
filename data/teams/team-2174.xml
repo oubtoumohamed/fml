@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2174</id> 
+   <name>نادي بازل 1893 لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2174.png</image> 
+   <country>سويسرا</country> 
+   <adrese>Birsstrasse 320a</adrese> 
+   <website>http://www.fcb.ch</website> 
+   <creation-date>1893</creation-date> 
+   <players> 
+     <player id="11432" /> 
+     <player id="16063" /> 
+     <player id="47011" /> 
+     <player id="154239" /> 
+     <player id="154284" /> 
+     <player id="317310" /> 
+     <player id="349933" /> 
+     <player id="372369" /> 
+     <player id="460005" /> 
+     <player id="506084" /> 
+     <player id="14961" /> 
+     <player id="37846" /> 
+     <player id="39442" /> 
+     <player id="135312" /> 
+     <player id="185429" /> 
+     <player id="196109" /> 
+     <player id="246755" /> 
+     <player id="290235" /> 
+     <player id="314464" /> 
+     <player id="372381" /> 
+     <player id="398613" /> 
+     <player id="421890" /> 
+     <player id="460006" /> 
+     <player id="478218" /> 
+     <player id="535389" /> 
+     <player id="11418" /> 
+     <player id="11538" /> 
+     <player id="17831" /> 
+     <player id="33894" /> 
+     <player id="37370" /> 
+     <player id="41398" /> 
+     <player id="134236" /> 
+     <player id="187383" /> 
+     <player id="269761" /> 
+     <player id="288488" /> 
+     <player id="299084" /> 
+     <player id="301488" /> 
+     <player id="316552" /> 
+     <player id="321616" /> 
+     <player id="340417" /> 
+     <player id="372391" /> 
+     <player id="459998" /> 
+     <player id="460012" /> 
+     <player id="460314" /> 
+     <player id="463353" /> 
+     <player id="466774" /> 
+     <player id="492392" /> 
+     <player id="506102" /> 
+     <player id="506119" /> 
+     <player id="519273" /> 
+     <player id="569659" /> 
+     <player id="59407" /> 
+     <player id="272853" /> 
+     <player id="314468" /> 
+     <player id="314471" /> 
+     <player id="335079" /> 
+     <player id="409255" /> 
+     <player id="413090" /> 
+     <player id="460308" /> 
+     <player id="460316" /> 
+     <player id="506113" /> 
+     <player id="519277" /> 
+   </players> 
+   <coaches> 
+     <coach id="221" /> 
+     <coach id="211633" /> 
+   </coaches> 
+</team>

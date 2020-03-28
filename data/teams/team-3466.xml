@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3466</id> 
+   <name>اتحاد طنجة</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3466.png</image> 
+   <country>المغرب</country> 
+   <adrese></adrese> 
+   <website>http://www.irtclub.com</website> 
+   <creation-date>1983</creation-date> 
+   <players> 
+     <player id="588498" /> 
+     <player id="588499" /> 
+     <player id="588504" /> 
+     <player id="111578" /> 
+     <player id="168001" /> 
+     <player id="168010" /> 
+     <player id="205604" /> 
+     <player id="392129" /> 
+     <player id="416866" /> 
+     <player id="452951" /> 
+     <player id="466860" /> 
+     <player id="530875" /> 
+     <player id="542119" /> 
+     <player id="548479" /> 
+     <player id="548491" /> 
+     <player id="588517" /> 
+     <player id="588530" /> 
+     <player id="588538" /> 
+     <player id="633207" /> 
+     <player id="633211" /> 
+     <player id="633213" /> 
+     <player id="73853" /> 
+     <player id="143134" /> 
+     <player id="192264" /> 
+     <player id="288899" /> 
+     <player id="301074" /> 
+     <player id="319065" /> 
+     <player id="326719" /> 
+     <player id="326721" /> 
+     <player id="345055" /> 
+     <player id="435402" /> 
+     <player id="588542" /> 
+     <player id="588544" /> 
+     <player id="633206" /> 
+     <player id="633208" /> 
+     <player id="633209" /> 
+     <player id="643141" /> 
+     <player id="643142" /> 
+     <player id="645001" /> 
+     <player id="646329" /> 
+     <player id="169979" /> 
+     <player id="170001" /> 
+     <player id="343705" /> 
+     <player id="437678" /> 
+     <player id="458456" /> 
+     <player id="532161" /> 
+     <player id="588558" /> 
+     <player id="588560" /> 
+     <player id="632490" /> 
+     <player id="633210" /> 
+     <player id="633212" /> 
+   </players> 
+   <coaches> 
+     <coach id="272697" /> 
+     <coach id="281229" /> 
+     <coach id="392479" /> 
+     <coach id="490504" /> 
+     <coach id="641902" /> 
+     <coach id="644674" /> 
+     <coach id="650201" /> 
+   </coaches> 
+</team>

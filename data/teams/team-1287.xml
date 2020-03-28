@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1287</id> 
+   <name>جمعية بوليسبورتيفا أرسيت لابور 2013</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1287.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Via Copparo, 142</adrese> 
+   <website>http://www.spalferrara.it/</website> 
+   <creation-date>1907 / 2005 / 2012 / 2013</creation-date> 
+   <players> 
+     <player id="18423" /> 
+     <player id="39897" /> 
+     <player id="167762" /> 
+     <player id="204550" /> 
+     <player id="278433" /> 
+     <player id="317299" /> 
+     <player id="319830" /> 
+     <player id="334071" /> 
+     <player id="373009" /> 
+     <player id="469533" /> 
+     <player id="494992" /> 
+     <player id="519756" /> 
+     <player id="555365" /> 
+     <player id="200" /> 
+     <player id="1560" /> 
+     <player id="4473" /> 
+     <player id="42501" /> 
+     <player id="47172" /> 
+     <player id="63057" /> 
+     <player id="71499" /> 
+     <player id="91404" /> 
+     <player id="134032" /> 
+     <player id="193226" /> 
+     <player id="213125" /> 
+     <player id="235486" /> 
+     <player id="239524" /> 
+     <player id="296973" /> 
+     <player id="319834" /> 
+     <player id="323251" /> 
+     <player id="342393" /> 
+     <player id="382601" /> 
+     <player id="433270" /> 
+     <player id="452500" /> 
+     <player id="463012" /> 
+     <player id="471071" /> 
+     <player id="471087" /> 
+     <player id="481926" /> 
+     <player id="490353" /> 
+     <player id="562295" /> 
+     <player id="4380" /> 
+     <player id="32727" /> 
+     <player id="58394" /> 
+     <player id="61073" /> 
+     <player id="80295" /> 
+     <player id="93847" /> 
+     <player id="130077" /> 
+     <player id="131283" /> 
+     <player id="162492" /> 
+     <player id="173473" /> 
+     <player id="178364" /> 
+     <player id="213128" /> 
+     <player id="214380" /> 
+     <player id="244990" /> 
+     <player id="257920" /> 
+     <player id="301592" /> 
+     <player id="340535" /> 
+     <player id="352839" /> 
+     <player id="376843" /> 
+     <player id="409776" /> 
+     <player id="444192" /> 
+     <player id="449042" /> 
+     <player id="450132" /> 
+     <player id="461909" /> 
+     <player id="467666" /> 
+     <player id="471079" /> 
+     <player id="508983" /> 
+     <player id="555370" /> 
+     <player id="603026" /> 
+     <player id="636300" /> 
+     <player id="3998" /> 
+     <player id="4362" /> 
+     <player id="23237" /> 
+     <player id="59167" /> 
+     <player id="168431" /> 
+     <player id="206713" /> 
+     <player id="273833" /> 
+     <player id="279236" /> 
+     <player id="290747" /> 
+     <player id="322025" /> 
+     <player id="444579" /> 
+     <player id="475765" /> 
+     <player id="509015" /> 
+     <player id="549131" /> 
+     <player id="595027" /> 
+   </players> 
+   <coaches> 
+     <coach id="92330" /> 
+     <coach id="168821" /> 
+   </coaches> 
+</team>

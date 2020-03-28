@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1203</team_id> 
+   <id>531977</id> 
+   <name>إكوويم يوتين</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/531977.png</image> 
+   <position>مدافع</position> 
+   <nationality>نيجيريا</nationality> 
+   <birth-day>1999-11-11</birth-day> 
+   <length  unit="cm">170</length> 
+   <weight  unit="kg"></weight> 
+</player>

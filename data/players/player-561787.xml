@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>961</team_id> 
+   <id>561787</id> 
+   <name>M. Tillman</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/561787.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>ألمانيا</nationality> 
+   <birth-day>2002-05-28</birth-day> 
+   <length  unit="cm">186</length> 
+   <weight  unit="kg"></weight> 
+</player>

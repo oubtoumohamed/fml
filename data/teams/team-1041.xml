@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1041</id> 
+   <name>نادي باوك سالونيك لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1041.png</image> 
+   <country>اليونان</country> 
+   <adrese>Plateia Mikras Asias</adrese> 
+   <website>http://www.paokfc.gr</website> 
+   <creation-date>1926</creation-date> 
+   <players> 
+     <player id="18871" /> 
+     <player id="40714" /> 
+     <player id="45528" /> 
+     <player id="67710" /> 
+     <player id="169059" /> 
+     <player id="214387" /> 
+     <player id="379045" /> 
+     <player id="509696" /> 
+     <player id="573099" /> 
+     <player id="574558" /> 
+     <player id="9321" /> 
+     <player id="18875" /> 
+     <player id="20611" /> 
+     <player id="32616" /> 
+     <player id="56749" /> 
+     <player id="84764" /> 
+     <player id="87883" /> 
+     <player id="102705" /> 
+     <player id="135095" /> 
+     <player id="213970" /> 
+     <player id="220028" /> 
+     <player id="229267" /> 
+     <player id="233602" /> 
+     <player id="270622" /> 
+     <player id="274908" /> 
+     <player id="392408" /> 
+     <player id="407718" /> 
+     <player id="421890" /> 
+     <player id="429060" /> 
+     <player id="463368" /> 
+     <player id="463371" /> 
+     <player id="465385" /> 
+     <player id="465817" /> 
+     <player id="2319" /> 
+     <player id="6249" /> 
+     <player id="17015" /> 
+     <player id="63056" /> 
+     <player id="65013" /> 
+     <player id="68727" /> 
+     <player id="74374" /> 
+     <player id="78300" /> 
+     <player id="111263" /> 
+     <player id="113555" /> 
+     <player id="129772" /> 
+     <player id="149066" /> 
+     <player id="169350" /> 
+     <player id="249748" /> 
+     <player id="255719" /> 
+     <player id="267300" /> 
+     <player id="268919" /> 
+     <player id="288727" /> 
+     <player id="303219" /> 
+     <player id="317193" /> 
+     <player id="382453" /> 
+     <player id="387405" /> 
+     <player id="415931" /> 
+     <player id="416155" /> 
+     <player id="431241" /> 
+     <player id="463377" /> 
+     <player id="484764" /> 
+     <player id="526242" /> 
+     <player id="542490" /> 
+     <player id="16658" /> 
+     <player id="28974" /> 
+     <player id="31558" /> 
+     <player id="215570" /> 
+     <player id="268920" /> 
+     <player id="302420" /> 
+     <player id="317200" /> 
+     <player id="317203" /> 
+     <player id="317315" /> 
+     <player id="319658" /> 
+     <player id="350257" /> 
+     <player id="379121" /> 
+     <player id="421909" /> 
+     <player id="462617" /> 
+     <player id="463395" /> 
+     <player id="477580" /> 
+   </players> 
+   <coaches> 
+     <coach id="125542" /> 
+     <coach id="306099" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2884</id> 
+   <name>إسطنبول بي.بي.</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2884.png</image> 
+   <country>تركيا</country> 
+   <adrese>Turgut Özal Caddesi 109, Çapa, Fatih</adrese> 
+   <website>http://www.ibfk.com.tr/</website> 
+   <creation-date>1990</creation-date> 
+   <players> 
+     <player id="16095" /> 
+     <player id="61235" /> 
+     <player id="323952" /> 
+     <player id="374609" /> 
+     <player id="409430" /> 
+     <player id="428933" /> 
+     <player id="498206" /> 
+     <player id="1945" /> 
+     <player id="2388" /> 
+     <player id="2956" /> 
+     <player id="4870" /> 
+     <player id="5073" /> 
+     <player id="5940" /> 
+     <player id="6366" /> 
+     <player id="8811" /> 
+     <player id="13637" /> 
+     <player id="38486" /> 
+     <player id="75061" /> 
+     <player id="80975" /> 
+     <player id="264352" /> 
+     <player id="319101" /> 
+     <player id="330788" /> 
+     <player id="351539" /> 
+     <player id="421670" /> 
+     <player id="495545" /> 
+     <player id="495548" /> 
+     <player id="497769" /> 
+     <player id="498207" /> 
+     <player id="499812" /> 
+     <player id="505003" /> 
+     <player id="540602" /> 
+     <player id="562686" /> 
+     <player id="2153" /> 
+     <player id="2895" /> 
+     <player id="4634" /> 
+     <player id="4762" /> 
+     <player id="9417" /> 
+     <player id="11496" /> 
+     <player id="16237" /> 
+     <player id="39462" /> 
+     <player id="40713" /> 
+     <player id="68592" /> 
+     <player id="121573" /> 
+     <player id="144607" /> 
+     <player id="194647" /> 
+     <player id="235287" /> 
+     <player id="235288" /> 
+     <player id="242156" /> 
+     <player id="260512" /> 
+     <player id="299723" /> 
+     <player id="334859" /> 
+     <player id="374697" /> 
+     <player id="413706" /> 
+     <player id="458812" /> 
+     <player id="469940" /> 
+     <player id="472655" /> 
+     <player id="495557" /> 
+     <player id="495558" /> 
+     <player id="495572" /> 
+     <player id="502957" /> 
+     <player id="503304" /> 
+     <player id="606552" /> 
+     <player id="157" /> 
+     <player id="598" /> 
+     <player id="12764" /> 
+     <player id="13192" /> 
+     <player id="20543" /> 
+     <player id="66574" /> 
+     <player id="78434" /> 
+     <player id="90931" /> 
+     <player id="214816" /> 
+     <player id="301891" /> 
+     <player id="309689" /> 
+     <player id="314098" /> 
+     <player id="498544" /> 
+     <player id="503681" /> 
+     <player id="505002" /> 
+   </players> 
+   <coaches> 
+     <coach id="4664" /> 
+     <coach id="110723" /> 
+     <coach id="321374" /> 
+   </coaches> 
+</team>

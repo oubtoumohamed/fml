@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1519</team_id> 
+   <id>465854</id> 
+   <name>دوان فان هاو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/465854.png</image> 
+   <position>مدافع</position> 
+   <nationality>فيتنام</nationality> 
+   <birth-day>1999-04-19</birth-day> 
+   <length  unit="cm">فيتنام</length> 
+   <weight  unit="kg">185</weight> 
+</player>

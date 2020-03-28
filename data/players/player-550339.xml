@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>676</team_id> 
+   <id>550339</id> 
+   <name>G. Bazunu</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/550339.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>أيرلندا</nationality> 
+   <birth-day>2002-02-20</birth-day> 
+   <length  unit="cm">أيرلندا</length> 
+   <weight  unit="kg">189</weight> 
+</player>

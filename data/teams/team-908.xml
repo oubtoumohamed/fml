@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>908</id> 
+   <name>نادي أميان الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/908.png</image> 
+   <country>فرنسا</country> 
+   <adrese>Rue du Chapitre</adrese> 
+   <website>http://www.amiensfootball.com</website> 
+   <creation-date>1901</creation-date> 
+   <players> 
+     <player id="13672" /> 
+     <player id="39290" /> 
+     <player id="156478" /> 
+     <player id="157690" /> 
+     <player id="382291" /> 
+     <player id="520838" /> 
+     <player id="621781" /> 
+     <player id="1118" /> 
+     <player id="2487" /> 
+     <player id="13637" /> 
+     <player id="21499" /> 
+     <player id="37746" /> 
+     <player id="112357" /> 
+     <player id="159092" /> 
+     <player id="185119" /> 
+     <player id="185166" /> 
+     <player id="211709" /> 
+     <player id="214492" /> 
+     <player id="240075" /> 
+     <player id="248582" /> 
+     <player id="273835" /> 
+     <player id="281883" /> 
+     <player id="422362" /> 
+     <player id="436104" /> 
+     <player id="520837" /> 
+     <player id="524879" /> 
+     <player id="1162" /> 
+     <player id="2058" /> 
+     <player id="2718" /> 
+     <player id="37576" /> 
+     <player id="65373" /> 
+     <player id="95825" /> 
+     <player id="141915" /> 
+     <player id="159419" /> 
+     <player id="163290" /> 
+     <player id="192196" /> 
+     <player id="226041" /> 
+     <player id="257338" /> 
+     <player id="261416" /> 
+     <player id="284738" /> 
+     <player id="327388" /> 
+     <player id="338115" /> 
+     <player id="391283" /> 
+     <player id="420399" /> 
+     <player id="484719" /> 
+     <player id="508740" /> 
+     <player id="521736" /> 
+     <player id="548176" /> 
+     <player id="561038" /> 
+     <player id="1513" /> 
+     <player id="61150" /> 
+     <player id="178521" /> 
+     <player id="186724" /> 
+     <player id="195819" /> 
+     <player id="258348" /> 
+     <player id="273058" /> 
+     <player id="277411" /> 
+     <player id="280882" /> 
+     <player id="296914" /> 
+     <player id="308483" /> 
+     <player id="311892" /> 
+     <player id="327462" /> 
+     <player id="348363" /> 
+     <player id="352061" /> 
+     <player id="405600" /> 
+     <player id="438280" /> 
+     <player id="446718" /> 
+     <player id="447273" /> 
+     <player id="478391" /> 
+     <player id="484809" /> 
+     <player id="548175" /> 
+     <player id="593171" /> 
+   </players> 
+   <coaches> 
+     <coach id="144336" /> 
+     <coach id="310061" /> 
+     <coach id="428378" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>687</team_id> 
+   <id>169884</id> 
+   <name>إيدي هو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/169884.png</image> 
+   <position>إنجلترا</position> 
+   <nationality>1977-11-29</nationality> 
+   <birth-day>Amersham</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

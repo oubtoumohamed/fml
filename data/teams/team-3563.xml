@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3563</id> 
+   <name>الأهلي</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3563.png</image> 
+   <country>الأردن</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="81130" /> 
+     <player id="81140" /> 
+     <player id="474979" /> 
+     <player id="474991" /> 
+     <player id="475030" /> 
+     <player id="81081" /> 
+     <player id="182713" /> 
+     <player id="184487" /> 
+     <player id="246663" /> 
+     <player id="373517" /> 
+     <player id="397206" /> 
+     <player id="446454" /> 
+     <player id="474982" /> 
+     <player id="475016" /> 
+     <player id="482449" /> 
+     <player id="373527" /> 
+     <player id="474985" /> 
+     <player id="474986" /> 
+     <player id="474989" /> 
+     <player id="474995" /> 
+     <player id="222605" /> 
+     <player id="369145" /> 
+     <player id="397217" /> 
+     <player id="475014" /> 
+   </players> 
+   <coaches> 
+     <coach id="222613" /> 
+   </coaches> 
+</team>

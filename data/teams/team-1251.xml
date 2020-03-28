@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1251</id> 
+   <name>نادي ليتشي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1251.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Via Templari, 11</adrese> 
+   <website>http://www.uslecce.it</website> 
+   <creation-date>1908</creation-date> 
+   <players> 
+     <player id="28209" /> 
+     <player id="153672" /> 
+     <player id="284329" /> 
+     <player id="320594" /> 
+     <player id="579724" /> 
+     <player id="4079" /> 
+     <player id="17777" /> 
+     <player id="18613" /> 
+     <player id="19743" /> 
+     <player id="33520" /> 
+     <player id="65824" /> 
+     <player id="93250" /> 
+     <player id="110657" /> 
+     <player id="137783" /> 
+     <player id="153702" /> 
+     <player id="210299" /> 
+     <player id="211945" /> 
+     <player id="300315" /> 
+     <player id="318523" /> 
+     <player id="342409" /> 
+     <player id="555107" /> 
+     <player id="559860" /> 
+     <player id="596832" /> 
+     <player id="645835" /> 
+     <player id="648326" /> 
+     <player id="650008" /> 
+     <player id="9944" /> 
+     <player id="66306" /> 
+     <player id="74374" /> 
+     <player id="101128" /> 
+     <player id="145357" /> 
+     <player id="145522" /> 
+     <player id="166004" /> 
+     <player id="175304" /> 
+     <player id="180488" /> 
+     <player id="182931" /> 
+     <player id="192122" /> 
+     <player id="204585" /> 
+     <player id="297043" /> 
+     <player id="319942" /> 
+     <player id="343907" /> 
+     <player id="596182" /> 
+     <player id="606632" /> 
+     <player id="645840" /> 
+     <player id="93376" /> 
+     <player id="100521" /> 
+     <player id="110654" /> 
+     <player id="111779" /> 
+     <player id="121282" /> 
+     <player id="142405" /> 
+     <player id="142406" /> 
+     <player id="205647" /> 
+     <player id="362627" /> 
+     <player id="401063" /> 
+     <player id="440301" /> 
+     <player id="514162" /> 
+     <player id="514868" /> 
+     <player id="568501" /> 
+     <player id="642102" /> 
+   </players> 
+   <coaches> 
+     <coach id="4039" /> 
+     <coach id="17703" /> 
+   </coaches> 
+</team>

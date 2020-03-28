@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1244</id> 
+   <name>نادي إنترناسيونالي ميلانو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1244.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Corso Vittorio Emanuele II 9</adrese> 
+   <website>http://www.inter.it</website> 
+   <creation-date>1908</creation-date> 
+   <players> 
+     <player id="4050" /> 
+     <player id="17974" /> 
+     <player id="18585" /> 
+     <player id="90659" /> 
+     <player id="408805" /> 
+     <player id="474967" /> 
+     <player id="489390" /> 
+     <player id="508931" /> 
+     <player id="1341" /> 
+     <player id="2553" /> 
+     <player id="14270" /> 
+     <player id="20153" /> 
+     <player id="21416" /> 
+     <player id="61131" /> 
+     <player id="61141" /> 
+     <player id="85512" /> 
+     <player id="102880" /> 
+     <player id="103834" /> 
+     <player id="112151" /> 
+     <player id="134612" /> 
+     <player id="161784" /> 
+     <player id="165998" /> 
+     <player id="213590" /> 
+     <player id="273832" /> 
+     <player id="329953" /> 
+     <player id="421835" /> 
+     <player id="426558" /> 
+     <player id="489393" /> 
+     <player id="508945" /> 
+     <player id="508956" /> 
+     <player id="508961" /> 
+     <player id="508968" /> 
+     <player id="571683" /> 
+     <player id="13756" /> 
+     <player id="17976" /> 
+     <player id="18461" /> 
+     <player id="18784" /> 
+     <player id="19222" /> 
+     <player id="25395" /> 
+     <player id="95871" /> 
+     <player id="121289" /> 
+     <player id="137619" /> 
+     <player id="170346" /> 
+     <player id="217198" /> 
+     <player id="245430" /> 
+     <player id="272945" /> 
+     <player id="275443" /> 
+     <player id="278819" /> 
+     <player id="319838" /> 
+     <player id="387739" /> 
+     <player id="431484" /> 
+     <player id="439052" /> 
+     <player id="466628" /> 
+     <player id="471102" /> 
+     <player id="471834" /> 
+     <player id="508978" /> 
+     <player id="508990" /> 
+     <player id="559755" /> 
+     <player id="564211" /> 
+     <player id="4117" /> 
+     <player id="24706" /> 
+     <player id="79495" /> 
+     <player id="214860" /> 
+     <player id="218143" /> 
+     <player id="244054" /> 
+     <player id="245593" /> 
+     <player id="289061" /> 
+     <player id="297700" /> 
+     <player id="387433" /> 
+     <player id="404462" /> 
+     <player id="413311" /> 
+     <player id="416524" /> 
+     <player id="426569" /> 
+     <player id="448838" /> 
+     <player id="467676" /> 
+     <player id="475771" /> 
+     <player id="497250" /> 
+     <player id="509016" /> 
+     <player id="509017" /> 
+     <player id="557867" /> 
+     <player id="571792" /> 
+     <player id="632377" /> 
+   </players> 
+   <coaches> 
+     <coach id="105100" /> 
+     <coach id="138112" /> 
+     <coach id="304386" /> 
+   </coaches> 
+</team>

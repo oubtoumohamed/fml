@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd">
+    <!-- id : [integer] identification of team -->
+    <id>3476</id>
+    <!-- name : [string] name of team -->
+    <name>نادي الوداد الرياضي</name>
+    <!-- image : [anyURI] flag of team -->
+    <image>https://s1.hesport.com/themes/desktop/img/teams/3476.png</image>
+    <!-- country : [string] country of team -->
+    <country>المغرب</country>
+    <!-- adrese : [string] adrese of team -->
+    <adrese>BP 20026</adrese>
+    <!-- website : [anyURI] team web site URL -->
+    <website>http://www.wac.ma</website>
+    <!-- creation-date : [date] date of creation the team -->
+    <creation-date>1937</creation-date>
+
+    <!-- players : list of players id -->
+    <players>
+        <player id="1001" />
+        <player id="1002" />
+        <player id="1003" />
+    </players>
+    <!-- coaches : list of coaches -->
+    <coaches>
+        <coach>
+            <id>111201</name>
+            <name>فوزي بنزيرتي</name>
+        </coach>
+        <coach>
+            <id>548620</name>
+            <name>Z. Manojlovic</name>
+        </coach>
+        <coach>
+            <id>564728</name>
+            <name>ع. السكتيوي</name>
+        </coach>
+        <coach>
+            <id>642515</name>
+            <name>F. Sahabi</name>
+        </coach>
+    </coaches>
+</team>

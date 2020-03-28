@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>7906</team_id> 
+   <id>615353</id> 
+   <name>Alex Caro</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/615353.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>1989-12-15</birth-day> 
+   <length  unit="cm">190</length> 
+   <weight  unit="kg">اليمني</weight> 
+</player>

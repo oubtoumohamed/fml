@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>327</team_id> 
+   <id>532467</id> 
+   <name>Junior Santos</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/532467.png</image> 
+   <position>مهاجم</position> 
+   <nationality>البرازيل</nationality> 
+   <birth-day>1994-10-11</birth-day> 
+   <length  unit="cm">البرازيل</length> 
+   <weight  unit="kg">188</weight> 
+</player>

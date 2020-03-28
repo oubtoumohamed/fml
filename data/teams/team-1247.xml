@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1247</id> 
+   <name>سامبدوريا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1247.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Piazza Borgo Pila 39</adrese> 
+   <website>http://www.sampdoria.it</website> 
+   <creation-date>1946</creation-date> 
+   <players> 
+     <player id="18423" /> 
+     <player id="61133" /> 
+     <player id="78660" /> 
+     <player id="85489" /> 
+     <player id="251437" /> 
+     <player id="261393" /> 
+     <player id="289808" /> 
+     <player id="387329" /> 
+     <player id="485312" /> 
+     <player id="575290" /> 
+     <player id="636323" /> 
+     <player id="13866" /> 
+     <player id="45411" /> 
+     <player id="71499" /> 
+     <player id="102655" /> 
+     <player id="102859" /> 
+     <player id="123106" /> 
+     <player id="134032" /> 
+     <player id="145358" /> 
+     <player id="180574" /> 
+     <player id="205555" /> 
+     <player id="232240" /> 
+     <player id="246644" /> 
+     <player id="256802" /> 
+     <player id="296232" /> 
+     <player id="330642" /> 
+     <player id="349517" /> 
+     <player id="376557" /> 
+     <player id="382601" /> 
+     <player id="394365" /> 
+     <player id="414054" /> 
+     <player id="495140" /> 
+     <player id="538733" /> 
+     <player id="581337" /> 
+     <player id="399" /> 
+     <player id="21090" /> 
+     <player id="80361" /> 
+     <player id="91722" /> 
+     <player id="119992" /> 
+     <player id="145357" /> 
+     <player id="155101" /> 
+     <player id="162670" /> 
+     <player id="180575" /> 
+     <player id="213581" /> 
+     <player id="213909" /> 
+     <player id="256420" /> 
+     <player id="270648" /> 
+     <player id="320877" /> 
+     <player id="348191" /> 
+     <player id="391087" /> 
+     <player id="413548" /> 
+     <player id="421833" /> 
+     <player id="424241" /> 
+     <player id="427718" /> 
+     <player id="433613" /> 
+     <player id="444205" /> 
+     <player id="454740" /> 
+     <player id="471834" /> 
+     <player id="474411" /> 
+     <player id="493738" /> 
+     <player id="579217" /> 
+     <player id="4164" /> 
+     <player id="17863" /> 
+     <player id="33276" /> 
+     <player id="36544" /> 
+     <player id="122010" /> 
+     <player id="180518" /> 
+     <player id="191223" /> 
+     <player id="252503" /> 
+     <player id="273833" /> 
+     <player id="273924" /> 
+     <player id="469983" /> 
+     <player id="482168" /> 
+     <player id="525725" /> 
+     <player id="540529" /> 
+     <player id="557867" /> 
+   </players> 
+   <coaches> 
+     <coach id="110804" /> 
+     <coach id="137771" /> 
+     <coach id="194719" /> 
+   </coaches> 
+</team>

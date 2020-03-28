@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1530</id> 
+   <name>فيتيس</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1530.png</image> 
+   <country>هولندا</country> 
+   <adrese>Batavierenweg 25</adrese> 
+   <website>http://www.vitesse.nl</website> 
+   <creation-date>1892</creation-date> 
+   <players> 
+     <player id="11662" /> 
+     <player id="17094" /> 
+     <player id="49689" /> 
+     <player id="88114" /> 
+     <player id="215676" /> 
+     <player id="303254" /> 
+     <player id="426573" /> 
+     <player id="452917" /> 
+     <player id="2274" /> 
+     <player id="24652" /> 
+     <player id="40194" /> 
+     <player id="46414" /> 
+     <player id="59077" /> 
+     <player id="115229" /> 
+     <player id="147407" /> 
+     <player id="195206" /> 
+     <player id="214901" /> 
+     <player id="215551" /> 
+     <player id="294380" /> 
+     <player id="319291" /> 
+     <player id="327700" /> 
+     <player id="352757" /> 
+     <player id="372979" /> 
+     <player id="407738" /> 
+     <player id="419538" /> 
+     <player id="426581" /> 
+     <player id="434326" /> 
+     <player id="441012" /> 
+     <player id="442034" /> 
+     <player id="453952" /> 
+     <player id="479859" /> 
+     <player id="480638" /> 
+     <player id="5797" /> 
+     <player id="57758" /> 
+     <player id="157078" /> 
+     <player id="168503" /> 
+     <player id="213587" /> 
+     <player id="218161" /> 
+     <player id="233877" /> 
+     <player id="324724" /> 
+     <player id="334861" /> 
+     <player id="376697" /> 
+     <player id="408573" /> 
+     <player id="452921" /> 
+     <player id="452922" /> 
+     <player id="457667" /> 
+     <player id="508815" /> 
+     <player id="567948" /> 
+     <player id="2401" /> 
+     <player id="49899" /> 
+     <player id="52888" /> 
+     <player id="102895" /> 
+     <player id="156440" /> 
+     <player id="193638" /> 
+     <player id="218123" /> 
+     <player id="360231" /> 
+     <player id="399770" /> 
+     <player id="407733" /> 
+     <player id="426574" /> 
+     <player id="437567" /> 
+     <player id="457668" /> 
+     <player id="462273" /> 
+     <player id="469772" /> 
+     <player id="475895" /> 
+     <player id="478276" /> 
+   </players> 
+   <coaches> 
+     <coach id="125295" /> 
+     <coach id="318127" /> 
+     <coach id="447781" /> 
+   </coaches> 
+</team>

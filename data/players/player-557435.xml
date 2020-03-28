@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1673</team_id> 
+   <id>557435</id> 
+   <name>K. Stanek</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/557435.png</image> 
+   <position>مهاجم</position> 
+   <nationality>بولندا</nationality> 
+   <birth-day>1999-10-03</birth-day> 
+   <length  unit="cm">بولندا</length> 
+   <weight  unit="kg">186</weight> 
+</player>

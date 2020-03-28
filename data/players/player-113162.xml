@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1188</team_id> 
+   <id>113162</id> 
+   <name>جوستين غريندهاوغ</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/113162.png</image> 
+   <position>النرويج</position> 
+   <nationality>1973-02-20</nationality> 
+   <birth-day>Haugesund</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

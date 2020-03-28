@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>665</id> 
+   <name>نادي أستون فيلا لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/665.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Trinity Road</adrese> 
+   <website>http://www.avfc.co.uk</website> 
+   <creation-date>1874</creation-date> 
+   <players> 
+     <player id="318" /> 
+     <player id="2887" /> 
+     <player id="2908" /> 
+     <player id="6912" /> 
+     <player id="29349" /> 
+     <player id="51034" /> 
+     <player id="98938" /> 
+     <player id="135452" /> 
+     <player id="196266" /> 
+     <player id="297463" /> 
+     <player id="309157" /> 
+     <player id="318363" /> 
+     <player id="181" /> 
+     <player id="204" /> 
+     <player id="820" /> 
+     <player id="1867" /> 
+     <player id="2248" /> 
+     <player id="2852" /> 
+     <player id="2873" /> 
+     <player id="2917" /> 
+     <player id="20611" /> 
+     <player id="21390" /> 
+     <player id="36434" /> 
+     <player id="44770" /> 
+     <player id="47987" /> 
+     <player id="50808" /> 
+     <player id="70429" /> 
+     <player id="72258" /> 
+     <player id="75124" /> 
+     <player id="85440" /> 
+     <player id="89489" /> 
+     <player id="101522" /> 
+     <player id="131320" /> 
+     <player id="138297" /> 
+     <player id="213964" /> 
+     <player id="215120" /> 
+     <player id="218044" /> 
+     <player id="226228" /> 
+     <player id="247931" /> 
+     <player id="261362" /> 
+     <player id="274052" /> 
+     <player id="277754" /> 
+     <player id="315557" /> 
+     <player id="339021" /> 
+     <player id="393686" /> 
+     <player id="400986" /> 
+     <player id="408151" /> 
+     <player id="420198" /> 
+     <player id="426952" /> 
+     <player id="431214" /> 
+     <player id="433897" /> 
+     <player id="457374" /> 
+     <player id="2898" /> 
+     <player id="7800" /> 
+     <player id="13729" /> 
+     <player id="15518" /> 
+     <player id="17515" /> 
+     <player id="20707" /> 
+     <player id="38569" /> 
+     <player id="50377" /> 
+     <player id="53097" /> 
+     <player id="61088" /> 
+     <player id="63905" /> 
+     <player id="67549" /> 
+     <player id="70764" /> 
+     <player id="88003" /> 
+     <player id="89512" /> 
+     <player id="95907" /> 
+     <player id="97362" /> 
+     <player id="97587" /> 
+     <player id="138183" /> 
+     <player id="149684" /> 
+     <player id="173621" /> 
+     <player id="187142" /> 
+     <player id="207208" /> 
+     <player id="213954" /> 
+     <player id="253078" /> 
+     <player id="256156" /> 
+     <player id="260309" /> 
+     <player id="264387" /> 
+     <player id="274469" /> 
+     <player id="276346" /> 
+     <player id="276956" /> 
+     <player id="281751" /> 
+     <player id="315052" /> 
+     <player id="320071" /> 
+     <player id="330161" /> 
+     <player id="330166" /> 
+     <player id="375175" /> 
+     <player id="416340" /> 
+     <player id="449544" /> 
+     <player id="453229" /> 
+     <player id="456091" /> 
+     <player id="459219" /> 
+     <player id="479419" /> 
+     <player id="917" /> 
+     <player id="2784" /> 
+     <player id="2812" /> 
+     <player id="37908" /> 
+     <player id="53423" /> 
+     <player id="63526" /> 
+     <player id="65765" /> 
+     <player id="71338" /> 
+     <player id="77662" /> 
+     <player id="89062" /> 
+     <player id="95810" /> 
+     <player id="131330" /> 
+     <player id="133802" /> 
+     <player id="175962" /> 
+     <player id="191797" /> 
+     <player id="215559" /> 
+     <player id="260734" /> 
+     <player id="372977" /> 
+     <player id="399874" /> 
+     <player id="405691" /> 
+     <player id="408768" /> 
+     <player id="434409" /> 
+     <player id="453235" /> 
+     <player id="501933" /> 
+   </players> 
+   <coaches> 
+     <coach id="184" /> 
+     <coach id="104080" /> 
+     <coach id="110690" /> 
+     <coach id="143811" /> 
+     <coach id="169902" /> 
+     <coach id="193975" /> 
+     <coach id="220169" /> 
+     <coach id="226257" /> 
+     <coach id="247183" /> 
+     <coach id="304811" /> 
+   </coaches> 
+</team>

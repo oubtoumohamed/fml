@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<competition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="competition.xsd">
+    
+    <!-- id : Identification of competiton (integer) -->
+    <id>17814</id>
+    <!-- name : string -->
+    <name>الدوري المغربي الممتاز</name>
+    <!-- image : flag (anyURI) -->
+    <image>https://s1.hesport.com/themes/desktop/img/flag/ma.png</image>
+    <!-- session : (string) -->
+    <session>2019/2020</session>
+
+    <!-- matches : list of matches -->
+    <matches>
+        <matche id="3143701" />
+        <matche id="3143702" />
+        <matche id="3143703" />
+    </matches>
+</competition>

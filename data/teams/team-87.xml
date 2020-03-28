@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>87</id> 
+   <name>La Adelita UE Engordany</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/87.png</image> 
+   <country>أندورا</country> 
+   <adrese>Avenida Fiter i Rossell 89</adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="62904" /> 
+     <player id="94224" /> 
+     <player id="554678" /> 
+     <player id="555484" /> 
+     <player id="14154" /> 
+     <player id="40849" /> 
+     <player id="40852" /> 
+     <player id="50004" /> 
+     <player id="61775" /> 
+     <player id="208369" /> 
+     <player id="210579" /> 
+     <player id="276288" /> 
+     <player id="347389" /> 
+     <player id="381259" /> 
+     <player id="488209" /> 
+     <player id="615544" /> 
+     <player id="616773" /> 
+     <player id="40859" /> 
+     <player id="40860" /> 
+     <player id="86677" /> 
+     <player id="128900" /> 
+     <player id="154620" /> 
+     <player id="196225" /> 
+     <player id="265716" /> 
+     <player id="392233" /> 
+     <player id="554681" /> 
+     <player id="615511" /> 
+     <player id="13640" /> 
+     <player id="14145" /> 
+     <player id="39846" /> 
+     <player id="56981" /> 
+     <player id="134290" /> 
+     <player id="134296" /> 
+     <player id="248785" /> 
+     <player id="323067" /> 
+     <player id="347399" /> 
+     <player id="554547" /> 
+     <player id="554549" /> 
+   </players> 
+   <coaches> 
+     <coach id="554554" /> 
+     <coach id="554700" /> 
+   </coaches> 
+</team>

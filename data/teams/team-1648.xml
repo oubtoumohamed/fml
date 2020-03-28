@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1648</id> 
+   <name>نادي ليغيا وارسو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1648.png</image> 
+   <country>بولندا</country> 
+   <adrese>ul. Lazienkowska 3</adrese> 
+   <website>http://www.legia.com</website> 
+   <creation-date>1916</creation-date> 
+   <players> 
+     <player id="12549" /> 
+     <player id="19130" /> 
+     <player id="262566" /> 
+     <player id="354259" /> 
+     <player id="423915" /> 
+     <player id="491228" /> 
+     <player id="509793" /> 
+     <player id="12609" /> 
+     <player id="12758" /> 
+     <player id="12880" /> 
+     <player id="18472" /> 
+     <player id="24533" /> 
+     <player id="32872" /> 
+     <player id="42500" /> 
+     <player id="45535" /> 
+     <player id="66123" /> 
+     <player id="257640" /> 
+     <player id="259043" /> 
+     <player id="262594" /> 
+     <player id="273914" /> 
+     <player id="348385" /> 
+     <player id="423918" /> 
+     <player id="423921" /> 
+     <player id="8587" /> 
+     <player id="12473" /> 
+     <player id="12625" /> 
+     <player id="33081" /> 
+     <player id="67091" /> 
+     <player id="79448" /> 
+     <player id="82988" /> 
+     <player id="83991" /> 
+     <player id="134384" /> 
+     <player id="138473" /> 
+     <player id="154227" /> 
+     <player id="157472" /> 
+     <player id="197238" /> 
+     <player id="217207" /> 
+     <player id="217929" /> 
+     <player id="256375" /> 
+     <player id="273913" /> 
+     <player id="311993" /> 
+     <player id="319438" /> 
+     <player id="343391" /> 
+     <player id="360199" /> 
+     <player id="404028" /> 
+     <player id="423926" /> 
+     <player id="427530" /> 
+     <player id="427532" /> 
+     <player id="452380" /> 
+     <player id="468247" /> 
+     <player id="485378" /> 
+     <player id="493286" /> 
+     <player id="509856" /> 
+     <player id="509881" /> 
+     <player id="532766" /> 
+     <player id="10604" /> 
+     <player id="134879" /> 
+     <player id="210540" /> 
+     <player id="260136" /> 
+     <player id="260208" /> 
+     <player id="278069" /> 
+     <player id="297182" /> 
+     <player id="314076" /> 
+     <player id="427663" /> 
+     <player id="449006" /> 
+   </players> 
+   <coaches> 
+     <coach id="1192" /> 
+     <coach id="12621" /> 
+     <coach id="110156" /> 
+     <coach id="229911" /> 
+     <coach id="508658" /> 
+     <coach id="542095" /> 
+   </coaches> 
+</team>

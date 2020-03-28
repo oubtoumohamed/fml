@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>7912</team_id> 
+   <id>554545</id> 
+   <name>C. Gonzalez</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/554545.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>جبل طارق</nationality> 
+   <birth-day>1991-01-25</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

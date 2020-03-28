@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>886</team_id> 
+   <id>571827</id> 
+   <name>أرناود مونيجا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/571827.png</image> 
+   <position>مهاجم</position> 
+   <nationality>فرنسا</nationality> 
+   <birth-day>2002-01-20</birth-day> 
+   <length  unit="cm">175</length> 
+   <weight  unit="kg">63</weight> 
+</player>

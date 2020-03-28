@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1409</team_id> 
+   <id>281872</id> 
+   <name>ر. سيسيليا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/281872.png</image> 
+   <position>مهاجم</position> 
+   <nationality>جزر الأنتيل</nationality> 
+   <birth-day>1994-09-23</birth-day> 
+   <length  unit="cm">جزر</length> 
+   <weight  unit="kg">197</weight> 
+</player>

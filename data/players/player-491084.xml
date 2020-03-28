@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1995</team_id> 
+   <id>491084</id> 
+   <name>A. Slančík</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/491084.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>سلوفاكيا</nationality> 
+   <birth-day>1999-07-22</birth-day> 
+   <length  unit="cm">سلوفاكيا</length> 
+   <weight  unit="kg">188</weight> 
+</player>

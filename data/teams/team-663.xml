@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>663</id> 
+   <name>نادي ليفربول لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/663.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Anfield Road</adrese> 
+   <website>http://www.liverpoolfc.tv</website> 
+   <creation-date>1892</creation-date> 
+   <players> 
+     <player id="13465" /> 
+     <player id="15602" /> 
+     <player id="16079" /> 
+     <player id="60036" /> 
+     <player id="102643" /> 
+     <player id="160922" /> 
+     <player id="205201" /> 
+     <player id="375147" /> 
+     <player id="427518" /> 
+     <player id="454406" /> 
+     <player id="459338" /> 
+     <player id="499173" /> 
+     <player id="2324" /> 
+     <player id="55819" /> 
+     <player id="66379" /> 
+     <player id="101189" /> 
+     <player id="188624" /> 
+     <player id="192742" /> 
+     <player id="214286" /> 
+     <player id="254527" /> 
+     <player id="277711" /> 
+     <player id="290182" /> 
+     <player id="335221" /> 
+     <player id="376875" /> 
+     <player id="412076" /> 
+     <player id="422434" /> 
+     <player id="454410" /> 
+     <player id="456092" /> 
+     <player id="459343" /> 
+     <player id="459345" /> 
+     <player id="459370" /> 
+     <player id="523655" /> 
+     <player id="525922" /> 
+     <player id="534986" /> 
+     <player id="623089" /> 
+     <player id="623099" /> 
+     <player id="2899" /> 
+     <player id="8828" /> 
+     <player id="15497" /> 
+     <player id="48010" /> 
+     <player id="83268" /> 
+     <player id="120695" /> 
+     <player id="159872" /> 
+     <player id="189118" /> 
+     <player id="245348" /> 
+     <player id="270005" /> 
+     <player id="274936" /> 
+     <player id="316312" /> 
+     <player id="323155" /> 
+     <player id="376719" /> 
+     <player id="376871" /> 
+     <player id="376877" /> 
+     <player id="386243" /> 
+     <player id="411698" /> 
+     <player id="455763" /> 
+     <player id="459348" /> 
+     <player id="459355" /> 
+     <player id="459357" /> 
+     <player id="506411" /> 
+     <player id="508821" /> 
+     <player id="535339" /> 
+     <player id="597590" /> 
+     <player id="5206" /> 
+     <player id="103265" /> 
+     <player id="138653" /> 
+     <player id="139523" /> 
+     <player id="193117" /> 
+     <player id="201602" /> 
+     <player id="215344" /> 
+     <player id="274816" /> 
+     <player id="319132" /> 
+     <player id="320283" /> 
+     <player id="372201" /> 
+     <player id="453099" /> 
+     <player id="454401" /> 
+     <player id="454418" /> 
+     <player id="459352" /> 
+     <player id="545145" /> 
+   </players> 
+   <coaches> 
+     <coach id="105865" /> 
+     <coach id="304357" /> 
+     <coach id="372301" /> 
+   </coaches> 
+</team>

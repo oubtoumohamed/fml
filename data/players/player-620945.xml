@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2146</team_id> 
+   <id>620945</id> 
+   <name>L. Sarr</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/620945.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>السويد</nationality> 
+   <birth-day>2001-03-11</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>24754</team_id> 
+   <id>224727</id> 
+   <name>س.شاخاليان</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/224727.png</image> 
+   <position>أرمينيا</position> 
+   <nationality>1972-08-24</nationality> 
+   <birth-day>أرمينيا</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

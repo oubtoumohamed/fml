@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>24754</team_id> 
+   <id>616700</id> 
+   <name>Thulio</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/616700.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>البرازيل</nationality> 
+   <birth-day>1996-01-29</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

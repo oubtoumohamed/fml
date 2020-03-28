@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>979</team_id> 
+   <id>565522</id> 
+   <name>R. Zalazar</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/565522.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>الأوروجواي</nationality> 
+   <birth-day>1999-08-12</birth-day> 
+   <length  unit="cm">إسبانيا</length> 
+   <weight  unit="kg">178</weight> 
+</player>

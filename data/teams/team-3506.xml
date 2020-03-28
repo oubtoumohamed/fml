@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3506</id> 
+   <name>نادي السد الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3506.png</image> 
+   <country>قطر</country> 
+   <adrese>PO Box 2122</adrese> 
+   <website>http://www.al-saddclub.com</website> 
+   <creation-date>1969</creation-date> 
+   <players> 
+     <player id="26675" /> 
+     <player id="64841" /> 
+     <player id="473414" /> 
+     <player id="507105" /> 
+     <player id="514142" /> 
+     <player id="570221" /> 
+     <player id="643753" /> 
+     <player id="10910" /> 
+     <player id="81971" /> 
+     <player id="102758" /> 
+     <player id="156684" /> 
+     <player id="175614" /> 
+     <player id="209183" /> 
+     <player id="267581" /> 
+     <player id="267586" /> 
+     <player id="343761" /> 
+     <player id="343763" /> 
+     <player id="343767" /> 
+     <player id="383247" /> 
+     <player id="465695" /> 
+     <player id="465716" /> 
+     <player id="465719" /> 
+     <player id="643747" /> 
+     <player id="3042" /> 
+     <player id="59344" /> 
+     <player id="88001" /> 
+     <player id="123528" /> 
+     <player id="178649" /> 
+     <player id="210396" /> 
+     <player id="343745" /> 
+     <player id="383257" /> 
+     <player id="395711" /> 
+     <player id="406966" /> 
+     <player id="419017" /> 
+     <player id="468288" /> 
+     <player id="471195" /> 
+     <player id="507103" /> 
+     <player id="507104" /> 
+     <player id="514146" /> 
+     <player id="514147" /> 
+     <player id="514150" /> 
+     <player id="514167" /> 
+     <player id="514168" /> 
+     <player id="515744" /> 
+     <player id="521398" /> 
+     <player id="528253" /> 
+     <player id="530972" /> 
+     <player id="551722" /> 
+     <player id="570222" /> 
+     <player id="575886" /> 
+     <player id="575887" /> 
+     <player id="580399" /> 
+     <player id="580400" /> 
+     <player id="590139" /> 
+     <player id="591890" /> 
+     <player id="596702" /> 
+     <player id="638930" /> 
+     <player id="638932" /> 
+     <player id="638933" /> 
+     <player id="643749" /> 
+     <player id="643750" /> 
+     <player id="64889" /> 
+     <player id="123527" /> 
+     <player id="172982" /> 
+     <player id="208111" /> 
+     <player id="267583" /> 
+     <player id="318702" /> 
+     <player id="343739" /> 
+     <player id="343755" /> 
+     <player id="431298" /> 
+     <player id="473417" /> 
+     <player id="514160" /> 
+     <player id="514166" /> 
+     <player id="532330" /> 
+     <player id="590140" /> 
+     <player id="591891" /> 
+   </players> 
+   <coaches> 
+     <coach id="333" /> 
+     <coach id="62714" /> 
+     <coach id="136330" /> 
+     <coach id="514145" /> 
+   </coaches> 
+</team>

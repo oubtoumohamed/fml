@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>200</team_id> 
+   <id>420616</id> 
+   <name>A. Shkurdyuk</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/420616.png</image> 
+   <position>مدافع</position> 
+   <nationality>بلاروسيا</nationality> 
+   <birth-day>1998-08-20</birth-day> 
+   <length  unit="cm">بلاروسيا</length> 
+   <weight  unit="kg">186</weight> 
+</player>

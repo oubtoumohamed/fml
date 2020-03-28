@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>9066</id> 
+   <name>الظفرة</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/9066.png</image> 
+   <country>الإمارات</country> 
+   <adrese>P.O. Box 50381</adrese> 
+   <website></website> 
+   <creation-date>2000</creation-date> 
+   <players> 
+     <player id="79309" /> 
+     <player id="79639" /> 
+     <player id="152599" /> 
+     <player id="244848" /> 
+     <player id="244869" /> 
+     <player id="280881" /> 
+     <player id="575099" /> 
+     <player id="590208" /> 
+     <player id="86722" /> 
+     <player id="153798" /> 
+     <player id="153803" /> 
+     <player id="156477" /> 
+     <player id="177377" /> 
+     <player id="178061" /> 
+     <player id="188962" /> 
+     <player id="213577" /> 
+     <player id="213752" /> 
+     <player id="214061" /> 
+     <player id="245022" /> 
+     <player id="268120" /> 
+     <player id="268405" /> 
+     <player id="294723" /> 
+     <player id="311842" /> 
+     <player id="319339" /> 
+     <player id="374193" /> 
+     <player id="400120" /> 
+     <player id="437664" /> 
+     <player id="475111" /> 
+     <player id="529487" /> 
+     <player id="571292" /> 
+     <player id="571294" /> 
+     <player id="625820" /> 
+     <player id="643836" /> 
+     <player id="33744" /> 
+     <player id="37960" /> 
+     <player id="69734" /> 
+     <player id="97582" /> 
+     <player id="178138" /> 
+     <player id="186562" /> 
+     <player id="213767" /> 
+     <player id="214615" /> 
+     <player id="235136" /> 
+     <player id="244870" /> 
+     <player id="245009" /> 
+     <player id="281559" /> 
+     <player id="294731" /> 
+     <player id="294922" /> 
+     <player id="294923" /> 
+     <player id="312030" /> 
+     <player id="319335" /> 
+     <player id="323061" /> 
+     <player id="374185" /> 
+     <player id="400007" /> 
+     <player id="400009" /> 
+     <player id="415084" /> 
+     <player id="431076" /> 
+     <player id="504596" /> 
+     <player id="537358" /> 
+     <player id="616599" /> 
+     <player id="650426" /> 
+     <player id="29722" /> 
+     <player id="64346" /> 
+     <player id="66043" /> 
+     <player id="91306" /> 
+     <player id="171037" /> 
+     <player id="179164" /> 
+     <player id="219465" /> 
+     <player id="236402" /> 
+     <player id="268205" /> 
+     <player id="294716" /> 
+     <player id="310300" /> 
+     <player id="390427" /> 
+     <player id="414927" /> 
+     <player id="571293" /> 
+     <player id="645475" /> 
+   </players> 
+   <coaches> 
+     <coach id="154306" /> 
+     <coach id="182586" /> 
+   </coaches> 
+</team>

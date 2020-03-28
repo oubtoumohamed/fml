@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>481</team_id> 
+   <id>554629</id> 
+   <name>B. Šutalo</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/554629.png</image> 
+   <position>مدافع</position> 
+   <nationality>كرواتيا</nationality> 
+   <birth-day>2000-01-01</birth-day> 
+   <length  unit="cm">كرواتيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

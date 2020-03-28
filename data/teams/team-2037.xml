@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2037</id> 
+   <name>ديبورتيفو ألافيس</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2037.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Paseo de Cervantes</adrese> 
+   <website>http://www.alaves.com</website> 
+   <creation-date>1921</creation-date> 
+   <players> 
+     <player id="3035" /> 
+     <player id="164039" /> 
+     <player id="267084" /> 
+     <player id="318078" /> 
+     <player id="429987" /> 
+     <player id="498516" /> 
+     <player id="537286" /> 
+     <player id="3300" /> 
+     <player id="97044" /> 
+     <player id="141419" /> 
+     <player id="146974" /> 
+     <player id="208325" /> 
+     <player id="245587" /> 
+     <player id="248739" /> 
+     <player id="259952" /> 
+     <player id="270118" /> 
+     <player id="279226" /> 
+     <player id="282361" /> 
+     <player id="297151" /> 
+     <player id="319878" /> 
+     <player id="341527" /> 
+     <player id="370003" /> 
+     <player id="395128" /> 
+     <player id="395539" /> 
+     <player id="409808" /> 
+     <player id="472270" /> 
+     <player id="5394" /> 
+     <player id="13717" /> 
+     <player id="58925" /> 
+     <player id="61735" /> 
+     <player id="75762" /> 
+     <player id="108457" /> 
+     <player id="113777" /> 
+     <player id="122138" /> 
+     <player id="135892" /> 
+     <player id="235950" /> 
+     <player id="262225" /> 
+     <player id="265437" /> 
+     <player id="266336" /> 
+     <player id="279608" /> 
+     <player id="279746" /> 
+     <player id="314124" /> 
+     <player id="364109" /> 
+     <player id="366371" /> 
+     <player id="376371" /> 
+     <player id="394220" /> 
+     <player id="412660" /> 
+     <player id="426013" /> 
+     <player id="463492" /> 
+     <player id="472457" /> 
+     <player id="585861" /> 
+     <player id="585876" /> 
+     <player id="610215" /> 
+     <player id="20020" /> 
+     <player id="23737" /> 
+     <player id="78568" /> 
+     <player id="87642" /> 
+     <player id="95842" /> 
+     <player id="115127" /> 
+     <player id="126941" /> 
+     <player id="151877" /> 
+     <player id="160637" /> 
+     <player id="197891" /> 
+     <player id="235467" /> 
+     <player id="265255" /> 
+     <player id="309994" /> 
+     <player id="312839" /> 
+     <player id="333264" /> 
+     <player id="372757" /> 
+     <player id="386977" /> 
+     <player id="430110" /> 
+     <player id="440680" /> 
+     <player id="571434" /> 
+     <player id="585867" /> 
+   </players> 
+   <coaches> 
+     <coach id="209677" /> 
+     <coach id="262844" /> 
+   </coaches> 
+</team>

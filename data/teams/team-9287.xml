@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>9287</id> 
+   <name>ضمك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/9287.png</image> 
+   <country>السعودية</country> 
+   <adrese></adrese> 
+   <website>http://www.damakclub.net</website> 
+   <creation-date>1970</creation-date> 
+   <players> 
+     <player id="79362" /> 
+     <player id="217094" /> 
+     <player id="326547" /> 
+     <player id="359639" /> 
+     <player id="371373" /> 
+     <player id="433663" /> 
+     <player id="433664" /> 
+     <player id="624741" /> 
+     <player id="67360" /> 
+     <player id="103467" /> 
+     <player id="143860" /> 
+     <player id="144224" /> 
+     <player id="163400" /> 
+     <player id="166512" /> 
+     <player id="173940" /> 
+     <player id="190502" /> 
+     <player id="207521" /> 
+     <player id="280635" /> 
+     <player id="326958" /> 
+     <player id="397045" /> 
+     <player id="433669" /> 
+     <player id="433670" /> 
+     <player id="469016" /> 
+     <player id="469992" /> 
+     <player id="482159" /> 
+     <player id="484480" /> 
+     <player id="534257" /> 
+     <player id="534284" /> 
+     <player id="534290" /> 
+     <player id="547757" /> 
+     <player id="634377" /> 
+     <player id="143607" /> 
+     <player id="172343" /> 
+     <player id="179100" /> 
+     <player id="207446" /> 
+     <player id="208033" /> 
+     <player id="217668" /> 
+     <player id="221896" /> 
+     <player id="279335" /> 
+     <player id="298258" /> 
+     <player id="299066" /> 
+     <player id="313180" /> 
+     <player id="375851" /> 
+     <player id="402796" /> 
+     <player id="414873" /> 
+     <player id="436414" /> 
+     <player id="449843" /> 
+     <player id="496970" /> 
+     <player id="534258" /> 
+     <player id="534287" /> 
+     <player id="598566" /> 
+     <player id="625871" /> 
+     <player id="646585" /> 
+     <player id="15201" /> 
+     <player id="67163" /> 
+     <player id="224963" /> 
+     <player id="309218" /> 
+     <player id="326311" /> 
+     <player id="326718" /> 
+     <player id="433034" /> 
+     <player id="433678" /> 
+     <player id="438236" /> 
+     <player id="454589" /> 
+     <player id="482582" /> 
+   </players> 
+   <coaches> 
+     <coach id="151905" /> 
+     <coach id="325007" /> 
+     <coach id="534259" /> 
+   </coaches> 
+</team>

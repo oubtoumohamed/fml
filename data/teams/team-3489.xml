@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3489</id> 
+   <name>الملعب التونسي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3489.png</image> 
+   <country>تونس</country> 
+   <adrese>Rue Marrakech, Le Bardo</adrese> 
+   <website>http://www.stadetunisien.net</website> 
+   <creation-date>1948</creation-date> 
+   <players> 
+     <player id="20917" /> 
+     <player id="138380" /> 
+     <player id="216985" /> 
+     <player id="249438" /> 
+     <player id="424954" /> 
+     <player id="571559" /> 
+     <player id="53381" /> 
+     <player id="262549" /> 
+     <player id="280910" /> 
+     <player id="314625" /> 
+     <player id="316901" /> 
+     <player id="319076" /> 
+     <player id="322124" /> 
+     <player id="328131" /> 
+     <player id="360201" /> 
+     <player id="435658" /> 
+     <player id="438307" /> 
+     <player id="447199" /> 
+     <player id="459821" /> 
+     <player id="499771" /> 
+     <player id="519362" /> 
+     <player id="532163" /> 
+     <player id="571561" /> 
+     <player id="20907" /> 
+     <player id="71462" /> 
+     <player id="138388" /> 
+     <player id="138436" /> 
+     <player id="166687" /> 
+     <player id="193331" /> 
+     <player id="245427" /> 
+     <player id="270429" /> 
+     <player id="314626" /> 
+     <player id="315759" /> 
+     <player id="322163" /> 
+     <player id="324087" /> 
+     <player id="336130" /> 
+     <player id="426242" /> 
+     <player id="431386" /> 
+     <player id="446947" /> 
+     <player id="463343" /> 
+     <player id="469707" /> 
+     <player id="495748" /> 
+     <player id="499772" /> 
+     <player id="499773" /> 
+     <player id="519365" /> 
+     <player id="534830" /> 
+     <player id="535595" /> 
+     <player id="568795" /> 
+     <player id="592648" /> 
+     <player id="614728" /> 
+     <player id="622708" /> 
+     <player id="53395" /> 
+     <player id="165851" /> 
+     <player id="186200" /> 
+     <player id="326955" /> 
+     <player id="361305" /> 
+     <player id="419626" /> 
+     <player id="424955" /> 
+     <player id="425815" /> 
+     <player id="436141" /> 
+     <player id="473792" /> 
+     <player id="502203" /> 
+     <player id="520420" /> 
+     <player id="530743" /> 
+     <player id="532027" /> 
+     <player id="532164" /> 
+     <player id="535594" /> 
+     <player id="566684" /> 
+     <player id="588346" /> 
+     <player id="588635" /> 
+     <player id="623945" /> 
+   </players> 
+   <coaches> 
+     <coach id="230463" /> 
+     <coach id="263788" /> 
+     <coach id="317212" /> 
+     <coach id="447046" /> 
+     <coach id="469358" /> 
+     <coach id="566755" /> 
+     <coach id="614726" /> 
+   </coaches> 
+</team>

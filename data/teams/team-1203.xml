@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1203</id> 
+   <name>نادي مكابي حيفا لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1203.png</image> 
+   <country>اسرائيل</country> 
+   <adrese>Heinrich Heine Str. 14</adrese> 
+   <website>http://maccabi-haifafc.walla.co.il</website> 
+   <creation-date>1913</creation-date> 
+   <players> 
+     <player id="750" /> 
+     <player id="56049" /> 
+     <player id="95367" /> 
+     <player id="108630" /> 
+     <player id="195814" /> 
+     <player id="302158" /> 
+     <player id="330278" /> 
+     <player id="406339" /> 
+     <player id="420846" /> 
+     <player id="460299" /> 
+     <player id="9846" /> 
+     <player id="21079" /> 
+     <player id="49666" /> 
+     <player id="56051" /> 
+     <player id="56057" /> 
+     <player id="56077" /> 
+     <player id="60857" /> 
+     <player id="89794" /> 
+     <player id="91817" /> 
+     <player id="91989" /> 
+     <player id="92624" /> 
+     <player id="126426" /> 
+     <player id="131663" /> 
+     <player id="272862" /> 
+     <player id="293219" /> 
+     <player id="294126" /> 
+     <player id="315518" /> 
+     <player id="318454" /> 
+     <player id="320046" /> 
+     <player id="386567" /> 
+     <player id="400605" /> 
+     <player id="446144" /> 
+     <player id="531977" /> 
+     <player id="1727" /> 
+     <player id="2721" /> 
+     <player id="5060" /> 
+     <player id="5275" /> 
+     <player id="9288" /> 
+     <player id="10442" /> 
+     <player id="13574" /> 
+     <player id="16110" /> 
+     <player id="16838" /> 
+     <player id="23535" /> 
+     <player id="36808" /> 
+     <player id="39426" /> 
+     <player id="55974" /> 
+     <player id="56087" /> 
+     <player id="58363" /> 
+     <player id="84194" /> 
+     <player id="91953" /> 
+     <player id="95393" /> 
+     <player id="112944" /> 
+     <player id="124643" /> 
+     <player id="160616" /> 
+     <player id="163163" /> 
+     <player id="170283" /> 
+     <player id="194647" /> 
+     <player id="208311" /> 
+     <player id="217515" /> 
+     <player id="236883" /> 
+     <player id="242994" /> 
+     <player id="273204" /> 
+     <player id="273313" /> 
+     <player id="282847" /> 
+     <player id="289866" /> 
+     <player id="318529" /> 
+     <player id="320049" /> 
+     <player id="364109" /> 
+     <player id="374811" /> 
+     <player id="386583" /> 
+     <player id="440939" /> 
+     <player id="464063" /> 
+     <player id="464069" /> 
+     <player id="619212" /> 
+     <player id="646272" /> 
+     <player id="646273" /> 
+     <player id="17583" /> 
+     <player id="19677" /> 
+     <player id="49827" /> 
+     <player id="55969" /> 
+     <player id="56117" /> 
+     <player id="131557" /> 
+     <player id="143094" /> 
+     <player id="156608" /> 
+     <player id="172010" /> 
+     <player id="225445" /> 
+     <player id="240576" /> 
+     <player id="273304" /> 
+     <player id="278570" /> 
+     <player id="320056" /> 
+     <player id="368541" /> 
+     <player id="369335" /> 
+     <player id="386593" /> 
+     <player id="420543" /> 
+   </players> 
+   <coaches> 
+     <coach id="2327" /> 
+     <coach id="119254" /> 
+     <coach id="135610" /> 
+     <coach id="215225" /> 
+     <coach id="297905" /> 
+     <coach id="302582" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>980</team_id> 
+   <id>497137</id> 
+   <name>جوليان كرهل</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/497137.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>ألمانيا</nationality> 
+   <birth-day>2000-01-22</birth-day> 
+   <length  unit="cm">194</length> 
+   <weight  unit="kg">اليمني</weight> 
+</player>

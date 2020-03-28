@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2025</team_id> 
+   <id>610212</id> 
+   <name>راؤول جارسيا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/610212.png</image> 
+   <position>مهاجم</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>2000-11-03</birth-day> 
+   <length  unit="cm">إسبانيا</length> 
+   <weight  unit="kg">192</weight> 
+</player>

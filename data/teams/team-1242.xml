@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1242</id> 
+   <name>نادي يوفنتوس لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1242.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Corso Galileo Ferraris 32</adrese> 
+   <website>http://www.juventus.com</website> 
+   <creation-date>1897</creation-date> 
+   <players> 
+     <player id="53" /> 
+     <player id="16085" /> 
+     <player id="95779" /> 
+     <player id="103157" /> 
+     <player id="154736" /> 
+     <player id="289808" /> 
+     <player id="406293" /> 
+     <player id="426557" /> 
+     <player id="450081" /> 
+     <player id="56" /> 
+     <player id="2057" /> 
+     <player id="3979" /> 
+     <player id="13730" /> 
+     <player id="16114" /> 
+     <player id="17684" /> 
+     <player id="19070" /> 
+     <player id="21416" /> 
+     <player id="75848" /> 
+     <player id="78657" /> 
+     <player id="154240" /> 
+     <player id="158411" /> 
+     <player id="161784" /> 
+     <player id="162676" /> 
+     <player id="180984" /> 
+     <player id="235491" /> 
+     <player id="276937" /> 
+     <player id="295568" /> 
+     <player id="321340" /> 
+     <player id="374637" /> 
+     <player id="376765" /> 
+     <player id="376771" /> 
+     <player id="399768" /> 
+     <player id="419721" /> 
+     <player id="425515" /> 
+     <player id="454738" /> 
+     <player id="517962" /> 
+     <player id="1188" /> 
+     <player id="4519" /> 
+     <player id="17948" /> 
+     <player id="20591" /> 
+     <player id="61414" /> 
+     <player id="65287" /> 
+     <player id="66532" /> 
+     <player id="159872" /> 
+     <player id="178336" /> 
+     <player id="211948" /> 
+     <player id="242768" /> 
+     <player id="289863" /> 
+     <player id="316336" /> 
+     <player id="317333" /> 
+     <player id="335207" /> 
+     <player id="376823" /> 
+     <player id="396178" /> 
+     <player id="396685" /> 
+     <player id="398753" /> 
+     <player id="426576" /> 
+     <player id="430616" /> 
+     <player id="444756" /> 
+     <player id="460405" /> 
+     <player id="460439" /> 
+     <player id="477620" /> 
+     <player id="506108" /> 
+     <player id="382" /> 
+     <player id="5274" /> 
+     <player id="20303" /> 
+     <player id="201072" /> 
+     <player id="213208" /> 
+     <player id="215494" /> 
+     <player id="264412" /> 
+     <player id="278876" /> 
+     <player id="314061" /> 
+     <player id="372907" /> 
+     <player id="393223" /> 
+     <player id="401959" /> 
+     <player id="425941" /> 
+     <player id="426567" /> 
+     <player id="429830" /> 
+     <player id="450479" /> 
+     <player id="454212" /> 
+     <player id="493420" /> 
+     <player id="506104" /> 
+     <player id="559102" /> 
+   </players> 
+   <coaches> 
+     <coach id="110817" /> 
+     <coach id="168782" /> 
+     <coach id="363793" /> 
+     <coach id="363817" /> 
+   </coaches> 
+</team>

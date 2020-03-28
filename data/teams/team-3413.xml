@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3413</id> 
+   <name>نادي شباب أهلي برج بوعريريج</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3413.png</image> 
+   <country>الجزائر</country> 
+   <adrese>Route de Bir Snab</adrese> 
+   <website>http://www.ahlybordj.net</website> 
+   <creation-date>1931</creation-date> 
+   <players> 
+     <player id="49258" /> 
+     <player id="89137" /> 
+     <player id="89427" /> 
+     <player id="470355" /> 
+     <player id="490503" /> 
+     <player id="560923" /> 
+     <player id="89018" /> 
+     <player id="89464" /> 
+     <player id="99366" /> 
+     <player id="193994" /> 
+     <player id="311116" /> 
+     <player id="312119" /> 
+     <player id="360145" /> 
+     <player id="360355" /> 
+     <player id="414108" /> 
+     <player id="414131" /> 
+     <player id="431194" /> 
+     <player id="432777" /> 
+     <player id="455228" /> 
+     <player id="473884" /> 
+     <player id="496074" /> 
+     <player id="506752" /> 
+     <player id="560924" /> 
+     <player id="1348" /> 
+     <player id="76087" /> 
+     <player id="76405" /> 
+     <player id="89158" /> 
+     <player id="89344" /> 
+     <player id="182125" /> 
+     <player id="256487" /> 
+     <player id="256714" /> 
+     <player id="296814" /> 
+     <player id="309955" /> 
+     <player id="360169" /> 
+     <player id="395232" /> 
+     <player id="432201" /> 
+     <player id="472224" /> 
+     <player id="495299" /> 
+     <player id="495310" /> 
+     <player id="560925" /> 
+     <player id="157323" /> 
+     <player id="193330" /> 
+     <player id="246893" /> 
+     <player id="266273" /> 
+     <player id="281383" /> 
+     <player id="286366" /> 
+     <player id="311548" /> 
+     <player id="342841" /> 
+     <player id="360367" /> 
+     <player id="414127" /> 
+     <player id="461253" /> 
+     <player id="480086" /> 
+     <player id="560922" /> 
+     <player id="591553" /> 
+     <player id="597865" /> 
+   </players> 
+   <coaches> 
+     <coach id="138182" /> 
+     <coach id="275253" /> 
+     <coach id="299415" /> 
+     <coach id="334300" /> 
+     <coach id="335008" /> 
+     <coach id="480090" /> 
+     <coach id="642513" /> 
+     <coach id="646130" /> 
+   </coaches> 
+</team>

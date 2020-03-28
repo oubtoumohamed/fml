@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1539</team_id> 
+   <id>590381</id> 
+   <name>B. Haak</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/590381.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>هولندا</nationality> 
+   <birth-day>هولندا</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1245</id> 
+   <name>نادي لاتسيو روما الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1245.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Via di Santa Cornelia 1000</adrese> 
+   <website>http://www.sslazio.it</website> 
+   <creation-date>1900</creation-date> 
+   <players> 
+     <player id="9898" /> 
+     <player id="36716" /> 
+     <player id="235328" /> 
+     <player id="276065" /> 
+     <player id="319930" /> 
+     <player id="575371" /> 
+     <player id="610285" /> 
+     <player id="757" /> 
+     <player id="11965" /> 
+     <player id="19070" /> 
+     <player id="32872" /> 
+     <player id="102880" /> 
+     <player id="132296" /> 
+     <player id="155061" /> 
+     <player id="180645" /> 
+     <player id="213272" /> 
+     <player id="217647" /> 
+     <player id="219031" /> 
+     <player id="246122" /> 
+     <player id="256239" /> 
+     <player id="262315" /> 
+     <player id="288831" /> 
+     <player id="293475" /> 
+     <player id="293763" /> 
+     <player id="340581" /> 
+     <player id="405559" /> 
+     <player id="442098" /> 
+     <player id="459987" /> 
+     <player id="467634" /> 
+     <player id="476543" /> 
+     <player id="517964" /> 
+     <player id="595155" /> 
+     <player id="612614" /> 
+     <player id="645312" /> 
+     <player id="9201" /> 
+     <player id="19252" /> 
+     <player id="34883" /> 
+     <player id="85043" /> 
+     <player id="86126" /> 
+     <player id="94345" /> 
+     <player id="122245" /> 
+     <player id="149917" /> 
+     <player id="157530" /> 
+     <player id="206583" /> 
+     <player id="245171" /> 
+     <player id="257920" /> 
+     <player id="288832" /> 
+     <player id="299106" /> 
+     <player id="333602" /> 
+     <player id="343397" /> 
+     <player id="376843" /> 
+     <player id="377883" /> 
+     <player id="383173" /> 
+     <player id="420506" /> 
+     <player id="469900" /> 
+     <player id="525012" /> 
+     <player id="563631" /> 
+     <player id="612612" /> 
+     <player id="612615" /> 
+     <player id="4647" /> 
+     <player id="20275" /> 
+     <player id="23232" /> 
+     <player id="75164" /> 
+     <player id="151877" /> 
+     <player id="175877" /> 
+     <player id="271394" /> 
+     <player id="285625" /> 
+     <player id="313720" /> 
+     <player id="395131" /> 
+     <player id="427040" /> 
+     <player id="442987" /> 
+     <player id="477582" /> 
+     <player id="551732" /> 
+     <player id="585972" /> 
+   </players> 
+   <coaches> 
+     <coach id="4074" /> 
+     <coach id="182391" /> 
+   </coaches> 
+</team>

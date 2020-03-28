@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>204</team_id> 
+   <id>239262</id> 
+   <name>M. Keeney</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/239262.png</image> 
+   <position>غير معروف</position> 
+   <nationality>الولايات المتحدة</nationality> 
+   <birth-day>الولايات المتحدة</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

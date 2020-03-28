@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>81</team_id> 
+   <id>554510</id> 
+   <name>E. Villa</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/554510.png</image> 
+   <position>مدافع</position> 
+   <nationality>الأرجنتين</nationality> 
+   <birth-day>1993-01-15</birth-day> 
+   <length  unit="cm">الأرجنتين</length> 
+   <weight  unit="kg"></weight> 
+</player>

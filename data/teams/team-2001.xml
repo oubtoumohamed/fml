@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2001</id> 
+   <name>نادي ماريبور</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2001.png</image> 
+   <country>سلوفينيا</country> 
+   <adrese>Mladinska ul. 29</adrese> 
+   <website>http://www.nkmaribor.com</website> 
+   <creation-date>1960</creation-date> 
+   <players> 
+     <player id="18382" /> 
+     <player id="162533" /> 
+     <player id="192071" /> 
+     <player id="249226" /> 
+     <player id="466616" /> 
+     <player id="494357" /> 
+     <player id="23249" /> 
+     <player id="38623" /> 
+     <player id="38628" /> 
+     <player id="86062" /> 
+     <player id="134420" /> 
+     <player id="158592" /> 
+     <player id="162549" /> 
+     <player id="201582" /> 
+     <player id="266676" /> 
+     <player id="372967" /> 
+     <player id="421709" /> 
+     <player id="466622" /> 
+     <player id="506269" /> 
+     <player id="506272" /> 
+     <player id="506274" /> 
+     <player id="12291" /> 
+     <player id="38699" /> 
+     <player id="44372" /> 
+     <player id="136374" /> 
+     <player id="143401" /> 
+     <player id="143423" /> 
+     <player id="155237" /> 
+     <player id="158593" /> 
+     <player id="162542" /> 
+     <player id="162546" /> 
+     <player id="242802" /> 
+     <player id="251353" /> 
+     <player id="282814" /> 
+     <player id="334614" /> 
+     <player id="374733" /> 
+     <player id="409723" /> 
+     <player id="478445" /> 
+     <player id="506299" /> 
+     <player id="38754" /> 
+     <player id="128716" /> 
+     <player id="162540" /> 
+     <player id="242808" /> 
+     <player id="332810" /> 
+     <player id="374779" /> 
+     <player id="378687" /> 
+     <player id="439054" /> 
+     <player id="445526" /> 
+     <player id="489576" /> 
+   </players> 
+   <coaches> 
+     <coach id="103824" /> 
+     <coach id="135251" /> 
+   </coaches> 
+</team>

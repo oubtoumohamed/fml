@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1536</id> 
+   <name>هيراكلس ألميلو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1536.png</image> 
+   <country>هولندا</country> 
+   <adrese>Stadionlaan 1</adrese> 
+   <website>http://www.heracles.nl</website> 
+   <creation-date>1903</creation-date> 
+   <players> 
+     <player id="2429" /> 
+     <player id="74537" /> 
+     <player id="81303" /> 
+     <player id="109904" /> 
+     <player id="250395" /> 
+     <player id="454477" /> 
+     <player id="24668" /> 
+     <player id="49698" /> 
+     <player id="49847" /> 
+     <player id="134885" /> 
+     <player id="192186" /> 
+     <player id="215228" /> 
+     <player id="259538" /> 
+     <player id="329824" /> 
+     <player id="353273" /> 
+     <player id="362631" /> 
+     <player id="385279" /> 
+     <player id="423824" /> 
+     <player id="450509" /> 
+     <player id="453551" /> 
+     <player id="458619" /> 
+     <player id="86311" /> 
+     <player id="132792" /> 
+     <player id="167229" /> 
+     <player id="217689" /> 
+     <player id="218119" /> 
+     <player id="236417" /> 
+     <player id="338263" /> 
+     <player id="383299" /> 
+     <player id="385289" /> 
+     <player id="398754" /> 
+     <player id="408335" /> 
+     <player id="408406" /> 
+     <player id="421293" /> 
+     <player id="424990" /> 
+     <player id="447106" /> 
+     <player id="455066" /> 
+     <player id="180145" /> 
+     <player id="199513" /> 
+     <player id="218002" /> 
+     <player id="255469" /> 
+     <player id="274647" /> 
+     <player id="278680" /> 
+     <player id="280789" /> 
+     <player id="305023" /> 
+     <player id="332688" /> 
+     <player id="408536" /> 
+     <player id="419542" /> 
+     <player id="435377" /> 
+     <player id="450951" /> 
+     <player id="468462" /> 
+     <player id="504747" /> 
+     <player id="567718" /> 
+   </players> 
+   <coaches> 
+     <coach id="2321" /> 
+     <coach id="370043" /> 
+     <coach id="405389" /> 
+   </coaches> 
+</team>

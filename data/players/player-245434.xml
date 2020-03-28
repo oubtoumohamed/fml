@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2700</team_id> 
+   <id>245434</id> 
+   <name>M. Cimburovic</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/245434.png</image> 
+   <position>جزر فارو</position> 
+   <nationality>1967-09-05</nationality> 
+   <birth-day>جزر فارو</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

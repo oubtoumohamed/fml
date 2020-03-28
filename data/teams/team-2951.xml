@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2951</id> 
+   <name>نادي لوغانو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2951.png</image> 
+   <country>سويسرا</country> 
+   <adrese>Via Trevano 100</adrese> 
+   <website>http://www.fclugano.com</website> 
+   <creation-date>1908</creation-date> 
+   <players> 
+     <player id="11477" /> 
+     <player id="93749" /> 
+     <player id="102658" /> 
+     <player id="449814" /> 
+     <player id="519207" /> 
+     <player id="542100" /> 
+     <player id="555702" /> 
+     <player id="589394" /> 
+     <player id="627441" /> 
+     <player id="11415" /> 
+     <player id="18468" /> 
+     <player id="22855" /> 
+     <player id="37153" /> 
+     <player id="85551" /> 
+     <player id="126514" /> 
+     <player id="154288" /> 
+     <player id="164913" /> 
+     <player id="177310" /> 
+     <player id="203801" /> 
+     <player id="273815" /> 
+     <player id="350211" /> 
+     <player id="408636" /> 
+     <player id="410615" /> 
+     <player id="427003" /> 
+     <player id="429167" /> 
+     <player id="435681" /> 
+     <player id="579088" /> 
+     <player id="617091" /> 
+     <player id="650021" /> 
+     <player id="4067" /> 
+     <player id="34885" /> 
+     <player id="85227" /> 
+     <player id="143377" /> 
+     <player id="156581" /> 
+     <player id="173077" /> 
+     <player id="189602" /> 
+     <player id="213351" /> 
+     <player id="228701" /> 
+     <player id="235487" /> 
+     <player id="242810" /> 
+     <player id="256634" /> 
+     <player id="289863" /> 
+     <player id="348375" /> 
+     <player id="429637" /> 
+     <player id="449952" /> 
+     <player id="460897" /> 
+     <player id="469469" /> 
+     <player id="481941" /> 
+     <player id="505524" /> 
+     <player id="555699" /> 
+     <player id="11058" /> 
+     <player id="30316" /> 
+     <player id="85626" /> 
+     <player id="96491" /> 
+     <player id="287163" /> 
+     <player id="287563" /> 
+     <player id="312604" /> 
+     <player id="314059" /> 
+     <player id="397406" /> 
+     <player id="451247" /> 
+     <player id="457148" /> 
+     <player id="489693" /> 
+     <player id="555704" /> 
+     <player id="611069" /> 
+     <player id="637547" /> 
+   </players> 
+   <coaches> 
+     <coach id="3796" /> 
+     <coach id="177342" /> 
+     <coach id="221574" /> 
+     <coach id="491727" /> 
+   </coaches> 
+</team>

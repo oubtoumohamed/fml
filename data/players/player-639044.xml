@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3504</team_id> 
+   <id>639044</id> 
+   <name>Ali Yahya</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/639044.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>قطر</nationality> 
+   <birth-day>قطر</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

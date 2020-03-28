@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>19185</id> 
+   <name>نادي تريسكا شيشوفو </name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/19185.png</image> 
+   <country>مقدونيا</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>1982</creation-date> 
+   <players> 
+     <player id="39716" /> 
+     <player id="91039" /> 
+     <player id="616696" /> 
+     <player id="39948" /> 
+     <player id="91555" /> 
+     <player id="156280" /> 
+     <player id="234593" /> 
+     <player id="270606" /> 
+     <player id="282761" /> 
+     <player id="293272" /> 
+     <player id="382759" /> 
+     <player id="403140" /> 
+     <player id="454856" /> 
+     <player id="47293" /> 
+     <player id="84086" /> 
+     <player id="84256" /> 
+     <player id="91272" /> 
+     <player id="172013" /> 
+     <player id="234427" /> 
+     <player id="319455" /> 
+     <player id="324962" /> 
+     <player id="347369" /> 
+     <player id="347811" /> 
+     <player id="387453" /> 
+     <player id="396715" /> 
+     <player id="398692" /> 
+     <player id="406148" /> 
+     <player id="423242" /> 
+     <player id="426861" /> 
+     <player id="498431" /> 
+     <player id="609329" /> 
+     <player id="612724" /> 
+     <player id="643338" /> 
+     <player id="37078" /> 
+     <player id="84090" /> 
+     <player id="139906" /> 
+     <player id="214841" /> 
+     <player id="307035" /> 
+     <player id="542947" /> 
+     <player id="590611" /> 
+     <player id="616697" /> 
+   </players> 
+   <coaches> 
+     <coach id="176637" /> 
+     <coach id="387473" /> 
+     <coach id="562437" /> 
+   </coaches> 
+</team>

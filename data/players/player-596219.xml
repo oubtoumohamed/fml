@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1196</team_id> 
+   <id>596219</id> 
+   <name>L. Lotefa</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/596219.png</image> 
+   <position>مهاجم</position> 
+   <nationality>أيرلندا</nationality> 
+   <birth-day>2000-04-08</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

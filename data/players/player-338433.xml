@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>971</team_id> 
+   <id>338433</id> 
+   <name>موريتز نيكولاس</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/338433.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>ألمانيا</nationality> 
+   <birth-day>1997-10-21</birth-day> 
+   <length  unit="cm">ألمانيا</length> 
+   <weight  unit="kg">193</weight> 
+</player>

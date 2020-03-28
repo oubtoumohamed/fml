@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>7252</id> 
+   <name>نادي أم صلال الرياضي‎</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/7252.png</image> 
+   <country>قطر</country> 
+   <adrese>PO Box 75155</adrese> 
+   <website>http://www.ummsalalclub.net</website> 
+   <creation-date>1979</creation-date> 
+   <players> 
+     <player id="10905" /> 
+     <player id="64870" /> 
+     <player id="64932" /> 
+     <player id="153586" /> 
+     <player id="165328" /> 
+     <player id="210418" /> 
+     <player id="383243" /> 
+     <player id="513956" /> 
+     <player id="10907" /> 
+     <player id="26678" /> 
+     <player id="26762" /> 
+     <player id="26765" /> 
+     <player id="64747" /> 
+     <player id="68835" /> 
+     <player id="71032" /> 
+     <player id="81948" /> 
+     <player id="82008" /> 
+     <player id="99566" /> 
+     <player id="115702" /> 
+     <player id="116455" /> 
+     <player id="145369" /> 
+     <player id="153566" /> 
+     <player id="153624" /> 
+     <player id="208920" /> 
+     <player id="209035" /> 
+     <player id="209265" /> 
+     <player id="266659" /> 
+     <player id="285744" /> 
+     <player id="380593" /> 
+     <player id="388389" /> 
+     <player id="559748" /> 
+     <player id="596526" /> 
+     <player id="5251" /> 
+     <player id="9266" /> 
+     <player id="44866" /> 
+     <player id="62807" /> 
+     <player id="64553" /> 
+     <player id="70364" /> 
+     <player id="71119" /> 
+     <player id="73121" /> 
+     <player id="75090" /> 
+     <player id="81962" /> 
+     <player id="95300" /> 
+     <player id="119054" /> 
+     <player id="175613" /> 
+     <player id="179178" /> 
+     <player id="208811" /> 
+     <player id="209012" /> 
+     <player id="209032" /> 
+     <player id="210424" /> 
+     <player id="210453" /> 
+     <player id="267629" /> 
+     <player id="267632" /> 
+     <player id="279686" /> 
+     <player id="293872" /> 
+     <player id="322377" /> 
+     <player id="325782" /> 
+     <player id="325783" /> 
+     <player id="335230" /> 
+     <player id="343741" /> 
+     <player id="362419" /> 
+     <player id="433201" /> 
+     <player id="436440" /> 
+     <player id="460499" /> 
+     <player id="467866" /> 
+     <player id="469730" /> 
+     <player id="473452" /> 
+     <player id="476629" /> 
+     <player id="506857" /> 
+     <player id="514161" /> 
+     <player id="514198" /> 
+     <player id="514199" /> 
+     <player id="521315" /> 
+     <player id="521318" /> 
+     <player id="521319" /> 
+     <player id="528258" /> 
+     <player id="534930" /> 
+     <player id="535224" /> 
+     <player id="559747" /> 
+     <player id="575711" /> 
+     <player id="590211" /> 
+     <player id="590215" /> 
+     <player id="590218" /> 
+     <player id="590219" /> 
+     <player id="638947" /> 
+     <player id="10928" /> 
+     <player id="37878" /> 
+     <player id="39109" /> 
+     <player id="64955" /> 
+     <player id="81363" /> 
+     <player id="112923" /> 
+     <player id="165331" /> 
+     <player id="209264" /> 
+     <player id="209275" /> 
+     <player id="343755" /> 
+     <player id="367349" /> 
+     <player id="431298" /> 
+     <player id="436439" /> 
+     <player id="521317" /> 
+     <player id="535243" /> 
+     <player id="575712" /> 
+     <player id="632168" /> 
+   </players> 
+   <coaches> 
+     <coach id="21552" /> 
+     <coach id="64938" /> 
+     <coach id="153865" /> 
+     <coach id="232173" /> 
+     <coach id="514165" /> 
+     <coach id="581202" /> 
+     <coach id="642215" /> 
+     <coach id="647346" /> 
+   </coaches> 
+</team>

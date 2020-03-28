@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1587</id> 
+   <name>نادي روزنبورج لألعاب الكرة</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1587.png</image> 
+   <country>النرويج</country> 
+   <adrese>Klæbuveien 125</adrese> 
+   <website>http://www.rbk.no</website> 
+   <creation-date>1917</creation-date> 
+   <players> 
+     <player id="41420" /> 
+     <player id="78158" /> 
+     <player id="410103" /> 
+     <player id="464149" /> 
+     <player id="7977" /> 
+     <player id="29424" /> 
+     <player id="110889" /> 
+     <player id="110957" /> 
+     <player id="316057" /> 
+     <player id="333830" /> 
+     <player id="367531" /> 
+     <player id="386969" /> 
+     <player id="401115" /> 
+     <player id="426855" /> 
+     <player id="461801" /> 
+     <player id="463446" /> 
+     <player id="463453" /> 
+     <player id="539081" /> 
+     <player id="11681" /> 
+     <player id="28235" /> 
+     <player id="121405" /> 
+     <player id="132846" /> 
+     <player id="210484" /> 
+     <player id="217987" /> 
+     <player id="238748" /> 
+     <player id="270006" /> 
+     <player id="331134" /> 
+     <player id="401117" /> 
+     <player id="464152" /> 
+     <player id="469347" /> 
+     <player id="482636" /> 
+     <player id="9512" /> 
+     <player id="16090" /> 
+     <player id="39120" /> 
+     <player id="78614" /> 
+     <player id="88316" /> 
+     <player id="160008" /> 
+     <player id="160434" /> 
+     <player id="256718" /> 
+     <player id="382319" /> 
+     <player id="394246" /> 
+     <player id="395764" /> 
+     <player id="408420" /> 
+     <player id="461809" /> 
+     <player id="464162" /> 
+     <player id="464164" /> 
+     <player id="555197" /> 
+   </players> 
+   <coaches> 
+     <coach id="29257" /> 
+     <coach id="212048" /> 
+     <coach id="223564" /> 
+     <coach id="225981" /> 
+   </coaches> 
+</team>

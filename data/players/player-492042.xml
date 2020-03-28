@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1942</team_id> 
+   <id>492042</id> 
+   <name>س. هايدين</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/492042.png</image> 
+   <position>مدافع</position> 
+   <nationality>صربيا</nationality> 
+   <birth-day>1994-04-15</birth-day> 
+   <length  unit="cm">كرواتيا</length> 
+   <weight  unit="kg">189</weight> 
+</player>

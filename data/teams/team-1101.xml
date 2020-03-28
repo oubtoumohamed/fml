@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1101</id> 
+   <name>نادي فيرينكفاروسي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1101.png</image> 
+   <country>المجر</country> 
+   <adrese>Üllöi út 129.</adrese> 
+   <website>http://www.ftc.hu</website> 
+   <creation-date>1899</creation-date> 
+   <players> 
+     <player id="13080" /> 
+     <player id="85437" /> 
+     <player id="150345" /> 
+     <player id="150720" /> 
+     <player id="400654" /> 
+     <player id="83964" /> 
+     <player id="86726" /> 
+     <player id="151870" /> 
+     <player id="154583" /> 
+     <player id="161996" /> 
+     <player id="175390" /> 
+     <player id="179069" /> 
+     <player id="199346" /> 
+     <player id="203629" /> 
+     <player id="211008" /> 
+     <player id="248658" /> 
+     <player id="270630" /> 
+     <player id="322701" /> 
+     <player id="384799" /> 
+     <player id="423727" /> 
+     <player id="605581" /> 
+     <player id="11886" /> 
+     <player id="30482" /> 
+     <player id="41443" /> 
+     <player id="88455" /> 
+     <player id="104797" /> 
+     <player id="150329" /> 
+     <player id="150718" /> 
+     <player id="189602" /> 
+     <player id="207992" /> 
+     <player id="215367" /> 
+     <player id="285427" /> 
+     <player id="303660" /> 
+     <player id="314186" /> 
+     <player id="402444" /> 
+     <player id="404877" /> 
+     <player id="433295" /> 
+     <player id="449367" /> 
+     <player id="463721" /> 
+     <player id="643240" /> 
+     <player id="4568" /> 
+     <player id="15434" /> 
+     <player id="18338" /> 
+     <player id="29144" /> 
+     <player id="33828" /> 
+     <player id="82791" /> 
+     <player id="91233" /> 
+     <player id="151100" /> 
+     <player id="183916" /> 
+     <player id="199567" /> 
+     <player id="203556" /> 
+     <player id="210540" /> 
+     <player id="225872" /> 
+     <player id="229776" /> 
+     <player id="427699" /> 
+     <player id="455333" /> 
+     <player id="485005" /> 
+     <player id="555060" /> 
+     <player id="605356" /> 
+   </players> 
+   <coaches> 
+     <coach id="695" /> 
+     <coach id="110726" /> 
+   </coaches> 
+</team>

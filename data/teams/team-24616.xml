@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>24616</id> 
+   <name>FC Prishtina</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/24616.png</image> 
+   <country>كوسوفو</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>1922</creation-date> 
+   <players> 
+     <player id="95041" /> 
+     <player id="328952" /> 
+     <player id="454617" /> 
+     <player id="454761" /> 
+     <player id="455076" /> 
+     <player id="615539" /> 
+     <player id="37062" /> 
+     <player id="154202" /> 
+     <player id="176195" /> 
+     <player id="252425" /> 
+     <player id="300795" /> 
+     <player id="301217" /> 
+     <player id="328779" /> 
+     <player id="328959" /> 
+     <player id="329118" /> 
+     <player id="329357" /> 
+     <player id="329450" /> 
+     <player id="436324" /> 
+     <player id="436326" /> 
+     <player id="454763" /> 
+     <player id="540100" /> 
+     <player id="615367" /> 
+     <player id="41455" /> 
+     <player id="190827" /> 
+     <player id="250398" /> 
+     <player id="307100" /> 
+     <player id="328851" /> 
+     <player id="328894" /> 
+     <player id="329063" /> 
+     <player id="407992" /> 
+     <player id="430959" /> 
+     <player id="454616" /> 
+     <player id="454619" /> 
+     <player id="454620" /> 
+     <player id="454622" /> 
+     <player id="454769" /> 
+     <player id="455897" /> 
+     <player id="458852" /> 
+     <player id="488012" /> 
+     <player id="488013" /> 
+     <player id="488014" /> 
+     <player id="515378" /> 
+     <player id="598561" /> 
+     <player id="615369" /> 
+     <player id="615540" /> 
+     <player id="37080" /> 
+     <player id="139906" /> 
+     <player id="165624" /> 
+     <player id="301854" /> 
+     <player id="329452" /> 
+     <player id="454618" /> 
+     <player id="454792" /> 
+     <player id="454793" /> 
+     <player id="455716" /> 
+     <player id="457192" /> 
+     <player id="488020" /> 
+     <player id="597495" /> 
+   </players> 
+   <coaches> 
+     <coach id="37061" /> 
+     <coach id="148348" /> 
+   </coaches> 
+</team>

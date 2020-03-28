@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>524</id> 
+   <name>آيك لارناكا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/524.png</image> 
+   <country>قبرص</country> 
+   <adrese>Kilkis Street 7</adrese> 
+   <website>http://www.aek.com.cy</website> 
+   <creation-date>1994</creation-date> 
+   <players> 
+     <player id="40821" /> 
+     <player id="59176" /> 
+     <player id="62745" /> 
+     <player id="266825" /> 
+     <player id="330567" /> 
+     <player id="410856" /> 
+     <player id="3161" /> 
+     <player id="3229" /> 
+     <player id="4611" /> 
+     <player id="40269" /> 
+     <player id="59032" /> 
+     <player id="83061" /> 
+     <player id="84070" /> 
+     <player id="134440" /> 
+     <player id="148535" /> 
+     <player id="167656" /> 
+     <player id="212657" /> 
+     <player id="303805" /> 
+     <player id="316329" /> 
+     <player id="328515" /> 
+     <player id="453321" /> 
+     <player id="463241" /> 
+     <player id="463248" /> 
+     <player id="517024" /> 
+     <player id="550483" /> 
+     <player id="550484" /> 
+     <player id="39766" /> 
+     <player id="41152" /> 
+     <player id="47178" /> 
+     <player id="58698" /> 
+     <player id="58981" /> 
+     <player id="60140" /> 
+     <player id="61710" /> 
+     <player id="62793" /> 
+     <player id="62804" /> 
+     <player id="62899" /> 
+     <player id="273296" /> 
+     <player id="378077" /> 
+     <player id="412655" /> 
+     <player id="415588" /> 
+     <player id="423605" /> 
+     <player id="445448" /> 
+     <player id="467598" /> 
+     <player id="485265" /> 
+     <player id="506363" /> 
+     <player id="517023" /> 
+     <player id="550485" /> 
+     <player id="584829" /> 
+     <player id="616483" /> 
+     <player id="616484" /> 
+     <player id="649605" /> 
+     <player id="649606" /> 
+     <player id="21488" /> 
+     <player id="65852" /> 
+     <player id="95175" /> 
+     <player id="134162" /> 
+     <player id="134164" /> 
+     <player id="144150" /> 
+     <player id="147863" /> 
+     <player id="149625" /> 
+     <player id="285844" /> 
+     <player id="298598" /> 
+     <player id="310865" /> 
+     <player id="335211" /> 
+     <player id="424303" /> 
+     <player id="453316" /> 
+     <player id="517028" /> 
+   </players> 
+   <coaches> 
+     <coach id="60831" /> 
+     <coach id="209659" /> 
+     <coach id="488398" /> 
+     <coach id="555419" /> 
+   </coaches> 
+</team>

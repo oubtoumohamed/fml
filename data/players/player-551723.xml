@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3502</team_id> 
+   <id>551723</id> 
+   <name>Abdullah Murisi</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/551723.png</image> 
+   <position>مهاجم</position> 
+   <nationality>قطر</nationality> 
+   <birth-day>1999-08-24</birth-day> 
+   <length  unit="cm">165</length> 
+   <weight  unit="kg"></weight> 
+</player>

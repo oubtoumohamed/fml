@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>7912</team_id> 
+   <id>615497</id> 
+   <name>Francisco Cano</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/615497.png</image> 
+   <position>مدافع</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>1991-03-01</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>229</id> 
+   <name>Sint-Truidense VV</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/229.png</image> 
+   <country>بلجيكا</country> 
+   <adrese>Tiensesteenweg 223</adrese> 
+   <website>http://www.stvv.com</website> 
+   <creation-date>1924</creation-date> 
+   <players> 
+     <player id="13246" /> 
+     <player id="158213" /> 
+     <player id="215324" /> 
+     <player id="489030" /> 
+     <player id="573250" /> 
+     <player id="573252" /> 
+     <player id="16669" /> 
+     <player id="68303" /> 
+     <player id="172861" /> 
+     <player id="208629" /> 
+     <player id="213970" /> 
+     <player id="217645" /> 
+     <player id="235323" /> 
+     <player id="255491" /> 
+     <player id="262361" /> 
+     <player id="276937" /> 
+     <player id="307019" /> 
+     <player id="319392" /> 
+     <player id="351511" /> 
+     <player id="381111" /> 
+     <player id="413092" /> 
+     <player id="419785" /> 
+     <player id="426231" /> 
+     <player id="445810" /> 
+     <player id="489027" /> 
+     <player id="619203" /> 
+     <player id="13231" /> 
+     <player id="13580" /> 
+     <player id="79688" /> 
+     <player id="124613" /> 
+     <player id="165828" /> 
+     <player id="215552" /> 
+     <player id="226803" /> 
+     <player id="257627" /> 
+     <player id="275155" /> 
+     <player id="288727" /> 
+     <player id="330991" /> 
+     <player id="383475" /> 
+     <player id="397947" /> 
+     <player id="403761" /> 
+     <player id="425385" /> 
+     <player id="425859" /> 
+     <player id="432214" /> 
+     <player id="493727" /> 
+     <player id="496991" /> 
+     <player id="541213" /> 
+     <player id="593061" /> 
+     <player id="619204" /> 
+     <player id="619205" /> 
+     <player id="13560" /> 
+     <player id="137896" /> 
+     <player id="180145" /> 
+     <player id="192193" /> 
+     <player id="209636" /> 
+     <player id="215570" /> 
+     <player id="257294" /> 
+     <player id="264998" /> 
+     <player id="281917" /> 
+     <player id="283151" /> 
+     <player id="284593" /> 
+     <player id="352681" /> 
+     <player id="352987" /> 
+     <player id="357969" /> 
+     <player id="371831" /> 
+     <player id="397029" /> 
+     <player id="414469" /> 
+     <player id="414753" /> 
+     <player id="434325" /> 
+     <player id="475771" /> 
+     <player id="476158" /> 
+     <player id="592783" /> 
+   </players> 
+   <coaches> 
+     <coach id="13247" /> 
+     <coach id="13387" /> 
+     <coach id="13467" /> 
+     <coach id="133485" /> 
+     <coach id="243596" /> 
+   </coaches> 
+</team>

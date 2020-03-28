@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3424</id> 
+   <name>اتحاد الجزائر</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3424.png</image> 
+   <country>الجزائر</country> 
+   <adrese>12, avenue Commandant Mira, Bab El Oued</adrese> 
+   <website>http://www.usm-alger.com</website> 
+   <creation-date>1937</creation-date> 
+   <players> 
+     <player id="49160" /> 
+     <player id="49162" /> 
+     <player id="49259" /> 
+     <player id="496120" /> 
+     <player id="49265" /> 
+     <player id="88528" /> 
+     <player id="163400" /> 
+     <player id="193223" /> 
+     <player id="208041" /> 
+     <player id="242165" /> 
+     <player id="267550" /> 
+     <player id="311132" /> 
+     <player id="342889" /> 
+     <player id="360197" /> 
+     <player id="413926" /> 
+     <player id="472500" /> 
+     <player id="490506" /> 
+     <player id="492317" /> 
+     <player id="496077" /> 
+     <player id="496122" /> 
+     <player id="555519" /> 
+     <player id="597241" /> 
+     <player id="621085" /> 
+     <player id="621090" /> 
+     <player id="49051" /> 
+     <player id="75268" /> 
+     <player id="87405" /> 
+     <player id="89415" /> 
+     <player id="265351" /> 
+     <player id="266295" /> 
+     <player id="290636" /> 
+     <player id="308402" /> 
+     <player id="332279" /> 
+     <player id="342887" /> 
+     <player id="356317" /> 
+     <player id="407065" /> 
+     <player id="413906" /> 
+     <player id="414245" /> 
+     <player id="427866" /> 
+     <player id="437807" /> 
+     <player id="438593" /> 
+     <player id="460200" /> 
+     <player id="472218" /> 
+     <player id="550636" /> 
+     <player id="222965" /> 
+     <player id="250848" /> 
+     <player id="265339" /> 
+     <player id="360231" /> 
+     <player id="398682" /> 
+     <player id="405641" /> 
+     <player id="443144" /> 
+     <player id="455145" /> 
+     <player id="455441" /> 
+     <player id="470295" /> 
+     <player id="496121" /> 
+     <player id="498272" /> 
+     <player id="589354" /> 
+     <player id="628065" /> 
+   </players> 
+   <coaches> 
+     <coach id="134815" /> 
+     <coach id="275253" /> 
+     <coach id="316745" /> 
+     <coach id="396362" /> 
+     <coach id="410333" /> 
+   </coaches> 
+</team>

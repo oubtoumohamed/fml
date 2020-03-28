@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3463</id> 
+   <name>نادي الجيش الملكي المغربي</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3463.png</image> 
+   <country>المغرب</country> 
+   <adrese>Centre Sportif FAR, Maamora-Salé</adrese> 
+   <website></website> 
+   <creation-date>1958</creation-date> 
+   <players> 
+     <player id="396342" /> 
+     <player id="548774" /> 
+     <player id="642678" /> 
+     <player id="648488" /> 
+     <player id="215649" /> 
+     <player id="380767" /> 
+     <player id="471007" /> 
+     <player id="630769" /> 
+     <player id="630778" /> 
+     <player id="630783" /> 
+     <player id="630790" /> 
+     <player id="630795" /> 
+     <player id="630845" /> 
+     <player id="638274" /> 
+     <player id="167717" /> 
+     <player id="231020" /> 
+     <player id="431689" /> 
+     <player id="447149" /> 
+     <player id="493518" /> 
+     <player id="521753" /> 
+     <player id="556208" /> 
+     <player id="630773" /> 
+     <player id="630779" /> 
+     <player id="630782" /> 
+     <player id="630844" /> 
+     <player id="630846" /> 
+     <player id="630847" /> 
+     <player id="630850" /> 
+     <player id="647603" /> 
+     <player id="648490" /> 
+     <player id="393751" /> 
+     <player id="447140" /> 
+     <player id="630771" /> 
+     <player id="630772" /> 
+     <player id="630777" /> 
+     <player id="630781" /> 
+     <player id="630853" /> 
+     <player id="648276" /> 
+   </players> 
+   <coaches> 
+     <coach id="548495" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>227</team_id> 
+   <id>619215</id> 
+   <name>J. Schelfhout</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/619215.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>بلجيكا</nationality> 
+   <birth-day>2001-01-19</birth-day> 
+   <length  unit="cm">181</length> 
+   <weight  unit="kg">اليسرى</weight> 
+</player>

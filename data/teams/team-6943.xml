@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>6943</id> 
+   <name>بروغريس نيدركورن</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/6943.png</image> 
+   <country>لوكسمبورغ</country> 
+   <adrese>Boite postale 161</adrese> 
+   <website>http://www.progres.lu</website> 
+   <creation-date>1919</creation-date> 
+   <players> 
+     <player id="46549" /> 
+     <player id="66705" /> 
+     <player id="468848" /> 
+     <player id="488133" /> 
+     <player id="488150" /> 
+     <player id="493211" /> 
+     <player id="615417" /> 
+     <player id="46649" /> 
+     <player id="46720" /> 
+     <player id="100215" /> 
+     <player id="201591" /> 
+     <player id="231684" /> 
+     <player id="235915" /> 
+     <player id="272875" /> 
+     <player id="275151" /> 
+     <player id="312121" /> 
+     <player id="322537" /> 
+     <player id="345623" /> 
+     <player id="408002" /> 
+     <player id="444452" /> 
+     <player id="615420" /> 
+     <player id="16769" /> 
+     <player id="44352" /> 
+     <player id="73692" /> 
+     <player id="121324" /> 
+     <player id="134178" /> 
+     <player id="140711" /> 
+     <player id="154235" /> 
+     <player id="199895" /> 
+     <player id="264185" /> 
+     <player id="322541" /> 
+     <player id="397809" /> 
+     <player id="407953" /> 
+     <player id="407955" /> 
+     <player id="488351" /> 
+     <player id="500269" /> 
+     <player id="517924" /> 
+     <player id="555389" /> 
+     <player id="49353" /> 
+     <player id="54701" /> 
+     <player id="194991" /> 
+     <player id="211774" /> 
+     <player id="273294" /> 
+     <player id="414332" /> 
+     <player id="473999" /> 
+     <player id="571957" /> 
+     <player id="615482" /> 
+     <player id="616782" /> 
+   </players> 
+   <coaches> 
+     <coach id="11566" /> 
+     <coach id="194679" /> 
+     <coach id="200375" /> 
+     <coach id="322240" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1522</team_id> 
+   <id>621348</id> 
+   <name>R. Zerrouki</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/621348.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>هولندا</nationality> 
+   <birth-day>1998-05-26</birth-day> 
+   <length  unit="cm">183</length> 
+   <weight  unit="kg"></weight> 
+</player>

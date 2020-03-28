@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>176</team_id> 
+   <id>486449</id> 
+   <name>T. Lawal</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/486449.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>النمسا</nationality> 
+   <birth-day>2000-06-07</birth-day> 
+   <length  unit="cm">النمسا</length> 
+   <weight  unit="kg">195</weight> 
+</player>

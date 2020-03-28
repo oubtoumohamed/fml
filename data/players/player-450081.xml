@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1242</team_id> 
+   <id>450081</id> 
+   <name>L. Loria</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/450081.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>إيطاليا</nationality> 
+   <birth-day>1999-03-28</birth-day> 
+   <length  unit="cm">إيطاليا</length> 
+   <weight  unit="kg">195</weight> 
+</player>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>5681</id> 
+   <name>ساسولو كالتشيو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/5681.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Piazza Risorgimento 47</adrese> 
+   <website>http://www.sassuolocalcio.it</website> 
+   <creation-date>1922</creation-date> 
+   <players> 
+     <player id="17694" /> 
+     <player id="18628" /> 
+     <player id="416848" /> 
+     <player id="436843" /> 
+     <player id="495012" /> 
+     <player id="517965" /> 
+     <player id="18275" /> 
+     <player id="68268" /> 
+     <player id="132296" /> 
+     <player id="182732" /> 
+     <player id="205555" /> 
+     <player id="251711" /> 
+     <player id="279072" /> 
+     <player id="295568" /> 
+     <player id="299242" /> 
+     <player id="300315" /> 
+     <player id="308326" /> 
+     <player id="317331" /> 
+     <player id="325566" /> 
+     <player id="374637" /> 
+     <player id="377081" /> 
+     <player id="389473" /> 
+     <player id="425515" /> 
+     <player id="426561" /> 
+     <player id="431483" /> 
+     <player id="433905" /> 
+     <player id="437537" /> 
+     <player id="440982" /> 
+     <player id="442978" /> 
+     <player id="489393" /> 
+     <player id="562998" /> 
+     <player id="564653" /> 
+     <player id="640633" /> 
+     <player id="4238" /> 
+     <player id="4380" /> 
+     <player id="58559" /> 
+     <player id="104710" /> 
+     <player id="116377" /> 
+     <player id="138045" /> 
+     <player id="218101" /> 
+     <player id="263399" /> 
+     <player id="278819" /> 
+     <player id="305688" /> 
+     <player id="314486" /> 
+     <player id="319840" /> 
+     <player id="325551" /> 
+     <player id="335209" /> 
+     <player id="405672" /> 
+     <player id="417308" /> 
+     <player id="440088" /> 
+     <player id="463828" /> 
+     <player id="495017" /> 
+     <player id="518525" /> 
+     <player id="612657" /> 
+     <player id="1870" /> 
+     <player id="17864" /> 
+     <player id="63727" /> 
+     <player id="72526" /> 
+     <player id="91919" /> 
+     <player id="111779" /> 
+     <player id="191223" /> 
+     <player id="196744" /> 
+     <player id="233599" /> 
+     <player id="245593" /> 
+     <player id="246415" /> 
+     <player id="290747" /> 
+     <player id="377105" /> 
+     <player id="421643" /> 
+     <player id="432513" /> 
+     <player id="448974" /> 
+     <player id="457541" /> 
+     <player id="467679" /> 
+     <player id="474413" /> 
+     <player id="645817" /> 
+     <player id="645818" /> 
+   </players> 
+   <coaches> 
+     <coach id="17673" /> 
+     <coach id="137774" /> 
+     <coach id="304632" /> 
+   </coaches> 
+</team>

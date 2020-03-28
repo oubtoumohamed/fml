@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>664</id> 
+   <name>نادي نيوكاسل يونايتد لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/664.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>St. James' Park</adrese> 
+   <website>http://www.nufc.co.uk</website> 
+   <creation-date>1892</creation-date> 
+   <players> 
+     <player id="5300" /> 
+     <player id="35439" /> 
+     <player id="89739" /> 
+     <player id="113214" /> 
+     <player id="274762" /> 
+     <player id="453360" /> 
+     <player id="16050" /> 
+     <player id="59202" /> 
+     <player id="61374" /> 
+     <player id="89489" /> 
+     <player id="109708" /> 
+     <player id="112529" /> 
+     <player id="160594" /> 
+     <player id="161282" /> 
+     <player id="185166" /> 
+     <player id="192421" /> 
+     <player id="192900" /> 
+     <player id="209640" /> 
+     <player id="214785" /> 
+     <player id="221516" /> 
+     <player id="251301" /> 
+     <player id="281962" /> 
+     <player id="332746" /> 
+     <player id="402739" /> 
+     <player id="429617" /> 
+     <player id="462183" /> 
+     <player id="13125" /> 
+     <player id="26915" /> 
+     <player id="48006" /> 
+     <player id="51243" /> 
+     <player id="58677" /> 
+     <player id="65142" /> 
+     <player id="190602" /> 
+     <player id="215545" /> 
+     <player id="232390" /> 
+     <player id="245430" /> 
+     <player id="247878" /> 
+     <player id="287912" /> 
+     <player id="310845" /> 
+     <player id="326321" /> 
+     <player id="360019" /> 
+     <player id="362649" /> 
+     <player id="453352" /> 
+     <player id="453370" /> 
+     <player id="453909" /> 
+     <player id="454448" /> 
+     <player id="454449" /> 
+     <player id="5310" /> 
+     <player id="58710" /> 
+     <player id="78568" /> 
+     <player id="89404" /> 
+     <player id="156937" /> 
+     <player id="201233" /> 
+     <player id="203471" /> 
+     <player id="262852" /> 
+     <player id="320280" /> 
+     <player id="331264" /> 
+     <player id="393110" /> 
+     <player id="444606" /> 
+     <player id="453349" /> 
+   </players> 
+   <coaches> 
+     <coach id="110679" /> 
+     <coach id="110690" /> 
+     <coach id="505556" /> 
+     <coach id="541166" /> 
+   </coaches> 
+</team>

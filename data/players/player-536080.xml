@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>893</team_id> 
+   <id>536080</id> 
+   <name>ساشا بويي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/536080.png</image> 
+   <position>مدافع</position> 
+   <nationality>فرنسا</nationality> 
+   <birth-day>2000-09-13</birth-day> 
+   <length  unit="cm">فرنسا</length> 
+   <weight  unit="kg">166</weight> 
+</player>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3564</team_id> 
+   <id>80658</id> 
+   <name>محمد أبو خوصة</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/80658.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>الأردن</nationality> 
+   <birth-day>1987-12-03</birth-day> 
+   <length  unit="cm">184</length> 
+   <weight  unit="kg">80</weight> 
+</player>

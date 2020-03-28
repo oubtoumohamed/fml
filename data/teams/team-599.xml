@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>599</id> 
+   <name>اتحاد إسبييرج لأندية كرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/599.png</image> 
+   <country>الدنمارك</country> 
+   <adrese>Gl. Vardevej 88</adrese> 
+   <website>http://www.efb.dk</website> 
+   <creation-date>1924</creation-date> 
+   <players> 
+     <player id="11693" /> 
+     <player id="250780" /> 
+     <player id="281286" /> 
+     <player id="379803" /> 
+     <player id="508878" /> 
+     <player id="8480" /> 
+     <player id="63406" /> 
+     <player id="92899" /> 
+     <player id="115387" /> 
+     <player id="135429" /> 
+     <player id="316059" /> 
+     <player id="325136" /> 
+     <player id="377441" /> 
+     <player id="379815" /> 
+     <player id="417456" /> 
+     <player id="437260" /> 
+     <player id="446541" /> 
+     <player id="463688" /> 
+     <player id="506443" /> 
+     <player id="508895" /> 
+     <player id="508904" /> 
+     <player id="508913" /> 
+     <player id="41" /> 
+     <player id="11709" /> 
+     <player id="31412" /> 
+     <player id="76676" /> 
+     <player id="131378" /> 
+     <player id="187249" /> 
+     <player id="250740" /> 
+     <player id="257338" /> 
+     <player id="308767" /> 
+     <player id="316062" /> 
+     <player id="379823" /> 
+     <player id="379825" /> 
+     <player id="400954" /> 
+     <player id="441784" /> 
+     <player id="495692" /> 
+     <player id="508930" /> 
+     <player id="508962" /> 
+     <player id="508979" /> 
+     <player id="534487" /> 
+     <player id="123274" /> 
+     <player id="180787" /> 
+     <player id="182886" /> 
+     <player id="190723" /> 
+     <player id="379857" /> 
+     <player id="401077" /> 
+     <player id="437567" /> 
+     <player id="441239" /> 
+     <player id="500419" /> 
+     <player id="508981" /> 
+   </players> 
+   <coaches> 
+     <coach id="136267" /> 
+     <coach id="192446" /> 
+     <coach id="475037" /> 
+   </coaches> 
+</team>

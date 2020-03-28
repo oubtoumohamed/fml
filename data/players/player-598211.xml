@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1103</team_id> 
+   <id>598211</id> 
+   <name>Félix Vicente</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/598211.png</image> 
+   <position>غير معروف</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>1978-06-16</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

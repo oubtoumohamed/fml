@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1943</team_id> 
+   <id>495758</id> 
+   <name>J. Trnić</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/495758.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>صربيا</nationality> 
+   <birth-day>1996-12-03</birth-day> 
+   <length  unit="cm">صربيا</length> 
+   <weight  unit="kg">199</weight> 
+</player>

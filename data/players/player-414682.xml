@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>165</team_id> 
+   <id>414682</id> 
+   <name>ف. كون</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/414682.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>سويسرا</nationality> 
+   <birth-day>1998-04-02</birth-day> 
+   <length  unit="cm">ألمانيا</length> 
+   <weight  unit="kg">190</weight> 
+</player>

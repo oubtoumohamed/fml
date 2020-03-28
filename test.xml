@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="style.css" ?>
+
+<Blib>
+	<Book>
+		<title>Learn XML</title>
+		<author>OUBTOU </author>
+		<price>50 $</price>
+		<description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat.</description>
+	</Book>
+	<Book>
+		<title>Learn Python</title>
+		<author>ALI </author>
+		<price>250 $</price>
+
+		<description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat.</description>
+	</Book>
+	<Book>
+		<title>Data Science</title>
+		<author>Adam Salmi</author>
+		<price>80 $</price>
+
+		<description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat.</description>
+	</Book>
+	<Book>
+		<title>Art of coding</title>
+		<author>Sabbari</author>
+		<price>300 $</price>
+
+		<description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat.</description>
+	</Book>
+</Blib>

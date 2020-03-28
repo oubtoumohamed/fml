@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2146</id> 
+   <name>نادي مالمو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2146.png</image> 
+   <country>السويد</country> 
+   <adrese>Eric Perssons väg 7</adrese> 
+   <website>http://www.mff.se</website> 
+   <creation-date>1910</creation-date> 
+   <players> 
+     <player id="7829" /> 
+     <player id="28088" /> 
+     <player id="129295" /> 
+     <player id="185869" /> 
+     <player id="377435" /> 
+     <player id="620945" /> 
+     <player id="6306" /> 
+     <player id="6353" /> 
+     <player id="110879" /> 
+     <player id="121420" /> 
+     <player id="124160" /> 
+     <player id="232573" /> 
+     <player id="270563" /> 
+     <player id="362209" /> 
+     <player id="377441" /> 
+     <player id="377451" /> 
+     <player id="377453" /> 
+     <player id="379259" /> 
+     <player id="643193" /> 
+     <player id="11711" /> 
+     <player id="42502" /> 
+     <player id="137835" /> 
+     <player id="137993" /> 
+     <player id="154050" /> 
+     <player id="290347" /> 
+     <player id="296950" /> 
+     <player id="355667" /> 
+     <player id="355941" /> 
+     <player id="377459" /> 
+     <player id="377463" /> 
+     <player id="377467" /> 
+     <player id="459631" /> 
+     <player id="460408" /> 
+     <player id="517069" /> 
+     <player id="519762" /> 
+     <player id="170" /> 
+     <player id="6288" /> 
+     <player id="76527" /> 
+     <player id="163970" /> 
+     <player id="187768" /> 
+     <player id="209398" /> 
+     <player id="299922" /> 
+     <player id="573338" /> 
+     <player id="647920" /> 
+   </players> 
+   <coaches> 
+     <coach id="1941" /> 
+     <coach id="6299" /> 
+     <coach id="136269" /> 
+     <coach id="199634" /> 
+   </coaches> 
+</team>

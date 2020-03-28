@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>601</team_id> 
+   <id>483709</id> 
+   <name>M. Žižović</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/483709.png</image> 
+   <position>غير معروف</position> 
+   <nationality>البوسنة والهرسك</nationality> 
+   <birth-day>البوسنة والهرسك</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

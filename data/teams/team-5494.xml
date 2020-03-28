@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>5494</id> 
+   <name>الوحدة</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/5494.png</image> 
+   <country>الإمارات</country> 
+   <adrese>P.O. Box 4388</adrese> 
+   <website>http://www.alwahdaclub.net</website> 
+   <creation-date>1974</creation-date> 
+   <players> 
+     <player id="114374" /> 
+     <player id="177207" /> 
+     <player id="319347" /> 
+     <player id="492977" /> 
+     <player id="505272" /> 
+     <player id="505314" /> 
+     <player id="598458" /> 
+     <player id="61046" /> 
+     <player id="97580" /> 
+     <player id="119752" /> 
+     <player id="156644" /> 
+     <player id="178137" /> 
+     <player id="214015" /> 
+     <player id="244616" /> 
+     <player id="311842" /> 
+     <player id="319333" /> 
+     <player id="374193" /> 
+     <player id="458549" /> 
+     <player id="465379" /> 
+     <player id="472602" /> 
+     <player id="492372" /> 
+     <player id="506692" /> 
+     <player id="530357" /> 
+     <player id="535516" /> 
+     <player id="551791" /> 
+     <player id="566643" /> 
+     <player id="581535" /> 
+     <player id="585540" /> 
+     <player id="643734" /> 
+     <player id="644801" /> 
+     <player id="645288" /> 
+     <player id="649573" /> 
+     <player id="97582" /> 
+     <player id="131210" /> 
+     <player id="135730" /> 
+     <player id="155696" /> 
+     <player id="175068" /> 
+     <player id="177126" /> 
+     <player id="213706" /> 
+     <player id="214221" /> 
+     <player id="230835" /> 
+     <player id="266753" /> 
+     <player id="297743" /> 
+     <player id="317600" /> 
+     <player id="323061" /> 
+     <player id="332090" /> 
+     <player id="340801" /> 
+     <player id="374157" /> 
+     <player id="400007" /> 
+     <player id="505308" /> 
+     <player id="505310" /> 
+     <player id="505311" /> 
+     <player id="506672" /> 
+     <player id="506690" /> 
+     <player id="560623" /> 
+     <player id="575451" /> 
+     <player id="575452" /> 
+     <player id="575454" /> 
+     <player id="593264" /> 
+     <player id="621234" /> 
+     <player id="632063" /> 
+     <player id="641282" /> 
+     <player id="10836" /> 
+     <player id="10841" /> 
+     <player id="21174" /> 
+     <player id="43964" /> 
+     <player id="260208" /> 
+     <player id="285347" /> 
+     <player id="294716" /> 
+     <player id="294728" /> 
+     <player id="458566" /> 
+     <player id="505305" /> 
+     <player id="505312" /> 
+     <player id="566642" /> 
+     <player id="643735" /> 
+     <player id="650562" /> 
+   </players> 
+   <coaches> 
+     <coach id="110780" /> 
+     <coach id="119288" /> 
+     <coach id="124962" /> 
+     <coach id="137734" /> 
+     <coach id="322256" /> 
+     <coach id="407556" /> 
+     <coach id="431217" /> 
+     <coach id="530642" /> 
+     <coach id="585956" /> 
+   </coaches> 
+</team>

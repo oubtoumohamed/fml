@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>39043</id> 
+   <name>Renaissance Club Athletic Zemamra</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/39043.png</image> 
+   <country>المغرب</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>1977</creation-date> 
+   <players> 
+     <player id="245722" /> 
+     <player id="633764" /> 
+     <player id="633891" /> 
+     <player id="647644" /> 
+     <player id="588356" /> 
+     <player id="633465" /> 
+     <player id="633765" /> 
+     <player id="633767" /> 
+     <player id="633768" /> 
+     <player id="633887" /> 
+     <player id="633892" /> 
+     <player id="634296" /> 
+     <player id="640723" /> 
+     <player id="647646" /> 
+     <player id="648049" /> 
+     <player id="648492" /> 
+     <player id="13757" /> 
+     <player id="289632" /> 
+     <player id="392140" /> 
+     <player id="548900" /> 
+     <player id="632075" /> 
+     <player id="633769" /> 
+     <player id="633770" /> 
+     <player id="633879" /> 
+     <player id="633884" /> 
+     <player id="633894" /> 
+     <player id="633895" /> 
+     <player id="645585" /> 
+     <player id="648717" /> 
+     <player id="648720" /> 
+     <player id="72711" /> 
+     <player id="392138" /> 
+     <player id="432067" /> 
+     <player id="633880" /> 
+     <player id="645008" /> 
+     <player id="647622" /> 
+     <player id="647645" /> 
+   </players> 
+   <coaches> 
+     <coach id="104008" /> 
+     <coach id="281819" /> 
+     <coach id="588788" /> 
+   </coaches> 
+</team>

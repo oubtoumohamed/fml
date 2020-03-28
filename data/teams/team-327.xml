@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>327</id> 
+   <name>فورتاليزا إي سي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/327.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Avenida Senador Fernandez Távora 200, Pici</adrese> 
+   <website>http://www.fortalezaec.net</website> 
+   <creation-date>1918</creation-date> 
+   <players> 
+     <player id="9402" /> 
+     <player id="71014" /> 
+     <player id="280980" /> 
+     <player id="471895" /> 
+     <player id="8878" /> 
+     <player id="74340" /> 
+     <player id="82899" /> 
+     <player id="103416" /> 
+     <player id="170536" /> 
+     <player id="210405" /> 
+     <player id="228607" /> 
+     <player id="289831" /> 
+     <player id="297576" /> 
+     <player id="298175" /> 
+     <player id="336503" /> 
+     <player id="394575" /> 
+     <player id="403840" /> 
+     <player id="529528" /> 
+     <player id="599388" /> 
+     <player id="601262" /> 
+     <player id="9473" /> 
+     <player id="32826" /> 
+     <player id="64444" /> 
+     <player id="74344" /> 
+     <player id="112051" /> 
+     <player id="143210" /> 
+     <player id="170956" /> 
+     <player id="186317" /> 
+     <player id="234967" /> 
+     <player id="303918" /> 
+     <player id="310010" /> 
+     <player id="341021" /> 
+     <player id="395935" /> 
+     <player id="433199" /> 
+     <player id="479172" /> 
+     <player id="532599" /> 
+     <player id="533279" /> 
+     <player id="592427" /> 
+     <player id="603196" /> 
+     <player id="650673" /> 
+     <player id="32327" /> 
+     <player id="50103" /> 
+     <player id="71760" /> 
+     <player id="79694" /> 
+     <player id="231209" /> 
+     <player id="284206" /> 
+     <player id="328355" /> 
+     <player id="330946" /> 
+     <player id="335826" /> 
+     <player id="350121" /> 
+     <player id="408931" /> 
+     <player id="471298" /> 
+     <player id="532467" /> 
+   </players> 
+   <coaches> 
+     <coach id="9373" /> 
+     <coach id="446484" /> 
+     <coach id="553882" /> 
+     <coach id="623693" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1899</id> 
+   <name>نادي جلاسغو  رينجرز لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1899.png</image> 
+   <country>إسكتلندا</country> 
+   <adrese>150 Edmiston Drive</adrese> 
+   <website>http://www.rangers.co.uk</website> 
+   <creation-date>1873</creation-date> 
+   <players> 
+     <player id="811" /> 
+     <player id="147060" /> 
+     <player id="197663" /> 
+     <player id="275840" /> 
+     <player id="316192" /> 
+     <player id="372183" /> 
+     <player id="451080" /> 
+     <player id="858" /> 
+     <player id="4580" /> 
+     <player id="15703" /> 
+     <player id="76457" /> 
+     <player id="78263" /> 
+     <player id="97294" /> 
+     <player id="154073" /> 
+     <player id="155041" /> 
+     <player id="166828" /> 
+     <player id="204947" /> 
+     <player id="257118" /> 
+     <player id="300990" /> 
+     <player id="301359" /> 
+     <player id="340385" /> 
+     <player id="398273" /> 
+     <player id="412728" /> 
+     <player id="431849" /> 
+     <player id="435185" /> 
+     <player id="451087" /> 
+     <player id="460595" /> 
+     <player id="477664" /> 
+     <player id="498005" /> 
+     <player id="517643" /> 
+     <player id="356" /> 
+     <player id="2803" /> 
+     <player id="20164" /> 
+     <player id="20816" /> 
+     <player id="38568" /> 
+     <player id="46472" /> 
+     <player id="137504" /> 
+     <player id="157638" /> 
+     <player id="277972" /> 
+     <player id="281570" /> 
+     <player id="285758" /> 
+     <player id="306058" /> 
+     <player id="317322" /> 
+     <player id="357453" /> 
+     <player id="375079" /> 
+     <player id="376871" /> 
+     <player id="379193" /> 
+     <player id="394335" /> 
+     <player id="394664" /> 
+     <player id="404365" /> 
+     <player id="426841" /> 
+     <player id="428891" /> 
+     <player id="453179" /> 
+     <player id="802" /> 
+     <player id="2950" /> 
+     <player id="13103" /> 
+     <player id="15913" /> 
+     <player id="43996" /> 
+     <player id="56488" /> 
+     <player id="149022" /> 
+     <player id="169717" /> 
+     <player id="274816" /> 
+     <player id="281084" /> 
+     <player id="290501" /> 
+     <player id="309782" /> 
+     <player id="311181" /> 
+     <player id="314039" /> 
+     <player id="333829" /> 
+     <player id="334709" /> 
+     <player id="347957" /> 
+     <player id="372201" /> 
+     <player id="383985" /> 
+     <player id="404509" /> 
+     <player id="451110" /> 
+     <player id="451127" /> 
+     <player id="517658" /> 
+     <player id="517664" /> 
+     <player id="563564" /> 
+   </players> 
+   <coaches> 
+     <coach id="186" /> 
+     <coach id="2567" /> 
+     <coach id="51076" /> 
+     <coach id="105709" /> 
+   </coaches> 
+</team>

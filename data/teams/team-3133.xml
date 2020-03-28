@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3133</id> 
+   <name>ليخيا غدانسك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3133.png</image> 
+   <country>بولندا</country> 
+   <adrese>ul. Pokoleń Lechii Gdańsk 1</adrese> 
+   <website>http://www.lechia.pl</website> 
+   <creation-date>1945</creation-date> 
+   <players> 
+     <player id="43189" /> 
+     <player id="85093" /> 
+     <player id="158199" /> 
+     <player id="542352" /> 
+     <player id="2620" /> 
+     <player id="12587" /> 
+     <player id="12610" /> 
+     <player id="36583" /> 
+     <player id="56884" /> 
+     <player id="137493" /> 
+     <player id="144998" /> 
+     <player id="161525" /> 
+     <player id="175954" /> 
+     <player id="179139" /> 
+     <player id="196354" /> 
+     <player id="196600" /> 
+     <player id="214871" /> 
+     <player id="262594" /> 
+     <player id="319411" /> 
+     <player id="387689" /> 
+     <player id="449381" /> 
+     <player id="465508" /> 
+     <player id="548231" /> 
+     <player id="596533" /> 
+     <player id="738" /> 
+     <player id="6404" /> 
+     <player id="21135" /> 
+     <player id="31061" /> 
+     <player id="137312" /> 
+     <player id="151471" /> 
+     <player id="154528" /> 
+     <player id="156242" /> 
+     <player id="157125" /> 
+     <player id="157349" /> 
+     <player id="163091" /> 
+     <player id="295740" /> 
+     <player id="295750" /> 
+     <player id="302569" /> 
+     <player id="344145" /> 
+     <player id="406829" /> 
+     <player id="413849" /> 
+     <player id="423926" /> 
+     <player id="427524" /> 
+     <player id="450198" /> 
+     <player id="461831" /> 
+     <player id="475040" /> 
+     <player id="485072" /> 
+     <player id="485346" /> 
+     <player id="517233" /> 
+     <player id="556278" /> 
+     <player id="596528" /> 
+     <player id="616584" /> 
+     <player id="647277" /> 
+     <player id="12823" /> 
+     <player id="53084" /> 
+     <player id="61604" /> 
+     <player id="62590" /> 
+     <player id="214887" /> 
+     <player id="353419" /> 
+   </players> 
+   <coaches> 
+     <coach id="221119" /> 
+     <coach id="643213" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>71</id> 
+   <name>تيوتا دورس</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/71.png</image> 
+   <country>ألبانيا</country> 
+   <adrese>Rruga A. Goga</adrese> 
+   <website>http://kfteuta.com</website> 
+   <creation-date>1925</creation-date> 
+   <players> 
+     <player id="36938" /> 
+     <player id="57381" /> 
+     <player id="150341" /> 
+     <player id="269446" /> 
+     <player id="319442" /> 
+     <player id="469374" /> 
+     <player id="555979" /> 
+     <player id="634340" /> 
+     <player id="41073" /> 
+     <player id="42247" /> 
+     <player id="63391" /> 
+     <player id="91022" /> 
+     <player id="101722" /> 
+     <player id="132445" /> 
+     <player id="200092" /> 
+     <player id="214614" /> 
+     <player id="232566" /> 
+     <player id="251894" /> 
+     <player id="317992" /> 
+     <player id="320325" /> 
+     <player id="376903" /> 
+     <player id="380445" /> 
+     <player id="394958" /> 
+     <player id="395112" /> 
+     <player id="427013" /> 
+     <player id="464802" /> 
+     <player id="555928" /> 
+     <player id="595794" /> 
+     <player id="57355" /> 
+     <player id="57467" /> 
+     <player id="91412" /> 
+     <player id="95047" /> 
+     <player id="186752" /> 
+     <player id="190827" /> 
+     <player id="249440" /> 
+     <player id="276486" /> 
+     <player id="286635" /> 
+     <player id="302958" /> 
+     <player id="319651" /> 
+     <player id="398672" /> 
+     <player id="410754" /> 
+     <player id="420890" /> 
+     <player id="428433" /> 
+     <player id="435366" /> 
+     <player id="454611" /> 
+     <player id="464808" /> 
+     <player id="464997" /> 
+     <player id="512784" /> 
+     <player id="517562" /> 
+     <player id="521115" /> 
+     <player id="570774" /> 
+     <player id="574007" /> 
+     <player id="594831" /> 
+     <player id="36595" /> 
+     <player id="82993" /> 
+     <player id="84536" /> 
+     <player id="213611" /> 
+     <player id="244114" /> 
+     <player id="288474" /> 
+     <player id="382419" /> 
+     <player id="423319" /> 
+     <player id="430416" /> 
+     <player id="435363" /> 
+     <player id="451006" /> 
+     <player id="454618" /> 
+     <player id="484938" /> 
+     <player id="508818" /> 
+     <player id="626908" /> 
+   </players> 
+   <coaches> 
+     <coach id="41087" /> 
+     <coach id="57302" /> 
+     <coach id="147950" /> 
+     <coach id="264950" /> 
+     <coach id="616763" /> 
+   </coaches> 
+</team>

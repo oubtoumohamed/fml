@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>7512</id> 
+   <name>النهضة الرياضية بركان</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/7512.png</image> 
+   <country>المغرب</country> 
+   <adrese></adrese> 
+   <website>http://rsbfoot.ma/</website> 
+   <creation-date>1971</creation-date> 
+   <players> 
+     <player id="401359" /> 
+     <player id="437663" /> 
+     <player id="548774" /> 
+     <player id="548775" /> 
+     <player id="632499" /> 
+     <player id="115702" /> 
+     <player id="169967" /> 
+     <player id="231015" /> 
+     <player id="308493" /> 
+     <player id="421830" /> 
+     <player id="548777" /> 
+     <player id="548778" /> 
+     <player id="548780" /> 
+     <player id="548784" /> 
+     <player id="565187" /> 
+     <player id="13768" /> 
+     <player id="110832" /> 
+     <player id="190426" /> 
+     <player id="277263" /> 
+     <player id="284235" /> 
+     <player id="289632" /> 
+     <player id="475725" /> 
+     <player id="483018" /> 
+     <player id="548786" /> 
+     <player id="548789" /> 
+     <player id="548790" /> 
+     <player id="548793" /> 
+     <player id="548795" /> 
+     <player id="556254" /> 
+     <player id="556255" /> 
+     <player id="565167" /> 
+     <player id="565168" /> 
+     <player id="594452" /> 
+     <player id="596437" /> 
+     <player id="67163" /> 
+     <player id="277276" /> 
+     <player id="326718" /> 
+     <player id="326722" /> 
+     <player id="334478" /> 
+     <player id="392144" /> 
+     <player id="435193" /> 
+     <player id="531785" /> 
+     <player id="532002" /> 
+     <player id="548478" /> 
+     <player id="548797" /> 
+     <player id="548800" /> 
+     <player id="632490" /> 
+     <player id="632516" /> 
+     <player id="645006" /> 
+     <player id="646120" /> 
+   </players> 
+   <coaches> 
+     <coach id="21559" /> 
+     <coach id="548835" /> 
+   </coaches> 
+</team>

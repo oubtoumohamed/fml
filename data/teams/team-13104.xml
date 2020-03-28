@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>13104</id> 
+   <name>FK Astana</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/13104.png</image> 
+   <country>كازاخستان</country> 
+   <adrese>ul. Abaya 23, ofis 46</adrese> 
+   <website>http://fca.kz/</website> 
+   <creation-date>2009</creation-date> 
+   <players> 
+     <player id="39367" /> 
+     <player id="40742" /> 
+     <player id="55900" /> 
+     <player id="154768" /> 
+     <player id="386625" /> 
+     <player id="465849" /> 
+     <player id="546748" /> 
+     <player id="21051" /> 
+     <player id="40184" /> 
+     <player id="41482" /> 
+     <player id="59609" /> 
+     <player id="82958" /> 
+     <player id="89878" /> 
+     <player id="110245" /> 
+     <player id="123345" /> 
+     <player id="126191" /> 
+     <player id="350835" /> 
+     <player id="380269" /> 
+     <player id="421603" /> 
+     <player id="421604" /> 
+     <player id="465853" /> 
+     <player id="465876" /> 
+     <player id="517613" /> 
+     <player id="546744" /> 
+     <player id="546752" /> 
+     <player id="574571" /> 
+     <player id="574576" /> 
+     <player id="574580" /> 
+     <player id="574582" /> 
+     <player id="574585" /> 
+     <player id="606026" /> 
+     <player id="32247" /> 
+     <player id="37471" /> 
+     <player id="84367" /> 
+     <player id="92295" /> 
+     <player id="95096" /> 
+     <player id="113555" /> 
+     <player id="114678" /> 
+     <player id="124353" /> 
+     <player id="154604" /> 
+     <player id="273273" /> 
+     <player id="386653" /> 
+     <player id="403951" /> 
+     <player id="419293" /> 
+     <player id="464122" /> 
+     <player id="465882" /> 
+     <player id="465890" /> 
+     <player id="465893" /> 
+     <player id="521108" /> 
+     <player id="546742" /> 
+     <player id="546753" /> 
+     <player id="574562" /> 
+     <player id="574596" /> 
+     <player id="574601" /> 
+     <player id="574604" /> 
+     <player id="81772" /> 
+     <player id="86235" /> 
+     <player id="130246" /> 
+     <player id="134453" /> 
+     <player id="158207" /> 
+     <player id="160018" /> 
+     <player id="235467" /> 
+     <player id="249228" /> 
+     <player id="276465" /> 
+     <player id="298222" /> 
+     <player id="419300" /> 
+     <player id="467938" /> 
+     <player id="517626" /> 
+     <player id="546745" /> 
+     <player id="574614" /> 
+   </players> 
+   <coaches> 
+     <coach id="150019" /> 
+     <coach id="194404" /> 
+     <coach id="241856" /> 
+     <coach id="295329" /> 
+   </coaches> 
+</team>

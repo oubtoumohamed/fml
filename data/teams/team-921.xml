@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>921</id> 
+   <name>استاد دو ريم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/921.png</image> 
+   <country>فرنسا</country> 
+   <adrese>2-4, place Jean Moulin</adrese> 
+   <website>http://www.stade-de-reims.com</website> 
+   <creation-date>1909</creation-date> 
+   <players> 
+     <player id="580" /> 
+     <player id="37673" /> 
+     <player id="39604" /> 
+     <player id="152517" /> 
+     <player id="213222" /> 
+     <player id="213864" /> 
+     <player id="265611" /> 
+     <player id="314337" /> 
+     <player id="378083" /> 
+     <player id="400809" /> 
+     <player id="420652" /> 
+     <player id="450764" /> 
+     <player id="1374" /> 
+     <player id="1459" /> 
+     <player id="18621" /> 
+     <player id="23176" /> 
+     <player id="37735" /> 
+     <player id="37973" /> 
+     <player id="65329" /> 
+     <player id="95301" /> 
+     <player id="95783" /> 
+     <player id="100878" /> 
+     <player id="136140" /> 
+     <player id="138671" /> 
+     <player id="139598" /> 
+     <player id="158364" /> 
+     <player id="159947" /> 
+     <player id="182903" /> 
+     <player id="207774" /> 
+     <player id="215120" /> 
+     <player id="240174" /> 
+     <player id="250040" /> 
+     <player id="256773" /> 
+     <player id="263309" /> 
+     <player id="299858" /> 
+     <player id="375213" /> 
+     <player id="400754" /> 
+     <player id="413277" /> 
+     <player id="419668" /> 
+     <player id="423944" /> 
+     <player id="435624" /> 
+     <player id="487653" /> 
+     <player id="517591" /> 
+     <player id="33744" /> 
+     <player id="36875" /> 
+     <player id="39293" /> 
+     <player id="39452" /> 
+     <player id="39890" /> 
+     <player id="40541" /> 
+     <player id="57236" /> 
+     <player id="87769" /> 
+     <player id="121630" /> 
+     <player id="138690" /> 
+     <player id="158399" /> 
+     <player id="159211" /> 
+     <player id="196788" /> 
+     <player id="199414" /> 
+     <player id="246975" /> 
+     <player id="249743" /> 
+     <player id="283788" /> 
+     <player id="298049" /> 
+     <player id="305234" /> 
+     <player id="316552" /> 
+     <player id="327434" /> 
+     <player id="330094" /> 
+     <player id="377301" /> 
+     <player id="394835" /> 
+     <player id="394941" /> 
+     <player id="405268" /> 
+     <player id="418018" /> 
+     <player id="424336" /> 
+     <player id="432565" /> 
+     <player id="468438" /> 
+     <player id="484726" /> 
+     <player id="487666" /> 
+     <player id="1573" /> 
+     <player id="47044" /> 
+     <player id="60730" /> 
+     <player id="69258" /> 
+     <player id="75251" /> 
+     <player id="87566" /> 
+     <player id="95237" /> 
+     <player id="111146" /> 
+     <player id="113404" /> 
+     <player id="138695" /> 
+     <player id="163276" /> 
+     <player id="181127" /> 
+     <player id="183300" /> 
+     <player id="228894" /> 
+     <player id="268927" /> 
+     <player id="274816" /> 
+     <player id="297187" /> 
+     <player id="311891" /> 
+     <player id="324260" /> 
+     <player id="340715" /> 
+     <player id="393396" /> 
+     <player id="418016" /> 
+     <player id="420650" /> 
+     <player id="424155" /> 
+     <player id="464545" /> 
+     <player id="493435" /> 
+     <player id="566070" /> 
+   </players> 
+   <coaches> 
+     <coach id="37717" /> 
+     <coach id="138865" /> 
+     <coach id="169551" /> 
+     <coach id="200393" /> 
+   </coaches> 
+</team>

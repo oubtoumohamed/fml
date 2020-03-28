@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1067</team_id> 
+   <id>524276</id> 
+   <name>S. Stroungis</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/524276.png</image> 
+   <position>مدافع</position> 
+   <nationality>اليونان</nationality> 
+   <birth-day>1997-10-09</birth-day> 
+   <length  unit="cm">187</length> 
+   <weight  unit="kg">اليمني</weight> 
+</player>

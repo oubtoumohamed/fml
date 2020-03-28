@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>9067</team_id> 
+   <id>650667</id> 
+   <name>Mohamad Ahmad</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/650667.png</image> 
+   <position>مهاجم</position> 
+   <nationality>سوريا</nationality> 
+   <birth-day>1999-12-29</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

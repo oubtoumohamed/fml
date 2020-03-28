@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>12889</id> 
+   <name>الدحيل</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/12889.png</image> 
+   <country>قطر</country> 
+   <adrese>PO Box 6799</adrese> 
+   <website>http://www.lekhwiyaclub.qa</website> 
+   <creation-date>1938 / 2009</creation-date> 
+   <players> 
+     <player id="82163" /> 
+     <player id="82233" /> 
+     <player id="153526" /> 
+     <player id="208810" /> 
+     <player id="343771" /> 
+     <player id="436441" /> 
+     <player id="513956" /> 
+     <player id="593955" /> 
+     <player id="639047" /> 
+     <player id="13727" /> 
+     <player id="13730" /> 
+     <player id="56293" /> 
+     <player id="64941" /> 
+     <player id="81948" /> 
+     <player id="209265" /> 
+     <player id="233045" /> 
+     <player id="343757" /> 
+     <player id="460722" /> 
+     <player id="513967" /> 
+     <player id="521478" /> 
+     <player id="521482" /> 
+     <player id="537391" /> 
+     <player id="557606" /> 
+     <player id="573698" /> 
+     <player id="593956" /> 
+     <player id="625776" /> 
+     <player id="639061" /> 
+     <player id="88001" /> 
+     <player id="99403" /> 
+     <player id="153523" /> 
+     <player id="153550" /> 
+     <player id="193120" /> 
+     <player id="210411" /> 
+     <player id="220291" /> 
+     <player id="257595" /> 
+     <player id="329734" /> 
+     <player id="343749" /> 
+     <player id="343751" /> 
+     <player id="405568" /> 
+     <player id="431381" /> 
+     <player id="431763" /> 
+     <player id="436212" /> 
+     <player id="436440" /> 
+     <player id="469466" /> 
+     <player id="470039" /> 
+     <player id="473452" /> 
+     <player id="513959" /> 
+     <player id="513960" /> 
+     <player id="513961" /> 
+     <player id="521481" /> 
+     <player id="521487" /> 
+     <player id="530953" /> 
+     <player id="542409" /> 
+     <player id="570023" /> 
+     <player id="575717" /> 
+     <player id="582670" /> 
+     <player id="582927" /> 
+     <player id="600922" /> 
+     <player id="639049" /> 
+     <player id="639054" /> 
+     <player id="640680" /> 
+     <player id="643843" /> 
+     <player id="10923" /> 
+     <player id="20303" /> 
+     <player id="66418" /> 
+     <player id="69289" /> 
+     <player id="209063" /> 
+     <player id="286019" /> 
+     <player id="325932" /> 
+     <player id="425941" /> 
+     <player id="436439" /> 
+     <player id="465722" /> 
+     <player id="474776" /> 
+     <player id="474777" /> 
+     <player id="513965" /> 
+     <player id="515028" /> 
+     <player id="521483" /> 
+     <player id="529262" /> 
+   </players> 
+   <coaches> 
+     <coach id="3778" /> 
+     <coach id="5228" /> 
+     <coach id="196293" /> 
+     <coach id="210382" /> 
+     <coach id="265364" /> 
+     <coach id="428592" /> 
+     <coach id="643849" /> 
+   </coaches> 
+</team>

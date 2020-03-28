@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3511</id> 
+   <name>الهلال</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3511.png</image> 
+   <country>السعودية</country> 
+   <adrese></adrese> 
+   <website>http://www.alhilal.com</website> 
+   <creation-date>1957</creation-date> 
+   <players> 
+     <player id="10872" /> 
+     <player id="26594" /> 
+     <player id="309813" /> 
+     <player id="436615" /> 
+     <player id="576449" /> 
+     <player id="640019" /> 
+     <player id="10934" /> 
+     <player id="62738" /> 
+     <player id="81513" /> 
+     <player id="121459" /> 
+     <player id="144187" /> 
+     <player id="164599" /> 
+     <player id="193362" /> 
+     <player id="197689" /> 
+     <player id="197874" /> 
+     <player id="207472" /> 
+     <player id="255776" /> 
+     <player id="263793" /> 
+     <player id="326126" /> 
+     <player id="326952" /> 
+     <player id="397041" /> 
+     <player id="414800" /> 
+     <player id="452466" /> 
+     <player id="465465" /> 
+     <player id="492142" /> 
+     <player id="10944" /> 
+     <player id="64099" /> 
+     <player id="66928" /> 
+     <player id="71055" /> 
+     <player id="84154" /> 
+     <player id="110254" /> 
+     <player id="110805" /> 
+     <player id="124453" /> 
+     <player id="128583" /> 
+     <player id="156094" /> 
+     <player id="179101" /> 
+     <player id="197872" /> 
+     <player id="197881" /> 
+     <player id="280637" /> 
+     <player id="316240" /> 
+     <player id="323061" /> 
+     <player id="465476" /> 
+     <player id="492141" /> 
+     <player id="492155" /> 
+     <player id="529352" /> 
+     <player id="576469" /> 
+     <player id="590767" /> 
+     <player id="590768" /> 
+     <player id="1331" /> 
+     <player id="3646" /> 
+     <player id="10955" /> 
+     <player id="17951" /> 
+     <player id="81456" /> 
+     <player id="87684" /> 
+     <player id="131571" /> 
+     <player id="180819" /> 
+     <player id="217887" /> 
+     <player id="234061" /> 
+     <player id="405642" /> 
+     <player id="465482" /> 
+     <player id="470973" /> 
+     <player id="484481" /> 
+     <player id="492145" /> 
+     <player id="576456" /> 
+     <player id="598567" /> 
+     <player id="600752" /> 
+   </players> 
+   <coaches> 
+     <coach id="48213" /> 
+     <coach id="125542" /> 
+     <coach id="127143" /> 
+     <coach id="140283" /> 
+     <coach id="230964" /> 
+   </coaches> 
+</team>

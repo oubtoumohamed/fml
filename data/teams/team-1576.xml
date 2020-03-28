@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1576</id> 
+   <name>نادي كروسيدرز لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1576.png</image> 
+   <country>إيرلندا الشمالية</country> 
+   <adrese>Shore Road</adrese> 
+   <website>http://www.crusadersfc.com</website> 
+   <creation-date>1898</creation-date> 
+   <players> 
+     <player id="15895" /> 
+     <player id="40378" /> 
+     <player id="73993" /> 
+     <player id="91078" /> 
+     <player id="270548" /> 
+     <player id="514860" /> 
+     <player id="607914" /> 
+     <player id="629222" /> 
+     <player id="40370" /> 
+     <player id="41357" /> 
+     <player id="45490" /> 
+     <player id="45644" /> 
+     <player id="91212" /> 
+     <player id="110321" /> 
+     <player id="129845" /> 
+     <player id="166433" /> 
+     <player id="258206" /> 
+     <player id="274905" /> 
+     <player id="311955" /> 
+     <player id="375093" /> 
+     <player id="45382" /> 
+     <player id="45650" /> 
+     <player id="45687" /> 
+     <player id="141248" /> 
+     <player id="162145" /> 
+     <player id="199510" /> 
+     <player id="215916" /> 
+     <player id="237872" /> 
+     <player id="286322" /> 
+     <player id="293671" /> 
+     <player id="318868" /> 
+     <player id="468232" /> 
+     <player id="543568" /> 
+     <player id="608362" /> 
+     <player id="36432" /> 
+     <player id="45672" /> 
+     <player id="76977" /> 
+     <player id="83057" /> 
+     <player id="139617" /> 
+     <player id="144275" /> 
+     <player id="161894" /> 
+     <player id="338063" /> 
+     <player id="395132" /> 
+     <player id="398155" /> 
+     <player id="426552" /> 
+     <player id="443670" /> 
+     <player id="464823" /> 
+     <player id="555203" /> 
+   </players> 
+   <coaches> 
+     <coach id="195811" /> 
+     <coach id="558243" /> 
+   </coaches> 
+</team>

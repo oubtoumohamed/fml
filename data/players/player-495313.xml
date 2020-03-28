@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>977</team_id> 
+   <id>495313</id> 
+   <name>جوناثان بوركاردت</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/495313.png</image> 
+   <position>مهاجم</position> 
+   <nationality>ألمانيا</nationality> 
+   <birth-day>2000-07-11</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

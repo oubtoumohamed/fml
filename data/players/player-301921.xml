@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>10610</team_id> 
+   <id>301921</id> 
+   <name>إيه. خاتسكفيتش</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/301921.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>بلاروسيا</nationality> 
+   <birth-day>1973-10-19</birth-day> 
+   <length  unit="cm">بلاروسيا</length> 
+   <weight  unit="kg">187</weight> 
+</player>

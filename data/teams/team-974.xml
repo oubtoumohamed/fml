@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>974</id> 
+   <name>نادي هيرتا برلين الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/974.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Hanns-Braun-Straße, Friesenhaus II</adrese> 
+   <website>http://www.herthabsc.de</website> 
+   <creation-date>1892</creation-date> 
+   <players> 
+     <player id="7875" /> 
+     <player id="39434" /> 
+     <player id="258755" /> 
+     <player id="290021" /> 
+     <player id="443244" /> 
+     <player id="474553" /> 
+     <player id="11373" /> 
+     <player id="35445" /> 
+     <player id="102526" /> 
+     <player id="111111" /> 
+     <player id="159866" /> 
+     <player id="161281" /> 
+     <player id="242776" /> 
+     <player id="307951" /> 
+     <player id="309268" /> 
+     <player id="322329" /> 
+     <player id="359295" /> 
+     <player id="429680" /> 
+     <player id="440861" /> 
+     <player id="2540" /> 
+     <player id="7910" /> 
+     <player id="39650" /> 
+     <player id="96310" /> 
+     <player id="127888" /> 
+     <player id="245430" /> 
+     <player id="250672" /> 
+     <player id="270005" /> 
+     <player id="271064" /> 
+     <player id="358461" /> 
+     <player id="404697" /> 
+     <player id="410748" /> 
+     <player id="432202" /> 
+     <player id="440865" /> 
+     <player id="454152" /> 
+     <player id="548274" /> 
+     <player id="641222" /> 
+     <player id="1645" /> 
+     <player id="39015" /> 
+     <player id="213931" /> 
+     <player id="259414" /> 
+     <player id="259490" /> 
+     <player id="315822" /> 
+     <player id="324923" /> 
+     <player id="342295" /> 
+     <player id="376321" /> 
+     <player id="454154" /> 
+     <player id="454155" /> 
+     <player id="463705" /> 
+     <player id="473427" /> 
+   </players> 
+   <coaches> 
+     <coach id="1869" /> 
+     <coach id="54179" /> 
+     <coach id="198966" /> 
+     <coach id="222535" /> 
+     <coach id="234364" /> 
+     <coach id="488256" /> 
+     <coach id="488319" /> 
+   </coaches> 
+</team>

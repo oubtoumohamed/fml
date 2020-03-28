@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3565</team_id> 
+   <id>534332</id> 
+   <name>Omar Al Zebdieh</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/534332.png</image> 
+   <position>مدافع</position> 
+   <nationality>الأردن</nationality> 
+   <birth-day>1999-06-27</birth-day> 
+   <length  unit="cm">الأردن</length> 
+   <weight  unit="kg">177</weight> 
+</player>

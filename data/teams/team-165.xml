@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>165</id> 
+   <name>نادي سالزبورغ لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/165.png</image> 
+   <country>النمسا</country> 
+   <adrese>Stadionstrasse 2/3</adrese> 
+   <website>http://www.redbullsalzburg.at/de</website> 
+   <creation-date>1933</creation-date> 
+   <players> 
+     <player id="16336" /> 
+     <player id="145493" /> 
+     <player id="236717" /> 
+     <player id="287907" /> 
+     <player id="387677" /> 
+     <player id="414682" /> 
+     <player id="10973" /> 
+     <player id="116482" /> 
+     <player id="126553" /> 
+     <player id="138191" /> 
+     <player id="178288" /> 
+     <player id="266051" /> 
+     <player id="288789" /> 
+     <player id="318311" /> 
+     <player id="325639" /> 
+     <player id="400831" /> 
+     <player id="413868" /> 
+     <player id="419548" /> 
+     <player id="423940" /> 
+     <player id="424058" /> 
+     <player id="428890" /> 
+     <player id="433270" /> 
+     <player id="435960" /> 
+     <player id="477426" /> 
+     <player id="509811" /> 
+     <player id="535389" /> 
+     <player id="616022" /> 
+     <player id="11232" /> 
+     <player id="35839" /> 
+     <player id="87946" /> 
+     <player id="88458" /> 
+     <player id="122245" /> 
+     <player id="212641" /> 
+     <player id="273205" /> 
+     <player id="316765" /> 
+     <player id="319022" /> 
+     <player id="347111" /> 
+     <player id="350117" /> 
+     <player id="382647" /> 
+     <player id="396490" /> 
+     <player id="419555" /> 
+     <player id="425830" /> 
+     <player id="438002" /> 
+     <player id="438761" /> 
+     <player id="463719" /> 
+     <player id="483768" /> 
+     <player id="508738" /> 
+     <player id="513412" /> 
+     <player id="515258" /> 
+     <player id="539346" /> 
+     <player id="78434" /> 
+     <player id="134271" /> 
+     <player id="191108" /> 
+     <player id="193117" /> 
+     <player id="350125" /> 
+     <player id="382807" /> 
+     <player id="389217" /> 
+     <player id="405920" /> 
+     <player id="424073" /> 
+     <player id="425832" /> 
+     <player id="441484" /> 
+     <player id="462561" /> 
+     <player id="508743" /> 
+     <player id="540856" /> 
+     <player id="578376" /> 
+   </players> 
+   <coaches> 
+     <coach id="1688" /> 
+     <coach id="233372" /> 
+   </coaches> 
+</team>

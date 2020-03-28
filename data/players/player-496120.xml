@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3424</team_id> 
+   <id>496120</id> 
+   <name>عبد المؤمن سيفور</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/496120.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>الجزائر</nationality> 
+   <birth-day>1998-03-03</birth-day> 
+   <length  unit="cm">الجزائر</length> 
+   <weight  unit="kg"></weight> 
+</player>

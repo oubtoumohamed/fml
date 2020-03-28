@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>214</team_id> 
+   <id>468848</id> 
+   <name>ي. تشيكانويتز</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/468848.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>لوكسمبورغ</nationality> 
+   <birth-day>2000-08-08</birth-day> 
+   <length  unit="cm">لوكسمبورغ</length> 
+   <weight  unit="kg">187</weight> 
+</player>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>199</team_id> 
+   <id>606928</id> 
+   <name>E. Bogomolskiy</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/606928.png</image> 
+   <position>مهاجم</position> 
+   <nationality>بلاروسيا</nationality> 
+   <birth-day>2000-06-03</birth-day> 
+   <length  unit="cm">بلاروسيا</length> 
+   <weight  unit="kg">186</weight> 
+</player>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1942</id> 
+   <name>نادي النجم الأحمر</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1942.png</image> 
+   <country>صربيا</country> 
+   <adrese>Ljutice Bogdana 1a</adrese> 
+   <website>http://www.crvenazvezdafk.com</website> 
+   <creation-date>1945</creation-date> 
+   <players> 
+     <player id="75946" /> 
+     <player id="90655" /> 
+     <player id="90656" /> 
+     <player id="258594" /> 
+     <player id="294630" /> 
+     <player id="385231" /> 
+     <player id="467535" /> 
+     <player id="20254" /> 
+     <player id="47192" /> 
+     <player id="47941" /> 
+     <player id="90105" /> 
+     <player id="181707" /> 
+     <player id="193362" /> 
+     <player id="197469" /> 
+     <player id="199346" /> 
+     <player id="201572" /> 
+     <player id="245568" /> 
+     <player id="269515" /> 
+     <player id="269998" /> 
+     <player id="328515" /> 
+     <player id="396324" /> 
+     <player id="427728" /> 
+     <player id="491240" /> 
+     <player id="492042" /> 
+     <player id="16899" /> 
+     <player id="20264" /> 
+     <player id="24608" /> 
+     <player id="39209" /> 
+     <player id="39283" /> 
+     <player id="42184" /> 
+     <player id="78300" /> 
+     <player id="134082" /> 
+     <player id="158208" /> 
+     <player id="164092" /> 
+     <player id="189119" /> 
+     <player id="213871" /> 
+     <player id="228440" /> 
+     <player id="258641" /> 
+     <player id="258642" /> 
+     <player id="263461" /> 
+     <player id="269516" /> 
+     <player id="296972" /> 
+     <player id="343865" /> 
+     <player id="345931" /> 
+     <player id="401407" /> 
+     <player id="405837" /> 
+     <player id="423585" /> 
+     <player id="427730" /> 
+     <player id="441348" /> 
+     <player id="445370" /> 
+     <player id="467539" /> 
+     <player id="467805" /> 
+     <player id="571886" /> 
+     <player id="39942" /> 
+     <player id="67634" /> 
+     <player id="90658" /> 
+     <player id="124895" /> 
+     <player id="140486" /> 
+     <player id="144844" /> 
+     <player id="172539" /> 
+     <player id="245644" /> 
+     <player id="319456" /> 
+     <player id="362989" /> 
+     <player id="427736" /> 
+     <player id="435971" /> 
+     <player id="443318" /> 
+     <player id="484495" /> 
+     <player id="517414" /> 
+     <player id="561257" /> 
+   </players> 
+   <coaches> 
+     <coach id="201677" /> 
+   </coaches> 
+</team>

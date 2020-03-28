@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3516</team_id> 
+   <id>545920</id> 
+   <name>مؤيد معافا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/545920.png</image> 
+   <position>مدافع</position> 
+   <nationality>السعودية</nationality> 
+   <birth-day>1997-03-17</birth-day> 
+   <length  unit="cm">173</length> 
+   <weight  unit="kg">69</weight> 
+</player>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>11710</id> 
+   <name>Yeni Malatya Spor Kulübü</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/11710.png</image> 
+   <country>تركيا</country> 
+   <adrese>Yeşiltepe Seyran Mah.</adrese> 
+   <website>http://www.yenimalatyaspor.org</website> 
+   <creation-date>1986</creation-date> 
+   <players> 
+     <player id="4971" /> 
+     <player id="95719" /> 
+     <player id="143960" /> 
+     <player id="222179" /> 
+     <player id="379373" /> 
+     <player id="435223" /> 
+     <player id="503332" /> 
+     <player id="570583" /> 
+     <player id="44770" /> 
+     <player id="65952" /> 
+     <player id="91774" /> 
+     <player id="134084" /> 
+     <player id="151390" /> 
+     <player id="166939" /> 
+     <player id="170224" /> 
+     <player id="217698" /> 
+     <player id="227884" /> 
+     <player id="282885" /> 
+     <player id="374613" /> 
+     <player id="378645" /> 
+     <player id="393264" /> 
+     <player id="407114" /> 
+     <player id="433254" /> 
+     <player id="451299" /> 
+     <player id="469975" /> 
+     <player id="496100" /> 
+     <player id="496101" /> 
+     <player id="499300" /> 
+     <player id="503203" /> 
+     <player id="517140" /> 
+     <player id="16183" /> 
+     <player id="24608" /> 
+     <player id="40713" /> 
+     <player id="71949" /> 
+     <player id="111746" /> 
+     <player id="113170" /> 
+     <player id="131287" /> 
+     <player id="146986" /> 
+     <player id="148164" /> 
+     <player id="148843" /> 
+     <player id="159870" /> 
+     <player id="175392" /> 
+     <player id="224700" /> 
+     <player id="235289" /> 
+     <player id="235481" /> 
+     <player id="269579" /> 
+     <player id="284108" /> 
+     <player id="290080" /> 
+     <player id="387995" /> 
+     <player id="395241" /> 
+     <player id="397479" /> 
+     <player id="397540" /> 
+     <player id="403731" /> 
+     <player id="413706" /> 
+     <player id="422826" /> 
+     <player id="445053" /> 
+     <player id="446863" /> 
+     <player id="496106" /> 
+     <player id="499302" /> 
+     <player id="503315" /> 
+     <player id="505676" /> 
+     <player id="4658" /> 
+     <player id="4826" /> 
+     <player id="33200" /> 
+     <player id="56480" /> 
+     <player id="57674" /> 
+     <player id="61375" /> 
+     <player id="83238" /> 
+     <player id="84425" /> 
+     <player id="94464" /> 
+     <player id="136395" /> 
+     <player id="181127" /> 
+     <player id="204638" /> 
+     <player id="264321" /> 
+     <player id="324040" /> 
+     <player id="378461" /> 
+     <player id="499299" /> 
+     <player id="503328" /> 
+   </players> 
+   <coaches> 
+     <coach id="27243" /> 
+     <coach id="37016" /> 
+     <coach id="196625" /> 
+     <coach id="222279" /> 
+     <coach id="486002" /> 
+     <coach id="497488" /> 
+     <coach id="507062" /> 
+     <coach id="528373" /> 
+   </coaches> 
+</team>

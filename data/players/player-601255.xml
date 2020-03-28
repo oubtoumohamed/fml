@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>30819</team_id> 
+   <id>601255</id> 
+   <name>Ž. Laci</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/601255.png</image> 
+   <position>مدافع</position> 
+   <nationality>سلوفينيا</nationality> 
+   <birth-day>2002-07-20</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

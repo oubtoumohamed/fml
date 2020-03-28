@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1113</id> 
+   <name>نادي هونفيد لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1113.png</image> 
+   <country>المجر</country> 
+   <adrese>Puskás Ferenc utca 1-3.</adrese> 
+   <website>http://www.honvedfc.hu/</website> 
+   <creation-date>1908</creation-date> 
+   <players> 
+     <player id="13080" /> 
+     <player id="35099" /> 
+     <player id="92046" /> 
+     <player id="141012" /> 
+     <player id="386529" /> 
+     <player id="490451" /> 
+     <player id="34775" /> 
+     <player id="34943" /> 
+     <player id="36789" /> 
+     <player id="88430" /> 
+     <player id="99983" /> 
+     <player id="115516" /> 
+     <player id="138148" /> 
+     <player id="203629" /> 
+     <player id="218085" /> 
+     <player id="235265" /> 
+     <player id="264223" /> 
+     <player id="270696" /> 
+     <player id="345421" /> 
+     <player id="386543" /> 
+     <player id="437995" /> 
+     <player id="477036" /> 
+     <player id="500806" /> 
+     <player id="573903" /> 
+     <player id="1416" /> 
+     <player id="7466" /> 
+     <player id="17956" /> 
+     <player id="20142" /> 
+     <player id="33831" /> 
+     <player id="47218" /> 
+     <player id="75156" /> 
+     <player id="85392" /> 
+     <player id="92465" /> 
+     <player id="134874" /> 
+     <player id="138212" /> 
+     <player id="138259" /> 
+     <player id="232778" /> 
+     <player id="232813" /> 
+     <player id="273037" /> 
+     <player id="273812" /> 
+     <player id="308402" /> 
+     <player id="384685" /> 
+     <player id="384795" /> 
+     <player id="403484" /> 
+     <player id="427690" /> 
+     <player id="477674" /> 
+     <player id="490461" /> 
+     <player id="509207" /> 
+     <player id="509232" /> 
+     <player id="1573" /> 
+     <player id="18338" /> 
+     <player id="47228" /> 
+     <player id="134669" /> 
+     <player id="138858" /> 
+     <player id="158319" /> 
+     <player id="170537" /> 
+     <player id="225872" /> 
+     <player id="287163" /> 
+     <player id="366961" /> 
+     <player id="386555" /> 
+     <player id="386559" /> 
+     <player id="406137" /> 
+     <player id="509222" /> 
+     <player id="509223" /> 
+     <player id="509230" /> 
+     <player id="559116" /> 
+   </players> 
+   <coaches> 
+     <coach id="180748" /> 
+     <coach id="194720" /> 
+     <coach id="245992" /> 
+     <coach id="643317" /> 
+   </coaches> 
+</team>

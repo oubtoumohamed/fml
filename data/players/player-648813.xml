@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>22136</team_id> 
+   <id>648813</id> 
+   <name>M. Nahdi</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/648813.png</image> 
+   <position>مهاجم</position> 
+   <nationality>المغرب</nationality> 
+   <birth-day>1998-01-23</birth-day> 
+   <length  unit="cm">174</length> 
+   <weight  unit="kg">70</weight> 
+</player>

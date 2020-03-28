@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>39594</id> 
+   <name>Ararat-Armenia FC</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/39594.png</image> 
+   <country>أرمينيا</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="76328" /> 
+     <player id="291882" /> 
+     <player id="320286" /> 
+     <player id="468823" /> 
+     <player id="619159" /> 
+     <player id="6627" /> 
+     <player id="59348" /> 
+     <player id="124565" /> 
+     <player id="263848" /> 
+     <player id="313142" /> 
+     <player id="314309" /> 
+     <player id="320294" /> 
+     <player id="384585" /> 
+     <player id="400329" /> 
+     <player id="441619" /> 
+     <player id="482403" /> 
+     <player id="124586" /> 
+     <player id="129065" /> 
+     <player id="155435" /> 
+     <player id="160145" /> 
+     <player id="169938" /> 
+     <player id="180108" /> 
+     <player id="263647" /> 
+     <player id="384593" /> 
+     <player id="385885" /> 
+     <player id="423318" /> 
+     <player id="448091" /> 
+     <player id="450316" /> 
+     <player id="460377" /> 
+     <player id="507813" /> 
+     <player id="27676" /> 
+     <player id="40565" /> 
+     <player id="51696" /> 
+     <player id="59082" /> 
+     <player id="102559" /> 
+     <player id="131644" /> 
+     <player id="331172" /> 
+     <player id="384599" /> 
+     <player id="425156" /> 
+     <player id="449680" /> 
+     <player id="468295" /> 
+     <player id="579241" /> 
+   </players> 
+   <coaches> 
+     <coach id="78281" /> 
+     <coach id="135622" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2025</team_id> 
+   <id>511019</id> 
+   <name>كارلوس كيسلوك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/511019.png</image> 
+   <position>غير معروف</position> 
+   <nationality>الأرجنتين</nationality> 
+   <birth-day>1969-01-24</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>662</id> 
+   <name>نادي مانشستر يونايتد لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/662.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Sir Matt Busby Way</adrese> 
+   <website>http://www.manutd.com</website> 
+   <creation-date>1878</creation-date> 
+   <players> 
+     <player id="15525" /> 
+     <player id="17311" /> 
+     <player id="61954" /> 
+     <player id="196266" /> 
+     <player id="270484" /> 
+     <player id="317323" /> 
+     <player id="320185" /> 
+     <player id="535288" /> 
+     <player id="284" /> 
+     <player id="2553" /> 
+     <player id="17720" /> 
+     <player id="68886" /> 
+     <player id="68939" /> 
+     <player id="79474" /> 
+     <player id="97299" /> 
+     <player id="127315" /> 
+     <player id="182047" /> 
+     <player id="209805" /> 
+     <player id="289271" /> 
+     <player id="335183" /> 
+     <player id="400243" /> 
+     <player id="420197" /> 
+     <player id="420198" /> 
+     <player id="420201" /> 
+     <player id="420210" /> 
+     <player id="453892" /> 
+     <player id="459555" /> 
+     <player id="467165" /> 
+     <player id="470717" /> 
+     <player id="483294" /> 
+     <player id="519942" /> 
+     <player id="183" /> 
+     <player id="13519" /> 
+     <player id="19106" /> 
+     <player id="35472" /> 
+     <player id="72451" /> 
+     <player id="177208" /> 
+     <player id="195289" /> 
+     <player id="220119" /> 
+     <player id="275149" /> 
+     <player id="276371" /> 
+     <player id="314168" /> 
+     <player id="316309" /> 
+     <player id="420192" /> 
+     <player id="420214" /> 
+     <player id="453896" /> 
+     <player id="460617" /> 
+     <player id="461230" /> 
+     <player id="467164" /> 
+     <player id="506098" /> 
+     <player id="4117" /> 
+     <player id="79495" /> 
+     <player id="215647" /> 
+     <player id="420221" /> 
+     <player id="426575" /> 
+     <player id="444226" /> 
+     <player id="496635" /> 
+     <player id="501819" /> 
+     <player id="501821" /> 
+   </players> 
+   <coaches> 
+     <coach id="110802" /> 
+     <coach id="182012" /> 
+     <coach id="428592" /> 
+   </coaches> 
+</team>

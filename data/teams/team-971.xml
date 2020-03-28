@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>971</id> 
+   <name>بوروسيا مونشنجلادباخ لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/971.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Hennes-Weisweiler-Allee 1</adrese> 
+   <website>http://www.borussia.de</website> 
+   <creation-date>1900</creation-date> 
+   <players> 
+     <player id="1808" /> 
+     <player id="11341" /> 
+     <player id="16661" /> 
+     <player id="38204" /> 
+     <player id="338433" /> 
+     <player id="4610" /> 
+     <player id="37846" /> 
+     <player id="65256" /> 
+     <player id="126553" /> 
+     <player id="143213" /> 
+     <player id="226353" /> 
+     <player id="272851" /> 
+     <player id="320273" /> 
+     <player id="351537" /> 
+     <player id="359515" /> 
+     <player id="363529" /> 
+     <player id="373455" /> 
+     <player id="403763" /> 
+     <player id="414507" /> 
+     <player id="421625" /> 
+     <player id="482282" /> 
+     <player id="16894" /> 
+     <player id="39479" /> 
+     <player id="79430" /> 
+     <player id="130205" /> 
+     <player id="185121" /> 
+     <player id="254873" /> 
+     <player id="315832" /> 
+     <player id="359525" /> 
+     <player id="359823" /> 
+     <player id="389723" /> 
+     <player id="413848" /> 
+     <player id="426525" /> 
+     <player id="454081" /> 
+     <player id="516705" /> 
+     <player id="11500" /> 
+     <player id="11554" /> 
+     <player id="16491" /> 
+     <player id="101192" /> 
+     <player id="115078" /> 
+     <player id="156709" /> 
+     <player id="161113" /> 
+     <player id="314474" /> 
+     <player id="334250" /> 
+     <player id="398630" /> 
+     <player id="429913" /> 
+     <player id="453673" /> 
+     <player id="562542" /> 
+   </players> 
+   <coaches> 
+     <coach id="1688" /> 
+     <coach id="112238" /> 
+     <coach id="247303" /> 
+     <coach id="304384" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1451</team_id> 
+   <id>610223</id> 
+   <name>M. Micallef</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/610223.png</image> 
+   <position>مهاجم</position> 
+   <nationality>مالطا</nationality> 
+   <birth-day>2001-03-14</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

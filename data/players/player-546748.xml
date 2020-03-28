@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>13104</team_id> 
+   <id>546748</id> 
+   <name>V. Saenko</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/546748.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>كازاخستان</nationality> 
+   <birth-day>2000-06-04</birth-day> 
+   <length  unit="cm">185</length> 
+   <weight  unit="kg">76</weight> 
+</player>

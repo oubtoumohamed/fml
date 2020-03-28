@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1514</team_id> 
+   <id>273478</id> 
+   <name>F. Grim</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/273478.png</image> 
+   <position>هولندا</position> 
+   <nationality>1965-08-17</nationality> 
+   <birth-day>Amsterdam</birth-day> 
+   <length  unit="cm">188</length> 
+   <weight  unit="kg">87</weight> 
+</player>

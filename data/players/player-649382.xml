@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>304</team_id> 
+   <id>649382</id> 
+   <name>Maurício Souza</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/649382.png</image> 
+   <position>غير معروف</position> 
+   <nationality>البرازيل</nationality> 
+   <birth-day>1975-09-23</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

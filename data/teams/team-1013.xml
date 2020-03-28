@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1013</id> 
+   <name>بادربورن 07</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1013.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Hermann-Löns Straße 127</adrese> 
+   <website>http://www.scpaderborn07.de</website> 
+   <creation-date>1907</creation-date> 
+   <players> 
+     <player id="38254" /> 
+     <player id="232395" /> 
+     <player id="259922" /> 
+     <player id="260032" /> 
+     <player id="318027" /> 
+     <player id="1956" /> 
+     <player id="16791" /> 
+     <player id="72154" /> 
+     <player id="158185" /> 
+     <player id="200557" /> 
+     <player id="213659" /> 
+     <player id="259895" /> 
+     <player id="279075" /> 
+     <player id="295284" /> 
+     <player id="298152" /> 
+     <player id="414381" /> 
+     <player id="450732" /> 
+     <player id="453725" /> 
+     <player id="497286" /> 
+     <player id="497287" /> 
+     <player id="594380" /> 
+     <player id="54966" /> 
+     <player id="88554" /> 
+     <player id="159813" /> 
+     <player id="164174" /> 
+     <player id="195093" /> 
+     <player id="203282" /> 
+     <player id="213656" /> 
+     <player id="241709" /> 
+     <player id="255286" /> 
+     <player id="258030" /> 
+     <player id="258853" /> 
+     <player id="259308" /> 
+     <player id="259329" /> 
+     <player id="260573" /> 
+     <player id="262624" /> 
+     <player id="286643" /> 
+     <player id="307358" /> 
+     <player id="403623" /> 
+     <player id="429950" /> 
+     <player id="449159" /> 
+     <player id="450358" /> 
+     <player id="453279" /> 
+     <player id="472019" /> 
+     <player id="473616" /> 
+     <player id="475131" /> 
+     <player id="478912" /> 
+     <player id="488913" /> 
+     <player id="497281" /> 
+     <player id="497328" /> 
+     <player id="497339" /> 
+     <player id="563349" /> 
+     <player id="260080" /> 
+     <player id="277518" /> 
+     <player id="285063" /> 
+     <player id="330442" /> 
+     <player id="338281" /> 
+     <player id="358765" /> 
+     <player id="359795" /> 
+     <player id="371831" /> 
+     <player id="388551" /> 
+     <player id="396877" /> 
+     <player id="435173" /> 
+     <player id="450359" /> 
+     <player id="451849" /> 
+     <player id="591263" /> 
+   </players> 
+   <coaches> 
+     <coach id="1617" /> 
+     <coach id="65453" /> 
+     <coach id="402348" /> 
+   </coaches> 
+</team>

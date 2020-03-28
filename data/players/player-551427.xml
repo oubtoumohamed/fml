@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1682</team_id> 
+   <id>551427</id> 
+   <name>David Carmo</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/551427.png</image> 
+   <position>مدافع</position> 
+   <nationality>البرتغال</nationality> 
+   <birth-day>1999-07-19</birth-day> 
+   <length  unit="cm">194</length> 
+   <weight  unit="kg">76</weight> 
+</player>

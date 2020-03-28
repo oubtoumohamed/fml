@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2217</team_id> 
+   <id>571768</id> 
+   <name>E. Yardımcı</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/571768.png</image> 
+   <position>مهاجم</position> 
+   <nationality>تركيا</nationality> 
+   <birth-day>2002-02-04</birth-day> 
+   <length  unit="cm">تركيا</length> 
+   <weight  unit="kg">188</weight> 
+</player>

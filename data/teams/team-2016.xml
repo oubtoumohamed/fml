@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2016</id> 
+   <name>نادي ريال مدريد لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2016.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Avenida de Concha Espina 1, Chamartín</adrese> 
+   <website>http://www.realmadrid.com</website> 
+   <creation-date>1902</creation-date> 
+   <players> 
+     <player id="21473" /> 
+     <player id="42661" /> 
+     <player id="77294" /> 
+     <player id="138003" /> 
+     <player id="387415" /> 
+     <player id="427940" /> 
+     <player id="461129" /> 
+     <player id="520258" /> 
+     <player id="544849" /> 
+     <player id="326" /> 
+     <player id="16576" /> 
+     <player id="17462" /> 
+     <player id="145424" /> 
+     <player id="145430" /> 
+     <player id="156706" /> 
+     <player id="311705" /> 
+     <player id="311836" /> 
+     <player id="314131" /> 
+     <player id="316436" /> 
+     <player id="372363" /> 
+     <player id="372469" /> 
+     <player id="372541" /> 
+     <player id="372821" /> 
+     <player id="419253" /> 
+     <player id="419254" /> 
+     <player id="425510" /> 
+     <player id="439039" /> 
+     <player id="459435" /> 
+     <player id="459436" /> 
+     <player id="475348" /> 
+     <player id="475349" /> 
+     <player id="509352" /> 
+     <player id="365" /> 
+     <player id="16383" /> 
+     <player id="72408" /> 
+     <player id="102688" /> 
+     <player id="103164" /> 
+     <player id="156567" /> 
+     <player id="205807" /> 
+     <player id="208118" /> 
+     <player id="233956" /> 
+     <player id="250237" /> 
+     <player id="312953" /> 
+     <player id="314119" /> 
+     <player id="334861" /> 
+     <player id="335457" /> 
+     <player id="372433" /> 
+     <player id="372437" /> 
+     <player id="372847" /> 
+     <player id="372849" /> 
+     <player id="372851" /> 
+     <player id="387319" /> 
+     <player id="397869" /> 
+     <player id="458751" /> 
+     <player id="459439" /> 
+     <player id="459443" /> 
+     <player id="482505" /> 
+     <player id="382" /> 
+     <player id="1595" /> 
+     <player id="15482" /> 
+     <player id="39358" /> 
+     <player id="160277" /> 
+     <player id="206423" /> 
+     <player id="290152" /> 
+     <player id="320586" /> 
+     <player id="362983" /> 
+     <player id="372447" /> 
+     <player id="372481" /> 
+     <player id="426785" /> 
+     <player id="459444" /> 
+     <player id="459447" /> 
+     <player id="474972" /> 
+     <player id="509365" /> 
+     <player id="520774" /> 
+   </players> 
+   <coaches> 
+     <coach id="549" /> 
+     <coach id="3981" /> 
+     <coach id="197889" /> 
+   </coaches> 
+</team>

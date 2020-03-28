@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1953</id> 
+   <name>نادي بودوتشنوست بودغوريكا لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1953.png</image> 
+   <country>مونتينيغرو</country> 
+   <adrese>ul. Vaka Durovica bb 2</adrese> 
+   <website>http://www.fkbuducnost.me/</website> 
+   <creation-date>1925</creation-date> 
+   <players> 
+     <player id="39659" /> 
+     <player id="92026" /> 
+     <player id="182371" /> 
+     <player id="228207" /> 
+     <player id="489617" /> 
+     <player id="573299" /> 
+     <player id="580855" /> 
+     <player id="84532" /> 
+     <player id="92029" /> 
+     <player id="92584" /> 
+     <player id="143839" /> 
+     <player id="241860" /> 
+     <player id="247177" /> 
+     <player id="318364" /> 
+     <player id="318368" /> 
+     <player id="331366" /> 
+     <player id="381389" /> 
+     <player id="386297" /> 
+     <player id="424234" /> 
+     <player id="443188" /> 
+     <player id="466661" /> 
+     <player id="466664" /> 
+     <player id="477070" /> 
+     <player id="517999" /> 
+     <player id="555405" /> 
+     <player id="5943" /> 
+     <player id="39676" /> 
+     <player id="41144" /> 
+     <player id="41156" /> 
+     <player id="41455" /> 
+     <player id="82994" /> 
+     <player id="134305" /> 
+     <player id="178788" /> 
+     <player id="199726" /> 
+     <player id="202963" /> 
+     <player id="212070" /> 
+     <player id="212071" /> 
+     <player id="286666" /> 
+     <player id="315261" /> 
+     <player id="424240" /> 
+     <player id="466671" /> 
+     <player id="518003" /> 
+     <player id="540091" /> 
+     <player id="39684" /> 
+     <player id="82993" /> 
+     <player id="92948" /> 
+     <player id="121452" /> 
+     <player id="318375" /> 
+     <player id="318378" /> 
+     <player id="333794" /> 
+     <player id="406470" /> 
+     <player id="476934" /> 
+     <player id="518007" /> 
+     <player id="555406" /> 
+     <player id="619142" /> 
+     <player id="619143" /> 
+     <player id="619144" /> 
+   </players> 
+   <coaches> 
+     <coach id="6784" /> 
+     <coach id="104866" /> 
+     <coach id="155070" /> 
+     <coach id="172018" /> 
+     <coach id="195746" /> 
+     <coach id="299542" /> 
+     <coach id="338847" /> 
+     <coach id="411389" /> 
+   </coaches> 
+</team>

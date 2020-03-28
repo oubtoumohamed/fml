@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1995</id> 
+   <name>DAC 1904 Dunajská Streda</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1995.png</image> 
+   <country>سلوفاكيا</country> 
+   <adrese>Športová ulica 18</adrese> 
+   <website>http://www.fcdac1904.com</website> 
+   <creation-date>1904</creation-date> 
+   <players> 
+     <player id="155483" /> 
+     <player id="302596" /> 
+     <player id="377493" /> 
+     <player id="400882" /> 
+     <player id="413824" /> 
+     <player id="491084" /> 
+     <player id="85322" /> 
+     <player id="154542" /> 
+     <player id="171713" /> 
+     <player id="172911" /> 
+     <player id="201587" /> 
+     <player id="213566" /> 
+     <player id="214649" /> 
+     <player id="259877" /> 
+     <player id="332118" /> 
+     <player id="335837" /> 
+     <player id="345471" /> 
+     <player id="353575" /> 
+     <player id="355027" /> 
+     <player id="387247" /> 
+     <player id="427707" /> 
+     <player id="428934" /> 
+     <player id="437254" /> 
+     <player id="450463" /> 
+     <player id="490954" /> 
+     <player id="540605" /> 
+     <player id="36588" /> 
+     <player id="135931" /> 
+     <player id="210551" /> 
+     <player id="273816" /> 
+     <player id="275748" /> 
+     <player id="277542" /> 
+     <player id="328264" /> 
+     <player id="340645" /> 
+     <player id="400886" /> 
+     <player id="400891" /> 
+     <player id="411785" /> 
+     <player id="445158" /> 
+     <player id="450323" /> 
+     <player id="451735" /> 
+     <player id="475237" /> 
+     <player id="488625" /> 
+     <player id="586533" /> 
+     <player id="616781" /> 
+     <player id="235267" /> 
+     <player id="320311" /> 
+     <player id="345417" /> 
+     <player id="350861" /> 
+     <player id="370883" /> 
+     <player id="405082" /> 
+     <player id="423856" /> 
+     <player id="427720" /> 
+     <player id="433302" /> 
+     <player id="460949" /> 
+     <player id="478390" /> 
+     <player id="488621" /> 
+     <player id="525398" /> 
+     <player id="535168" /> 
+     <player id="541931" /> 
+     <player id="547212" /> 
+     <player id="617948" /> 
+     <player id="630935" /> 
+   </players> 
+   <coaches> 
+     <coach id="143535" /> 
+     <coach id="168823" /> 
+   </coaches> 
+</team>

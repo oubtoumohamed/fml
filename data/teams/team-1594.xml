@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1594</id> 
+   <name>نادي مولد لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1594.png</image> 
+   <country>النرويج</country> 
+   <adrese>Julsundveien 14</adrese> 
+   <website>http://www.moldefk.no</website> 
+   <creation-date>1911</creation-date> 
+   <players> 
+     <player id="179685" /> 
+     <player id="235270" /> 
+     <player id="492110" /> 
+     <player id="509688" /> 
+     <player id="574184" /> 
+     <player id="28158" /> 
+     <player id="28945" /> 
+     <player id="76550" /> 
+     <player id="154565" /> 
+     <player id="155921" /> 
+     <player id="182884" /> 
+     <player id="186220" /> 
+     <player id="190502" /> 
+     <player id="211771" /> 
+     <player id="240186" /> 
+     <player id="270563" /> 
+     <player id="415446" /> 
+     <player id="426408" /> 
+     <player id="426425" /> 
+     <player id="509694" /> 
+     <player id="509707" /> 
+     <player id="574195" /> 
+     <player id="101489" /> 
+     <player id="157676" /> 
+     <player id="183818" /> 
+     <player id="185814" /> 
+     <player id="217953" /> 
+     <player id="232025" /> 
+     <player id="291085" /> 
+     <player id="291342" /> 
+     <player id="294263" /> 
+     <player id="294499" /> 
+     <player id="333173" /> 
+     <player id="403411" /> 
+     <player id="426441" /> 
+     <player id="479573" /> 
+     <player id="509735" /> 
+     <player id="509737" /> 
+     <player id="509739" /> 
+     <player id="9952" /> 
+     <player id="28935" /> 
+     <player id="75751" /> 
+     <player id="133070" /> 
+     <player id="138908" /> 
+     <player id="155938" /> 
+     <player id="225122" /> 
+     <player id="286644" /> 
+     <player id="405575" /> 
+     <player id="437515" /> 
+     <player id="441484" /> 
+     <player id="509745" /> 
+     <player id="509755" /> 
+     <player id="547283" /> 
+   </players> 
+   <coaches> 
+     <coach id="182012" /> 
+     <coach id="413762" /> 
+   </coaches> 
+</team>

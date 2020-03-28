@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>9936</id> 
+   <name>الرائد</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/9936.png</image> 
+   <country>السعودية</country> 
+   <adrese></adrese> 
+   <website>http://www.alraed.com</website> 
+   <creation-date>1954</creation-date> 
+   <players> 
+     <player id="49037" /> 
+     <player id="222678" /> 
+     <player id="356025" /> 
+     <player id="360587" /> 
+     <player id="395923" /> 
+     <player id="453062" /> 
+     <player id="454581" /> 
+     <player id="567889" /> 
+     <player id="591831" /> 
+     <player id="37259" /> 
+     <player id="88829" /> 
+     <player id="143712" /> 
+     <player id="143864" /> 
+     <player id="143870" /> 
+     <player id="174704" /> 
+     <player id="197875" /> 
+     <player id="200631" /> 
+     <player id="207472" /> 
+     <player id="208041" /> 
+     <player id="219526" /> 
+     <player id="222664" /> 
+     <player id="257161" /> 
+     <player id="328534" /> 
+     <player id="433033" /> 
+     <player id="474391" /> 
+     <player id="476080" /> 
+     <player id="482575" /> 
+     <player id="495480" /> 
+     <player id="520284" /> 
+     <player id="531786" /> 
+     <player id="535354" /> 
+     <player id="568522" /> 
+     <player id="13220" /> 
+     <player id="26281" /> 
+     <player id="29816" /> 
+     <player id="33900" /> 
+     <player id="47123" /> 
+     <player id="66691" /> 
+     <player id="80102" /> 
+     <player id="143134" /> 
+     <player id="143700" /> 
+     <player id="207507" /> 
+     <player id="233043" /> 
+     <player id="279335" /> 
+     <player id="288899" /> 
+     <player id="298257" /> 
+     <player id="298935" /> 
+     <player id="323635" /> 
+     <player id="414826" /> 
+     <player id="431223" /> 
+     <player id="465477" /> 
+     <player id="517630" /> 
+     <player id="534814" /> 
+     <player id="534815" /> 
+     <player id="567890" /> 
+     <player id="567891" /> 
+     <player id="593379" /> 
+     <player id="594407" /> 
+     <player id="610307" /> 
+     <player id="1250" /> 
+     <player id="29733" /> 
+     <player id="71841" /> 
+     <player id="86063" /> 
+     <player id="112726" /> 
+     <player id="140118" /> 
+     <player id="234061" /> 
+     <player id="265535" /> 
+     <player id="309218" /> 
+     <player id="333345" /> 
+     <player id="360193" /> 
+     <player id="483413" /> 
+     <player id="567510" /> 
+     <player id="634382" /> 
+   </players> 
+   <coaches> 
+     <coach id="13498" /> 
+     <coach id="235688" /> 
+   </coaches> 
+</team>

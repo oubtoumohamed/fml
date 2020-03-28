@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1240</id> 
+   <name>نادي اي سي ميلان</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1240.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Via Filippo Turati 3</adrese> 
+   <website>http://www.acmilan.com</website> 
+   <creation-date>1899</creation-date> 
+   <players> 
+     <player id="318" /> 
+     <player id="4336" /> 
+     <player id="30599" /> 
+     <player id="144831" /> 
+     <player id="153672" /> 
+     <player id="384539" /> 
+     <player id="440084" /> 
+     <player id="465188" /> 
+     <player id="495872" /> 
+     <player id="3979" /> 
+     <player id="4102" /> 
+     <player id="11744" /> 
+     <player id="15361" /> 
+     <player id="17950" /> 
+     <player id="18320" /> 
+     <player id="45411" /> 
+     <player id="95797" /> 
+     <player id="162665" /> 
+     <player id="170091" /> 
+     <player id="214327" /> 
+     <player id="235485" /> 
+     <player id="289810" /> 
+     <player id="319833" /> 
+     <player id="321340" /> 
+     <player id="372541" /> 
+     <player id="426559" /> 
+     <player id="436474" /> 
+     <player id="482607" /> 
+     <player id="4040" /> 
+     <player id="4528" /> 
+     <player id="31967" /> 
+     <player id="119992" /> 
+     <player id="155410" /> 
+     <player id="175302" /> 
+     <player id="214374" /> 
+     <player id="224322" /> 
+     <player id="270136" /> 
+     <player id="273831" /> 
+     <player id="286323" /> 
+     <player id="319023" /> 
+     <player id="319840" /> 
+     <player id="341847" /> 
+     <player id="401065" /> 
+     <player id="419983" /> 
+     <player id="426564" /> 
+     <player id="438313" /> 
+     <player id="458654" /> 
+     <player id="481941" /> 
+     <player id="541150" /> 
+     <player id="548014" /> 
+     <player id="556677" /> 
+     <player id="557967" /> 
+     <player id="579213" /> 
+     <player id="626378" /> 
+     <player id="168" /> 
+     <player id="5274" /> 
+     <player id="33232" /> 
+     <player id="74149" /> 
+     <player id="95826" /> 
+     <player id="191203" /> 
+     <player id="214897" /> 
+     <player id="217913" /> 
+     <player id="342295" /> 
+     <player id="370877" /> 
+     <player id="384563" /> 
+     <player id="421589" /> 
+     <player id="527415" /> 
+     <player id="538731" /> 
+     <player id="619255" /> 
+   </players> 
+   <coaches> 
+     <coach id="73" /> 
+     <coach id="137771" /> 
+     <coach id="137800" /> 
+   </coaches> 
+</team>

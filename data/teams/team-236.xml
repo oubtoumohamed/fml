@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>236</id> 
+   <name>نادي زولته فارجيم الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/236.png</image> 
+   <country>بلجيكا</country> 
+   <adrese>Zuiderlaan 17</adrese> 
+   <website>http://www.essevee.be</website> 
+   <creation-date>2001</creation-date> 
+   <players> 
+     <player id="13536" /> 
+     <player id="145427" /> 
+     <player id="310459" /> 
+     <player id="2257" /> 
+     <player id="2431" /> 
+     <player id="4588" /> 
+     <player id="20675" /> 
+     <player id="28243" /> 
+     <player id="111434" /> 
+     <player id="197625" /> 
+     <player id="205603" /> 
+     <player id="205722" /> 
+     <player id="245613" /> 
+     <player id="257296" /> 
+     <player id="298166" /> 
+     <player id="376291" /> 
+     <player id="393500" /> 
+     <player id="435960" /> 
+     <player id="443145" /> 
+     <player id="477613" /> 
+     <player id="597627" /> 
+     <player id="827" /> 
+     <player id="2136" /> 
+     <player id="12923" /> 
+     <player id="13427" /> 
+     <player id="13668" /> 
+     <player id="37761" /> 
+     <player id="138277" /> 
+     <player id="158657" /> 
+     <player id="183119" /> 
+     <player id="231672" /> 
+     <player id="245105" /> 
+     <player id="255123" /> 
+     <player id="267149" /> 
+     <player id="274253" /> 
+     <player id="289439" /> 
+     <player id="296548" /> 
+     <player id="297272" /> 
+     <player id="385473" /> 
+     <player id="395070" /> 
+     <player id="402769" /> 
+     <player id="408766" /> 
+     <player id="429607" /> 
+     <player id="448395" /> 
+     <player id="460054" /> 
+     <player id="572571" /> 
+     <player id="578630" /> 
+     <player id="9933" /> 
+     <player id="21128" /> 
+     <player id="87636" /> 
+     <player id="134184" /> 
+     <player id="149485" /> 
+     <player id="189983" /> 
+     <player id="232999" /> 
+     <player id="283151" /> 
+     <player id="302900" /> 
+     <player id="314099" /> 
+     <player id="317305" /> 
+     <player id="319030" /> 
+     <player id="335079" /> 
+     <player id="342717" /> 
+     <player id="579448" /> 
+   </players> 
+   <coaches> 
+     <coach id="114537" /> 
+   </coaches> 
+</team>

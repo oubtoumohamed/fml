@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2146</team_id> 
+   <id>519762</id> 
+   <name>ل. شاباني</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/519762.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>ألبانيا</nationality> 
+   <birth-day>1999-08-19</birth-day> 
+   <length  unit="cm">175</length> 
+   <weight  unit="kg">67</weight> 
+</player>

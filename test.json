@@ -1,0 +1,10 @@
+{
+	"nom":"OUBTOU",
+	"prenom":"Mohamed",
+	"age":"25",
+	"loisirs":[
+		"programation",
+		"lecture",
+		"voyage"
+	]
+}

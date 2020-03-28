@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>676</id> 
+   <name>نادي مانشستر سيتي لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/676.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Rowsley Street</adrese> 
+   <website>http://www.mcfc.co.uk</website> 
+   <creation-date>1880</creation-date> 
+   <players> 
+     <player id="2759" /> 
+     <player id="2842" /> 
+     <player id="3626" /> 
+     <player id="206804" /> 
+     <player id="217678" /> 
+     <player id="281843" /> 
+     <player id="376285" /> 
+     <player id="453110" /> 
+     <player id="550339" /> 
+     <player id="1998" /> 
+     <player id="66411" /> 
+     <player id="68177" /> 
+     <player id="68532" /> 
+     <player id="75848" /> 
+     <player id="161784" /> 
+     <player id="162509" /> 
+     <player id="182904" /> 
+     <player id="189445" /> 
+     <player id="275836" /> 
+     <player id="314031" /> 
+     <player id="314033" /> 
+     <player id="317349" /> 
+     <player id="332589" /> 
+     <player id="376291" /> 
+     <player id="381097" /> 
+     <player id="420442" /> 
+     <player id="421862" /> 
+     <player id="453112" /> 
+     <player id="461179" /> 
+     <player id="523653" /> 
+     <player id="525308" /> 
+     <player id="525641" /> 
+     <player id="3026" /> 
+     <player id="4496" /> 
+     <player id="19655" /> 
+     <player id="53097" /> 
+     <player id="69050" /> 
+     <player id="78532" /> 
+     <player id="298753" /> 
+     <player id="316531" /> 
+     <player id="320278" /> 
+     <player id="376303" /> 
+     <player id="395959" /> 
+     <player id="424432" /> 
+     <player id="437501" /> 
+     <player id="441348" /> 
+     <player id="449544" /> 
+     <player id="453102" /> 
+     <player id="453111" /> 
+     <player id="453115" /> 
+     <player id="453117" /> 
+     <player id="457690" /> 
+     <player id="460279" /> 
+     <player id="461419" /> 
+     <player id="496623" /> 
+     <player id="509652" /> 
+     <player id="525803" /> 
+     <player id="3051" /> 
+     <player id="102554" /> 
+     <player id="156662" /> 
+     <player id="160414" /> 
+     <player id="278537" /> 
+     <player id="314039" /> 
+     <player id="364017" /> 
+     <player id="387389" /> 
+     <player id="426785" /> 
+     <player id="426966" /> 
+     <player id="453091" /> 
+     <player id="453114" /> 
+     <player id="496627" /> 
+   </players> 
+   <coaches> 
+     <coach id="2876" /> 
+     <coach id="104652" /> 
+     <coach id="304351" /> 
+   </coaches> 
+</team>

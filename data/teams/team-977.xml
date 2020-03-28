@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>977</id> 
+   <name>نادي ماينتس 5 لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/977.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Isaac-Fulda-Allee 5</adrese> 
+   <website>http://www.mainz05.de</website> 
+   <creation-date>1905</creation-date> 
+   <players> 
+     <player id="1882" /> 
+     <player id="256252" /> 
+     <player id="259922" /> 
+     <player id="359707" /> 
+     <player id="388577" /> 
+     <player id="433898" /> 
+     <player id="476273" /> 
+     <player id="39381" /> 
+     <player id="39466" /> 
+     <player id="95823" /> 
+     <player id="110657" /> 
+     <player id="123620" /> 
+     <player id="136144" /> 
+     <player id="159812" /> 
+     <player id="252330" /> 
+     <player id="271261" /> 
+     <player id="316431" /> 
+     <player id="323555" /> 
+     <player id="392421" /> 
+     <player id="394647" /> 
+     <player id="420676" /> 
+     <player id="453961" /> 
+     <player id="453965" /> 
+     <player id="460140" /> 
+     <player id="2006" /> 
+     <player id="54894" /> 
+     <player id="116414" /> 
+     <player id="151771" /> 
+     <player id="160271" /> 
+     <player id="237301" /> 
+     <player id="258615" /> 
+     <player id="258664" /> 
+     <player id="259329" /> 
+     <player id="298173" /> 
+     <player id="324805" /> 
+     <player id="334669" /> 
+     <player id="414504" /> 
+     <player id="466748" /> 
+     <player id="542634" /> 
+     <player id="62146" /> 
+     <player id="119758" /> 
+     <player id="122073" /> 
+     <player id="154084" /> 
+     <player id="156937" /> 
+     <player id="161285" /> 
+     <player id="199201" /> 
+     <player id="203762" /> 
+     <player id="262050" /> 
+     <player id="309468" /> 
+     <player id="319132" /> 
+     <player id="395193" /> 
+     <player id="476000" /> 
+     <player id="482851" /> 
+     <player id="495313" /> 
+   </players> 
+   <coaches> 
+     <coach id="16764" /> 
+     <coach id="261498" /> 
+     <coach id="304348" /> 
+     <coach id="396569" /> 
+   </coaches> 
+</team>

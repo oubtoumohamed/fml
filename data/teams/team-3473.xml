@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3473</id> 
+   <name>نادي الرجاء البيضاوي</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3473.png</image> 
+   <country>المغرب</country> 
+   <adrese>Boulevard Omar Al-Khayam, Oasis</adrese> 
+   <website>http://www.rajacasablanca.com</website> 
+   <creation-date>1949</creation-date> 
+   <players> 
+     <player id="169985" /> 
+     <player id="231008" /> 
+     <player id="281233" /> 
+     <player id="396342" /> 
+     <player id="396344" /> 
+     <player id="548898" /> 
+     <player id="548899" /> 
+     <player id="646873" /> 
+     <player id="65880" /> 
+     <player id="89297" /> 
+     <player id="106879" /> 
+     <player id="162357" /> 
+     <player id="162358" /> 
+     <player id="169989" /> 
+     <player id="248149" /> 
+     <player id="253462" /> 
+     <player id="289631" /> 
+     <player id="396345" /> 
+     <player id="405618" /> 
+     <player id="429486" /> 
+     <player id="532160" /> 
+     <player id="535884" /> 
+     <player id="548903" /> 
+     <player id="565048" /> 
+     <player id="593864" /> 
+     <player id="594448" /> 
+     <player id="632077" /> 
+     <player id="632078" /> 
+     <player id="632079" /> 
+     <player id="646871" /> 
+     <player id="648546" /> 
+     <player id="1184" /> 
+     <player id="162169" /> 
+     <player id="169992" /> 
+     <player id="213412" /> 
+     <player id="231020" /> 
+     <player id="246501" /> 
+     <player id="281234" /> 
+     <player id="282025" /> 
+     <player id="319065" /> 
+     <player id="326721" /> 
+     <player id="392142" /> 
+     <player id="396349" /> 
+     <player id="419413" /> 
+     <player id="515623" /> 
+     <player id="548900" /> 
+     <player id="548904" /> 
+     <player id="548910" /> 
+     <player id="549005" /> 
+     <player id="556208" /> 
+     <player id="630854" /> 
+     <player id="633029" /> 
+     <player id="641528" /> 
+     <player id="645208" /> 
+     <player id="646864" /> 
+     <player id="646865" /> 
+     <player id="646869" /> 
+     <player id="67163" /> 
+     <player id="170003" /> 
+     <player id="231025" /> 
+     <player id="326718" /> 
+     <player id="396351" /> 
+     <player id="468760" /> 
+     <player id="474736" /> 
+     <player id="515636" /> 
+     <player id="531790" /> 
+     <player id="538027" /> 
+     <player id="548907" /> 
+     <player id="548908" /> 
+     <player id="548909" /> 
+     <player id="556206" /> 
+     <player id="632080" /> 
+   </players> 
+   <coaches> 
+     <coach id="21563" /> 
+     <coach id="64915" /> 
+     <coach id="105046" /> 
+     <coach id="113888" /> 
+     <coach id="138874" /> 
+     <coach id="396354" /> 
+   </coaches> 
+</team>

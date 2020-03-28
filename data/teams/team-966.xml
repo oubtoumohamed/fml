@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>966</id> 
+   <name>نادي شالكه 04 لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/966.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Ernst-Kuzorra-Weg 1</adrese> 
+   <website>http://www.schalke04.de</website> 
+   <creation-date>1904</creation-date> 
+   <players> 
+     <player id="1927" /> 
+     <player id="16111" /> 
+     <player id="348361" /> 
+     <player id="357869" /> 
+     <player id="468559" /> 
+     <player id="2039" /> 
+     <player id="16114" /> 
+     <player id="16508" /> 
+     <player id="54805" /> 
+     <player id="58666" /> 
+     <player id="95823" /> 
+     <player id="134365" /> 
+     <player id="138310" /> 
+     <player id="149655" /> 
+     <player id="167694" /> 
+     <player id="250040" /> 
+     <player id="271063" /> 
+     <player id="320270" /> 
+     <player id="324622" /> 
+     <player id="393500" /> 
+     <player id="414318" /> 
+     <player id="440122" /> 
+     <player id="453557" /> 
+     <player id="461131" /> 
+     <player id="461755" /> 
+     <player id="480539" /> 
+     <player id="38433" /> 
+     <player id="54495" /> 
+     <player id="65127" /> 
+     <player id="126393" /> 
+     <player id="163804" /> 
+     <player id="208118" /> 
+     <player id="213637" /> 
+     <player id="213643" /> 
+     <player id="232390" /> 
+     <player id="245805" /> 
+     <player id="270931" /> 
+     <player id="334669" /> 
+     <player id="358165" /> 
+     <player id="403862" /> 
+     <player id="453561" /> 
+     <player id="459693" /> 
+     <player id="497061" /> 
+     <player id="610274" /> 
+     <player id="35683" /> 
+     <player id="59163" /> 
+     <player id="155105" /> 
+     <player id="158651" /> 
+     <player id="164106" /> 
+     <player id="215494" /> 
+     <player id="314474" /> 
+     <player id="357901" /> 
+     <player id="359495" /> 
+     <player id="401946" /> 
+     <player id="423597" /> 
+     <player id="426966" /> 
+     <player id="435173" /> 
+     <player id="482386" /> 
+   </players> 
+   <coaches> 
+     <coach id="20490" /> 
+     <coach id="135600" /> 
+     <coach id="163715" /> 
+     <coach id="203317" /> 
+     <coach id="210065" /> 
+     <coach id="453826" /> 
+   </coaches> 
+</team>

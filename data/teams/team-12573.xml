@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>12573</id> 
+   <name>بيرباريمي كوكيز</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/12573.png</image> 
+   <country>ألبانيا</country> 
+   <adrese>Sheshi Skënderbej, Lagjia 5</adrese> 
+   <website></website> 
+   <creation-date>1930</creation-date> 
+   <players> 
+     <player id="19014" /> 
+     <player id="41067" /> 
+     <player id="150341" /> 
+     <player id="169591" /> 
+     <player id="329359" /> 
+     <player id="329411" /> 
+     <player id="390803" /> 
+     <player id="555365" /> 
+     <player id="41475" /> 
+     <player id="81659" /> 
+     <player id="98106" /> 
+     <player id="103539" /> 
+     <player id="128114" /> 
+     <player id="132445" /> 
+     <player id="157755" /> 
+     <player id="200087" /> 
+     <player id="219878" /> 
+     <player id="222327" /> 
+     <player id="246041" /> 
+     <player id="269400" /> 
+     <player id="284375" /> 
+     <player id="322294" /> 
+     <player id="326084" /> 
+     <player id="326544" /> 
+     <player id="329340" /> 
+     <player id="546306" /> 
+     <player id="573639" /> 
+     <player id="1856" /> 
+     <player id="45793" /> 
+     <player id="146027" /> 
+     <player id="158583" /> 
+     <player id="171948" /> 
+     <player id="204653" /> 
+     <player id="205895" /> 
+     <player id="213602" /> 
+     <player id="249440" /> 
+     <player id="251328" /> 
+     <player id="253725" /> 
+     <player id="269801" /> 
+     <player id="410282" /> 
+     <player id="416525" /> 
+     <player id="425282" /> 
+     <player id="433899" /> 
+     <player id="438750" /> 
+     <player id="440078" /> 
+     <player id="445805" /> 
+     <player id="452362" /> 
+     <player id="463187" /> 
+     <player id="464577" /> 
+     <player id="465430" /> 
+     <player id="508002" /> 
+     <player id="532671" /> 
+     <player id="571196" /> 
+     <player id="624664" /> 
+     <player id="633204" /> 
+     <player id="28920" /> 
+     <player id="89663" /> 
+     <player id="134627" /> 
+     <player id="156571" /> 
+     <player id="179300" /> 
+     <player id="211786" /> 
+     <player id="213611" /> 
+     <player id="233861" /> 
+     <player id="302450" /> 
+     <player id="322437" /> 
+     <player id="429178" /> 
+     <player id="435270" /> 
+     <player id="459512" /> 
+     <player id="541667" /> 
+     <player id="571198" /> 
+     <player id="633202" /> 
+   </players> 
+   <coaches> 
+     <coach id="135844" /> 
+     <coach id="135848" /> 
+     <coach id="148356" /> 
+     <coach id="195346" /> 
+     <coach id="249557" /> 
+   </coaches> 
+</team>

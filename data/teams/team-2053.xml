@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2053</id> 
+   <name>نادي ليغانيس لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2053.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Calle Arquitectura</adrese> 
+   <website>http://www.deportivoleganes.com</website> 
+   <creation-date>1928</creation-date> 
+   <players> 
+     <player id="15097" /> 
+     <player id="59222" /> 
+     <player id="61498" /> 
+     <player id="275481" /> 
+     <player id="335226" /> 
+     <player id="372329" /> 
+     <player id="427940" /> 
+     <player id="479090" /> 
+     <player id="566986" /> 
+     <player id="13577" /> 
+     <player id="18804" /> 
+     <player id="44285" /> 
+     <player id="61924" /> 
+     <player id="63908" /> 
+     <player id="75169" /> 
+     <player id="102548" /> 
+     <player id="102626" /> 
+     <player id="129279" /> 
+     <player id="149724" /> 
+     <player id="157319" /> 
+     <player id="180855" /> 
+     <player id="205315" /> 
+     <player id="206407" /> 
+     <player id="214361" /> 
+     <player id="238788" /> 
+     <player id="245336" /> 
+     <player id="319811" /> 
+     <player id="368537" /> 
+     <player id="387311" /> 
+     <player id="396832" /> 
+     <player id="409116" /> 
+     <player id="496703" /> 
+     <player id="506373" /> 
+     <player id="603850" /> 
+     <player id="603868" /> 
+     <player id="5246" /> 
+     <player id="58585" /> 
+     <player id="95853" /> 
+     <player id="96799" /> 
+     <player id="122138" /> 
+     <player id="146184" /> 
+     <player id="164610" /> 
+     <player id="171384" /> 
+     <player id="172063" /> 
+     <player id="206011" /> 
+     <player id="210285" /> 
+     <player id="295463" /> 
+     <player id="319524" /> 
+     <player id="378055" /> 
+     <player id="387319" /> 
+     <player id="405148" /> 
+     <player id="420653" /> 
+     <player id="445370" /> 
+     <player id="470412" /> 
+     <player id="471773" /> 
+     <player id="485265" /> 
+     <player id="17385" /> 
+     <player id="37891" /> 
+     <player id="99757" /> 
+     <player id="111522" /> 
+     <player id="176519" /> 
+     <player id="192429" /> 
+     <player id="197891" /> 
+     <player id="212917" /> 
+     <player id="237168" /> 
+     <player id="298598" /> 
+     <player id="331020" /> 
+     <player id="354959" /> 
+     <player id="372861" /> 
+     <player id="393279" /> 
+     <player id="453722" /> 
+     <player id="457834" /> 
+     <player id="458506" /> 
+     <player id="458802" /> 
+     <player id="549314" /> 
+     <player id="568646" /> 
+   </players> 
+   <coaches> 
+     <coach id="130148" /> 
+     <coach id="209677" /> 
+     <coach id="284902" /> 
+     <coach id="309554" /> 
+     <coach id="403178" /> 
+   </coaches> 
+</team>

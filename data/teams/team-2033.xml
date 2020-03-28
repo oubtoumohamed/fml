@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2033</id> 
+   <name>نادي ريال سيلتا فيغو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2033.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Calle Conde de Gondomar 1</adrese> 
+   <website>http://www.celtavigo.net</website> 
+   <creation-date>1923</creation-date> 
+   <players> 
+     <player id="207555" /> 
+     <player id="209286" /> 
+     <player id="216971" /> 
+     <player id="317227" /> 
+     <player id="522273" /> 
+     <player id="648150" /> 
+     <player id="13870" /> 
+     <player id="15074" /> 
+     <player id="92415" /> 
+     <player id="92623" /> 
+     <player id="102859" /> 
+     <player id="142139" /> 
+     <player id="143929" /> 
+     <player id="152582" /> 
+     <player id="180595" /> 
+     <player id="205980" /> 
+     <player id="218283" /> 
+     <player id="228524" /> 
+     <player id="247874" /> 
+     <player id="300856" /> 
+     <player id="308962" /> 
+     <player id="362981" /> 
+     <player id="404636" /> 
+     <player id="405509" /> 
+     <player id="461198" /> 
+     <player id="516934" /> 
+     <player id="560269" /> 
+     <player id="31957" /> 
+     <player id="39294" /> 
+     <player id="73680" /> 
+     <player id="112765" /> 
+     <player id="149750" /> 
+     <player id="170346" /> 
+     <player id="205336" /> 
+     <player id="213115" /> 
+     <player id="217504" /> 
+     <player id="232822" /> 
+     <player id="249782" /> 
+     <player id="266707" /> 
+     <player id="310498" /> 
+     <player id="316067" /> 
+     <player id="326345" /> 
+     <player id="335229" /> 
+     <player id="362591" /> 
+     <player id="389787" /> 
+     <player id="394962" /> 
+     <player id="404167" /> 
+     <player id="439042" /> 
+     <player id="494069" /> 
+     <player id="37891" /> 
+     <player id="61909" /> 
+     <player id="247860" /> 
+     <player id="276510" /> 
+     <player id="281410" /> 
+     <player id="301156" /> 
+     <player id="301873" /> 
+     <player id="302900" /> 
+     <player id="315285" /> 
+     <player id="330672" /> 
+     <player id="351879" /> 
+     <player id="413470" /> 
+     <player id="418387" /> 
+     <player id="461094" /> 
+     <player id="494070" /> 
+     <player id="586859" /> 
+   </players> 
+   <coaches> 
+     <coach id="2188" /> 
+     <coach id="18830" /> 
+     <coach id="158274" /> 
+     <coach id="164992" /> 
+     <coach id="248057" /> 
+     <coach id="261237" /> 
+     <coach id="471230" /> 
+     <coach id="494618" /> 
+   </coaches> 
+</team>

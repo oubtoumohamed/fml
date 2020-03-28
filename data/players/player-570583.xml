@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>11710</team_id> 
+   <id>570583</id> 
+   <name>M. Akşit</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/570583.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>تركيا</nationality> 
+   <birth-day>2002-01-02</birth-day> 
+   <length  unit="cm">تركيا</length> 
+   <weight  unit="kg">اليمني</weight> 
+</player>

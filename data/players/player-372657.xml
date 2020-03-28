@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2019</team_id> 
+   <id>372657</id> 
+   <name>جوركا جورجيتا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/372657.png</image> 
+   <position>مهاجم</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>1996-09-12</birth-day> 
+   <length  unit="cm">إسبانيا</length> 
+   <weight  unit="kg">188</weight> 
+</player>

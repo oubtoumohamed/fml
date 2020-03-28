@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>302</id> 
+   <name>نادي ساو باولو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/302.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Praça Roberto Gomez Pedrosa 1, Morumbi</adrese> 
+   <website>http://www.saopaulofc.net</website> 
+   <creation-date>1930 / 1935</creation-date> 
+   <players> 
+     <player id="112354" /> 
+     <player id="113642" /> 
+     <player id="368951" /> 
+     <player id="394320" /> 
+     <player id="395583" /> 
+     <player id="433177" /> 
+     <player id="474044" /> 
+     <player id="3012" /> 
+     <player id="3123" /> 
+     <player id="9241" /> 
+     <player id="32942" /> 
+     <player id="33009" /> 
+     <player id="112978" /> 
+     <player id="126246" /> 
+     <player id="129758" /> 
+     <player id="141934" /> 
+     <player id="174478" /> 
+     <player id="186289" /> 
+     <player id="210711" /> 
+     <player id="288071" /> 
+     <player id="288073" /> 
+     <player id="319777" /> 
+     <player id="330147" /> 
+     <player id="368939" /> 
+     <player id="376557" /> 
+     <player id="413259" /> 
+     <player id="415613" /> 
+     <player id="425510" /> 
+     <player id="433182" /> 
+     <player id="433184" /> 
+     <player id="433187" /> 
+     <player id="433196" /> 
+     <player id="443082" /> 
+     <player id="485406" /> 
+     <player id="485428" /> 
+     <player id="489369" /> 
+     <player id="490697" /> 
+     <player id="502010" /> 
+     <player id="525958" /> 
+     <player id="599150" /> 
+     <player id="612013" /> 
+     <player id="646133" /> 
+     <player id="646134" /> 
+     <player id="3838" /> 
+     <player id="8978" /> 
+     <player id="9333" /> 
+     <player id="9395" /> 
+     <player id="32925" /> 
+     <player id="33094" /> 
+     <player id="40529" /> 
+     <player id="56571" /> 
+     <player id="78542" /> 
+     <player id="113045" /> 
+     <player id="183186" /> 
+     <player id="229454" /> 
+     <player id="282430" /> 
+     <player id="317939" /> 
+     <player id="327804" /> 
+     <player id="328277" /> 
+     <player id="425523" /> 
+     <player id="433185" /> 
+     <player id="433188" /> 
+     <player id="433190" /> 
+     <player id="433191" /> 
+     <player id="433199" /> 
+     <player id="433627" /> 
+     <player id="475120" /> 
+     <player id="485422" /> 
+     <player id="485437" /> 
+     <player id="489374" /> 
+     <player id="490698" /> 
+     <player id="490701" /> 
+     <player id="499985" /> 
+     <player id="499988" /> 
+     <player id="502012" /> 
+     <player id="577125" /> 
+     <player id="646132" /> 
+     <player id="9202" /> 
+     <player id="9427" /> 
+     <player id="22808" /> 
+     <player id="113014" /> 
+     <player id="130585" /> 
+     <player id="171374" /> 
+     <player id="178488" /> 
+     <player id="226569" /> 
+     <player id="279126" /> 
+     <player id="319142" /> 
+     <player id="329713" /> 
+     <player id="374287" /> 
+     <player id="398742" /> 
+     <player id="413472" /> 
+     <player id="420352" /> 
+     <player id="433193" /> 
+     <player id="433490" /> 
+     <player id="448412" /> 
+     <player id="475266" /> 
+     <player id="489377" /> 
+     <player id="490702" /> 
+     <player id="514859" /> 
+     <player id="532013" /> 
+     <player id="536532" /> 
+     <player id="599153" /> 
+   </players> 
+   <coaches> 
+     <coach id="128478" /> 
+     <coach id="133093" /> 
+     <coach id="143090" /> 
+     <coach id="167923" /> 
+     <coach id="175723" /> 
+     <coach id="433200" /> 
+   </coaches> 
+</team>

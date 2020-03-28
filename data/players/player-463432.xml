@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2153</team_id> 
+   <id>463432</id> 
+   <name>D. Lundquist</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/463432.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>السويد</nationality> 
+   <birth-day>2001-02-05</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

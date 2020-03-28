@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3486</team_id> 
+   <id>587200</id> 
+   <name>S. Debchi</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/587200.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>تونس</nationality> 
+   <birth-day>1999-10-28</birth-day> 
+   <length  unit="cm">تونس</length> 
+   <weight  unit="kg">196</weight> 
+</player>

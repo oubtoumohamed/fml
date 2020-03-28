@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2217</id> 
+   <name>جلطة سراي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2217.png</image> 
+   <country>تركيا</country> 
+   <adrese>Akinci Bayiri Sokak 8, Mecidiyeköy</adrese> 
+   <website>http://www.galatasaray.org</website> 
+   <creation-date>1905</creation-date> 
+   <players> 
+     <player id="1522" /> 
+     <player id="19752" /> 
+     <player id="134077" /> 
+     <player id="214799" /> 
+     <player id="314087" /> 
+     <player id="420249" /> 
+     <player id="497542" /> 
+     <player id="497546" /> 
+     <player id="497989" /> 
+     <player id="4873" /> 
+     <player id="4981" /> 
+     <player id="12282" /> 
+     <player id="32947" /> 
+     <player id="48597" /> 
+     <player id="65953" /> 
+     <player id="86405" /> 
+     <player id="87826" /> 
+     <player id="90037" /> 
+     <player id="110663" /> 
+     <player id="115101" /> 
+     <player id="138779" /> 
+     <player id="154473" /> 
+     <player id="155403" /> 
+     <player id="160106" /> 
+     <player id="214806" /> 
+     <player id="314033" /> 
+     <player id="331836" /> 
+     <player id="420250" /> 
+     <player id="420252" /> 
+     <player id="434918" /> 
+     <player id="461755" /> 
+     <player id="461756" /> 
+     <player id="461759" /> 
+     <player id="461767" /> 
+     <player id="497540" /> 
+     <player id="504962" /> 
+     <player id="504970" /> 
+     <player id="594104" /> 
+     <player id="632760" /> 
+     <player id="2415" /> 
+     <player id="4982" /> 
+     <player id="31210" /> 
+     <player id="39454" /> 
+     <player id="47041" /> 
+     <player id="56484" /> 
+     <player id="71552" /> 
+     <player id="87814" /> 
+     <player id="158568" /> 
+     <player id="163668" /> 
+     <player id="171726" /> 
+     <player id="214809" /> 
+     <player id="237612" /> 
+     <player id="245782" /> 
+     <player id="307354" /> 
+     <player id="314092" /> 
+     <player id="316067" /> 
+     <player id="372251" /> 
+     <player id="374691" /> 
+     <player id="397867" /> 
+     <player id="414706" /> 
+     <player id="451078" /> 
+     <player id="461772" /> 
+     <player id="496140" /> 
+     <player id="497562" /> 
+     <player id="497577" /> 
+     <player id="497966" /> 
+     <player id="562674" /> 
+     <player id="43" /> 
+     <player id="1331" /> 
+     <player id="11355" /> 
+     <player id="19125" /> 
+     <player id="20216" /> 
+     <player id="61375" /> 
+     <player id="171261" /> 
+     <player id="260027" /> 
+     <player id="266056" /> 
+     <player id="312060" /> 
+     <player id="314112" /> 
+     <player id="412581" /> 
+     <player id="444511" /> 
+     <player id="461774" /> 
+     <player id="461780" /> 
+     <player id="461783" /> 
+     <player id="497530" /> 
+     <player id="504956" /> 
+     <player id="571768" /> 
+   </players> 
+   <coaches> 
+     <coach id="4641" /> 
+     <coach id="33471" /> 
+     <coach id="103830" /> 
+     <coach id="471028" /> 
+   </coaches> 
+</team>

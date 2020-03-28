@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2398</id> 
+   <name>نادي هاكين لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2398.png</image> 
+   <country>السويد</country> 
+   <adrese>Slättadammsgatan 6</adrese> 
+   <website>http://www.bkhacken.se</website> 
+   <creation-date>1940</creation-date> 
+   <players> 
+     <player id="29857" /> 
+     <player id="30340" /> 
+     <player id="30394" /> 
+     <player id="165982" /> 
+     <player id="647541" /> 
+     <player id="7936" /> 
+     <player id="29861" /> 
+     <player id="30936" /> 
+     <player id="49820" /> 
+     <player id="67858" /> 
+     <player id="72796" /> 
+     <player id="236389" /> 
+     <player id="260735" /> 
+     <player id="269760" /> 
+     <player id="281387" /> 
+     <player id="290346" /> 
+     <player id="334268" /> 
+     <player id="356263" /> 
+     <player id="517055" /> 
+     <player id="581664" /> 
+     <player id="645839" /> 
+     <player id="2282" /> 
+     <player id="29871" /> 
+     <player id="31215" /> 
+     <player id="41399" /> 
+     <player id="76821" /> 
+     <player id="228891" /> 
+     <player id="261627" /> 
+     <player id="281388" /> 
+     <player id="282174" /> 
+     <player id="282372" /> 
+     <player id="456883" /> 
+     <player id="461471" /> 
+     <player id="495095" /> 
+     <player id="551925" /> 
+     <player id="579328" /> 
+     <player id="602229" /> 
+     <player id="626682" /> 
+     <player id="634868" /> 
+     <player id="30461" /> 
+     <player id="65035" /> 
+     <player id="66092" /> 
+     <player id="198547" /> 
+     <player id="209398" /> 
+     <player id="300226" /> 
+     <player id="347913" /> 
+     <player id="438439" /> 
+   </players> 
+   <coaches> 
+     <coach id="179266" /> 
+   </coaches> 
+</team>

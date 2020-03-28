@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>180</id> 
+   <name>نادر كارباكا اغدام لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/180.png</image> 
+   <country>أذربيجان</country> 
+   <adrese>90 Heydar Aliyev</adrese> 
+   <website>http://www.garabagh.com</website> 
+   <creation-date>1950</creation-date> 
+   <players> 
+     <player id="9634" /> 
+     <player id="30599" /> 
+     <player id="36866" /> 
+     <player id="91780" /> 
+     <player id="129103" /> 
+     <player id="320453" /> 
+     <player id="444170" /> 
+     <player id="467492" /> 
+     <player id="5069" /> 
+     <player id="8484" /> 
+     <player id="12608" /> 
+     <player id="45601" /> 
+     <player id="84410" /> 
+     <player id="110494" /> 
+     <player id="126324" /> 
+     <player id="211199" /> 
+     <player id="301168" /> 
+     <player id="315792" /> 
+     <player id="318133" /> 
+     <player id="335349" /> 
+     <player id="395346" /> 
+     <player id="409137" /> 
+     <player id="428889" /> 
+     <player id="516279" /> 
+     <player id="581019" /> 
+     <player id="40582" /> 
+     <player id="59234" /> 
+     <player id="61008" /> 
+     <player id="63004" /> 
+     <player id="65969" /> 
+     <player id="86182" /> 
+     <player id="113555" /> 
+     <player id="114678" /> 
+     <player id="131153" /> 
+     <player id="163091" /> 
+     <player id="163532" /> 
+     <player id="215523" /> 
+     <player id="219448" /> 
+     <player id="387053" /> 
+     <player id="387057" /> 
+     <player id="387061" /> 
+     <player id="403530" /> 
+     <player id="413187" /> 
+     <player id="461469" /> 
+     <player id="464601" /> 
+     <player id="470974" /> 
+     <player id="496697" /> 
+     <player id="509916" /> 
+     <player id="514259" /> 
+     <player id="526200" /> 
+     <player id="68044" /> 
+     <player id="71806" /> 
+     <player id="85699" /> 
+     <player id="201979" /> 
+     <player id="255009" /> 
+     <player id="269462" /> 
+     <player id="274867" /> 
+     <player id="400277" /> 
+     <player id="458506" /> 
+     <player id="468504" /> 
+     <player id="496698" /> 
+     <player id="509932" /> 
+   </players> 
+   <coaches> 
+     <coach id="224127" /> 
+   </coaches> 
+</team>

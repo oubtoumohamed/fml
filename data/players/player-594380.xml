@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1013</team_id> 
+   <id>594380</id> 
+   <name>P. Tawiah</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/594380.png</image> 
+   <position>مدافع</position> 
+   <nationality>غانا</nationality> 
+   <birth-day>1998-12-11</birth-day> 
+   <length  unit="cm">غانا</length> 
+   <weight  unit="kg">173</weight> 
+</player>

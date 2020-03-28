@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>318</id> 
+   <name>نادي فلامينجو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/318.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Avenida Borges de Medeiros 997, Bairro Lagoa</adrese> 
+   <website>http://www.flamengo.com.br</website> 
+   <creation-date>1895</creation-date> 
+   <players> 
+     <player id="125" /> 
+     <player id="8905" /> 
+     <player id="112708" /> 
+     <player id="197635" /> 
+     <player id="287910" /> 
+     <player id="425508" /> 
+     <player id="485423" /> 
+     <player id="550467" /> 
+     <player id="551738" /> 
+     <player id="551761" /> 
+     <player id="591794" /> 
+     <player id="132" /> 
+     <player id="1975" /> 
+     <player id="4505" /> 
+     <player id="8996" /> 
+     <player id="32800" /> 
+     <player id="33271" /> 
+     <player id="166646" /> 
+     <player id="176390" /> 
+     <player id="186289" /> 
+     <player id="192705" /> 
+     <player id="218816" /> 
+     <player id="225802" /> 
+     <player id="288077" /> 
+     <player id="398750" /> 
+     <player id="433893" /> 
+     <player id="436474" /> 
+     <player id="475267" /> 
+     <player id="485413" /> 
+     <player id="503140" /> 
+     <player id="533067" /> 
+     <player id="533070" /> 
+     <player id="533179" /> 
+     <player id="534272" /> 
+     <player id="551942" /> 
+     <player id="559368" /> 
+     <player id="561028" /> 
+     <player id="577098" /> 
+     <player id="592656" /> 
+     <player id="648706" /> 
+     <player id="648708" /> 
+     <player id="1270" /> 
+     <player id="2027" /> 
+     <player id="8923" /> 
+     <player id="9040" /> 
+     <player id="9333" /> 
+     <player id="84154" /> 
+     <player id="115775" /> 
+     <player id="131102" /> 
+     <player id="230411" /> 
+     <player id="233411" /> 
+     <player id="247639" /> 
+     <player id="290444" /> 
+     <player id="363931" /> 
+     <player id="398676" /> 
+     <player id="428489" /> 
+     <player id="438313" /> 
+     <player id="464148" /> 
+     <player id="474926" /> 
+     <player id="485414" /> 
+     <player id="533072" /> 
+     <player id="533074" /> 
+     <player id="533176" /> 
+     <player id="551765" /> 
+     <player id="572952" /> 
+     <player id="577094" /> 
+     <player id="648709" /> 
+     <player id="648710" /> 
+     <player id="2009" /> 
+     <player id="74436" /> 
+     <player id="77902" /> 
+     <player id="112183" /> 
+     <player id="170927" /> 
+     <player id="187560" /> 
+     <player id="191206" /> 
+     <player id="283522" /> 
+     <player id="290500" /> 
+     <player id="297700" /> 
+     <player id="395631" /> 
+     <player id="398674" /> 
+     <player id="428491" /> 
+     <player id="434545" /> 
+     <player id="435998" /> 
+     <player id="472629" /> 
+     <player id="474927" /> 
+     <player id="474972" /> 
+     <player id="474973" /> 
+     <player id="525368" /> 
+     <player id="533075" /> 
+     <player id="533178" /> 
+     <player id="592372" /> 
+     <player id="601494" /> 
+     <player id="602423" /> 
+     <player id="648711" /> 
+     <player id="649737" /> 
+   </players> 
+   <coaches> 
+     <coach id="113209" /> 
+     <coach id="127737" /> 
+     <coach id="140283" /> 
+     <coach id="195794" /> 
+     <coach id="281618" /> 
+     <coach id="431584" /> 
+     <coach id="586644" /> 
+     <coach id="649382" /> 
+   </coaches> 
+</team>

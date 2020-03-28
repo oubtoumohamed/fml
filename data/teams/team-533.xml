@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>533</id> 
+   <name>سلافيا براغ</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/533.png</image> 
+   <country>التشيك</country> 
+   <adrese>Vladivostocká 1460/2</adrese> 
+   <website>http://www.slavia.cz</website> 
+   <creation-date>1892</creation-date> 
+   <players> 
+     <player id="46100" /> 
+     <player id="134943" /> 
+     <player id="139066" /> 
+     <player id="193498" /> 
+     <player id="319776" /> 
+     <player id="429407" /> 
+     <player id="473312" /> 
+     <player id="516338" /> 
+     <player id="15014" /> 
+     <player id="29421" /> 
+     <player id="84607" /> 
+     <player id="104810" /> 
+     <player id="132709" /> 
+     <player id="134090" /> 
+     <player id="158893" /> 
+     <player id="215365" /> 
+     <player id="230375" /> 
+     <player id="252340" /> 
+     <player id="295384" /> 
+     <player id="302077" /> 
+     <player id="302572" /> 
+     <player id="330920" /> 
+     <player id="479592" /> 
+     <player id="516343" /> 
+     <player id="516669" /> 
+     <player id="6437" /> 
+     <player id="46205" /> 
+     <player id="68727" /> 
+     <player id="83596" /> 
+     <player id="87676" /> 
+     <player id="130620" /> 
+     <player id="189486" /> 
+     <player id="191099" /> 
+     <player id="202289" /> 
+     <player id="254898" /> 
+     <player id="254900" /> 
+     <player id="272749" /> 
+     <player id="274253" /> 
+     <player id="298972" /> 
+     <player id="317272" /> 
+     <player id="317332" /> 
+     <player id="319365" /> 
+     <player id="320095" /> 
+     <player id="334600" /> 
+     <player id="377541" /> 
+     <player id="387065" /> 
+     <player id="423848" /> 
+     <player id="534502" /> 
+     <player id="543491" /> 
+     <player id="544910" /> 
+     <player id="561612" /> 
+     <player id="582690" /> 
+     <player id="14700" /> 
+     <player id="14975" /> 
+     <player id="66340" /> 
+     <player id="78177" /> 
+     <player id="189028" /> 
+     <player id="194723" /> 
+     <player id="276991" /> 
+     <player id="389879" /> 
+     <player id="431210" /> 
+     <player id="469845" /> 
+     <player id="632407" /> 
+   </players> 
+   <coaches> 
+     <coach id="46162" /> 
+     <coach id="304397" /> 
+   </coaches> 
+</team>

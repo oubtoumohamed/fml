@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>9067</team_id> 
+   <id>346215</id> 
+   <name>نيكولا جوفوفيتش</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/346215.png</image> 
+   <position>مهاجم</position> 
+   <nationality>مونتينيغرو</nationality> 
+   <birth-day>1974-08-28</birth-day> 
+   <length  unit="cm">مونتينيغرو</length> 
+   <weight  unit="kg"></weight> 
+</player>

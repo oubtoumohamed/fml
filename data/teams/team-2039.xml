@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2039</id> 
+   <name>نادي خيتافي لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2039.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Avenida Teresa de Calcuta</adrese> 
+   <website>http://www.getafecf.com</website> 
+   <creation-date>1983</creation-date> 
+   <players> 
+     <player id="62971" /> 
+     <player id="102587" /> 
+     <player id="176600" /> 
+     <player id="262198" /> 
+     <player id="313007" /> 
+     <player id="397274" /> 
+     <player id="3040" /> 
+     <player id="17028" /> 
+     <player id="44285" /> 
+     <player id="55871" /> 
+     <player id="60335" /> 
+     <player id="61483" /> 
+     <player id="74027" /> 
+     <player id="148997" /> 
+     <player id="169710" /> 
+     <player id="175301" /> 
+     <player id="206407" /> 
+     <player id="248013" /> 
+     <player id="281504" /> 
+     <player id="372743" /> 
+     <player id="406775" /> 
+     <player id="428547" /> 
+     <player id="482910" /> 
+     <player id="549042" /> 
+     <player id="549070" /> 
+     <player id="2961" /> 
+     <player id="37419" /> 
+     <player id="63970" /> 
+     <player id="87547" /> 
+     <player id="102666" /> 
+     <player id="103501" /> 
+     <player id="113124" /> 
+     <player id="134714" /> 
+     <player id="146666" /> 
+     <player id="191944" /> 
+     <player id="207616" /> 
+     <player id="279610" /> 
+     <player id="287912" /> 
+     <player id="299107" /> 
+     <player id="312953" /> 
+     <player id="313564" /> 
+     <player id="314359" /> 
+     <player id="320786" /> 
+     <player id="338639" /> 
+     <player id="372437" /> 
+     <player id="372491" /> 
+     <player id="396548" /> 
+     <player id="407241" /> 
+     <player id="416703" /> 
+     <player id="426757" /> 
+     <player id="496629" /> 
+     <player id="4572" /> 
+     <player id="47945" /> 
+     <player id="58587" /> 
+     <player id="59989" /> 
+     <player id="152249" /> 
+     <player id="206004" /> 
+     <player id="217633" /> 
+     <player id="267275" /> 
+     <player id="275845" /> 
+     <player id="310481" /> 
+     <player id="372533" /> 
+     <player id="518583" /> 
+   </players> 
+   <coaches> 
+     <coach id="216523" /> 
+     <coach id="482383" /> 
+   </coaches> 
+</team>

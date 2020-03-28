@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3471</id> 
+   <name>نادي أوليمبيك خريبكة</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3471.png</image> 
+   <country>المغرب</country> 
+   <adrese>Complexe sportif de l’OCP, Rue Qasr Lkbir</adrese> 
+   <website>http://www.ockfoot.net</website> 
+   <creation-date>1923</creation-date> 
+   <players> 
+     <player id="407042" /> 
+     <player id="437104" /> 
+     <player id="437108" /> 
+     <player id="633669" /> 
+     <player id="633725" /> 
+     <player id="633733" /> 
+     <player id="633735" /> 
+     <player id="111578" /> 
+     <player id="168001" /> 
+     <player id="405613" /> 
+     <player id="437172" /> 
+     <player id="437267" /> 
+     <player id="437268" /> 
+     <player id="437269" /> 
+     <player id="437270" /> 
+     <player id="449396" /> 
+     <player id="490962" /> 
+     <player id="536024" /> 
+     <player id="633676" /> 
+     <player id="633726" /> 
+     <player id="633747" /> 
+     <player id="648048" /> 
+     <player id="648049" /> 
+     <player id="302376" /> 
+     <player id="435402" /> 
+     <player id="437283" /> 
+     <player id="437284" /> 
+     <player id="437285" /> 
+     <player id="437286" /> 
+     <player id="447149" /> 
+     <player id="633141" /> 
+     <player id="633681" /> 
+     <player id="633709" /> 
+     <player id="633717" /> 
+     <player id="633719" /> 
+     <player id="633721" /> 
+     <player id="633750" /> 
+     <player id="633758" /> 
+     <player id="636011" /> 
+     <player id="645220" /> 
+     <player id="37878" /> 
+     <player id="326578" /> 
+     <player id="405641" /> 
+     <player id="415913" /> 
+     <player id="437288" /> 
+     <player id="494319" /> 
+     <player id="494391" /> 
+     <player id="539306" /> 
+     <player id="633718" /> 
+     <player id="633722" /> 
+     <player id="633761" /> 
+     <player id="633762" /> 
+     <player id="633763" /> 
+     <player id="648721" /> 
+   </players> 
+   <coaches> 
+     <coach id="231389" /> 
+     <coach id="281229" /> 
+     <coach id="645841" /> 
+   </coaches> 
+</team>

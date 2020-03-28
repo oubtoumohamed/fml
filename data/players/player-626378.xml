@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1240</team_id> 
+   <id>626378</id> 
+   <name>أليساندرو سالا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/626378.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>إيطاليا</nationality> 
+   <birth-day>2001-05-07</birth-day> 
+   <length  unit="cm">إيطاليا</length> 
+   <weight  unit="kg">185</weight> 
+</player>

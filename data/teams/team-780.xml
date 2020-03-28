@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>780</id> 
+   <name>نادي ترانس نارفا لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/780.png</image> 
+   <country>أستونيا</country> 
+   <adrese>Tiimani 3</adrese> 
+   <website>http://www.fctrans.ee</website> 
+   <creation-date>1979</creation-date> 
+   <players> 
+     <player id="29298" /> 
+     <player id="110736" /> 
+     <player id="129323" /> 
+     <player id="455078" /> 
+     <player id="466465" /> 
+     <player id="539016" /> 
+     <player id="545248" /> 
+     <player id="25872" /> 
+     <player id="83135" /> 
+     <player id="119562" /> 
+     <player id="124088" /> 
+     <player id="161110" /> 
+     <player id="199570" /> 
+     <player id="213680" /> 
+     <player id="281510" /> 
+     <player id="332645" /> 
+     <player id="410846" /> 
+     <player id="448123" /> 
+     <player id="476424" /> 
+     <player id="476425" /> 
+     <player id="476428" /> 
+     <player id="492091" /> 
+     <player id="505432" /> 
+     <player id="539668" /> 
+     <player id="124502" /> 
+     <player id="126578" /> 
+     <player id="206337" /> 
+     <player id="212672" /> 
+     <player id="249833" /> 
+     <player id="275109" /> 
+     <player id="302048" /> 
+     <player id="332648" /> 
+     <player id="381449" /> 
+     <player id="450132" /> 
+     <player id="451564" /> 
+     <player id="482111" /> 
+     <player id="533261" /> 
+     <player id="186689" /> 
+     <player id="285669" /> 
+     <player id="306828" /> 
+     <player id="411155" /> 
+     <player id="476427" /> 
+     <player id="506225" /> 
+     <player id="559746" /> 
+     <player id="595973" /> 
+   </players> 
+   <coaches> 
+     <coach id="122301" /> 
+     <coach id="200930" /> 
+     <coach id="254344" /> 
+     <coach id="458876" /> 
+     <coach id="545564" /> 
+     <coach id="564702" /> 
+   </coaches> 
+</team>

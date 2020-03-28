@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1447</id> 
+   <name>نادي باولا هيبرنيانز لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1447.png</image> 
+   <country>مالطا</country> 
+   <adrese>114, Pjazza Antoine de Paule (Antoine de Paole Square)</adrese> 
+   <website>http://www.hiberniansfc.org</website> 
+   <creation-date>1922</creation-date> 
+   <players> 
+     <player id="35142" /> 
+     <player id="39385" /> 
+     <player id="56517" /> 
+     <player id="235297" /> 
+     <player id="274095" /> 
+     <player id="288874" /> 
+     <player id="312224" /> 
+     <player id="636611" /> 
+     <player id="650182" /> 
+     <player id="38107" /> 
+     <player id="73014" /> 
+     <player id="116731" /> 
+     <player id="145834" /> 
+     <player id="232571" /> 
+     <player id="233763" /> 
+     <player id="243472" /> 
+     <player id="261191" /> 
+     <player id="304912" /> 
+     <player id="326812" /> 
+     <player id="340371" /> 
+     <player id="340385" /> 
+     <player id="375961" /> 
+     <player id="385299" /> 
+     <player id="386029" /> 
+     <player id="469891" /> 
+     <player id="518679" /> 
+     <player id="577417" /> 
+     <player id="650180" /> 
+     <player id="35157" /> 
+     <player id="95326" /> 
+     <player id="111631" /> 
+     <player id="154695" /> 
+     <player id="158531" /> 
+     <player id="180365" /> 
+     <player id="185567" /> 
+     <player id="204360" /> 
+     <player id="270659" /> 
+     <player id="327814" /> 
+     <player id="340383" /> 
+     <player id="385301" /> 
+     <player id="385303" /> 
+     <player id="398649" /> 
+     <player id="422193" /> 
+     <player id="473630" /> 
+     <player id="518853" /> 
+     <player id="542616" /> 
+     <player id="588423" /> 
+     <player id="616991" /> 
+     <player id="639623" /> 
+     <player id="650181" /> 
+     <player id="17138" /> 
+     <player id="50316" /> 
+     <player id="82895" /> 
+     <player id="162919" /> 
+     <player id="170407" /> 
+     <player id="202853" /> 
+     <player id="270014" /> 
+     <player id="282134" /> 
+     <player id="286371" /> 
+     <player id="340391" /> 
+     <player id="402675" /> 
+     <player id="415068" /> 
+     <player id="422202" /> 
+     <player id="460610" /> 
+     <player id="489187" /> 
+     <player id="537404" /> 
+     <player id="565211" /> 
+   </players> 
+   <coaches> 
+     <coach id="35145" /> 
+     <coach id="182383" /> 
+     <coach id="394923" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>21301</id> 
+   <name>Alashkert FC</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/21301.png</image> 
+   <country>أرمينيا</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>1990 / 2011</creation-date> 
+   <players> 
+     <player id="135734" /> 
+     <player id="136154" /> 
+     <player id="180869" /> 
+     <player id="214655" /> 
+     <player id="249483" /> 
+     <player id="269545" /> 
+     <player id="559006" /> 
+     <player id="27816" /> 
+     <player id="36789" /> 
+     <player id="37013" /> 
+     <player id="40562" /> 
+     <player id="40563" /> 
+     <player id="40952" /> 
+     <player id="46468" /> 
+     <player id="54138" /> 
+     <player id="80212" /> 
+     <player id="81063" /> 
+     <player id="101664" /> 
+     <player id="125491" /> 
+     <player id="128641" /> 
+     <player id="131390" /> 
+     <player id="135712" /> 
+     <player id="136842" /> 
+     <player id="138848" /> 
+     <player id="151113" /> 
+     <player id="155420" /> 
+     <player id="180019" /> 
+     <player id="181573" /> 
+     <player id="213371" /> 
+     <player id="229515" /> 
+     <player id="234462" /> 
+     <player id="261019" /> 
+     <player id="559007" /> 
+     <player id="570223" /> 
+     <player id="35005" /> 
+     <player id="39791" /> 
+     <player id="40966" /> 
+     <player id="57556" /> 
+     <player id="65392" /> 
+     <player id="92063" /> 
+     <player id="104713" /> 
+     <player id="111579" /> 
+     <player id="124384" /> 
+     <player id="132365" /> 
+     <player id="145060" /> 
+     <player id="155436" /> 
+     <player id="155438" /> 
+     <player id="162135" /> 
+     <player id="179538" /> 
+     <player id="203169" /> 
+     <player id="205253" /> 
+     <player id="214317" /> 
+     <player id="214321" /> 
+     <player id="247478" /> 
+     <player id="268233" /> 
+     <player id="282814" /> 
+     <player id="292137" /> 
+     <player id="301984" /> 
+     <player id="320295" /> 
+     <player id="335224" /> 
+     <player id="339127" /> 
+     <player id="398997" /> 
+     <player id="405052" /> 
+     <player id="472876" /> 
+     <player id="488874" /> 
+     <player id="539309" /> 
+     <player id="598609" /> 
+     <player id="2191" /> 
+     <player id="6382" /> 
+     <player id="39800" /> 
+     <player id="79211" /> 
+     <player id="81127" /> 
+     <player id="85801" /> 
+     <player id="124203" /> 
+     <player id="148860" /> 
+     <player id="231691" /> 
+     <player id="245375" /> 
+     <player id="277057" /> 
+     <player id="302565" /> 
+     <player id="369393" /> 
+     <player id="388609" /> 
+     <player id="437414" /> 
+     <player id="461533" /> 
+   </players> 
+   <coaches> 
+     <coach id="40564" /> 
+     <coach id="77511" /> 
+     <coach id="135776" /> 
+     <coach id="181744" /> 
+     <coach id="226987" /> 
+     <coach id="267056" /> 
+   </coaches> 
+</team>

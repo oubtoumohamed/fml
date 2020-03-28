@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>25929</id> 
+   <name>إن سي ماجرا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/25929.png</image> 
+   <country>الجزائر</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="208063" /> 
+     <player id="480101" /> 
+     <player id="623807" /> 
+     <player id="79720" /> 
+     <player id="623809" /> 
+     <player id="623810" /> 
+     <player id="623812" /> 
+     <player id="623816" /> 
+     <player id="623817" /> 
+     <player id="623819" /> 
+     <player id="89343" /> 
+     <player id="121052" /> 
+     <player id="151803" /> 
+     <player id="309957" /> 
+     <player id="480088" /> 
+     <player id="531605" /> 
+     <player id="623821" /> 
+     <player id="623822" /> 
+     <player id="623824" /> 
+     <player id="623826" /> 
+     <player id="623827" /> 
+     <player id="110275" /> 
+     <player id="281996" /> 
+     <player id="413907" /> 
+     <player id="529447" /> 
+     <player id="628019" /> 
+     <player id="643450" /> 
+   </players> 
+   <coaches> 
+     <coach id="217266" /> 
+     <coach id="430817" /> 
+     <coach id="434798" /> 
+     <coach id="636218" /> 
+   </coaches> 
+</team>

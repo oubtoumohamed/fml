@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3846</team_id> 
+   <id>650514</id> 
+   <name>G. Licheri</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/650514.png</image> 
+   <position>مهاجم</position> 
+   <nationality>الأرجنتين</nationality> 
+   <birth-day>2001-09-28</birth-day> 
+   <length  unit="cm">172</length> 
+   <weight  unit="kg">67</weight> 
+</player>

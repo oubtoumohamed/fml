@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>25281</id> 
+   <name>يونيفيرسيتات كرايوفا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/25281.png</image> 
+   <country>رومانيا</country> 
+   <adrese>Str. Știrbei Vodă Nr. 30, Clădirea Malmo, Biroul 4, Etaj 3</adrese> 
+   <website>http://www.csuc.ro</website> 
+   <creation-date>2013</creation-date> 
+   <players> 
+     <player id="11906" /> 
+     <player id="12015" /> 
+     <player id="26169" /> 
+     <player id="65892" /> 
+     <player id="203897" /> 
+     <player id="419123" /> 
+     <player id="490390" /> 
+     <player id="619042" /> 
+     <player id="51664" /> 
+     <player id="65911" /> 
+     <player id="65943" /> 
+     <player id="83275" /> 
+     <player id="89198" /> 
+     <player id="95744" /> 
+     <player id="101421" /> 
+     <player id="156122" /> 
+     <player id="197721" /> 
+     <player id="204048" /> 
+     <player id="214848" /> 
+     <player id="234596" /> 
+     <player id="274629" /> 
+     <player id="312857" /> 
+     <player id="421875" /> 
+     <player id="445545" /> 
+     <player id="450027" /> 
+     <player id="539376" /> 
+     <player id="539383" /> 
+     <player id="558852" /> 
+     <player id="43608" /> 
+     <player id="51793" /> 
+     <player id="72232" /> 
+     <player id="95780" /> 
+     <player id="101431" /> 
+     <player id="139528" /> 
+     <player id="154982" /> 
+     <player id="159845" /> 
+     <player id="191261" /> 
+     <player id="202289" /> 
+     <player id="234671" /> 
+     <player id="256596" /> 
+     <player id="288134" /> 
+     <player id="305767" /> 
+     <player id="319638" /> 
+     <player id="319642" /> 
+     <player id="335098" /> 
+     <player id="436382" /> 
+     <player id="450612" /> 
+     <player id="479503" /> 
+     <player id="490395" /> 
+     <player id="516610" /> 
+     <player id="539382" /> 
+     <player id="558848" /> 
+     <player id="605355" /> 
+     <player id="12297" /> 
+     <player id="129198" /> 
+     <player id="131757" /> 
+     <player id="136259" /> 
+     <player id="185518" /> 
+     <player id="206796" /> 
+     <player id="207219" /> 
+     <player id="320835" /> 
+     <player id="326401" /> 
+     <player id="343705" /> 
+     <player id="431218" /> 
+     <player id="436284" /> 
+     <player id="470653" /> 
+     <player id="482013" /> 
+     <player id="539378" /> 
+     <player id="542991" /> 
+     <player id="598247" /> 
+     <player id="601163" /> 
+   </players> 
+   <coaches> 
+     <coach id="33491" /> 
+     <coach id="156019" /> 
+     <coach id="205839" /> 
+     <coach id="216080" /> 
+   </coaches> 
+</team>

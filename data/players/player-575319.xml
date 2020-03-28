@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1519</team_id> 
+   <id>575319</id> 
+   <name>R. Hajal</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/575319.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>السويد</nationality> 
+   <birth-day>2001-09-17</birth-day> 
+   <length  unit="cm">السويد</length> 
+   <weight  unit="kg"></weight> 
+</player>

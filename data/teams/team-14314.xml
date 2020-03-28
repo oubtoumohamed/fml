@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>14314</id> 
+   <name>نادي الرامثا الرياضي</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/14314.png</image> 
+   <country>الأردن</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>1966</creation-date> 
+   <players> 
+     <player id="287405" /> 
+     <player id="81622" /> 
+     <player id="279768" /> 
+     <player id="287401" /> 
+     <player id="287402" /> 
+     <player id="287408" /> 
+     <player id="295065" /> 
+     <player id="184423" /> 
+     <player id="222607" /> 
+     <player id="222608" /> 
+     <player id="287406" /> 
+     <player id="287409" /> 
+     <player id="288689" /> 
+     <player id="295064" /> 
+   </players> 
+   <coaches> 
+     <coach id="287358" /> 
+   </coaches> 
+</team>

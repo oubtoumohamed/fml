@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1527</team_id> 
+   <id>497147</id> 
+   <name>L. Reis</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/497147.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>هولندا</nationality> 
+   <birth-day>2000-06-01</birth-day> 
+   <length  unit="cm">هولندا</length> 
+   <weight  unit="kg">178</weight> 
+</player>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3502</id> 
+   <name>نادي الخور الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3502.png</image> 
+   <country>قطر</country> 
+   <adrese>PO Box 1105</adrese> 
+   <website>http://www.alkhor-club.com</website> 
+   <creation-date>1961</creation-date> 
+   <players> 
+     <player id="69571" /> 
+     <player id="82163" /> 
+     <player id="82184" /> 
+     <player id="208931" /> 
+     <player id="209014" /> 
+     <player id="286662" /> 
+     <player id="328535" /> 
+     <player id="343771" /> 
+     <player id="528091" /> 
+     <player id="590131" /> 
+     <player id="643845" /> 
+     <player id="64738" /> 
+     <player id="64853" /> 
+     <player id="82206" /> 
+     <player id="82218" /> 
+     <player id="82219" /> 
+     <player id="82235" /> 
+     <player id="116493" /> 
+     <player id="153549" /> 
+     <player id="153624" /> 
+     <player id="193849" /> 
+     <player id="208914" /> 
+     <player id="209001" /> 
+     <player id="209005" /> 
+     <player id="210470" /> 
+     <player id="227020" /> 
+     <player id="233083" /> 
+     <player id="266837" /> 
+     <player id="267585" /> 
+     <player id="287585" /> 
+     <player id="343765" /> 
+     <player id="362383" /> 
+     <player id="362397" /> 
+     <player id="419888" /> 
+     <player id="430717" /> 
+     <player id="512349" /> 
+     <player id="512351" /> 
+     <player id="531786" /> 
+     <player id="9473" /> 
+     <player id="10589" /> 
+     <player id="31215" /> 
+     <player id="64745" /> 
+     <player id="64881" /> 
+     <player id="82217" /> 
+     <player id="122857" /> 
+     <player id="153627" /> 
+     <player id="159743" /> 
+     <player id="179174" /> 
+     <player id="198993" /> 
+     <player id="208915" /> 
+     <player id="209040" /> 
+     <player id="210419" /> 
+     <player id="210436" /> 
+     <player id="228590" /> 
+     <player id="267565" /> 
+     <player id="267582" /> 
+     <player id="306983" /> 
+     <player id="313593" /> 
+     <player id="318704" /> 
+     <player id="325807" /> 
+     <player id="325815" /> 
+     <player id="326742" /> 
+     <player id="365431" /> 
+     <player id="392603" /> 
+     <player id="402552" /> 
+     <player id="426299" /> 
+     <player id="431381" /> 
+     <player id="433201" /> 
+     <player id="436913" /> 
+     <player id="460499" /> 
+     <player id="460500" /> 
+     <player id="465724" /> 
+     <player id="513966" /> 
+     <player id="528064" /> 
+     <player id="528067" /> 
+     <player id="528071" /> 
+     <player id="528087" /> 
+     <player id="528105" /> 
+     <player id="559747" /> 
+     <player id="561874" /> 
+     <player id="564871" /> 
+     <player id="590132" /> 
+     <player id="590134" /> 
+     <player id="590136" /> 
+     <player id="596703" /> 
+     <player id="10928" /> 
+     <player id="32748" /> 
+     <player id="33023" /> 
+     <player id="64916" /> 
+     <player id="67163" /> 
+     <player id="159586" /> 
+     <player id="170695" /> 
+     <player id="172871" /> 
+     <player id="192366" /> 
+     <player id="208912" /> 
+     <player id="233046" /> 
+     <player id="267567" /> 
+     <player id="277666" /> 
+     <player id="322311" /> 
+     <player id="343743" /> 
+     <player id="362003" /> 
+     <player id="393147" /> 
+     <player id="465699" /> 
+     <player id="521483" /> 
+     <player id="551723" /> 
+   </players> 
+   <coaches> 
+     <coach id="104310" /> 
+     <coach id="138864" /> 
+     <coach id="180154" /> 
+     <coach id="360591" /> 
+     <coach id="520661" /> 
+   </coaches> 
+</team>

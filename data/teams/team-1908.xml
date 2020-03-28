@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1908</id> 
+   <name>نادي أبيردين لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1908.png</image> 
+   <country>إسكتلندا</country> 
+   <adrese>Pittodrie Street</adrese> 
+   <website>http://www.afc.co.uk</website> 
+   <creation-date>1903</creation-date> 
+   <players> 
+     <player id="14936" /> 
+     <player id="51075" /> 
+     <player id="239542" /> 
+     <player id="274762" /> 
+     <player id="404359" /> 
+     <player id="980" /> 
+     <player id="4497" /> 
+     <player id="5315" /> 
+     <player id="23234" /> 
+     <player id="86703" /> 
+     <player id="88216" /> 
+     <player id="155813" /> 
+     <player id="158147" /> 
+     <player id="168734" /> 
+     <player id="183085" /> 
+     <player id="265361" /> 
+     <player id="317145" /> 
+     <player id="318595" /> 
+     <player id="386231" /> 
+     <player id="400631" /> 
+     <player id="432302" /> 
+     <player id="451100" /> 
+     <player id="451104" /> 
+     <player id="498115" /> 
+     <player id="621488" /> 
+     <player id="11642" /> 
+     <player id="13078" /> 
+     <player id="15395" /> 
+     <player id="51130" /> 
+     <player id="72351" /> 
+     <player id="72373" /> 
+     <player id="110508" /> 
+     <player id="137504" /> 
+     <player id="154189" /> 
+     <player id="157639" /> 
+     <player id="170014" /> 
+     <player id="179221" /> 
+     <player id="288634" /> 
+     <player id="291498" /> 
+     <player id="319128" /> 
+     <player id="334710" /> 
+     <player id="375127" /> 
+     <player id="451105" /> 
+     <player id="451116" /> 
+     <player id="451631" /> 
+     <player id="453287" /> 
+     <player id="483297" /> 
+     <player id="498113" /> 
+     <player id="532849" /> 
+     <player id="579072" /> 
+     <player id="15470" /> 
+     <player id="49361" /> 
+     <player id="53495" /> 
+     <player id="110344" /> 
+     <player id="314164" /> 
+     <player id="393622" /> 
+     <player id="441331" /> 
+     <player id="451082" /> 
+     <player id="451083" /> 
+   </players> 
+   <coaches> 
+     <coach id="31471" /> 
+   </coaches> 
+</team>

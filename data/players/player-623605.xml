@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>204</team_id> 
+   <id>623605</id> 
+   <name>I. Nemchenok</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/623605.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>بلاروسيا</nationality> 
+   <birth-day>1999-02-09</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

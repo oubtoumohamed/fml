@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>80</id> 
+   <name>نادي سانتا كولوما لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/80.png</image> 
+   <country>أندورا</country> 
+   <adrese>Avinguda Meritxell 9</adrese> 
+   <website>http://www.fclubsantacoloma.com</website> 
+   <creation-date>1986</creation-date> 
+   <players> 
+     <player id="134760" /> 
+     <player id="154627" /> 
+     <player id="271046" /> 
+     <player id="18702" /> 
+     <player id="128906" /> 
+     <player id="134284" /> 
+     <player id="148043" /> 
+     <player id="154614" /> 
+     <player id="154615" /> 
+     <player id="194432" /> 
+     <player id="213109" /> 
+     <player id="254580" /> 
+     <player id="569531" /> 
+     <player id="39837" /> 
+     <player id="61529" /> 
+     <player id="61554" /> 
+     <player id="94148" /> 
+     <player id="128901" /> 
+     <player id="144941" /> 
+     <player id="189950" /> 
+     <player id="249689" /> 
+     <player id="263157" /> 
+     <player id="271047" /> 
+     <player id="317362" /> 
+     <player id="317367" /> 
+     <player id="471584" /> 
+     <player id="554375" /> 
+     <player id="39627" /> 
+     <player id="45556" /> 
+     <player id="58996" /> 
+     <player id="61717" /> 
+     <player id="62969" /> 
+     <player id="95027" /> 
+     <player id="149668" /> 
+     <player id="276289" /> 
+     <player id="309454" /> 
+     <player id="554473" /> 
+     <player id="554495" /> 
+   </players> 
+   <coaches> 
+     <coach id="148000" /> 
+     <coach id="226310" /> 
+     <coach id="554376" /> 
+   </coaches> 
+</team>

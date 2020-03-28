@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>9938</id> 
+   <name>الفيحاء</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/9938.png</image> 
+   <country>السعودية</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="81128" /> 
+     <player id="102838" /> 
+     <player id="143609" /> 
+     <player id="325940" /> 
+     <player id="370209" /> 
+     <player id="495408" /> 
+     <player id="10245" /> 
+     <player id="121328" /> 
+     <player id="141944" /> 
+     <player id="174552" /> 
+     <player id="193726" /> 
+     <player id="207463" /> 
+     <player id="218982" /> 
+     <player id="295569" /> 
+     <player id="397041" /> 
+     <player id="403392" /> 
+     <player id="403451" /> 
+     <player id="415032" /> 
+     <player id="465460" /> 
+     <player id="494742" /> 
+     <player id="495427" /> 
+     <player id="530343" /> 
+     <player id="531924" /> 
+     <player id="534204" /> 
+     <player id="568522" /> 
+     <player id="598568" /> 
+     <player id="10439" /> 
+     <player id="19140" /> 
+     <player id="30513" /> 
+     <player id="56571" /> 
+     <player id="70654" /> 
+     <player id="130872" /> 
+     <player id="167545" /> 
+     <player id="174721" /> 
+     <player id="186156" /> 
+     <player id="191157" /> 
+     <player id="207506" /> 
+     <player id="222412" /> 
+     <player id="236521" /> 
+     <player id="280637" /> 
+     <player id="282239" /> 
+     <player id="309194" /> 
+     <player id="325945" /> 
+     <player id="326956" /> 
+     <player id="333846" /> 
+     <player id="376845" /> 
+     <player id="399789" /> 
+     <player id="414826" /> 
+     <player id="440003" /> 
+     <player id="465474" /> 
+     <player id="479336" /> 
+     <player id="492141" /> 
+     <player id="492155" /> 
+     <player id="567674" /> 
+     <player id="579767" /> 
+     <player id="583976" /> 
+     <player id="20912" /> 
+     <player id="111947" /> 
+     <player id="131369" /> 
+     <player id="162936" /> 
+     <player id="171411" /> 
+     <player id="172497" /> 
+     <player id="197885" /> 
+     <player id="294590" /> 
+     <player id="322922" /> 
+     <player id="336709" /> 
+     <player id="465482" /> 
+     <player id="495445" /> 
+     <player id="530346" /> 
+     <player id="591886" /> 
+   </players> 
+   <coaches> 
+     <coach id="151905" /> 
+     <coach id="169854" /> 
+     <coach id="176047" /> 
+     <coach id="316500" /> 
+     <coach id="576847" /> 
+   </coaches> 
+</team>

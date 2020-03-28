@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>703</id> 
+   <name>نادي برايتون هوف ألبيون لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/703.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Village Way</adrese> 
+   <website>http://www.seagulls.co.uk</website> 
+   <creation-date>1901</creation-date> 
+   <players> 
+     <player id="5256" /> 
+     <player id="23295" /> 
+     <player id="49565" /> 
+     <player id="50730" /> 
+     <player id="131659" /> 
+     <player id="217741" /> 
+     <player id="454501" /> 
+     <player id="1956" /> 
+     <player id="2740" /> 
+     <player id="13719" /> 
+     <player id="17881" /> 
+     <player id="34303" /> 
+     <player id="35785" /> 
+     <player id="39466" /> 
+     <player id="90884" /> 
+     <player id="91348" /> 
+     <player id="110513" /> 
+     <player id="129104" /> 
+     <player id="134444" /> 
+     <player id="154073" /> 
+     <player id="268814" /> 
+     <player id="328528" /> 
+     <player id="408625" /> 
+     <player id="426425" /> 
+     <player id="450065" /> 
+     <player id="451811" /> 
+     <player id="452343" /> 
+     <player id="454506" /> 
+     <player id="499174" /> 
+     <player id="2576" /> 
+     <player id="51068" /> 
+     <player id="60290" /> 
+     <player id="78198" /> 
+     <player id="86220" /> 
+     <player id="97581" /> 
+     <player id="129849" /> 
+     <player id="130384" /> 
+     <player id="134038" /> 
+     <player id="138666" /> 
+     <player id="251093" /> 
+     <player id="270007" /> 
+     <player id="280521" /> 
+     <player id="294499" /> 
+     <player id="327259" /> 
+     <player id="390049" /> 
+     <player id="421855" /> 
+     <player id="432255" /> 
+     <player id="453117" /> 
+     <player id="453243" /> 
+     <player id="453250" /> 
+     <player id="453847" /> 
+     <player id="454494" /> 
+     <player id="468060" /> 
+     <player id="468463" /> 
+     <player id="481223" /> 
+     <player id="496837" /> 
+     <player id="496848" /> 
+     <player id="50816" /> 
+     <player id="51025" /> 
+     <player id="55980" /> 
+     <player id="58861" /> 
+     <player id="114881" /> 
+     <player id="155109" /> 
+     <player id="158589" /> 
+     <player id="171261" /> 
+     <player id="207918" /> 
+     <player id="263185" /> 
+     <player id="331332" /> 
+     <player id="404055" /> 
+     <player id="413136" /> 
+     <player id="453853" /> 
+     <player id="458139" /> 
+     <player id="495230" /> 
+     <player id="509852" /> 
+   </players> 
+   <coaches> 
+     <coach id="136328" /> 
+     <coach id="225696" /> 
+   </coaches> 
+</team>

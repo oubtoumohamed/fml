@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2163</team_id> 
+   <id>632608</id> 
+   <name>D. Salihovic</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/632608.png</image> 
+   <position>مهاجم</position> 
+   <nationality>السويد</nationality> 
+   <birth-day>السويد</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

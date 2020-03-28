@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>9937</id> 
+   <name>التعاون</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/9937.png</image> 
+   <country>السعودية</country> 
+   <adrese></adrese> 
+   <website>http://www.taonclub.com</website> 
+   <creation-date>1956</creation-date> 
+   <players> 
+     <player id="9458" /> 
+     <player id="21388" /> 
+     <player id="75086" /> 
+     <player id="293446" /> 
+     <player id="360163" /> 
+     <player id="391865" /> 
+     <player id="474928" /> 
+     <player id="650872" /> 
+     <player id="26579" /> 
+     <player id="136200" /> 
+     <player id="143688" /> 
+     <player id="143771" /> 
+     <player id="190157" /> 
+     <player id="255776" /> 
+     <player id="263793" /> 
+     <player id="283293" /> 
+     <player id="309671" /> 
+     <player id="327605" /> 
+     <player id="360585" /> 
+     <player id="375813" /> 
+     <player id="452466" /> 
+     <player id="484477" /> 
+     <player id="576468" /> 
+     <player id="632172" /> 
+     <player id="26281" /> 
+     <player id="72950" /> 
+     <player id="82179" /> 
+     <player id="130872" /> 
+     <player id="143607" /> 
+     <player id="151066" /> 
+     <player id="156094" /> 
+     <player id="179182" /> 
+     <player id="326264" /> 
+     <player id="326368" /> 
+     <player id="358703" /> 
+     <player id="371355" /> 
+     <player id="375851" /> 
+     <player id="395499" /> 
+     <player id="397046" /> 
+     <player id="435182" /> 
+     <player id="446124" /> 
+     <player id="472659" /> 
+     <player id="482588" /> 
+     <player id="482590" /> 
+     <player id="495396" /> 
+     <player id="532108" /> 
+     <player id="594355" /> 
+     <player id="33331" /> 
+     <player id="75088" /> 
+     <player id="88907" /> 
+     <player id="88933" /> 
+     <player id="89925" /> 
+     <player id="154748" /> 
+     <player id="180744" /> 
+     <player id="279287" /> 
+     <player id="326959" /> 
+     <player id="465485" /> 
+     <player id="484481" /> 
+     <player id="534792" /> 
+     <player id="598567" /> 
+   </players> 
+   <coaches> 
+     <coach id="138488" /> 
+     <coach id="193143" /> 
+     <coach id="284601" /> 
+     <coach id="394973" /> 
+     <coach id="441893" /> 
+     <coach id="648020" /> 
+   </coaches> 
+</team>

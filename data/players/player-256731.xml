@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1355</team_id> 
+   <id>256731</id> 
+   <name>N. Huysman</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/256731.png</image> 
+   <position>غير معروف</position> 
+   <nationality>فرنسا</nationality> 
+   <birth-day>1968-02-09</birth-day> 
+   <length  unit="cm">فرنسا</length> 
+   <weight  unit="kg"></weight> 
+</player>

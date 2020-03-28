@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3514</id> 
+   <name>النصر</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3514.png</image> 
+   <country>السعودية</country> 
+   <adrese></adrese> 
+   <website>http://www.nassr.com</website> 
+   <creation-date>1955</creation-date> 
+   <players> 
+     <player id="5190" /> 
+     <player id="10931" /> 
+     <player id="75086" /> 
+     <player id="143594" /> 
+     <player id="143667" /> 
+     <player id="419695" /> 
+     <player id="436416" /> 
+     <player id="484479" /> 
+     <player id="526725" /> 
+     <player id="576478" /> 
+     <player id="648035" /> 
+     <player id="24007" /> 
+     <player id="66929" /> 
+     <player id="90037" /> 
+     <player id="143693" /> 
+     <player id="143870" /> 
+     <player id="144203" /> 
+     <player id="173914" /> 
+     <player id="184585" /> 
+     <player id="280636" /> 
+     <player id="291627" /> 
+     <player id="326265" /> 
+     <player id="332554" /> 
+     <player id="433033" /> 
+     <player id="465464" /> 
+     <player id="490962" /> 
+     <player id="496944" /> 
+     <player id="529354" /> 
+     <player id="567513" /> 
+     <player id="576452" /> 
+     <player id="576468" /> 
+     <player id="621235" /> 
+     <player id="19176" /> 
+     <player id="20638" /> 
+     <player id="49033" /> 
+     <player id="61041" /> 
+     <player id="96799" /> 
+     <player id="113045" /> 
+     <player id="143605" /> 
+     <player id="174569" /> 
+     <player id="195283" /> 
+     <player id="207443" /> 
+     <player id="288899" /> 
+     <player id="324724" /> 
+     <player id="434956" /> 
+     <player id="436414" /> 
+     <player id="471094" /> 
+     <player id="491808" /> 
+     <player id="491809" /> 
+     <player id="495433" /> 
+     <player id="496970" /> 
+     <player id="530373" /> 
+     <player id="576470" /> 
+     <player id="598459" /> 
+     <player id="598464" /> 
+     <player id="621236" /> 
+     <player id="621238" /> 
+     <player id="634114" /> 
+     <player id="647448" /> 
+     <player id="17385" /> 
+     <player id="61376" /> 
+     <player id="88933" /> 
+     <player id="130008" /> 
+     <player id="160018" /> 
+     <player id="182710" /> 
+     <player id="245731" /> 
+     <player id="294590" /> 
+     <player id="465478" /> 
+     <player id="482579" /> 
+     <player id="482580" /> 
+     <player id="534792" /> 
+     <player id="567509" /> 
+     <player id="567510" /> 
+     <player id="621233" /> 
+     <player id="648034" /> 
+   </players> 
+   <coaches> 
+     <coach id="82767" /> 
+     <coach id="141772" /> 
+     <coach id="171372" /> 
+     <coach id="175934" /> 
+     <coach id="181993" /> 
+     <coach id="306097" /> 
+   </coaches> 
+</team>

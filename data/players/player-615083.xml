@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3479</team_id> 
+   <id>615083</id> 
+   <name>N. Farhati</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/615083.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>تونس</nationality> 
+   <birth-day>تونس</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

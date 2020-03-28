@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>680</id> 
+   <name>نادي ولفرهامبتون واندررز لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/680.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Waterloo Road</adrese> 
+   <website>http://www.wolves.co.uk</website> 
+   <creation-date>1877</creation-date> 
+   <players> 
+     <player id="2867" /> 
+     <player id="15381" /> 
+     <player id="15602" /> 
+     <player id="16583" /> 
+     <player id="77134" /> 
+     <player id="102587" /> 
+     <player id="307922" /> 
+     <player id="318180" /> 
+     <player id="389303" /> 
+     <player id="421200" /> 
+     <player id="436477" /> 
+     <player id="459421" /> 
+     <player id="517655" /> 
+     <player id="15705" /> 
+     <player id="45949" /> 
+     <player id="50574" /> 
+     <player id="96472" /> 
+     <player id="108394" /> 
+     <player id="134608" /> 
+     <player id="138139" /> 
+     <player id="158635" /> 
+     <player id="166998" /> 
+     <player id="167685" /> 
+     <player id="177071" /> 
+     <player id="218283" /> 
+     <player id="261362" /> 
+     <player id="290181" /> 
+     <player id="316436" /> 
+     <player id="320104" /> 
+     <player id="320274" /> 
+     <player id="334048" /> 
+     <player id="379811" /> 
+     <player id="421579" /> 
+     <player id="421852" /> 
+     <player id="452929" /> 
+     <player id="453659" /> 
+     <player id="453663" /> 
+     <player id="461218" /> 
+     <player id="477041" /> 
+     <player id="509216" /> 
+     <player id="604423" /> 
+     <player id="16593" /> 
+     <player id="21427" /> 
+     <player id="39145" /> 
+     <player id="39283" /> 
+     <player id="40541" /> 
+     <player id="51123" /> 
+     <player id="88217" /> 
+     <player id="108398" /> 
+     <player id="161792" /> 
+     <player id="174052" /> 
+     <player id="177696" /> 
+     <player id="212879" /> 
+     <player id="215348" /> 
+     <player id="215563" /> 
+     <player id="228458" /> 
+     <player id="235359" /> 
+     <player id="268932" /> 
+     <player id="270474" /> 
+     <player id="271288" /> 
+     <player id="280821" /> 
+     <player id="334720" /> 
+     <player id="400886" /> 
+     <player id="400891" /> 
+     <player id="414694" /> 
+     <player id="420506" /> 
+     <player id="422426" /> 
+     <player id="428892" /> 
+     <player id="453878" /> 
+     <player id="453879" /> 
+     <player id="453881" /> 
+     <player id="454457" /> 
+     <player id="471769" /> 
+     <player id="478256" /> 
+     <player id="496657" /> 
+     <player id="496692" /> 
+     <player id="497909" /> 
+     <player id="561970" /> 
+     <player id="617800" /> 
+     <player id="1436" /> 
+     <player id="5316" /> 
+     <player id="9883" /> 
+     <player id="50713" /> 
+     <player id="50760" /> 
+     <player id="83507" /> 
+     <player id="95113" /> 
+     <player id="102902" /> 
+     <player id="143037" /> 
+     <player id="156440" /> 
+     <player id="158883" /> 
+     <player id="161783" /> 
+     <player id="180145" /> 
+     <player id="180819" /> 
+     <player id="191597" /> 
+     <player id="209521" /> 
+     <player id="214305" /> 
+     <player id="260734" /> 
+     <player id="274816" /> 
+     <player id="368463" /> 
+     <player id="374031" /> 
+     <player id="374239" /> 
+     <player id="384563" /> 
+     <player id="398451" /> 
+     <player id="413538" /> 
+     <player id="422455" /> 
+     <player id="452992" /> 
+     <player id="453871" /> 
+     <player id="477582" /> 
+     <player id="592559" /> 
+   </players> 
+   <coaches> 
+     <coach id="15389" /> 
+     <coach id="50776" /> 
+     <coach id="105038" /> 
+     <coach id="140511" /> 
+     <coach id="252341" /> 
+   </coaches> 
+</team>

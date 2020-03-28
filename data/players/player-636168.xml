@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1406</team_id> 
+   <id>636168</id> 
+   <name>A. Spyčius</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/636168.png</image> 
+   <position>مهاجم</position> 
+   <nationality>لتوانيا</nationality> 
+   <birth-day>2003-01-15</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

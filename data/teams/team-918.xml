@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>918</id> 
+   <name>نادي آنجير الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/918.png</image> 
+   <country>فرنسا</country> 
+   <adrese>73, boulevard Jacques Portet</adrese> 
+   <website>http://www.angers-sco.fr</website> 
+   <creation-date>1919</creation-date> 
+   <players> 
+     <player id="3014" /> 
+     <player id="137658" /> 
+     <player id="138721" /> 
+     <player id="192417" /> 
+     <player id="196783" /> 
+     <player id="320523" /> 
+     <player id="419334" /> 
+     <player id="37482" /> 
+     <player id="37715" /> 
+     <player id="37858" /> 
+     <player id="55608" /> 
+     <player id="68510" /> 
+     <player id="124193" /> 
+     <player id="138804" /> 
+     <player id="218265" /> 
+     <player id="227674" /> 
+     <player id="326035" /> 
+     <player id="332080" /> 
+     <player id="431230" /> 
+     <player id="431455" /> 
+     <player id="434179" /> 
+     <player id="495302" /> 
+     <player id="541344" /> 
+     <player id="580003" /> 
+     <player id="1500" /> 
+     <player id="40541" /> 
+     <player id="137668" /> 
+     <player id="156463" /> 
+     <player id="158638" /> 
+     <player id="158658" /> 
+     <player id="189392" /> 
+     <player id="246089" /> 
+     <player id="289780" /> 
+     <player id="308477" /> 
+     <player id="312538" /> 
+     <player id="394335" /> 
+     <player id="395213" /> 
+     <player id="399644" /> 
+     <player id="438595" /> 
+     <player id="442939" /> 
+     <player id="510298" /> 
+     <player id="566142" /> 
+     <player id="97298" /> 
+     <player id="110111" /> 
+     <player id="113034" /> 
+     <player id="149466" /> 
+     <player id="187868" /> 
+     <player id="191939" /> 
+     <player id="192307" /> 
+     <player id="204781" /> 
+     <player id="218475" /> 
+     <player id="250821" /> 
+     <player id="258348" /> 
+     <player id="275059" /> 
+     <player id="285403" /> 
+     <player id="309689" /> 
+     <player id="376919" /> 
+     <player id="435421" /> 
+     <player id="459840" /> 
+   </players> 
+   <coaches> 
+     <coach id="196958" /> 
+     <coach id="299960" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>233</team_id> 
+   <id>606276</id> 
+   <name>Li Haoran</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/606276.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>الصين</nationality> 
+   <birth-day>1999-11-05</birth-day> 
+   <length  unit="cm">الصين</length> 
+   <weight  unit="kg"></weight> 
+</player>

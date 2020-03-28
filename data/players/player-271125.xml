@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>780</team_id> 
+   <id>271125</id> 
+   <name>ب.براك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/271125.png</image> 
+   <position>مدافع</position> 
+   <nationality>اسرائيل</nationality> 
+   <birth-day>1979-09-21</birth-day> 
+   <length  unit="cm">اسرائيل</length> 
+   <weight  unit="kg"></weight> 
+</player>

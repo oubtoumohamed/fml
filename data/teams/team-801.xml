@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>801</id> 
+   <name>نادي اتش بي تورشافن</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/801.png</image> 
+   <country>جزر فارو</country> 
+   <adrese>Gundadalur</adrese> 
+   <website>http://www.hb.fo</website> 
+   <creation-date>1904</creation-date> 
+   <players> 
+     <player id="28356" /> 
+     <player id="130084" /> 
+     <player id="376051" /> 
+     <player id="399412" /> 
+     <player id="401966" /> 
+     <player id="440667" /> 
+     <player id="466753" /> 
+     <player id="28351" /> 
+     <player id="28397" /> 
+     <player id="29813" /> 
+     <player id="33144" /> 
+     <player id="69494" /> 
+     <player id="76542" /> 
+     <player id="79172" /> 
+     <player id="124701" /> 
+     <player id="124711" /> 
+     <player id="154552" /> 
+     <player id="185703" /> 
+     <player id="215844" /> 
+     <player id="224962" /> 
+     <player id="272863" /> 
+     <player id="291588" /> 
+     <player id="317433" /> 
+     <player id="441799" /> 
+     <player id="447766" /> 
+     <player id="467155" /> 
+     <player id="467156" /> 
+     <player id="574725" /> 
+     <player id="577016" /> 
+     <player id="632879" /> 
+     <player id="9631" /> 
+     <player id="17801" /> 
+     <player id="28329" /> 
+     <player id="28359" /> 
+     <player id="28420" /> 
+     <player id="42436" /> 
+     <player id="84655" /> 
+     <player id="154560" /> 
+     <player id="158212" /> 
+     <player id="189526" /> 
+     <player id="191876" /> 
+     <player id="194391" /> 
+     <player id="199795" /> 
+     <player id="272867" /> 
+     <player id="315402" /> 
+     <player id="319281" /> 
+     <player id="354249" /> 
+     <player id="361087" /> 
+     <player id="375193" /> 
+     <player id="402278" /> 
+     <player id="464470" /> 
+     <player id="466760" /> 
+     <player id="481243" /> 
+     <player id="574724" /> 
+     <player id="634832" /> 
+     <player id="640823" /> 
+     <player id="28331" /> 
+     <player id="28346" /> 
+     <player id="28355" /> 
+     <player id="29771" /> 
+     <player id="80911" /> 
+     <player id="124712" /> 
+     <player id="215852" /> 
+     <player id="391265" /> 
+     <player id="438061" /> 
+     <player id="542587" /> 
+     <player id="577023" /> 
+   </players> 
+   <coaches> 
+     <coach id="134831" /> 
+     <coach id="135618" /> 
+     <coach id="195727" /> 
+     <coach id="223620" /> 
+     <coach id="245434" /> 
+   </coaches> 
+</team>

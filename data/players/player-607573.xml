@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1539</team_id> 
+   <id>607573</id> 
+   <name>F. Quispel</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/607573.png</image> 
+   <position>مهاجم</position> 
+   <nationality>هولندا</nationality> 
+   <birth-day>2000-10-23</birth-day> 
+   <length  unit="cm">177</length> 
+   <weight  unit="kg">اليمني</weight> 
+</player>

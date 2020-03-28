@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2036</id> 
+   <name>نادي ليفانتي يونيون ديبورتيفو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2036.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Calle San Vicente de Paúl 44</adrese> 
+   <website>http://www.levanteud.com</website> 
+   <creation-date>1909</creation-date> 
+   <players> 
+     <player id="21165" /> 
+     <player id="85154" /> 
+     <player id="143931" /> 
+     <player id="310475" /> 
+     <player id="317227" /> 
+     <player id="421575" /> 
+     <player id="17925" /> 
+     <player id="42671" /> 
+     <player id="58666" /> 
+     <player id="131320" /> 
+     <player id="146658" /> 
+     <player id="147356" /> 
+     <player id="149528" /> 
+     <player id="200902" /> 
+     <player id="220777" /> 
+     <player id="222058" /> 
+     <player id="244107" /> 
+     <player id="248013" /> 
+     <player id="289556" /> 
+     <player id="307556" /> 
+     <player id="407342" /> 
+     <player id="420302" /> 
+     <player id="430183" /> 
+     <player id="470918" /> 
+     <player id="504259" /> 
+     <player id="532728" /> 
+     <player id="58831" /> 
+     <player id="103177" /> 
+     <player id="134458" /> 
+     <player id="141176" /> 
+     <player id="149916" /> 
+     <player id="158019" /> 
+     <player id="186541" /> 
+     <player id="217504" /> 
+     <player id="260118" /> 
+     <player id="260121" /> 
+     <player id="268856" /> 
+     <player id="279610" /> 
+     <player id="288830" /> 
+     <player id="297204" /> 
+     <player id="308610" /> 
+     <player id="309995" /> 
+     <player id="312462" /> 
+     <player id="365455" /> 
+     <player id="372529" /> 
+     <player id="387323" /> 
+     <player id="396160" /> 
+     <player id="413434" /> 
+     <player id="458975" /> 
+     <player id="525726" /> 
+     <player id="530507" /> 
+     <player id="538522" /> 
+     <player id="4047" /> 
+     <player id="96491" /> 
+     <player id="124086" /> 
+     <player id="166311" /> 
+     <player id="166540" /> 
+     <player id="197876" /> 
+     <player id="222845" /> 
+     <player id="226791" /> 
+     <player id="285955" /> 
+     <player id="298167" /> 
+     <player id="350119" /> 
+     <player id="353107" /> 
+     <player id="372447" /> 
+     <player id="372723" /> 
+   </players> 
+   <coaches> 
+     <coach id="275095" /> 
+   </coaches> 
+</team>

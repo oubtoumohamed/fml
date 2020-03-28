@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1943</team_id> 
+   <id>588438</id> 
+   <name>F. Stevanović</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/588438.png</image> 
+   <position>مهاجم</position> 
+   <nationality>صربيا</nationality> 
+   <birth-day>2002-09-25</birth-day> 
+   <length  unit="cm">صربيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>960</id> 
+   <name>نادي فيردر بريمن</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/960.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Franz-Böhmert-Straße 1c</adrese> 
+   <website>http://www.werder.de</website> 
+   <creation-date>1899</creation-date> 
+   <players> 
+     <player id="2732" /> 
+     <player id="154019" /> 
+     <player id="259781" /> 
+     <player id="285734" /> 
+     <player id="470121" /> 
+     <player id="16499" /> 
+     <player id="36807" /> 
+     <player id="37846" /> 
+     <player id="56958" /> 
+     <player id="63828" /> 
+     <player id="70453" /> 
+     <player id="74231" /> 
+     <player id="95861" /> 
+     <player id="160427" /> 
+     <player id="218090" /> 
+     <player id="258970" /> 
+     <player id="259322" /> 
+     <player id="309630" /> 
+     <player id="319915" /> 
+     <player id="379259" /> 
+     <player id="414367" /> 
+     <player id="440862" /> 
+     <player id="453557" /> 
+     <player id="1964" /> 
+     <player id="11232" /> 
+     <player id="16416" /> 
+     <player id="38494" /> 
+     <player id="42190" /> 
+     <player id="84185" /> 
+     <player id="120261" /> 
+     <player id="122822" /> 
+     <player id="124759" /> 
+     <player id="158581" /> 
+     <player id="179905" /> 
+     <player id="209418" /> 
+     <player id="273845" /> 
+     <player id="307342" /> 
+     <player id="319949" /> 
+     <player id="392401" /> 
+     <player id="438002" /> 
+     <player id="443718" /> 
+     <player id="453561" /> 
+     <player id="463673" /> 
+     <player id="477855" /> 
+     <player id="480161" /> 
+     <player id="2037" /> 
+     <player id="2054" /> 
+     <player id="38500" /> 
+     <player id="61432" /> 
+     <player id="74303" /> 
+     <player id="78577" /> 
+     <player id="90778" /> 
+     <player id="102530" /> 
+     <player id="166369" /> 
+     <player id="396093" /> 
+     <player id="398836" /> 
+     <player id="479415" /> 
+     <player id="480162" /> 
+     <player id="563135" /> 
+   </players> 
+   <coaches> 
+     <coach id="24" /> 
+     <coach id="395117" /> 
+     <coach id="519884" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>711</id> 
+   <name>نادي بورنموث لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/711.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Dean Court, Kings Park</adrese> 
+   <website>http://www.afcb.co.uk</website> 
+   <creation-date>1899</creation-date> 
+   <players> 
+     <player id="724" /> 
+     <player id="2566" /> 
+     <player id="30599" /> 
+     <player id="421838" /> 
+     <player id="443616" /> 
+     <player id="529829" /> 
+     <player id="15806" /> 
+     <player id="51102" /> 
+     <player id="60225" /> 
+     <player id="66379" /> 
+     <player id="88146" /> 
+     <player id="139545" /> 
+     <player id="182930" /> 
+     <player id="183071" /> 
+     <player id="238788" /> 
+     <player id="274052" /> 
+     <player id="278777" /> 
+     <player id="356337" /> 
+     <player id="433522" /> 
+     <player id="445661" /> 
+     <player id="471131" /> 
+     <player id="471436" /> 
+     <player id="472230" /> 
+     <player id="529833" /> 
+     <player id="529928" /> 
+     <player id="591226" /> 
+     <player id="15494" /> 
+     <player id="15647" /> 
+     <player id="45992" /> 
+     <player id="50754" /> 
+     <player id="68668" /> 
+     <player id="159839" /> 
+     <player id="200314" /> 
+     <player id="288830" /> 
+     <player id="289548" /> 
+     <player id="310621" /> 
+     <player id="316312" /> 
+     <player id="325569" /> 
+     <player id="335184" /> 
+     <player id="335778" /> 
+     <player id="376315" /> 
+     <player id="395901" /> 
+     <player id="401078" /> 
+     <player id="465850" /> 
+     <player id="529838" /> 
+     <player id="533141" /> 
+     <player id="2950" /> 
+     <player id="15809" /> 
+     <player id="89009" /> 
+     <player id="93432" /> 
+     <player id="278717" /> 
+     <player id="320283" /> 
+     <player id="413156" /> 
+     <player id="419539" /> 
+     <player id="421951" /> 
+     <player id="458650" /> 
+     <player id="591232" /> 
+   </players> 
+   <coaches> 
+     <coach id="36373" /> 
+     <coach id="169884" /> 
+   </coaches> 
+</team>

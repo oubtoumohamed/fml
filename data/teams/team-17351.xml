@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>17351</id> 
+   <name>جمعية عين مليلة الرياضية</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/17351.png</image> 
+   <country>الجزائر</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>1925</creation-date> 
+   <players> 
+     <player id="49108" /> 
+     <player id="266319" /> 
+     <player id="495305" /> 
+     <player id="560934" /> 
+     <player id="68842" /> 
+     <player id="80285" /> 
+     <player id="256483" /> 
+     <player id="268464" /> 
+     <player id="414226" /> 
+     <player id="421933" /> 
+     <player id="455170" /> 
+     <player id="470675" /> 
+     <player id="540264" /> 
+     <player id="540265" /> 
+     <player id="556741" /> 
+     <player id="560924" /> 
+     <player id="48946" /> 
+     <player id="76087" /> 
+     <player id="168414" /> 
+     <player id="266297" /> 
+     <player id="273624" /> 
+     <player id="281712" /> 
+     <player id="333044" /> 
+     <player id="360155" /> 
+     <player id="382243" /> 
+     <player id="455122" /> 
+     <player id="455125" /> 
+     <player id="455152" /> 
+     <player id="455509" /> 
+     <player id="480088" /> 
+     <player id="485832" /> 
+     <player id="540268" /> 
+     <player id="540952" /> 
+     <player id="556756" /> 
+     <player id="556762" /> 
+     <player id="556763" /> 
+     <player id="560935" /> 
+     <player id="613853" /> 
+     <player id="623801" /> 
+     <player id="624230" /> 
+     <player id="624231" /> 
+     <player id="48984" /> 
+     <player id="126563" /> 
+     <player id="281711" /> 
+     <player id="414190" /> 
+     <player id="414224" /> 
+     <player id="438583" /> 
+     <player id="438647" /> 
+     <player id="455441" /> 
+     <player id="472189" /> 
+     <player id="530719" /> 
+     <player id="540266" /> 
+     <player id="605349" /> 
+     <player id="624229" /> 
+     <player id="624775" /> 
+   </players> 
+   <coaches> 
+     <coach id="208059" /> 
+     <coach id="232474" /> 
+     <coach id="292482" /> 
+     <coach id="470197" /> 
+     <coach id="582466" /> 
+     <coach id="591550" /> 
+   </coaches> 
+</team>

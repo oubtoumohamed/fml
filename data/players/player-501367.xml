@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1844</team_id> 
+   <id>501367</id> 
+   <name>D. Proshlyakov</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/501367.png</image> 
+   <position>مهاجم</position> 
+   <nationality>روسيا</nationality> 
+   <birth-day>2000-03-08</birth-day> 
+   <length  unit="cm">روسيا</length> 
+   <weight  unit="kg">187</weight> 
+</player>

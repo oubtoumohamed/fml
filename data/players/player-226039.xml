@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>801</team_id> 
+   <id>226039</id> 
+   <name>م. ليهكوسو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/226039.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>فينلندا</nationality> 
+   <birth-day>1970-01-08</birth-day> 
+   <length  unit="cm">فينلندا</length> 
+   <weight  unit="kg"></weight> 
+</player>

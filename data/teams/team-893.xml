@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>893</id> 
+   <name>نادي ستاد رين لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/893.png</image> 
+   <country>فرنسا</country> 
+   <adrese>111, route de Lorient</adrese> 
+   <website>http://www.staderennais.com</website> 
+   <creation-date>1901</creation-date> 
+   <players> 
+     <player id="1102" /> 
+     <player id="109700" /> 
+     <player id="146310" /> 
+     <player id="213222" /> 
+     <player id="275158" /> 
+     <player id="377125" /> 
+     <player id="594002" /> 
+     <player id="636046" /> 
+     <player id="1124" /> 
+     <player id="1248" /> 
+     <player id="1457" /> 
+     <player id="44699" /> 
+     <player id="94606" /> 
+     <player id="161652" /> 
+     <player id="256773" /> 
+     <player id="257317" /> 
+     <player id="268632" /> 
+     <player id="320249" /> 
+     <player id="334248" /> 
+     <player id="343413" /> 
+     <player id="351537" /> 
+     <player id="387417" /> 
+     <player id="393352" /> 
+     <player id="404824" /> 
+     <player id="536080" /> 
+     <player id="1158" /> 
+     <player id="1588" /> 
+     <player id="3993" /> 
+     <player id="4689" /> 
+     <player id="6248" /> 
+     <player id="39299" /> 
+     <player id="56963" /> 
+     <player id="138313" /> 
+     <player id="158019" /> 
+     <player id="246089" /> 
+     <player id="258616" /> 
+     <player id="264629" /> 
+     <player id="307700" /> 
+     <player id="320106" /> 
+     <player id="321621" /> 
+     <player id="336068" /> 
+     <player id="398062" /> 
+     <player id="400599" /> 
+     <player id="426534" /> 
+     <player id="474624" /> 
+     <player id="517599" /> 
+     <player id="542647" /> 
+     <player id="570734" /> 
+     <player id="73474" /> 
+     <player id="88818" /> 
+     <player id="162512" /> 
+     <player id="276171" /> 
+     <player id="298222" /> 
+     <player id="313390" /> 
+     <player id="324260" /> 
+     <player id="328270" /> 
+     <player id="419562" /> 
+     <player id="429714" /> 
+     <player id="438863" /> 
+     <player id="446903" /> 
+     <player id="453991" /> 
+     <player id="464545" /> 
+     <player id="564922" /> 
+   </players> 
+   <coaches> 
+     <coach id="246065" /> 
+     <coach id="418104" /> 
+   </coaches> 
+</team>

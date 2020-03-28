@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>13720</id> 
+   <name>فيتورول كونستانتا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/13720.png</image> 
+   <country>رومانيا</country> 
+   <adrese>Hotel Iaki, ap. 120</adrese> 
+   <website>http://www.academiahagi.ro</website> 
+   <creation-date>2004 / 2009</creation-date> 
+   <players> 
+     <player id="153682" /> 
+     <player id="186950" /> 
+     <player id="270589" /> 
+     <player id="319629" /> 
+     <player id="423427" /> 
+     <player id="517727" /> 
+     <player id="12280" /> 
+     <player id="19257" /> 
+     <player id="134257" /> 
+     <player id="182772" /> 
+     <player id="208629" /> 
+     <player id="214851" /> 
+     <player id="244844" /> 
+     <player id="274649" /> 
+     <player id="282315" /> 
+     <player id="319632" /> 
+     <player id="325328" /> 
+     <player id="379177" /> 
+     <player id="379179" /> 
+     <player id="379185" /> 
+     <player id="408625" /> 
+     <player id="427555" /> 
+     <player id="427557" /> 
+     <player id="427559" /> 
+     <player id="435065" /> 
+     <player id="446538" /> 
+     <player id="555467" /> 
+     <player id="555468" /> 
+     <player id="568231" /> 
+     <player id="574173" /> 
+     <player id="44200" /> 
+     <player id="66728" /> 
+     <player id="84867" /> 
+     <player id="134264" /> 
+     <player id="191961" /> 
+     <player id="191962" /> 
+     <player id="217668" /> 
+     <player id="252092" /> 
+     <player id="262840" /> 
+     <player id="264155" /> 
+     <player id="271267" /> 
+     <player id="295614" /> 
+     <player id="319636" /> 
+     <player id="319638" /> 
+     <player id="319643" /> 
+     <player id="343845" /> 
+     <player id="379189" /> 
+     <player id="379193" /> 
+     <player id="379199" /> 
+     <player id="392913" /> 
+     <player id="416846" /> 
+     <player id="422080" /> 
+     <player id="422081" /> 
+     <player id="427564" /> 
+     <player id="444162" /> 
+     <player id="446542" /> 
+     <player id="463497" /> 
+     <player id="464284" /> 
+     <player id="517756" /> 
+     <player id="517979" /> 
+     <player id="518612" /> 
+     <player id="616792" /> 
+     <player id="96331" /> 
+     <player id="153704" /> 
+     <player id="180419" /> 
+     <player id="237032" /> 
+     <player id="269332" /> 
+     <player id="303082" /> 
+     <player id="315715" /> 
+     <player id="319640" /> 
+     <player id="328118" /> 
+     <player id="403802" /> 
+     <player id="416965" /> 
+     <player id="422082" /> 
+     <player id="426779" /> 
+     <player id="428247" /> 
+     <player id="443687" /> 
+     <player id="449680" /> 
+     <player id="464256" /> 
+     <player id="464262" /> 
+     <player id="467487" /> 
+     <player id="517761" /> 
+     <player id="616793" /> 
+   </players> 
+   <coaches> 
+     <coach id="153714" /> 
+     <coach id="161077" /> 
+     <coach id="214875" /> 
+   </coaches> 
+</team>

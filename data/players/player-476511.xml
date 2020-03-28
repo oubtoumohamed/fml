@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2253</team_id> 
+   <id>476511</id> 
+   <name>Benito</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/476511.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>نيجيريا</nationality> 
+   <birth-day>1998-09-07</birth-day> 
+   <length  unit="cm">ساحل</length> 
+   <weight  unit="kg">179</weight> 
+</player>

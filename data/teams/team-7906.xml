@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>7906</id> 
+   <name>Lincoln Red Imps FC</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/7906.png</image> 
+   <country>جبل طارق</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="58867" /> 
+     <player id="310222" /> 
+     <player id="427667" /> 
+     <player id="458268" /> 
+     <player id="554469" /> 
+     <player id="615353" /> 
+     <player id="59773" /> 
+     <player id="60021" /> 
+     <player id="60902" /> 
+     <player id="167575" /> 
+     <player id="262635" /> 
+     <player id="268871" /> 
+     <player id="310216" /> 
+     <player id="322354" /> 
+     <player id="322355" /> 
+     <player id="347157" /> 
+     <player id="375227" /> 
+     <player id="407769" /> 
+     <player id="427669" /> 
+     <player id="427672" /> 
+     <player id="478271" /> 
+     <player id="59925" /> 
+     <player id="60069" /> 
+     <player id="82489" /> 
+     <player id="141478" /> 
+     <player id="158994" /> 
+     <player id="259212" /> 
+     <player id="319344" /> 
+     <player id="319350" /> 
+     <player id="320348" /> 
+     <player id="320349" /> 
+     <player id="338731" /> 
+     <player id="389867" /> 
+     <player id="415748" /> 
+     <player id="427676" /> 
+     <player id="447852" /> 
+     <player id="447997" /> 
+     <player id="467618" /> 
+     <player id="467620" /> 
+     <player id="486373" /> 
+     <player id="554470" /> 
+     <player id="554471" /> 
+     <player id="59873" /> 
+     <player id="149958" /> 
+     <player id="207407" /> 
+     <player id="261943" /> 
+     <player id="267812" /> 
+     <player id="308728" /> 
+     <player id="311633" /> 
+     <player id="319360" /> 
+     <player id="319361" /> 
+     <player id="322364" /> 
+     <player id="322365" /> 
+     <player id="322368" /> 
+     <player id="427675" /> 
+     <player id="427677" /> 
+     <player id="468879" /> 
+     <player id="487742" /> 
+     <player id="488004" /> 
+     <player id="521889" /> 
+   </players> 
+   <coaches> 
+     <coach id="270651" /> 
+     <coach id="308702" /> 
+     <coach id="554472" /> 
+   </coaches> 
+</team>

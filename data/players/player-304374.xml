@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3133</team_id> 
+   <id>304374</id> 
+   <name>N. El Maestro</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/304374.png</image> 
+   <position>غير معروف</position> 
+   <nationality>صربيا</nationality> 
+   <birth-day>1983-03-25</birth-day> 
+   <length  unit="cm">صربيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

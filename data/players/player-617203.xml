@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1573</team_id> 
+   <id>617203</id> 
+   <name>Connor Friel</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/617203.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>إيرلندا الشمالية</nationality> 
+   <birth-day>2003-06-14</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

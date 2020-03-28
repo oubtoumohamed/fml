@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>9135</id> 
+   <name>CS Petrocub Hînceşti</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/9135.png</image> 
+   <country>مولدوفا</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="160239" /> 
+     <player id="162012" /> 
+     <player id="265026" /> 
+     <player id="332342" /> 
+     <player id="466356" /> 
+     <player id="482412" /> 
+     <player id="514263" /> 
+     <player id="39327" /> 
+     <player id="39328" /> 
+     <player id="39522" /> 
+     <player id="177218" /> 
+     <player id="177477" /> 
+     <player id="211298" /> 
+     <player id="233330" /> 
+     <player id="269983" /> 
+     <player id="287782" /> 
+     <player id="297928" /> 
+     <player id="345559" /> 
+     <player id="384509" /> 
+     <player id="411033" /> 
+     <player id="411034" /> 
+     <player id="446189" /> 
+     <player id="476614" /> 
+     <player id="489475" /> 
+     <player id="507628" /> 
+     <player id="20258" /> 
+     <player id="38924" /> 
+     <player id="76700" /> 
+     <player id="83389" /> 
+     <player id="114252" /> 
+     <player id="138557" /> 
+     <player id="211289" /> 
+     <player id="211292" /> 
+     <player id="229438" /> 
+     <player id="258443" /> 
+     <player id="304432" /> 
+     <player id="310905" /> 
+     <player id="384525" /> 
+     <player id="411226" /> 
+     <player id="461857" /> 
+     <player id="465001" /> 
+     <player id="481918" /> 
+     <player id="482406" /> 
+     <player id="482408" /> 
+     <player id="482411" /> 
+     <player id="482918" /> 
+     <player id="489511" /> 
+     <player id="517153" /> 
+     <player id="544406" /> 
+     <player id="629575" /> 
+     <player id="38958" /> 
+     <player id="42520" /> 
+     <player id="47049" /> 
+     <player id="108195" /> 
+     <player id="162010" /> 
+     <player id="166676" /> 
+     <player id="181467" /> 
+     <player id="229439" /> 
+     <player id="281048" /> 
+     <player id="318651" /> 
+     <player id="321965" /> 
+     <player id="336949" /> 
+     <player id="504666" /> 
+     <player id="544407" /> 
+   </players> 
+   <coaches> 
+     <coach id="39499" /> 
+     <coach id="198455" /> 
+     <coach id="236822" /> 
+     <coach id="411227" /> 
+   </coaches> 
+</team>

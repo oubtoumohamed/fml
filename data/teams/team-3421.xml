@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3421</id> 
+   <name>نصر حسين داي</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3421.png</image> 
+   <country>الجزائر</country> 
+   <adrese>3, rue Amar Bensmara, Hussein-Dey</adrese> 
+   <website>http://www.nasria.com</website> 
+   <creation-date>1947</creation-date> 
+   <players> 
+     <player id="309940" /> 
+     <player id="358597" /> 
+     <player id="417714" /> 
+     <player id="490503" /> 
+     <player id="622530" /> 
+     <player id="622531" /> 
+     <player id="76083" /> 
+     <player id="79720" /> 
+     <player id="266143" /> 
+     <player id="288551" /> 
+     <player id="297607" /> 
+     <player id="309954" /> 
+     <player id="309978" /> 
+     <player id="311131" /> 
+     <player id="360145" /> 
+     <player id="460204" /> 
+     <player id="470675" /> 
+     <player id="470676" /> 
+     <player id="490506" /> 
+     <player id="490511" /> 
+     <player id="495308" /> 
+     <player id="555085" /> 
+     <player id="556244" /> 
+     <player id="556245" /> 
+     <player id="556248" /> 
+     <player id="594794" /> 
+     <player id="89021" /> 
+     <player id="138410" /> 
+     <player id="151803" /> 
+     <player id="164027" /> 
+     <player id="209353" /> 
+     <player id="211186" /> 
+     <player id="266278" /> 
+     <player id="266648" /> 
+     <player id="271901" /> 
+     <player id="290636" /> 
+     <player id="331272" /> 
+     <player id="413906" /> 
+     <player id="413914" /> 
+     <player id="413915" /> 
+     <player id="429128" /> 
+     <player id="486765" /> 
+     <player id="490500" /> 
+     <player id="494997" /> 
+     <player id="531036" /> 
+     <player id="556243" /> 
+     <player id="556247" /> 
+     <player id="622533" /> 
+     <player id="622536" /> 
+     <player id="79705" /> 
+     <player id="243659" /> 
+     <player id="313745" /> 
+     <player id="330095" /> 
+     <player id="357747" /> 
+     <player id="480109" /> 
+     <player id="487153" /> 
+     <player id="490512" /> 
+     <player id="540266" /> 
+     <player id="556246" /> 
+     <player id="556249" /> 
+     <player id="556252" /> 
+     <player id="608163" /> 
+     <player id="622382" /> 
+     <player id="622537" /> 
+     <player id="622539" /> 
+     <player id="622540" /> 
+     <player id="649706" /> 
+   </players> 
+   <coaches> 
+     <coach id="210743" /> 
+     <coach id="232474" /> 
+     <coach id="275253" /> 
+     <coach id="470197" /> 
+     <coach id="582451" /> 
+     <coach id="582453" /> 
+     <coach id="624757" /> 
+     <coach id="642498" /> 
+     <coach id="643426" /> 
+     <coach id="643428" /> 
+   </coaches> 
+</team>

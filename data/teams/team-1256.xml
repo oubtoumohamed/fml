@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1256</id> 
+   <name>نادي كالياري</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1256.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Viale La Playa 15</adrese> 
+   <website>http://www.cagliaricalcio.net</website> 
+   <creation-date>1920</creation-date> 
+   <players> 
+     <player id="63271" /> 
+     <player id="111435" /> 
+     <player id="115246" /> 
+     <player id="180566" /> 
+     <player id="338189" /> 
+     <player id="460825" /> 
+     <player id="485303" /> 
+     <player id="518074" /> 
+     <player id="625627" /> 
+     <player id="366" /> 
+     <player id="2324" /> 
+     <player id="32644" /> 
+     <player id="60622" /> 
+     <player id="61265" /> 
+     <player id="63057" /> 
+     <player id="93293" /> 
+     <player id="96912" /> 
+     <player id="149876" /> 
+     <player id="162538" /> 
+     <player id="214391" /> 
+     <player id="235486" /> 
+     <player id="317331" /> 
+     <player id="330642" /> 
+     <player id="419721" /> 
+     <player id="424974" /> 
+     <player id="430288" /> 
+     <player id="430289" /> 
+     <player id="472327" /> 
+     <player id="477415" /> 
+     <player id="483498" /> 
+     <player id="513151" /> 
+     <player id="525677" /> 
+     <player id="545394" /> 
+     <player id="647792" /> 
+     <player id="649977" /> 
+     <player id="1360" /> 
+     <player id="4290" /> 
+     <player id="4295" /> 
+     <player id="17855" /> 
+     <player id="18461" /> 
+     <player id="22885" /> 
+     <player id="38859" /> 
+     <player id="76998" /> 
+     <player id="131916" /> 
+     <player id="194564" /> 
+     <player id="252337" /> 
+     <player id="266707" /> 
+     <player id="297043" /> 
+     <player id="317624" /> 
+     <player id="319838" /> 
+     <player id="331580" /> 
+     <player id="425385" /> 
+     <player id="444190" /> 
+     <player id="460438" /> 
+     <player id="462866" /> 
+     <player id="467670" /> 
+     <player id="514337" /> 
+     <player id="519841" /> 
+     <player id="534464" /> 
+     <player id="13557" /> 
+     <player id="17863" /> 
+     <player id="21519" /> 
+     <player id="91442" /> 
+     <player id="93376" /> 
+     <player id="93460" /> 
+     <player id="106194" /> 
+     <player id="213208" /> 
+     <player id="235207" /> 
+     <player id="278827" /> 
+     <player id="303036" /> 
+     <player id="353425" /> 
+     <player id="425941" /> 
+     <player id="468540" /> 
+     <player id="519839" /> 
+     <player id="579777" /> 
+   </players> 
+   <coaches> 
+     <coach id="4234" /> 
+     <coach id="212683" /> 
+   </coaches> 
+</team>

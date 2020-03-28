@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>808</team_id> 
+   <id>616704</id> 
+   <name>L. Virkki</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/616704.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>فينلندا</nationality> 
+   <birth-day>فينلندا</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

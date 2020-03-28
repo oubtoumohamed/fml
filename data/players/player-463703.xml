@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1517</team_id> 
+   <id>463703</id> 
+   <name>ز. أبوخلال</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/463703.png</image> 
+   <position>مهاجم</position> 
+   <nationality>هولندا</nationality> 
+   <birth-day>2000-02-18</birth-day> 
+   <length  unit="cm">اليمني</length> 
+   <weight  unit="kg"></weight> 
+</player>

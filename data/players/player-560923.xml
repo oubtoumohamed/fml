@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3413</team_id> 
+   <id>560923</id> 
+   <name>ع. معزى</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/560923.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>الجزائر</nationality> 
+   <birth-day>1994-06-13</birth-day> 
+   <length  unit="cm">الجزائر</length> 
+   <weight  unit="kg"></weight> 
+</player>

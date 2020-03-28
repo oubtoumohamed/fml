@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1824</id> 
+   <name>كلوج سي أف أر1907</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1824.png</image> 
+   <country>رومانيا</country> 
+   <adrese>Str. Romulus Vuia, nr. 23</adrese> 
+   <website>http://www.cfr1907.ro</website> 
+   <creation-date>1907</creation-date> 
+   <players> 
+     <player id="11934" /> 
+     <player id="52939" /> 
+     <player id="131811" /> 
+     <player id="137739" /> 
+     <player id="472169" /> 
+     <player id="489978" /> 
+     <player id="491932" /> 
+     <player id="557135" /> 
+     <player id="12347" /> 
+     <player id="17010" /> 
+     <player id="19257" /> 
+     <player id="41483" /> 
+     <player id="56654" /> 
+     <player id="100725" /> 
+     <player id="111191" /> 
+     <player id="125401" /> 
+     <player id="136420" /> 
+     <player id="163966" /> 
+     <player id="196811" /> 
+     <player id="266897" /> 
+     <player id="313867" /> 
+     <player id="319634" /> 
+     <player id="405963" /> 
+     <player id="436283" /> 
+     <player id="446538" /> 
+     <player id="453318" /> 
+     <player id="581769" /> 
+     <player id="632188" /> 
+     <player id="12032" /> 
+     <player id="25429" /> 
+     <player id="43606" /> 
+     <player id="44199" /> 
+     <player id="46241" /> 
+     <player id="84881" /> 
+     <player id="92157" /> 
+     <player id="120142" /> 
+     <player id="138183" /> 
+     <player id="146986" /> 
+     <player id="191261" /> 
+     <player id="203395" /> 
+     <player id="209563" /> 
+     <player id="214854" /> 
+     <player id="281334" /> 
+     <player id="343367" /> 
+     <player id="379187" /> 
+     <player id="391915" /> 
+     <player id="397570" /> 
+     <player id="422208" /> 
+     <player id="464287" /> 
+     <player id="483407" /> 
+     <player id="539375" /> 
+     <player id="579456" /> 
+     <player id="627268" /> 
+     <player id="3005" /> 
+     <player id="61150" /> 
+     <player id="68200" /> 
+     <player id="74354" /> 
+     <player id="75210" /> 
+     <player id="84529" /> 
+     <player id="111146" /> 
+     <player id="156571" /> 
+     <player id="162504" /> 
+     <player id="196383" /> 
+     <player id="263869" /> 
+     <player id="375629" /> 
+     <player id="416965" /> 
+     <player id="417355" /> 
+     <player id="437256" /> 
+   </players> 
+   <coaches> 
+     <coach id="103804" /> 
+     <coach id="155909" /> 
+     <coach id="166310" /> 
+     <coach id="178322" /> 
+   </coaches> 
+</team>

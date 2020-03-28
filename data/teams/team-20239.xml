@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>20239</id> 
+   <name>الصريح</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/20239.png</image> 
+   <country>الأردن</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+   </players> 
+   <coaches> 
+   </coaches> 
+</team>

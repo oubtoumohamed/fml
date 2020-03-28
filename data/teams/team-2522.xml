@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2522</id> 
+   <name>كي إف لاتشي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2522.png</image> 
+   <country>ألبانيا</country> 
+   <adrese>Stadiumi Laçit</adrese> 
+   <website>http://www.kflaci.com</website> 
+   <creation-date>1965</creation-date> 
+   <players> 
+     <player id="39660" /> 
+     <player id="39897" /> 
+     <player id="57381" /> 
+     <player id="83706" /> 
+     <player id="320907" /> 
+     <player id="380623" /> 
+     <player id="382357" /> 
+     <player id="395466" /> 
+     <player id="417179" /> 
+     <player id="429784" /> 
+     <player id="452355" /> 
+     <player id="508753" /> 
+     <player id="571308" /> 
+     <player id="617192" /> 
+     <player id="36554" /> 
+     <player id="41079" /> 
+     <player id="45611" /> 
+     <player id="57412" /> 
+     <player id="85513" /> 
+     <player id="95423" /> 
+     <player id="98123" /> 
+     <player id="103539" /> 
+     <player id="113042" /> 
+     <player id="149743" /> 
+     <player id="149744" /> 
+     <player id="213599" /> 
+     <player id="213600" /> 
+     <player id="269385" /> 
+     <player id="294676" /> 
+     <player id="317992" /> 
+     <player id="322294" /> 
+     <player id="325874" /> 
+     <player id="326084" /> 
+     <player id="329402" /> 
+     <player id="335169" /> 
+     <player id="377085" /> 
+     <player id="387785" /> 
+     <player id="396233" /> 
+     <player id="427013" /> 
+     <player id="428498" /> 
+     <player id="451922" /> 
+     <player id="506475" /> 
+     <player id="508639" /> 
+     <player id="546306" /> 
+     <player id="555328" /> 
+     <player id="568613" /> 
+     <player id="613436" /> 
+     <player id="634353" /> 
+     <player id="634354" /> 
+     <player id="634355" /> 
+     <player id="637960" /> 
+     <player id="649401" /> 
+     <player id="35316" /> 
+     <player id="39819" /> 
+     <player id="41113" /> 
+     <player id="45542" /> 
+     <player id="78920" /> 
+     <player id="82918" /> 
+     <player id="83001" /> 
+     <player id="91005" /> 
+     <player id="98115" /> 
+     <player id="98186" /> 
+     <player id="139845" /> 
+     <player id="147966" /> 
+     <player id="166404" /> 
+     <player id="208098" /> 
+     <player id="213603" /> 
+     <player id="250398" /> 
+     <player id="266645" /> 
+     <player id="271179" /> 
+     <player id="294966" /> 
+     <player id="319651" /> 
+     <player id="320282" /> 
+     <player id="320401" /> 
+     <player id="321994" /> 
+     <player id="322296" /> 
+     <player id="329111" /> 
+     <player id="380771" /> 
+     <player id="382415" /> 
+     <player id="420116" /> 
+     <player id="424293" /> 
+     <player id="428433" /> 
+     <player id="441370" /> 
+     <player id="444024" /> 
+     <player id="444025" /> 
+     <player id="459129" /> 
+     <player id="464427" /> 
+     <player id="464808" /> 
+     <player id="468163" /> 
+     <player id="505192" /> 
+     <player id="506476" /> 
+     <player id="518631" /> 
+     <player id="559353" /> 
+     <player id="591570" /> 
+     <player id="613435" /> 
+     <player id="637603" /> 
+     <player id="642952" /> 
+     <player id="29146" /> 
+     <player id="41092" /> 
+     <player id="41119" /> 
+     <player id="91394" /> 
+     <player id="115152" /> 
+     <player id="134754" /> 
+     <player id="219843" /> 
+     <player id="233861" /> 
+     <player id="244114" /> 
+     <player id="268606" /> 
+     <player id="272931" /> 
+     <player id="308680" /> 
+     <player id="320499" /> 
+     <player id="330976" /> 
+     <player id="331750" /> 
+     <player id="396358" /> 
+     <player id="430392" /> 
+     <player id="505196" /> 
+     <player id="531968" /> 
+     <player id="541667" /> 
+     <player id="563398" /> 
+     <player id="573921" /> 
+     <player id="616673" /> 
+     <player id="620648" /> 
+   </players> 
+   <coaches> 
+     <coach id="7497" /> 
+     <coach id="134826" /> 
+     <coach id="134838" /> 
+     <coach id="148356" /> 
+     <coach id="177790" /> 
+     <coach id="232317" /> 
+     <coach id="249557" /> 
+     <coach id="441519" /> 
+   </coaches> 
+</team>

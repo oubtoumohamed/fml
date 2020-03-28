@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>923</id> 
+   <name>نادي ديجون لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/923.png</image> 
+   <country>فرنسا</country> 
+   <adrese>9, rue Ernest Champaux</adrese> 
+   <website>http://www.dfco.fr</website> 
+   <creation-date>1936</creation-date> 
+   <players> 
+     <player id="158035" /> 
+     <player id="161066" /> 
+     <player id="167762" /> 
+     <player id="175779" /> 
+     <player id="213029" /> 
+     <player id="517589" /> 
+     <player id="570753" /> 
+     <player id="1261" /> 
+     <player id="13444" /> 
+     <player id="37412" /> 
+     <player id="37564" /> 
+     <player id="68865" /> 
+     <player id="113551" /> 
+     <player id="138433" /> 
+     <player id="138718" /> 
+     <player id="163966" /> 
+     <player id="172985" /> 
+     <player id="201534" /> 
+     <player id="248849" /> 
+     <player id="405620" /> 
+     <player id="416709" /> 
+     <player id="435409" /> 
+     <player id="440122" /> 
+     <player id="498275" /> 
+     <player id="515917" /> 
+     <player id="536324" /> 
+     <player id="597940" /> 
+     <player id="1271" /> 
+     <player id="3993" /> 
+     <player id="47061" /> 
+     <player id="87462" /> 
+     <player id="132629" /> 
+     <player id="166877" /> 
+     <player id="191886" /> 
+     <player id="241946" /> 
+     <player id="269538" /> 
+     <player id="274640" /> 
+     <player id="296492" /> 
+     <player id="306990" /> 
+     <player id="340837" /> 
+     <player id="398753" /> 
+     <player id="405175" /> 
+     <player id="420421" /> 
+     <player id="458296" /> 
+     <player id="534361" /> 
+     <player id="536326" /> 
+     <player id="566707" /> 
+     <player id="157986" /> 
+     <player id="158106" /> 
+     <player id="235484" /> 
+     <player id="236228" /> 
+     <player id="286007" /> 
+     <player id="372907" /> 
+     <player id="424645" /> 
+     <player id="425074" /> 
+     <player id="432400" /> 
+     <player id="446032" /> 
+     <player id="446556" /> 
+     <player id="472704" /> 
+   </players> 
+   <coaches> 
+     <coach id="37641" /> 
+     <coach id="110847" /> 
+     <coach id="166879" /> 
+     <coach id="254286" /> 
+   </coaches> 
+</team>

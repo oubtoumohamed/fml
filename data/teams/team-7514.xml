@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>7514</id> 
+   <name>نادي يوسفية برشيد أثليتيك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/7514.png</image> 
+   <country>المغرب</country> 
+   <adrese>Boulevard Mohammed V</adrese> 
+   <website></website> 
+   <creation-date>1927</creation-date> 
+   <players> 
+     <player id="588499" /> 
+     <player id="632704" /> 
+     <player id="642189" /> 
+     <player id="437172" /> 
+     <player id="437270" /> 
+     <player id="630790" /> 
+     <player id="632689" /> 
+     <player id="632691" /> 
+     <player id="632692" /> 
+     <player id="632708" /> 
+     <player id="632710" /> 
+     <player id="633899" /> 
+     <player id="641909" /> 
+     <player id="131647" /> 
+     <player id="281326" /> 
+     <player id="392140" /> 
+     <player id="405619" /> 
+     <player id="435402" /> 
+     <player id="548795" /> 
+     <player id="632697" /> 
+     <player id="632703" /> 
+     <player id="632983" /> 
+     <player id="632986" /> 
+     <player id="633900" /> 
+     <player id="647978" /> 
+     <player id="72711" /> 
+     <player id="96210" /> 
+     <player id="632690" /> 
+     <player id="632694" /> 
+     <player id="632706" /> 
+     <player id="632990" /> 
+     <player id="632996" /> 
+     <player id="634134" /> 
+     <player id="642188" /> 
+   </players> 
+   <coaches> 
+     <coach id="105200" /> 
+     <coach id="632556" /> 
+   </coaches> 
+</team>

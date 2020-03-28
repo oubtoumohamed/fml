@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2700</id> 
+   <name>نادي سراييفو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2700.png</image> 
+   <country>البوسنة والهرسك</country> 
+   <adrese>Maršala Tita 38b</adrese> 
+   <website>http://www.fcsarajevo.ba</website> 
+   <creation-date>1946</creation-date> 
+   <players> 
+     <player id="38711" /> 
+     <player id="84373" /> 
+     <player id="184791" /> 
+     <player id="270629" /> 
+     <player id="335750" /> 
+     <player id="488163" /> 
+     <player id="513270" /> 
+     <player id="94680" /> 
+     <player id="94772" /> 
+     <player id="131347" /> 
+     <player id="144439" /> 
+     <player id="225044" /> 
+     <player id="297908" /> 
+     <player id="304285" /> 
+     <player id="351801" /> 
+     <player id="386969" /> 
+     <player id="451343" /> 
+     <player id="488164" /> 
+     <player id="513278" /> 
+     <player id="521112" /> 
+     <player id="555397" /> 
+     <player id="39480" /> 
+     <player id="48079" /> 
+     <player id="126601" /> 
+     <player id="139237" /> 
+     <player id="158449" /> 
+     <player id="198969" /> 
+     <player id="233890" /> 
+     <player id="266639" /> 
+     <player id="268620" /> 
+     <player id="285962" /> 
+     <player id="286920" /> 
+     <player id="311730" /> 
+     <player id="318323" /> 
+     <player id="318325" /> 
+     <player id="403623" /> 
+     <player id="420659" /> 
+     <player id="427788" /> 
+     <player id="427790" /> 
+     <player id="488166" /> 
+     <player id="521110" /> 
+     <player id="59710" /> 
+     <player id="66175" /> 
+     <player id="91394" /> 
+     <player id="125848" /> 
+     <player id="201876" /> 
+     <player id="317589" /> 
+     <player id="407489" /> 
+     <player id="424111" /> 
+     <player id="461839" /> 
+     <player id="464502" /> 
+     <player id="555920" /> 
+     <player id="589846" /> 
+     <player id="612922" /> 
+   </players> 
+   <coaches> 
+     <coach id="248555" /> 
+     <coach id="646268" /> 
+   </coaches> 
+</team>

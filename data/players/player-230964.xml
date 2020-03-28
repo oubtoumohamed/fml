@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>5642</team_id> 
+   <id>230964</id> 
+   <name>زوران ماميتش</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/230964.png</image> 
+   <position>مدافع</position> 
+   <nationality>كرواتيا</nationality> 
+   <birth-day>1971-09-30</birth-day> 
+   <length  unit="cm">كرواتيا</length> 
+   <weight  unit="kg">190</weight> 
+</player>

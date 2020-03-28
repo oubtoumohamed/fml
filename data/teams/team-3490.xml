@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3490</id> 
+   <name>الاتحاد الرياضي المنستيري</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3490.png</image> 
+   <country>تونس</country> 
+   <adrese>Avenue 7 Novembre</adrese> 
+   <website>http://www.usmonastir.com</website> 
+   <creation-date>1923/1942</creation-date> 
+   <players> 
+     <player id="290897" /> 
+     <player id="335249" /> 
+     <player id="377591" /> 
+     <player id="450570" /> 
+     <player id="539749" /> 
+     <player id="26214" /> 
+     <player id="71621" /> 
+     <player id="138342" /> 
+     <player id="277656" /> 
+     <player id="314625" /> 
+     <player id="319074" /> 
+     <player id="367229" /> 
+     <player id="407426" /> 
+     <player id="431389" /> 
+     <player id="500464" /> 
+     <player id="506751" /> 
+     <player id="544803" /> 
+     <player id="571510" /> 
+     <player id="571512" /> 
+     <player id="585540" /> 
+     <player id="622534" /> 
+     <player id="622535" /> 
+     <player id="114570" /> 
+     <player id="222987" /> 
+     <player id="229766" /> 
+     <player id="245427" /> 
+     <player id="262521" /> 
+     <player id="285791" /> 
+     <player id="290029" /> 
+     <player id="298154" /> 
+     <player id="317946" /> 
+     <player id="321059" /> 
+     <player id="322229" /> 
+     <player id="324055" /> 
+     <player id="379737" /> 
+     <player id="389983" /> 
+     <player id="402072" /> 
+     <player id="407425" /> 
+     <player id="412949" /> 
+     <player id="431958" /> 
+     <player id="433524" /> 
+     <player id="463352" /> 
+     <player id="471060" /> 
+     <player id="500463" /> 
+     <player id="503084" /> 
+     <player id="525034" /> 
+     <player id="535592" /> 
+     <player id="546128" /> 
+     <player id="548747" /> 
+     <player id="569942" /> 
+     <player id="586895" /> 
+     <player id="612867" /> 
+     <player id="612868" /> 
+     <player id="626214" /> 
+     <player id="629176" /> 
+     <player id="629177" /> 
+     <player id="53182" /> 
+     <player id="53189" /> 
+     <player id="69319" /> 
+     <player id="89122" /> 
+     <player id="140378" /> 
+     <player id="277191" /> 
+     <player id="277228" /> 
+     <player id="328245" /> 
+     <player id="379549" /> 
+     <player id="400343" /> 
+     <player id="407427" /> 
+     <player id="428904" /> 
+     <player id="434835" /> 
+     <player id="517098" /> 
+     <player id="531968" /> 
+     <player id="556450" /> 
+     <player id="569945" /> 
+     <player id="622532" /> 
+     <player id="632715" /> 
+   </players> 
+   <coaches> 
+     <coach id="245784" /> 
+     <coach id="317207" /> 
+     <coach id="400232" /> 
+     <coach id="526571" /> 
+     <coach id="546892" /> 
+   </coaches> 
+</team>

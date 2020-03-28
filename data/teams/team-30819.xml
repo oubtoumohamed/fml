@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>30819</id> 
+   <name>NŠ Mura</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/30819.png</image> 
+   <country>سلوفينيا</country> 
+   <adrese>Kopališka 45, p.p. 118</adrese> 
+   <website>http://www.nsmura.si/</website> 
+   <creation-date>2012</creation-date> 
+   <players> 
+     <player id="192071" /> 
+     <player id="194563" /> 
+     <player id="318346" /> 
+     <player id="542529" /> 
+     <player id="610345" /> 
+     <player id="162536" /> 
+     <player id="266676" /> 
+     <player id="290173" /> 
+     <player id="386607" /> 
+     <player id="423768" /> 
+     <player id="483661" /> 
+     <player id="495255" /> 
+     <player id="499326" /> 
+     <player id="551249" /> 
+     <player id="601255" /> 
+     <player id="136643" /> 
+     <player id="143393" /> 
+     <player id="143413" /> 
+     <player id="225928" /> 
+     <player id="244317" /> 
+     <player id="268936" /> 
+     <player id="322461" /> 
+     <player id="343973" /> 
+     <player id="378671" /> 
+     <player id="380373" /> 
+     <player id="413980" /> 
+     <player id="454809" /> 
+     <player id="477906" /> 
+     <player id="610348" /> 
+     <player id="617330" /> 
+     <player id="245371" /> 
+     <player id="249775" /> 
+     <player id="251495" /> 
+     <player id="289072" /> 
+     <player id="316272" /> 
+     <player id="374771" /> 
+     <player id="616684" /> 
+   </players> 
+   <coaches> 
+     <coach id="205143" /> 
+   </coaches> 
+</team>

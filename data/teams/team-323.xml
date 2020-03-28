@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>323</id> 
+   <name>نادي بوتافوجو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/323.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Avenida Venceslau Brás 72, Bairro Botafago</adrese> 
+   <website>http://www.bfr.com.br</website> 
+   <creation-date>1904</creation-date> 
+   <players> 
+     <player id="4802" /> 
+     <player id="9276" /> 
+     <player id="23639" /> 
+     <player id="171229" /> 
+     <player id="383065" /> 
+     <player id="477837" /> 
+     <player id="566804" /> 
+     <player id="594371" /> 
+     <player id="9776" /> 
+     <player id="32731" /> 
+     <player id="50302" /> 
+     <player id="128883" /> 
+     <player id="178463" /> 
+     <player id="186344" /> 
+     <player id="282265" /> 
+     <player id="301816" /> 
+     <player id="330130" /> 
+     <player id="383067" /> 
+     <player id="395280" /> 
+     <player id="396153" /> 
+     <player id="433836" /> 
+     <player id="444966" /> 
+     <player id="458826" /> 
+     <player id="474632" /> 
+     <player id="483562" /> 
+     <player id="531053" /> 
+     <player id="546491" /> 
+     <player id="593134" /> 
+     <player id="594372" /> 
+     <player id="604526" /> 
+     <player id="616074" /> 
+     <player id="648696" /> 
+     <player id="648697" /> 
+     <player id="648699" /> 
+     <player id="648700" /> 
+     <player id="648701" /> 
+     <player id="649394" /> 
+     <player id="6405" /> 
+     <player id="9138" /> 
+     <player id="103550" /> 
+     <player id="112806" /> 
+     <player id="113530" /> 
+     <player id="188039" /> 
+     <player id="207935" /> 
+     <player id="243845" /> 
+     <player id="316757" /> 
+     <player id="318534" /> 
+     <player id="334847" /> 
+     <player id="362429" /> 
+     <player id="390405" /> 
+     <player id="390551" /> 
+     <player id="395563" /> 
+     <player id="404439" /> 
+     <player id="422907" /> 
+     <player id="436627" /> 
+     <player id="447817" /> 
+     <player id="467977" /> 
+     <player id="481981" /> 
+     <player id="497391" /> 
+     <player id="558295" /> 
+     <player id="612668" /> 
+     <player id="645505" /> 
+     <player id="648702" /> 
+     <player id="648703" /> 
+     <player id="648704" /> 
+     <player id="9202" /> 
+     <player id="32705" /> 
+     <player id="71760" /> 
+     <player id="181034" /> 
+     <player id="236747" /> 
+     <player id="276338" /> 
+     <player id="279126" /> 
+     <player id="282242" /> 
+     <player id="291015" /> 
+     <player id="330208" /> 
+     <player id="341551" /> 
+     <player id="395693" /> 
+     <player id="435734" /> 
+     <player id="443962" /> 
+     <player id="469788" /> 
+     <player id="471390" /> 
+     <player id="484796" /> 
+     <player id="486018" /> 
+     <player id="491951" /> 
+     <player id="492689" /> 
+     <player id="597902" /> 
+     <player id="648705" /> 
+   </players> 
+   <coaches> 
+     <coach id="483" /> 
+     <coach id="16972" /> 
+     <coach id="296581" /> 
+     <coach id="340431" /> 
+     <coach id="446484" /> 
+   </coaches> 
+</team>

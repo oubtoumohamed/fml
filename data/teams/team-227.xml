@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>227</id> 
+   <name>نادي أوستنده الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/227.png</image> 
+   <country>بلجيكا</country> 
+   <adrese>Leopold van Tyghemlaan 62, Mariakerke</adrese> 
+   <website>http://www.kvo.be</website> 
+   <creation-date>1904 / 1911 / 1981</creation-date> 
+   <players> 
+     <player id="39605" /> 
+     <player id="145363" /> 
+     <player id="260729" /> 
+     <player id="333993" /> 
+     <player id="619215" /> 
+     <player id="247" /> 
+     <player id="9712" /> 
+     <player id="13273" /> 
+     <player id="28208" /> 
+     <player id="86083" /> 
+     <player id="86085" /> 
+     <player id="89878" /> 
+     <player id="111916" /> 
+     <player id="135064" /> 
+     <player id="156563" /> 
+     <player id="189113" /> 
+     <player id="207743" /> 
+     <player id="236824" /> 
+     <player id="274387" /> 
+     <player id="302163" /> 
+     <player id="319386" /> 
+     <player id="423986" /> 
+     <player id="460037" /> 
+     <player id="477611" /> 
+     <player id="489027" /> 
+     <player id="616594" /> 
+     <player id="44358" /> 
+     <player id="53410" /> 
+     <player id="79514" /> 
+     <player id="88726" /> 
+     <player id="88760" /> 
+     <player id="137145" /> 
+     <player id="169836" /> 
+     <player id="190787" /> 
+     <player id="213115" /> 
+     <player id="231996" /> 
+     <player id="235271" /> 
+     <player id="296548" /> 
+     <player id="334858" /> 
+     <player id="405697" /> 
+     <player id="409845" /> 
+     <player id="420202" /> 
+     <player id="483769" /> 
+     <player id="489025" /> 
+     <player id="489026" /> 
+     <player id="501749" /> 
+     <player id="13147" /> 
+     <player id="13460" /> 
+     <player id="87636" /> 
+     <player id="182709" /> 
+     <player id="211786" /> 
+     <player id="239224" /> 
+     <player id="279066" /> 
+     <player id="472848" /> 
+     <player id="476838" /> 
+     <player id="594701" /> 
+   </players> 
+   <coaches> 
+     <coach id="13193" /> 
+     <coach id="104261" /> 
+     <coach id="114534" /> 
+     <coach id="114760" /> 
+     <coach id="162928" /> 
+     <coach id="223564" /> 
+   </coaches> 
+</team>

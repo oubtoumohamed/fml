@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>777</team_id> 
+   <id>498321</id> 
+   <name>R. Suvinõmm</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/498321.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>أستونيا</nationality> 
+   <birth-day>2001-10-29</birth-day> 
+   <length  unit="cm">أستونيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

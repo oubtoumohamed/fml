@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>670</team_id> 
+   <id>489050</id> 
+   <name>موسى دجينيبو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/489050.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>مالي</nationality> 
+   <birth-day>1998-06-15</birth-day> 
+   <length  unit="cm">مالي</length> 
+   <weight  unit="kg">177</weight> 
+</player>

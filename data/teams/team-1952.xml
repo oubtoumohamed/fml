@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1952</id> 
+   <name>نادي زيتا جولوبوفيتشي لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1952.png</image> 
+   <country>مونتينيغرو</country> 
+   <adrese>Stadion Trešnjica bb</adrese> 
+   <website>http://www.fkzeta.com</website> 
+   <creation-date>1927</creation-date> 
+   <players> 
+     <player id="38970" /> 
+     <player id="132693" /> 
+     <player id="154365" /> 
+     <player id="415885" /> 
+     <player id="597380" /> 
+     <player id="209423" /> 
+     <player id="214373" /> 
+     <player id="269902" /> 
+     <player id="270130" /> 
+     <player id="270278" /> 
+     <player id="277213" /> 
+     <player id="318365" /> 
+     <player id="381389" /> 
+     <player id="386301" /> 
+     <player id="441387" /> 
+     <player id="618117" /> 
+     <player id="78440" /> 
+     <player id="161802" /> 
+     <player id="190846" /> 
+     <player id="251646" /> 
+     <player id="298656" /> 
+     <player id="340731" /> 
+     <player id="375017" /> 
+     <player id="407956" /> 
+     <player id="461718" /> 
+     <player id="466669" /> 
+     <player id="485233" /> 
+     <player id="488162" /> 
+     <player id="515217" /> 
+     <player id="547135" /> 
+     <player id="569268" /> 
+     <player id="306985" /> 
+     <player id="310669" /> 
+     <player id="406471" /> 
+     <player id="443318" /> 
+     <player id="466672" /> 
+     <player id="518009" /> 
+     <player id="525898" /> 
+     <player id="575324" /> 
+     <player id="616669" /> 
+   </players> 
+   <coaches> 
+     <coach id="134842" /> 
+     <coach id="221577" /> 
+     <coach id="468633" /> 
+     <coach id="600289" /> 
+   </coaches> 
+</team>

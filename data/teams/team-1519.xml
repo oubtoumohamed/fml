@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1519</id> 
+   <name>هيرنفين</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1519.png</image> 
+   <country>هولندا</country> 
+   <adrese>Abe Lenstra Boulevard 19</adrese> 
+   <website>http://www.sc-heerenveen.nl</website> 
+   <creation-date>1920</creation-date> 
+   <players> 
+     <player id="16063" /> 
+     <player id="97286" /> 
+     <player id="102913" /> 
+     <player id="162021" /> 
+     <player id="452051" /> 
+     <player id="499271" /> 
+     <player id="537543" /> 
+     <player id="39152" /> 
+     <player id="134067" /> 
+     <player id="136106" /> 
+     <player id="195600" /> 
+     <player id="234958" /> 
+     <player id="269216" /> 
+     <player id="335401" /> 
+     <player id="385271" /> 
+     <player id="421707" /> 
+     <player id="423878" /> 
+     <player id="437259" /> 
+     <player id="452053" /> 
+     <player id="463014" /> 
+     <player id="465854" /> 
+     <player id="2215" /> 
+     <player id="69360" /> 
+     <player id="122603" /> 
+     <player id="137185" /> 
+     <player id="255123" /> 
+     <player id="270136" /> 
+     <player id="270648" /> 
+     <player id="289816" /> 
+     <player id="314251" /> 
+     <player id="334861" /> 
+     <player id="346537" /> 
+     <player id="376309" /> 
+     <player id="407742" /> 
+     <player id="459312" /> 
+     <player id="537575" /> 
+     <player id="537596" /> 
+     <player id="567599" /> 
+     <player id="575319" /> 
+     <player id="17318" /> 
+     <player id="228894" /> 
+     <player id="268859" /> 
+     <player id="270642" /> 
+     <player id="277506" /> 
+     <player id="379857" /> 
+     <player id="401124" /> 
+     <player id="407736" /> 
+     <player id="421643" /> 
+     <player id="426574" /> 
+     <player id="477369" /> 
+     <player id="515469" /> 
+     <player id="526566" /> 
+     <player id="567597" /> 
+   </players> 
+   <coaches> 
+     <coach id="139540" /> 
+     <coach id="349511" /> 
+     <coach id="426719" /> 
+     <coach id="440047" /> 
+   </coaches> 
+</team>

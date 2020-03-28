@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>218</id> 
+   <name>نادي شارلروا الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/218.png</image> 
+   <country>بلجيكا</country> 
+   <adrese>Boulevard Zoé Drion 19</adrese> 
+   <website>http://www.sporting-charleroi.be</website> 
+   <creation-date>1904</creation-date> 
+   <players> 
+     <player id="1129" /> 
+     <player id="1578" /> 
+     <player id="146306" /> 
+     <player id="314383" /> 
+     <player id="351513" /> 
+     <player id="520713" /> 
+     <player id="558062" /> 
+     <player id="5890" /> 
+     <player id="19202" /> 
+     <player id="39450" /> 
+     <player id="60627" /> 
+     <player id="65724" /> 
+     <player id="182637" /> 
+     <player id="190434" /> 
+     <player id="192076" /> 
+     <player id="194667" /> 
+     <player id="244142" /> 
+     <player id="257293" /> 
+     <player id="306980" /> 
+     <player id="402581" /> 
+     <player id="488993" /> 
+     <player id="559739" /> 
+     <player id="2384" /> 
+     <player id="75113" /> 
+     <player id="77244" /> 
+     <player id="86749" /> 
+     <player id="89922" /> 
+     <player id="121076" /> 
+     <player id="165828" /> 
+     <player id="180973" /> 
+     <player id="215343" /> 
+     <player id="259668" /> 
+     <player id="259982" /> 
+     <player id="299490" /> 
+     <player id="311596" /> 
+     <player id="312180" /> 
+     <player id="319503" /> 
+     <player id="424637" /> 
+     <player id="435420" /> 
+     <player id="436042" /> 
+     <player id="474781" /> 
+     <player id="579262" /> 
+     <player id="602436" /> 
+     <player id="619208" /> 
+     <player id="638248" /> 
+     <player id="2425" /> 
+     <player id="13462" /> 
+     <player id="37958" /> 
+     <player id="102746" /> 
+     <player id="250819" /> 
+     <player id="257365" /> 
+     <player id="319030" /> 
+     <player id="381855" /> 
+     <player id="425645" /> 
+     <player id="499287" /> 
+     <player id="538731" /> 
+     <player id="593958" /> 
+     <player id="601114" /> 
+     <player id="605136" /> 
+   </players> 
+   <coaches> 
+     <coach id="53524" /> 
+     <coach id="114769" /> 
+     <coach id="231172" /> 
+   </coaches> 
+</team>

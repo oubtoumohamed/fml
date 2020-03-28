@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1184</id> 
+   <name>نادي شامروك روفرز لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1184.png</image> 
+   <country>أيرلندا</country> 
+   <adrese>Whitestown Way, Tallaght</adrese> 
+   <website>http://www.shamrockrovers.ie</website> 
+   <creation-date>1901</creation-date> 
+   <players> 
+     <player id="7458" /> 
+     <player id="39525" /> 
+     <player id="407894" /> 
+     <player id="477624" /> 
+     <player id="550339" /> 
+     <player id="596451" /> 
+     <player id="2624" /> 
+     <player id="121151" /> 
+     <player id="155786" /> 
+     <player id="157719" /> 
+     <player id="229833" /> 
+     <player id="234459" /> 
+     <player id="354663" /> 
+     <player id="399169" /> 
+     <player id="475317" /> 
+     <player id="542790" /> 
+     <player id="547633" /> 
+     <player id="597650" /> 
+     <player id="608391" /> 
+     <player id="7207" /> 
+     <player id="40154" /> 
+     <player id="56566" /> 
+     <player id="215921" /> 
+     <player id="270546" /> 
+     <player id="272874" /> 
+     <player id="326238" /> 
+     <player id="375173" /> 
+     <player id="398227" /> 
+     <player id="459453" /> 
+     <player id="465868" /> 
+     <player id="475320" /> 
+     <player id="476064" /> 
+     <player id="495725" /> 
+     <player id="509064" /> 
+     <player id="25502" /> 
+     <player id="73889" /> 
+     <player id="113740" /> 
+     <player id="191797" /> 
+     <player id="313608" /> 
+     <player id="390051" /> 
+     <player id="399188" /> 
+     <player id="407979" /> 
+     <player id="446934" /> 
+     <player id="555507" /> 
+     <player id="603056" /> 
+     <player id="637968" /> 
+   </players> 
+   <coaches> 
+     <coach id="7075" /> 
+   </coaches> 
+</team>

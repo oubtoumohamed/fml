@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2193</id> 
+   <name>نادي لوتسيرن لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2193.png</image> 
+   <country>سويسرا</country> 
+   <adrese>Horwerstrasse 34</adrese> 
+   <website>http://www.fcl.ch</website> 
+   <creation-date>1901</creation-date> 
+   <players> 
+     <player id="11359" /> 
+     <player id="154284" /> 
+     <player id="232583" /> 
+     <player id="349933" /> 
+     <player id="349975" /> 
+     <player id="449633" /> 
+     <player id="11297" /> 
+     <player id="11365" /> 
+     <player id="85672" /> 
+     <player id="134345" /> 
+     <player id="158894" /> 
+     <player id="211007" /> 
+     <player id="227885" /> 
+     <player id="260081" /> 
+     <player id="318015" /> 
+     <player id="379651" /> 
+     <player id="404588" /> 
+     <player id="451201" /> 
+     <player id="476277" /> 
+     <player id="607970" /> 
+     <player id="617817" /> 
+     <player id="649929" /> 
+     <player id="43648" /> 
+     <player id="61202" /> 
+     <player id="186078" /> 
+     <player id="213351" /> 
+     <player id="256634" /> 
+     <player id="295740" /> 
+     <player id="316546" /> 
+     <player id="316552" /> 
+     <player id="336837" /> 
+     <player id="359525" /> 
+     <player id="360199" /> 
+     <player id="386933" /> 
+     <player id="466029" /> 
+     <player id="519270" /> 
+     <player id="541162" /> 
+     <player id="636437" /> 
+     <player id="147965" /> 
+     <player id="185349" /> 
+     <player id="201874" /> 
+     <player id="251671" /> 
+     <player id="301597" /> 
+     <player id="391943" /> 
+     <player id="468034" /> 
+     <player id="489383" /> 
+     <player id="555704" /> 
+     <player id="601089" /> 
+     <player id="617812" /> 
+     <player id="646066" /> 
+   </players> 
+   <coaches> 
+     <coach id="3796" /> 
+     <coach id="11310" /> 
+     <coach id="177560" /> 
+     <coach id="291616" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>479</id> 
+   <name>جي ان كي دينامو زغرب</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/479.png</image> 
+   <country>كرواتيا</country> 
+   <adrese>Maksimirska cesta 128</adrese> 
+   <website>http://www.gnkdinamo.hr</website> 
+   <creation-date>1911</creation-date> 
+   <players> 
+     <player id="135078" /> 
+     <player id="156574" /> 
+     <player id="215476" /> 
+     <player id="386599" /> 
+     <player id="420586" /> 
+     <player id="541152" /> 
+     <player id="565330" /> 
+     <player id="26008" /> 
+     <player id="35786" /> 
+     <player id="42186" /> 
+     <player id="65943" /> 
+     <player id="83910" /> 
+     <player id="86672" /> 
+     <player id="89794" /> 
+     <player id="120936" /> 
+     <player id="134638" /> 
+     <player id="215490" /> 
+     <player id="235221" /> 
+     <player id="261244" /> 
+     <player id="275371" /> 
+     <player id="303332" /> 
+     <player id="318347" /> 
+     <player id="318349" /> 
+     <player id="386603" /> 
+     <player id="400267" /> 
+     <player id="433485" /> 
+     <player id="460387" /> 
+     <player id="467557" /> 
+     <player id="476973" /> 
+     <player id="482589" /> 
+     <player id="485875" /> 
+     <player id="579285" /> 
+     <player id="36607" /> 
+     <player id="48956" /> 
+     <player id="73476" /> 
+     <player id="213601" /> 
+     <player id="273285" /> 
+     <player id="273296" /> 
+     <player id="318320" /> 
+     <player id="318354" /> 
+     <player id="318357" /> 
+     <player id="375333" /> 
+     <player id="386611" /> 
+     <player id="395366" /> 
+     <player id="400266" /> 
+     <player id="414366" /> 
+     <player id="416910" /> 
+     <player id="424605" /> 
+     <player id="427665" /> 
+     <player id="442708" /> 
+     <player id="448109" /> 
+     <player id="482594" /> 
+     <player id="19064" /> 
+     <player id="83269" /> 
+     <player id="85764" /> 
+     <player id="99452" /> 
+     <player id="159848" /> 
+     <player id="178280" /> 
+     <player id="205247" /> 
+     <player id="283010" /> 
+     <player id="286332" /> 
+     <player id="294176" /> 
+     <player id="318360" /> 
+     <player id="404770" /> 
+     <player id="406517" /> 
+     <player id="427663" /> 
+     <player id="478145" /> 
+     <player id="482593" /> 
+     <player id="505115" /> 
+   </players> 
+   <coaches> 
+     <coach id="195287" /> 
+     <coach id="222249" /> 
+     <coach id="321695" /> 
+   </coaches> 
+</team>

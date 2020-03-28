@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>963</team_id> 
+   <id>413824</id> 
+   <name>ت. كوكس</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/413824.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>بولندا</nationality> 
+   <birth-day>1999-07-06</birth-day> 
+   <length  unit="cm">184</length> 
+   <weight  unit="kg">83</weight> 
+</player>

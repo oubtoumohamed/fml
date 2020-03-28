@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>37518</id> 
+   <name>Səbail FK</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/37518.png</image> 
+   <country>أذربيجان</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="19662" /> 
+     <player id="59712" /> 
+     <player id="90833" /> 
+     <player id="103223" /> 
+     <player id="215253" /> 
+     <player id="589919" /> 
+     <player id="47454" /> 
+     <player id="136796" /> 
+     <player id="139358" /> 
+     <player id="157755" /> 
+     <player id="170868" /> 
+     <player id="178157" /> 
+     <player id="211199" /> 
+     <player id="215515" /> 
+     <player id="218823" /> 
+     <player id="316112" /> 
+     <player id="397764" /> 
+     <player id="442670" /> 
+     <player id="451140" /> 
+     <player id="480941" /> 
+     <player id="515630" /> 
+     <player id="574068" /> 
+     <player id="621" /> 
+     <player id="40022" /> 
+     <player id="40582" /> 
+     <player id="138193" /> 
+     <player id="161872" /> 
+     <player id="215273" /> 
+     <player id="244611" /> 
+     <player id="274859" /> 
+     <player id="342057" /> 
+     <player id="342061" /> 
+     <player id="359171" /> 
+     <player id="400274" /> 
+     <player id="423511" /> 
+     <player id="461467" /> 
+     <player id="464601" /> 
+     <player id="470974" /> 
+     <player id="496697" /> 
+     <player id="580882" /> 
+     <player id="584814" /> 
+     <player id="30576" /> 
+     <player id="50316" /> 
+     <player id="84411" /> 
+     <player id="150339" /> 
+     <player id="171412" /> 
+     <player id="201979" /> 
+     <player id="204956" /> 
+     <player id="211626" /> 
+     <player id="296493" /> 
+     <player id="348043" /> 
+     <player id="357097" /> 
+     <player id="399085" /> 
+     <player id="589265" /> 
+   </players> 
+   <coaches> 
+     <coach id="97849" /> 
+     <coach id="551182" /> 
+   </coaches> 
+</team>

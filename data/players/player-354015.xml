@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3188</team_id> 
+   <id>354015</id> 
+   <name>G. Dermendzhiev</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/354015.png</image> 
+   <position>غير معروف</position> 
+   <nationality>بلغاريا</nationality> 
+   <birth-day>1955-01-04</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

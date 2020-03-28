@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>660</team_id> 
+   <id>233546</id> 
+   <name>مات ماسي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/233546.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>إنجلترا</nationality> 
+   <birth-day>1994-09-09</birth-day> 
+   <length  unit="cm">إنجلترا</length> 
+   <weight  unit="kg">198</weight> 
+</player>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2693</team_id> 
+   <id>608397</id> 
+   <name>R. Kozhukhovskyi</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/608397.png</image> 
+   <position>غير معروف</position> 
+   <nationality>أوكرانيا</nationality> 
+   <birth-day>1979-01-24</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

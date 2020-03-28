@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1042</id> 
+   <name>نادي أيك أثينا لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1042.png</image> 
+   <country>اليونان</country> 
+   <adrese>69-71 Grammou, Maroussi</adrese> 
+   <website>http://www.aekfc.gr</website> 
+   <creation-date>1924</creation-date> 
+   <players> 
+     <player id="208624" /> 
+     <player id="217229" /> 
+     <player id="222486" /> 
+     <player id="262035" /> 
+     <player id="272919" /> 
+     <player id="317185" /> 
+     <player id="509435" /> 
+     <player id="560677" /> 
+     <player id="675" /> 
+     <player id="31038" /> 
+     <player id="32444" /> 
+     <player id="70196" /> 
+     <player id="90508" /> 
+     <player id="95744" /> 
+     <player id="152658" /> 
+     <player id="154644" /> 
+     <player id="166056" /> 
+     <player id="223054" /> 
+     <player id="269710" /> 
+     <player id="334850" /> 
+     <player id="379049" /> 
+     <player id="393176" /> 
+     <player id="407722" /> 
+     <player id="441461" /> 
+     <player id="572130" /> 
+     <player id="506" /> 
+     <player id="6248" /> 
+     <player id="18891" /> 
+     <player id="19283" /> 
+     <player id="39209" /> 
+     <player id="87869" /> 
+     <player id="89928" /> 
+     <player id="95420" /> 
+     <player id="134713" /> 
+     <player id="194194" /> 
+     <player id="280824" /> 
+     <player id="288279" /> 
+     <player id="303462" /> 
+     <player id="424104" /> 
+     <player id="428255" /> 
+     <player id="478735" /> 
+     <player id="504805" /> 
+     <player id="504808" /> 
+     <player id="560643" /> 
+     <player id="572146" /> 
+     <player id="102597" /> 
+     <player id="115130" /> 
+     <player id="116576" /> 
+     <player id="154138" /> 
+     <player id="171928" /> 
+     <player id="204850" /> 
+     <player id="233204" /> 
+     <player id="259332" /> 
+     <player id="262036" /> 
+     <player id="317202" /> 
+     <player id="317832" /> 
+     <player id="329827" /> 
+     <player id="351879" /> 
+     <player id="373031" /> 
+     <player id="428253" /> 
+     <player id="504811" /> 
+   </players> 
+   <coaches> 
+     <coach id="110780" /> 
+     <coach id="152544" /> 
+     <coach id="175574" /> 
+     <coach id="258080" /> 
+     <coach id="494618" /> 
+   </coaches> 
+</team>

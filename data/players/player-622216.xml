@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>17074</team_id> 
+   <id>622216</id> 
+   <name>S. Trabelsi</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/622216.png</image> 
+   <position>مدافع</position> 
+   <nationality>تونس</nationality> 
+   <birth-day>1988-08-31</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

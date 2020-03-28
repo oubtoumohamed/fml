@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>7919</id> 
+   <name>Europa FC</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/7919.png</image> 
+   <country>جبل طارق</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="61540" /> 
+     <player id="319340" /> 
+     <player id="408096" /> 
+     <player id="616608" /> 
+     <player id="59993" /> 
+     <player id="62179" /> 
+     <player id="87411" /> 
+     <player id="149943" /> 
+     <player id="149965" /> 
+     <player id="213121" /> 
+     <player id="223010" /> 
+     <player id="310216" /> 
+     <player id="320345" /> 
+     <player id="320352" /> 
+     <player id="347483" /> 
+     <player id="375217" /> 
+     <player id="447995" /> 
+     <player id="478271" /> 
+     <player id="487737" /> 
+     <player id="554501" /> 
+     <player id="559484" /> 
+     <player id="59231" /> 
+     <player id="59968" /> 
+     <player id="61963" /> 
+     <player id="61991" /> 
+     <player id="164421" /> 
+     <player id="206416" /> 
+     <player id="207387" /> 
+     <player id="259724" /> 
+     <player id="305032" /> 
+     <player id="305710" /> 
+     <player id="356141" /> 
+     <player id="487738" /> 
+     <player id="487743" /> 
+     <player id="554498" /> 
+     <player id="61495" /> 
+     <player id="78349" /> 
+     <player id="176726" /> 
+     <player id="220701" /> 
+     <player id="262634" /> 
+     <player id="291963" /> 
+     <player id="407771" /> 
+     <player id="427675" /> 
+     <player id="447998" /> 
+     <player id="468879" /> 
+     <player id="487742" /> 
+     <player id="554499" /> 
+     <player id="554500" /> 
+   </players> 
+   <coaches> 
+     <coach id="209706" /> 
+     <coach id="408040" /> 
+   </coaches> 
+</team>

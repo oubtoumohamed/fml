@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1975</id> 
+   <name>نادي سبارتاك ترنافا لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1975.png</image> 
+   <country>سلوفاكيا</country> 
+   <adrese>Koniarekova 19</adrese> 
+   <website>http://www.spartak.sk</website> 
+   <creation-date>1923</creation-date> 
+   <players> 
+     <player id="14977" /> 
+     <player id="83533" /> 
+     <player id="252148" /> 
+     <player id="429407" /> 
+     <player id="441274" /> 
+     <player id="441762" /> 
+     <player id="513469" /> 
+     <player id="35101" /> 
+     <player id="83522" /> 
+     <player id="84682" /> 
+     <player id="85547" /> 
+     <player id="88430" /> 
+     <player id="135933" /> 
+     <player id="136198" /> 
+     <player id="189117" /> 
+     <player id="196040" /> 
+     <player id="205106" /> 
+     <player id="242784" /> 
+     <player id="249920" /> 
+     <player id="270630" /> 
+     <player id="295745" /> 
+     <player id="335728" /> 
+     <player id="345471" /> 
+     <player id="353677" /> 
+     <player id="380453" /> 
+     <player id="417053" /> 
+     <player id="427844" /> 
+     <player id="437254" /> 
+     <player id="513503" /> 
+     <player id="606701" /> 
+     <player id="12791" /> 
+     <player id="35519" /> 
+     <player id="42496" /> 
+     <player id="65912" /> 
+     <player id="73705" /> 
+     <player id="79660" /> 
+     <player id="83568" /> 
+     <player id="86199" /> 
+     <player id="108648" /> 
+     <player id="120151" /> 
+     <player id="137743" /> 
+     <player id="139237" /> 
+     <player id="154546" /> 
+     <player id="196080" /> 
+     <player id="202877" /> 
+     <player id="203333" /> 
+     <player id="213572" /> 
+     <player id="251063" /> 
+     <player id="256011" /> 
+     <player id="280774" /> 
+     <player id="302654" /> 
+     <player id="340705" /> 
+     <player id="343865" /> 
+     <player id="383249" /> 
+     <player id="390139" /> 
+     <player id="428560" /> 
+     <player id="575135" /> 
+     <player id="586587" /> 
+     <player id="597058" /> 
+     <player id="637909" /> 
+     <player id="35499" /> 
+     <player id="68492" /> 
+     <player id="83569" /> 
+     <player id="212566" /> 
+     <player id="214653" /> 
+     <player id="214833" /> 
+     <player id="215379" /> 
+     <player id="267199" /> 
+     <player id="276991" /> 
+     <player id="304018" /> 
+     <player id="320493" /> 
+     <player id="385873" /> 
+     <player id="437279" /> 
+     <player id="444717" /> 
+     <player id="460949" /> 
+     <player id="506419" /> 
+     <player id="562339" /> 
+     <player id="643139" /> 
+     <player id="646073" /> 
+   </players> 
+   <coaches> 
+     <coach id="53085" /> 
+     <coach id="216853" /> 
+     <coach id="304374" /> 
+     <coach id="307715" /> 
+     <coach id="378321" /> 
+     <coach id="443289" /> 
+   </coaches> 
+</team>

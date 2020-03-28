@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>703</team_id> 
+   <id>509852</id> 
+   <name>روماريك يابي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/509852.png</image> 
+   <position>مهاجم</position> 
+   <nationality>فرنسا</nationality> 
+   <birth-day>2000-07-13</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

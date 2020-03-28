@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>820</id> 
+   <name>نادي هلسنكي لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/820.png</image> 
+   <country>فينلندا</country> 
+   <adrese>Urheilukatu 5</adrese> 
+   <website>http://www.hjk.fi</website> 
+   <creation-date>1907</creation-date> 
+   <players> 
+     <player id="62213" /> 
+     <player id="299342" /> 
+     <player id="303300" /> 
+     <player id="361069" /> 
+     <player id="417539" /> 
+     <player id="418689" /> 
+     <player id="463325" /> 
+     <player id="547495" /> 
+     <player id="8292" /> 
+     <player id="8376" /> 
+     <player id="8383" /> 
+     <player id="21076" /> 
+     <player id="31396" /> 
+     <player id="31427" /> 
+     <player id="31452" /> 
+     <player id="126769" /> 
+     <player id="160202" /> 
+     <player id="167696" /> 
+     <player id="190293" /> 
+     <player id="236921" /> 
+     <player id="294209" /> 
+     <player id="297269" /> 
+     <player id="319686" /> 
+     <player id="405024" /> 
+     <player id="440874" /> 
+     <player id="442306" /> 
+     <player id="443828" /> 
+     <player id="463313" /> 
+     <player id="480010" /> 
+     <player id="511130" /> 
+     <player id="7864" /> 
+     <player id="8486" /> 
+     <player id="8583" /> 
+     <player id="28206" /> 
+     <player id="31405" /> 
+     <player id="31766" /> 
+     <player id="188149" /> 
+     <player id="252662" /> 
+     <player id="313970" /> 
+     <player id="335277" /> 
+     <player id="339885" /> 
+     <player id="373037" /> 
+     <player id="400164" /> 
+     <player id="400165" /> 
+     <player id="423862" /> 
+     <player id="436212" /> 
+     <player id="534594" /> 
+     <player id="547035" /> 
+     <player id="560121" /> 
+     <player id="8494" /> 
+     <player id="39464" /> 
+     <player id="109645" /> 
+     <player id="116201" /> 
+     <player id="125436" /> 
+     <player id="140118" /> 
+     <player id="169741" /> 
+     <player id="173344" /> 
+     <player id="298018" /> 
+     <player id="423861" /> 
+     <player id="423866" /> 
+     <player id="435363" /> 
+     <player id="479645" /> 
+     <player id="511135" /> 
+     <player id="626434" /> 
+   </players> 
+   <coaches> 
+     <coach id="28942" /> 
+     <coach id="226039" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>808</id> 
+   <name>نادي إنتر تركو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/808.png</image> 
+   <country>فينلندا</country> 
+   <adrese>Hippoksentie 21</adrese> 
+   <website>http://www.fcinter.com</website> 
+   <creation-date>1990</creation-date> 
+   <players> 
+     <player id="8427" /> 
+     <player id="133492" /> 
+     <player id="304135" /> 
+     <player id="404070" /> 
+     <player id="473638" /> 
+     <player id="616704" /> 
+     <player id="11462" /> 
+     <player id="31726" /> 
+     <player id="73955" /> 
+     <player id="78889" /> 
+     <player id="134408" /> 
+     <player id="187729" /> 
+     <player id="282382" /> 
+     <player id="294209" /> 
+     <player id="357103" /> 
+     <player id="411137" /> 
+     <player id="415118" /> 
+     <player id="433403" /> 
+     <player id="436262" /> 
+     <player id="440874" /> 
+     <player id="452158" /> 
+     <player id="464529" /> 
+     <player id="478419" /> 
+     <player id="485653" /> 
+     <player id="508913" /> 
+     <player id="7864" /> 
+     <player id="8310" /> 
+     <player id="37498" /> 
+     <player id="62267" /> 
+     <player id="126547" /> 
+     <player id="160197" /> 
+     <player id="198108" /> 
+     <player id="259516" /> 
+     <player id="335277" /> 
+     <player id="345289" /> 
+     <player id="402300" /> 
+     <player id="406896" /> 
+     <player id="413616" /> 
+     <player id="472174" /> 
+     <player id="519603" /> 
+     <player id="533485" /> 
+     <player id="533486" /> 
+     <player id="594010" /> 
+     <player id="596000" /> 
+     <player id="650158" /> 
+     <player id="650162" /> 
+     <player id="650163" /> 
+     <player id="8311" /> 
+     <player id="8315" /> 
+     <player id="68785" /> 
+     <player id="109645" /> 
+     <player id="121523" /> 
+     <player id="284349" /> 
+     <player id="289017" /> 
+     <player id="331779" /> 
+     <player id="385475" /> 
+     <player id="404107" /> 
+     <player id="413075" /> 
+     <player id="472671" /> 
+     <player id="480059" /> 
+     <player id="594011" /> 
+   </players> 
+   <coaches> 
+     <coach id="171291" /> 
+     <coach id="285327" /> 
+     <coach id="594009" /> 
+   </coaches> 
+</team>

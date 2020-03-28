@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>133</id> 
+   <name>نادي بيونيك لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/133.png</image> 
+   <country>أرمينيا</country> 
+   <adrese>Kilikia Sport Centre</adrese> 
+   <website>http://www.fcpyunik.am</website> 
+   <creation-date>1992</creation-date> 
+   <players> 
+     <player id="118770" /> 
+     <player id="135734" /> 
+     <player id="214655" /> 
+     <player id="262080" /> 
+     <player id="413511" /> 
+     <player id="448086" /> 
+     <player id="27812" /> 
+     <player id="54138" /> 
+     <player id="76340" /> 
+     <player id="80212" /> 
+     <player id="127242" /> 
+     <player id="131567" /> 
+     <player id="131651" /> 
+     <player id="134650" /> 
+     <player id="155420" /> 
+     <player id="160542" /> 
+     <player id="213597" /> 
+     <player id="214312" /> 
+     <player id="246685" /> 
+     <player id="256983" /> 
+     <player id="320289" /> 
+     <player id="339001" /> 
+     <player id="384587" /> 
+     <player id="401704" /> 
+     <player id="448087" /> 
+     <player id="451059" /> 
+     <player id="468274" /> 
+     <player id="468825" /> 
+     <player id="565311" /> 
+     <player id="565316" /> 
+     <player id="18066" /> 
+     <player id="40042" /> 
+     <player id="47455" /> 
+     <player id="127275" /> 
+     <player id="132858" /> 
+     <player id="138136" /> 
+     <player id="171234" /> 
+     <player id="188419" /> 
+     <player id="201323" /> 
+     <player id="214317" /> 
+     <player id="214321" /> 
+     <player id="250569" /> 
+     <player id="269548" /> 
+     <player id="286660" /> 
+     <player id="294070" /> 
+     <player id="302564" /> 
+     <player id="318372" /> 
+     <player id="320295" /> 
+     <player id="320296" /> 
+     <player id="384591" /> 
+     <player id="384595" /> 
+     <player id="385885" /> 
+     <player id="426306" /> 
+     <player id="432003" /> 
+     <player id="448091" /> 
+     <player id="452630" /> 
+     <player id="468292" /> 
+     <player id="492325" /> 
+     <player id="495564" /> 
+     <player id="554329" /> 
+     <player id="565313" /> 
+     <player id="576097" /> 
+     <player id="580345" /> 
+     <player id="599219" /> 
+     <player id="607856" /> 
+     <player id="616599" /> 
+     <player id="636188" /> 
+     <player id="2191" /> 
+     <player id="6485" /> 
+     <player id="49539" /> 
+     <player id="72984" /> 
+     <player id="123728" /> 
+     <player id="193398" /> 
+     <player id="197544" /> 
+     <player id="215377" /> 
+     <player id="320301" /> 
+     <player id="402919" /> 
+     <player id="440504" /> 
+     <player id="459786" /> 
+     <player id="483619" /> 
+     <player id="516383" /> 
+     <player id="595225" /> 
+     <player id="640558" /> 
+   </players> 
+   <coaches> 
+     <coach id="6582" /> 
+     <coach id="138483" /> 
+     <coach id="181746" /> 
+     <coach id="193853" /> 
+     <coach id="224727" /> 
+   </coaches> 
+</team>

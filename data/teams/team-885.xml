@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>885</id> 
+   <name>نادي موناكو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/885.png</image> 
+   <country>موناكو</country> 
+   <adrese>7, avenue des Castelans</adrese> 
+   <website>http://www.asmonaco.com</website> 
+   <creation-date>1919</creation-date> 
+   <players> 
+     <player id="196" /> 
+     <player id="37450" /> 
+     <player id="140896" /> 
+     <player id="351405" /> 
+     <player id="377125" /> 
+     <player id="456268" /> 
+     <player id="458899" /> 
+     <player id="2039" /> 
+     <player id="4389" /> 
+     <player id="21076" /> 
+     <player id="61019" /> 
+     <player id="97835" /> 
+     <player id="204771" /> 
+     <player id="222752" /> 
+     <player id="248739" /> 
+     <player id="290354" /> 
+     <player id="297440" /> 
+     <player id="320252" /> 
+     <player id="327218" /> 
+     <player id="332746" /> 
+     <player id="333872" /> 
+     <player id="334012" /> 
+     <player id="363051" /> 
+     <player id="420676" /> 
+     <player id="427650" /> 
+     <player id="455312" /> 
+     <player id="460172" /> 
+     <player id="506166" /> 
+     <player id="506319" /> 
+     <player id="508966" /> 
+     <player id="517436" /> 
+     <player id="328" /> 
+     <player id="5931" /> 
+     <player id="16585" /> 
+     <player id="16593" /> 
+     <player id="49530" /> 
+     <player id="73951" /> 
+     <player id="158393" /> 
+     <player id="162513" /> 
+     <player id="175302" /> 
+     <player id="193378" /> 
+     <player id="212821" /> 
+     <player id="215656" /> 
+     <player id="245348" /> 
+     <player id="288089" /> 
+     <player id="290180" /> 
+     <player id="297294" /> 
+     <player id="299856" /> 
+     <player id="306873" /> 
+     <player id="322795" /> 
+     <player id="327220" /> 
+     <player id="327832" /> 
+     <player id="406092" /> 
+     <player id="439050" /> 
+     <player id="459824" /> 
+     <player id="459831" /> 
+     <player id="466684" /> 
+     <player id="500276" /> 
+     <player id="506331" /> 
+     <player id="508986" /> 
+     <player id="562209" /> 
+     <player id="20216" /> 
+     <player id="45550" /> 
+     <player id="61150" /> 
+     <player id="89404" /> 
+     <player id="146646" /> 
+     <player id="214882" /> 
+     <player id="261884" /> 
+     <player id="289061" /> 
+     <player id="311753" /> 
+     <player id="314396" /> 
+     <player id="356451" /> 
+     <player id="372195" /> 
+     <player id="412581" /> 
+     <player id="426579" /> 
+     <player id="427911" /> 
+     <player id="449861" /> 
+     <player id="467674" /> 
+     <player id="477859" /> 
+     <player id="477860" /> 
+     <player id="505193" /> 
+     <player id="508989" /> 
+     <player id="533833" /> 
+   </players> 
+   <coaches> 
+     <coach id="551" /> 
+     <coach id="141733" /> 
+     <coach id="247900" /> 
+     <coach id="351407" /> 
+     <coach id="614071" /> 
+   </coaches> 
+</team>

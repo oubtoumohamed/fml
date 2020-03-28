@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>250</id> 
+   <name>فاسلاند بيفيرين</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/250.png</image> 
+   <country>بلجيكا</country> 
+   <adrese>Stadionplein 1</adrese> 
+   <website>http://www.waasland-beveren.be</website> 
+   <creation-date>1936</creation-date> 
+   <players> 
+     <player id="53610" /> 
+     <player id="155171" /> 
+     <player id="194904" /> 
+     <player id="215324" /> 
+     <player id="319354" /> 
+     <player id="405628" /> 
+     <player id="409866" /> 
+     <player id="460028" /> 
+     <player id="627254" /> 
+     <player id="94319" /> 
+     <player id="111434" /> 
+     <player id="128083" /> 
+     <player id="158185" /> 
+     <player id="257722" /> 
+     <player id="269891" /> 
+     <player id="321958" /> 
+     <player id="322038" /> 
+     <player id="334703" /> 
+     <player id="345105" /> 
+     <player id="387007" /> 
+     <player id="409868" /> 
+     <player id="409870" /> 
+     <player id="421828" /> 
+     <player id="450446" /> 
+     <player id="502641" /> 
+     <player id="520843" /> 
+     <player id="89989" /> 
+     <player id="92502" /> 
+     <player id="104876" /> 
+     <player id="121509" /> 
+     <player id="122603" /> 
+     <player id="131098" /> 
+     <player id="154800" /> 
+     <player id="183245" /> 
+     <player id="193385" /> 
+     <player id="200907" /> 
+     <player id="214386" /> 
+     <player id="217620" /> 
+     <player id="235271" /> 
+     <player id="273293" /> 
+     <player id="315052" /> 
+     <player id="338655" /> 
+     <player id="407237" /> 
+     <player id="411512" /> 
+     <player id="428362" /> 
+     <player id="431484" /> 
+     <player id="439049" /> 
+     <player id="449180" /> 
+     <player id="450433" /> 
+     <player id="481633" /> 
+     <player id="535767" /> 
+     <player id="546972" /> 
+     <player id="548997" /> 
+     <player id="611242" /> 
+     <player id="77882" /> 
+     <player id="102881" /> 
+     <player id="187768" /> 
+     <player id="215350" /> 
+     <player id="269905" /> 
+     <player id="274633" /> 
+     <player id="319397" /> 
+     <player id="331635" /> 
+     <player id="388469" /> 
+     <player id="401405" /> 
+     <player id="403829" /> 
+     <player id="405121" /> 
+     <player id="432719" /> 
+     <player id="435202" /> 
+     <player id="472211" /> 
+     <player id="578892" /> 
+     <player id="601107" /> 
+   </players> 
+   <coaches> 
+     <coach id="13167" /> 
+     <coach id="13193" /> 
+     <coach id="114763" /> 
+     <coach id="150095" /> 
+     <coach id="187035" /> 
+     <coach id="251095" /> 
+     <coach id="327963" /> 
+     <coach id="529659" /> 
+   </coaches> 
+</team>

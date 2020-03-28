@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2001</team_id> 
+   <id>559459</id> 
+   <name>ت. ريف</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/559459.png</image> 
+   <position>غير معروف</position> 
+   <nationality>أيسلندا</nationality> 
+   <birth-day>أيسلندا</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

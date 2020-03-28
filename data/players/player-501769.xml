@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>354</team_id> 
+   <id>501769</id> 
+   <name>S. Oreščanin</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/501769.png</image> 
+   <position>غير معروف</position> 
+   <nationality>كرواتيا</nationality> 
+   <birth-day>1972-07-30</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

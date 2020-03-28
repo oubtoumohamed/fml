@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2254</team_id> 
+   <id>471028</id> 
+   <name>L. Şahin</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/471028.png</image> 
+   <position>غير معروف</position> 
+   <nationality>تركيا</nationality> 
+   <birth-day>1973-09-20</birth-day> 
+   <length  unit="cm">تركيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>24620</team_id> 
+   <id>647625</id> 
+   <name>K. Groeneveld</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/647625.png</image> 
+   <position>مدافع</position> 
+   <nationality>جنوب أفريقيا</nationality> 
+   <birth-day>1999-06-24</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

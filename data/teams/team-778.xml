@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>778</id> 
+   <name>نادي ليفاديا تالين لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/778.png</image> 
+   <country>أستونيا</country> 
+   <adrese>Roheline aas 24</adrese> 
+   <website>http://www.fclevadia.ee</website> 
+   <creation-date>1998 / 2017</creation-date> 
+   <players> 
+     <player id="6816" /> 
+     <player id="25769" /> 
+     <player id="25938" /> 
+     <player id="29298" /> 
+     <player id="539712" /> 
+     <player id="539724" /> 
+     <player id="25777" /> 
+     <player id="25832" /> 
+     <player id="25872" /> 
+     <player id="35238" /> 
+     <player id="119143" /> 
+     <player id="123697" /> 
+     <player id="132245" /> 
+     <player id="157693" /> 
+     <player id="371413" /> 
+     <player id="387719" /> 
+     <player id="398485" /> 
+     <player id="436678" /> 
+     <player id="476118" /> 
+     <player id="479470" /> 
+     <player id="90331" /> 
+     <player id="94413" /> 
+     <player id="127939" /> 
+     <player id="142664" /> 
+     <player id="160127" /> 
+     <player id="179982" /> 
+     <player id="180121" /> 
+     <player id="180155" /> 
+     <player id="210289" /> 
+     <player id="235891" /> 
+     <player id="275108" /> 
+     <player id="293278" /> 
+     <player id="337115" /> 
+     <player id="387723" /> 
+     <player id="400818" /> 
+     <player id="409387" /> 
+     <player id="413299" /> 
+     <player id="436398" /> 
+     <player id="436443" /> 
+     <player id="475994" /> 
+     <player id="476454" /> 
+     <player id="490692" /> 
+     <player id="555695" /> 
+     <player id="25806" /> 
+     <player id="74081" /> 
+     <player id="141097" /> 
+     <player id="160131" /> 
+     <player id="199071" /> 
+     <player id="274862" /> 
+     <player id="288394" /> 
+     <player id="398489" /> 
+     <player id="456096" /> 
+     <player id="475996" /> 
+     <player id="511872" /> 
+     <player id="578592" /> 
+   </players> 
+   <coaches> 
+     <coach id="122295" /> 
+     <coach id="449270" /> 
+     <coach id="493379" /> 
+     <coach id="618865" /> 
+   </coaches> 
+</team>

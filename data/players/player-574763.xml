@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1204</team_id> 
+   <id>574763</id> 
+   <name>O. Yitzhak</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/574763.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>اسرائيل</nationality> 
+   <birth-day>2001-01-02</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

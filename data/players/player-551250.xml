@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>354</team_id> 
+   <id>551250</id> 
+   <name>D. Charlov</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/551250.png</image> 
+   <position>مدافع</position> 
+   <nationality>بلغاريا</nationality> 
+   <birth-day>بلغاريا</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

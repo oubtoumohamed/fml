@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2705</id> 
+   <name>موستار</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2705.png</image> 
+   <country>البوسنة والهرسك</country> 
+   <adrese>Stjepana Radica 45</adrese> 
+   <website>http://www.hskzrinjski.ba</website> 
+   <creation-date>1905</creation-date> 
+   <players> 
+     <player id="40926" /> 
+     <player id="249226" /> 
+     <player id="301343" /> 
+     <player id="304345" /> 
+     <player id="420586" /> 
+     <player id="423911" /> 
+     <player id="424602" /> 
+     <player id="464343" /> 
+     <player id="489574" /> 
+     <player id="36596" /> 
+     <player id="59520" /> 
+     <player id="83987" /> 
+     <player id="85409" /> 
+     <player id="85826" /> 
+     <player id="94415" /> 
+     <player id="116647" /> 
+     <player id="145245" /> 
+     <player id="195859" /> 
+     <player id="201872" /> 
+     <player id="215478" /> 
+     <player id="273286" /> 
+     <player id="292847" /> 
+     <player id="298977" /> 
+     <player id="334711" /> 
+     <player id="349667" /> 
+     <player id="427783" /> 
+     <player id="427786" /> 
+     <player id="435046" /> 
+     <player id="464346" /> 
+     <player id="476866" /> 
+     <player id="593812" /> 
+     <player id="628320" /> 
+     <player id="84242" /> 
+     <player id="85594" /> 
+     <player id="85633" /> 
+     <player id="92297" /> 
+     <player id="95071" /> 
+     <player id="123547" /> 
+     <player id="134314" /> 
+     <player id="138478" /> 
+     <player id="156197" /> 
+     <player id="159856" /> 
+     <player id="190844" /> 
+     <player id="233940" /> 
+     <player id="252039" /> 
+     <player id="267816" /> 
+     <player id="276128" /> 
+     <player id="284020" /> 
+     <player id="301642" /> 
+     <player id="320587" /> 
+     <player id="322461" /> 
+     <player id="340939" /> 
+     <player id="352669" /> 
+     <player id="374003" /> 
+     <player id="408049" /> 
+     <player id="426441" /> 
+     <player id="461836" /> 
+     <player id="463420" /> 
+     <player id="513288" /> 
+     <player id="616485" /> 
+     <player id="39214" /> 
+     <player id="59710" /> 
+     <player id="92280" /> 
+     <player id="99721" /> 
+     <player id="132071" /> 
+     <player id="134636" /> 
+     <player id="197127" /> 
+     <player id="266527" /> 
+     <player id="333986" /> 
+     <player id="489576" /> 
+   </players> 
+   <coaches> 
+     <coach id="122734" /> 
+     <coach id="137991" /> 
+     <coach id="340945" /> 
+     <coach id="463438" /> 
+     <coach id="483709" /> 
+   </coaches> 
+</team>

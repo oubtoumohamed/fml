@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>906</id> 
+   <name>نادي مونبلييه إيرلو الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/906.png</image> 
+   <country>فرنسا</country> 
+   <adrese>Domaine de Grammont</adrese> 
+   <website>http://www.mhscfoot.com</website> 
+   <creation-date>1974</creation-date> 
+   <players> 
+     <player id="37672" /> 
+     <player id="138309" /> 
+     <player id="140896" /> 
+     <player id="152109" /> 
+     <player id="393157" /> 
+     <player id="458599" /> 
+     <player id="1285" /> 
+     <player id="1428" /> 
+     <player id="99145" /> 
+     <player id="137799" /> 
+     <player id="158006" /> 
+     <player id="172900" /> 
+     <player id="204771" /> 
+     <player id="316039" /> 
+     <player id="368803" /> 
+     <player id="371707" /> 
+     <player id="428278" /> 
+     <player id="464790" /> 
+     <player id="479660" /> 
+     <player id="42184" /> 
+     <player id="88220" /> 
+     <player id="91584" /> 
+     <player id="161112" /> 
+     <player id="166875" /> 
+     <player id="196789" /> 
+     <player id="257088" /> 
+     <player id="280199" /> 
+     <player id="322459" /> 
+     <player id="353931" /> 
+     <player id="373465" /> 
+     <player id="404840" /> 
+     <player id="435467" /> 
+     <player id="444759" /> 
+     <player id="461619" /> 
+     <player id="480372" /> 
+     <player id="567153" /> 
+     <player id="574646" /> 
+     <player id="1276" /> 
+     <player id="45319" /> 
+     <player id="61062" /> 
+     <player id="88477" /> 
+     <player id="91566" /> 
+     <player id="103022" /> 
+     <player id="182902" /> 
+     <player id="218475" /> 
+     <player id="312019" /> 
+     <player id="314575" /> 
+     <player id="387425" /> 
+     <player id="479662" /> 
+     <player id="550481" /> 
+   </players> 
+   <coaches> 
+     <coach id="138865" /> 
+     <coach id="223120" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1051</team_id> 
+   <id>616862</id> 
+   <name>K. Arvanitis</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/616862.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>اليونان</nationality> 
+   <birth-day>1998-04-01</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

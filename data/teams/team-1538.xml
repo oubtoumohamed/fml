@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1538</id> 
+   <name>فينلو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1538.png</image> 
+   <country>هولندا</country> 
+   <adrese>Kaldenkerkerweg 182</adrese> 
+   <website>http://www.vvv-venlo.nl</website> 
+   <creation-date>1954</creation-date> 
+   <players> 
+     <player id="16687" /> 
+     <player id="81320" /> 
+     <player id="120033" /> 
+     <player id="452131" /> 
+     <player id="496929" /> 
+     <player id="586177" /> 
+     <player id="590239" /> 
+     <player id="625011" /> 
+     <player id="2105" /> 
+     <player id="2168" /> 
+     <player id="19679" /> 
+     <player id="49574" /> 
+     <player id="86233" /> 
+     <player id="121926" /> 
+     <player id="138288" /> 
+     <player id="176419" /> 
+     <player id="259412" /> 
+     <player id="260504" /> 
+     <player id="260553" /> 
+     <player id="274650" /> 
+     <player id="411152" /> 
+     <player id="452124" /> 
+     <player id="452130" /> 
+     <player id="462039" /> 
+     <player id="508432" /> 
+     <player id="2834" /> 
+     <player id="66351" /> 
+     <player id="137283" /> 
+     <player id="168503" /> 
+     <player id="195718" /> 
+     <player id="218119" /> 
+     <player id="255147" /> 
+     <player id="264397" /> 
+     <player id="308152" /> 
+     <player id="546756" /> 
+     <player id="560620" /> 
+     <player id="560623" /> 
+     <player id="561890" /> 
+     <player id="566854" /> 
+     <player id="620443" /> 
+     <player id="649931" /> 
+     <player id="2251" /> 
+     <player id="54633" /> 
+     <player id="61431" /> 
+     <player id="69183" /> 
+     <player id="102530" /> 
+     <player id="261485" /> 
+     <player id="269271" /> 
+     <player id="316325" /> 
+     <player id="330044" /> 
+     <player id="360231" /> 
+     <player id="394561" /> 
+     <player id="399770" /> 
+     <player id="401946" /> 
+     <player id="411151" /> 
+     <player id="454544" /> 
+     <player id="477856" /> 
+     <player id="561887" /> 
+   </players> 
+   <coaches> 
+     <coach id="110877" /> 
+     <coach id="124962" /> 
+     <coach id="142136" /> 
+     <coach id="433202" /> 
+   </coaches> 
+</team>

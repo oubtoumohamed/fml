@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3572</id> 
+   <name>ذات راس</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3572.png</image> 
+   <country>الأردن</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="81037" /> 
+     <player id="81068" /> 
+     <player id="332045" /> 
+     <player id="332050" /> 
+     <player id="332063" /> 
+     <player id="332069" /> 
+     <player id="108638" /> 
+     <player id="211979" /> 
+     <player id="303494" /> 
+     <player id="329680" /> 
+     <player id="332052" /> 
+     <player id="332070" /> 
+     <player id="334082" /> 
+     <player id="79296" /> 
+     <player id="332048" /> 
+     <player id="332071" /> 
+     <player id="334081" /> 
+   </players> 
+   <coaches> 
+   </coaches> 
+</team>

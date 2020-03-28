@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1824</team_id> 
+   <id>437256</id> 
+   <name>ر. تامبي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/437256.png</image> 
+   <position>مهاجم</position> 
+   <nationality>الكاميرون</nationality> 
+   <birth-day>1994-02-22</birth-day> 
+   <length  unit="cm">الكاميرون</length> 
+   <weight  unit="kg">184</weight> 
+</player>

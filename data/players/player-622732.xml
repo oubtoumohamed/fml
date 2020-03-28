@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>519</team_id> 
+   <id>622732</id> 
+   <name>D. Vavalis</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/622732.png</image> 
+   <position>غير معروف</position> 
+   <nationality>اليونان</nationality> 
+   <birth-day>اليونان</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

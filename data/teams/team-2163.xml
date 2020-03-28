@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2163</id> 
+   <name>جمعية نوركوبينج الرياضية</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2163.png</image> 
+   <country>السويد</country> 
+   <adrese>Ektorpsgatan 6</adrese> 
+   <website>http://www.ifknorrkoping.se</website> 
+   <creation-date>1897</creation-date> 
+   <players> 
+     <player id="83415" /> 
+     <player id="123220" /> 
+     <player id="410289" /> 
+     <player id="411449" /> 
+     <player id="414379" /> 
+     <player id="436259" /> 
+     <player id="6137" /> 
+     <player id="9637" /> 
+     <player id="28158" /> 
+     <player id="29193" /> 
+     <player id="102833" /> 
+     <player id="138300" /> 
+     <player id="276364" /> 
+     <player id="279457" /> 
+     <player id="296980" /> 
+     <player id="335150" /> 
+     <player id="362209" /> 
+     <player id="384489" /> 
+     <player id="402201" /> 
+     <player id="404613" /> 
+     <player id="411437" /> 
+     <player id="573278" /> 
+     <player id="33193" /> 
+     <player id="39685" /> 
+     <player id="111623" /> 
+     <player id="207890" /> 
+     <player id="218149" /> 
+     <player id="237204" /> 
+     <player id="269761" /> 
+     <player id="332791" /> 
+     <player id="393143" /> 
+     <player id="407484" /> 
+     <player id="451023" /> 
+     <player id="478614" /> 
+     <player id="517066" /> 
+     <player id="573279" /> 
+     <player id="577304" /> 
+     <player id="605551" /> 
+     <player id="610278" /> 
+     <player id="31359" /> 
+     <player id="159906" /> 
+     <player id="171259" /> 
+     <player id="176732" /> 
+     <player id="351409" /> 
+     <player id="407488" /> 
+     <player id="450099" /> 
+     <player id="551558" /> 
+     <player id="632608" /> 
+   </players> 
+   <coaches> 
+     <coach id="195162" /> 
+   </coaches> 
+</team>

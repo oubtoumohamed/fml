@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2006</id> 
+   <name>نادي دومزال لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2006.png</image> 
+   <country>سلوفينيا</country> 
+   <adrese>Kopališka cesta 4</adrese> 
+   <website>http://www.nkdomzale.si</website> 
+   <creation-date>1921</creation-date> 
+   <players> 
+     <player id="135910" /> 
+     <player id="137798" /> 
+     <player id="268929" /> 
+     <player id="290812" /> 
+     <player id="318750" /> 
+     <player id="555508" /> 
+     <player id="5267" /> 
+     <player id="51688" /> 
+     <player id="86211" /> 
+     <player id="120160" /> 
+     <player id="183892" /> 
+     <player id="215490" /> 
+     <player id="235746" /> 
+     <player id="242801" /> 
+     <player id="242809" /> 
+     <player id="266601" /> 
+     <player id="316276" /> 
+     <player id="374731" /> 
+     <player id="374739" /> 
+     <player id="401082" /> 
+     <player id="421692" /> 
+     <player id="423655" /> 
+     <player id="423691" /> 
+     <player id="464498" /> 
+     <player id="37496" /> 
+     <player id="54801" /> 
+     <player id="85791" /> 
+     <player id="92433" /> 
+     <player id="95478" /> 
+     <player id="119747" /> 
+     <player id="154147" /> 
+     <player id="215575" /> 
+     <player id="244501" /> 
+     <player id="262212" /> 
+     <player id="298972" /> 
+     <player id="315195" /> 
+     <player id="374749" /> 
+     <player id="389857" /> 
+     <player id="402541" /> 
+     <player id="413190" /> 
+     <player id="413661" /> 
+     <player id="421688" /> 
+     <player id="421689" /> 
+     <player id="425649" /> 
+     <player id="464136" /> 
+     <player id="466629" /> 
+     <player id="478446" /> 
+     <player id="517538" /> 
+     <player id="35820" /> 
+     <player id="38679" /> 
+     <player id="97565" /> 
+     <player id="143422" /> 
+     <player id="177449" /> 
+     <player id="191512" /> 
+     <player id="212668" /> 
+     <player id="215496" /> 
+     <player id="374765" /> 
+     <player id="381855" /> 
+     <player id="382231" /> 
+     <player id="382419" /> 
+     <player id="401083" /> 
+     <player id="415368" /> 
+     <player id="423668" /> 
+     <player id="462553" /> 
+     <player id="466411" /> 
+     <player id="479921" /> 
+     <player id="612261" /> 
+   </players> 
+   <coaches> 
+     <coach id="35554" /> 
+     <coach id="264157" /> 
+     <coach id="309487" /> 
+     <coach id="339203" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>317</id> 
+   <name>نادي أتلتيكو مينيرو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/317.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Avenida Olegário Maciel 1516, Bairro de Lourdes</adrese> 
+   <website>http://www.atletico.com.br</website> 
+   <creation-date>1908</creation-date> 
+   <players> 
+     <player id="32312" /> 
+     <player id="32329" /> 
+     <player id="66275" /> 
+     <player id="180817" /> 
+     <player id="431779" /> 
+     <player id="437640" /> 
+     <player id="541541" /> 
+     <player id="8968" /> 
+     <player id="9281" /> 
+     <player id="32573" /> 
+     <player id="33271" /> 
+     <player id="33478" /> 
+     <player id="39422" /> 
+     <player id="73083" /> 
+     <player id="112519" /> 
+     <player id="185489" /> 
+     <player id="230009" /> 
+     <player id="238975" /> 
+     <player id="276174" /> 
+     <player id="282265" /> 
+     <player id="300810" /> 
+     <player id="308995" /> 
+     <player id="329762" /> 
+     <player id="330130" /> 
+     <player id="368939" /> 
+     <player id="383067" /> 
+     <player id="409612" /> 
+     <player id="446563" /> 
+     <player id="455710" /> 
+     <player id="462884" /> 
+     <player id="464313" /> 
+     <player id="475115" /> 
+     <player id="476607" /> 
+     <player id="491585" /> 
+     <player id="531153" /> 
+     <player id="537349" /> 
+     <player id="541261" /> 
+     <player id="553819" /> 
+     <player id="557374" /> 
+     <player id="591073" /> 
+     <player id="593532" /> 
+     <player id="617126" /> 
+     <player id="630832" /> 
+     <player id="9137" /> 
+     <player id="9209" /> 
+     <player id="9795" /> 
+     <player id="34971" /> 
+     <player id="78771" /> 
+     <player id="148555" /> 
+     <player id="169690" /> 
+     <player id="234159" /> 
+     <player id="266351" /> 
+     <player id="280970" /> 
+     <player id="282120" /> 
+     <player id="302533" /> 
+     <player id="303828" /> 
+     <player id="303918" /> 
+     <player id="319141" /> 
+     <player id="328123" /> 
+     <player id="396805" /> 
+     <player id="401926" /> 
+     <player id="411698" /> 
+     <player id="435305" /> 
+     <player id="435474" /> 
+     <player id="439592" /> 
+     <player id="443649" /> 
+     <player id="469819" /> 
+     <player id="474640" /> 
+     <player id="475984" /> 
+     <player id="476608" /> 
+     <player id="480145" /> 
+     <player id="481925" /> 
+     <player id="534347" /> 
+     <player id="545740" /> 
+     <player id="567570" /> 
+     <player id="577303" /> 
+     <player id="593533" /> 
+     <player id="600105" /> 
+     <player id="649461" /> 
+     <player id="3997" /> 
+     <player id="59163" /> 
+     <player id="64650" /> 
+     <player id="113430" /> 
+     <player id="154269" /> 
+     <player id="165652" /> 
+     <player id="191206" /> 
+     <player id="196443" /> 
+     <player id="227538" /> 
+     <player id="231209" /> 
+     <player id="276337" /> 
+     <player id="291015" /> 
+     <player id="297878" /> 
+     <player id="306889" /> 
+     <player id="391151" /> 
+     <player id="398748" /> 
+     <player id="398749" /> 
+     <player id="437641" /> 
+     <player id="473109" /> 
+     <player id="474974" /> 
+     <player id="531157" /> 
+     <player id="535568" /> 
+     <player id="540985" /> 
+     <player id="599592" /> 
+   </players> 
+   <coaches> 
+     <coach id="128478" /> 
+     <coach id="179276" /> 
+     <coach id="210927" /> 
+     <coach id="350707" /> 
+     <coach id="536752" /> 
+     <coach id="553914" /> 
+   </coaches> 
+</team>

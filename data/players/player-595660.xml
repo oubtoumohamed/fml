@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1185</team_id> 
+   <id>595660</id> 
+   <name>T. Ryan</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/595660.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>أيرلندا</nationality> 
+   <birth-day>1997-03-01</birth-day> 
+   <length  unit="cm">أيرلندا</length> 
+   <weight  unit="kg"></weight> 
+</player>

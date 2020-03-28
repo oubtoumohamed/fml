@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2260</team_id> 
+   <id>515335</id> 
+   <name>D. Sikan</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/515335.png</image> 
+   <position>مهاجم</position> 
+   <nationality>أوكرانيا</nationality> 
+   <birth-day>2001-04-16</birth-day> 
+   <length  unit="cm">أوكرانيا</length> 
+   <weight  unit="kg">185</weight> 
+</player>

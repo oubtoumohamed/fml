@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>24616</team_id> 
+   <id>615367</id> 
+   <name>A. Xhaka</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/615367.png</image> 
+   <position>مدافع</position> 
+   <nationality>كوسوفو</nationality> 
+   <birth-day>1997-06-09</birth-day> 
+   <length  unit="cm">سويسرا</length> 
+   <weight  unit="kg"></weight> 
+</player>

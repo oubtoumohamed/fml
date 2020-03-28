@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>321</team_id> 
+   <id>471736</id> 
+   <name>Eduardo Barros</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/471736.png</image> 
+   <position>غير معروف</position> 
+   <nationality>البرازيل</nationality> 
+   <birth-day>1985-03-08</birth-day> 
+   <length  unit="cm">البرازيل</length> 
+   <weight  unit="kg"></weight> 
+</player>

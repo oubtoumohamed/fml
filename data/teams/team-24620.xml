@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>24620</id> 
+   <name>KF Feronikeli</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/24620.png</image> 
+   <country>كوسوفو</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="329453" /> 
+     <player id="421168" /> 
+     <player id="455956" /> 
+     <player id="542483" /> 
+     <player id="230616" /> 
+     <player id="328156" /> 
+     <player id="328905" /> 
+     <player id="328915" /> 
+     <player id="328920" /> 
+     <player id="328932" /> 
+     <player id="329341" /> 
+     <player id="455714" /> 
+     <player id="455961" /> 
+     <player id="508905" /> 
+     <player id="598271" /> 
+     <player id="615357" /> 
+     <player id="647625" /> 
+     <player id="41156" /> 
+     <player id="65003" /> 
+     <player id="80620" /> 
+     <player id="178802" /> 
+     <player id="298172" /> 
+     <player id="328911" /> 
+     <player id="328960" /> 
+     <player id="361673" /> 
+     <player id="427021" /> 
+     <player id="455955" /> 
+     <player id="456165" /> 
+     <player id="479504" /> 
+     <player id="486586" /> 
+     <player id="556294" /> 
+     <player id="556340" /> 
+     <player id="597496" /> 
+     <player id="597497" /> 
+     <player id="623212" /> 
+     <player id="186756" /> 
+     <player id="259966" /> 
+     <player id="307033" /> 
+     <player id="328916" /> 
+     <player id="328961" /> 
+     <player id="329420" /> 
+     <player id="362625" /> 
+     <player id="455973" /> 
+     <player id="598267" /> 
+     <player id="598280" /> 
+     <player id="648415" /> 
+   </players> 
+   <coaches> 
+     <coach id="57348" /> 
+     <coach id="108521" /> 
+     <coach id="468846" /> 
+   </coaches> 
+</team>

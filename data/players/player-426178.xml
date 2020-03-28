@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1587</team_id> 
+   <id>426178</id> 
+   <name>D. Healy</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/426178.png</image> 
+   <position>غير معروف</position> 
+   <nationality>إيرلندا الشمالية</nationality> 
+   <birth-day>1979-08-05</birth-day> 
+   <length  unit="cm">إيرلندا</length> 
+   <weight  unit="kg"></weight> 
+</player>

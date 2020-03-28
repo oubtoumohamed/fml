@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3486</id> 
+   <name>الترجي الرياضي التونسي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3486.png</image> 
+   <country>تونس</country> 
+   <adrese>Complexe Hassen Belkhodja, Avenue Mohamed V</adrese> 
+   <website>http://www.est.org.tn</website> 
+   <creation-date>1919</creation-date> 
+   <players> 
+     <player id="71664" /> 
+     <player id="138338" /> 
+     <player id="249438" /> 
+     <player id="424404" /> 
+     <player id="587200" /> 
+     <player id="53310" /> 
+     <player id="71285" /> 
+     <player id="103924" /> 
+     <player id="138539" /> 
+     <player id="147424" /> 
+     <player id="154290" /> 
+     <player id="165777" /> 
+     <player id="416756" /> 
+     <player id="426011" /> 
+     <player id="463346" /> 
+     <player id="480127" /> 
+     <player id="493492" /> 
+     <player id="495328" /> 
+     <player id="548748" /> 
+     <player id="556244" /> 
+     <player id="580784" /> 
+     <player id="585538" /> 
+     <player id="611560" /> 
+     <player id="7466" /> 
+     <player id="101146" /> 
+     <player id="167742" /> 
+     <player id="197640" /> 
+     <player id="218747" /> 
+     <player id="265024" /> 
+     <player id="278546" /> 
+     <player id="298159" /> 
+     <player id="316018" /> 
+     <player id="322509" /> 
+     <player id="342887" /> 
+     <player id="360209" /> 
+     <player id="373391" /> 
+     <player id="387995" /> 
+     <player id="405528" /> 
+     <player id="407327" /> 
+     <player id="428798" /> 
+     <player id="436435" /> 
+     <player id="437807" /> 
+     <player id="500463" /> 
+     <player id="545460" /> 
+     <player id="546898" /> 
+     <player id="593304" /> 
+     <player id="600904" /> 
+     <player id="614425" /> 
+     <player id="614433" /> 
+     <player id="614446" /> 
+     <player id="52237" /> 
+     <player id="156392" /> 
+     <player id="158613" /> 
+     <player id="188764" /> 
+     <player id="277230" /> 
+     <player id="319080" /> 
+     <player id="338737" /> 
+     <player id="412966" /> 
+     <player id="431192" /> 
+     <player id="442659" /> 
+     <player id="485330" /> 
+     <player id="517098" /> 
+     <player id="550840" /> 
+     <player id="585539" /> 
+     <player id="593303" /> 
+     <player id="594652" /> 
+     <player id="648132" /> 
+   </players> 
+   <coaches> 
+     <coach id="20918" /> 
+     <coach id="53300" /> 
+     <coach id="231229" /> 
+   </coaches> 
+</team>

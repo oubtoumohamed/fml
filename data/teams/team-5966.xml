@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>5966</id> 
+   <name>نادي فيديوتون لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/5966.png</image> 
+   <country>المجر</country> 
+   <adrese>Csíkvári út 10.</adrese> 
+   <website>http://www.vidi.hu</website> 
+   <creation-date>1941</creation-date> 
+   <players> 
+     <player id="35099" /> 
+     <player id="90731" /> 
+     <player id="360687" /> 
+     <player id="398288" /> 
+     <player id="423673" /> 
+     <player id="437162" /> 
+     <player id="4527" /> 
+     <player id="86331" /> 
+     <player id="88291" /> 
+     <player id="113130" /> 
+     <player id="150551" /> 
+     <player id="153261" /> 
+     <player id="154202" /> 
+     <player id="210536" /> 
+     <player id="245997" /> 
+     <player id="264821" /> 
+     <player id="273643" /> 
+     <player id="386537" /> 
+     <player id="446677" /> 
+     <player id="477671" /> 
+     <player id="498091" /> 
+     <player id="553420" /> 
+     <player id="640530" /> 
+     <player id="1770" /> 
+     <player id="11247" /> 
+     <player id="33575" /> 
+     <player id="33613" /> 
+     <player id="46286" /> 
+     <player id="87956" /> 
+     <player id="102985" /> 
+     <player id="123592" /> 
+     <player id="138933" /> 
+     <player id="207992" /> 
+     <player id="217855" /> 
+     <player id="235266" /> 
+     <player id="270001" /> 
+     <player id="271267" /> 
+     <player id="273139" /> 
+     <player id="273246" /> 
+     <player id="366639" /> 
+     <player id="386549" /> 
+     <player id="423725" /> 
+     <player id="500808" /> 
+     <player id="500849" /> 
+     <player id="538691" /> 
+     <player id="2129" /> 
+     <player id="47365" /> 
+     <player id="72197" /> 
+     <player id="134367" /> 
+     <player id="159848" /> 
+     <player id="301336" /> 
+     <player id="423674" /> 
+     <player id="425643" /> 
+     <player id="482557" /> 
+     <player id="538693" /> 
+     <player id="594987" /> 
+   </players> 
+   <coaches> 
+     <coach id="144078" /> 
+     <coach id="348995" /> 
+   </coaches> 
+</team>

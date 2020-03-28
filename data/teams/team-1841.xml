@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1841</id> 
+   <name>زينيت سانت بطرسبرغ لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1841.png</image> 
+   <country>روسيا</country> 
+   <adrese>prospekt Dobrolyubova 16</adrese> 
+   <website>http://www.fc-zenit.ru</website> 
+   <creation-date>1925</creation-date> 
+   <players> 
+     <player id="6850" /> 
+     <player id="127278" /> 
+     <player id="203528" /> 
+     <player id="235305" /> 
+     <player id="239464" /> 
+     <player id="266488" /> 
+     <player id="303300" /> 
+     <player id="314362" /> 
+     <player id="420628" /> 
+     <player id="459657" /> 
+     <player id="579780" /> 
+     <player id="6456" /> 
+     <player id="6855" /> 
+     <player id="17686" /> 
+     <player id="26177" /> 
+     <player id="56921" /> 
+     <player id="71961" /> 
+     <player id="101374" /> 
+     <player id="121873" /> 
+     <player id="185368" /> 
+     <player id="209801" /> 
+     <player id="211927" /> 
+     <player id="214901" /> 
+     <player id="214920" /> 
+     <player id="230637" /> 
+     <player id="244213" /> 
+     <player id="289907" /> 
+     <player id="302037" /> 
+     <player id="302042" /> 
+     <player id="335690" /> 
+     <player id="461869" /> 
+     <player id="477126" /> 
+     <player id="511141" /> 
+     <player id="4584" /> 
+     <player id="6755" /> 
+     <player id="6793" /> 
+     <player id="6948" /> 
+     <player id="17948" /> 
+     <player id="27847" /> 
+     <player id="38963" /> 
+     <player id="72329" /> 
+     <player id="129772" /> 
+     <player id="135524" /> 
+     <player id="163887" /> 
+     <player id="180889" /> 
+     <player id="238683" /> 
+     <player id="247716" /> 
+     <player id="253990" /> 
+     <player id="256420" /> 
+     <player id="297802" /> 
+     <player id="301057" /> 
+     <player id="347909" /> 
+     <player id="386279" /> 
+     <player id="403372" /> 
+     <player id="420632" /> 
+     <player id="424266" /> 
+     <player id="442144" /> 
+     <player id="491714" /> 
+     <player id="547035" /> 
+     <player id="65259" /> 
+     <player id="72327" /> 
+     <player id="95793" /> 
+     <player id="178142" /> 
+     <player id="180910" /> 
+     <player id="182807" /> 
+     <player id="189102" /> 
+     <player id="289915" /> 
+     <player id="333697" /> 
+     <player id="556128" /> 
+     <player id="556143" /> 
+   </players> 
+   <coaches> 
+     <coach id="5972" /> 
+     <coach id="110800" /> 
+     <coach id="222137" /> 
+   </coaches> 
+</team>

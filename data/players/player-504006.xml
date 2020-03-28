@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1515</team_id> 
+   <id>504006</id> 
+   <name>D. Solomons</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/504006.png</image> 
+   <position>مدافع</position> 
+   <nationality>جنوب أفريقيا</nationality> 
+   <birth-day>1999-02-22</birth-day> 
+   <length  unit="cm">جنوب</length> 
+   <weight  unit="kg"></weight> 
+</player>

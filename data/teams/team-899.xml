@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>899</id> 
+   <name>نادي تولوز لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/899.png</image> 
+   <country>فرنسا</country> 
+   <adrese>1, allée Gabriel Biénés</adrese> 
+   <website>http://www.tfc.info</website> 
+   <creation-date>1937</creation-date> 
+   <players> 
+     <player id="23530" /> 
+     <player id="116444" /> 
+     <player id="135452" /> 
+     <player id="161066" /> 
+     <player id="426518" /> 
+     <player id="458599" /> 
+     <player id="468439" /> 
+     <player id="76550" /> 
+     <player id="120936" /> 
+     <player id="146680" /> 
+     <player id="177590" /> 
+     <player id="189321" /> 
+     <player id="192254" /> 
+     <player id="205701" /> 
+     <player id="212489" /> 
+     <player id="305199" /> 
+     <player id="320103" /> 
+     <player id="320105" /> 
+     <player id="387421" /> 
+     <player id="413042" /> 
+     <player id="426521" /> 
+     <player id="480539" /> 
+     <player id="501952" /> 
+     <player id="567492" /> 
+     <player id="567496" /> 
+     <player id="581694" /> 
+     <player id="1462" /> 
+     <player id="5931" /> 
+     <player id="31210" /> 
+     <player id="37698" /> 
+     <player id="39351" /> 
+     <player id="46243" /> 
+     <player id="71534" /> 
+     <player id="101128" /> 
+     <player id="159231" /> 
+     <player id="263310" /> 
+     <player id="284738" /> 
+     <player id="374139" /> 
+     <player id="376303" /> 
+     <player id="387427" /> 
+     <player id="405071" /> 
+     <player id="405267" /> 
+     <player id="426526" /> 
+     <player id="456609" /> 
+     <player id="528537" /> 
+     <player id="542045" /> 
+     <player id="548248" /> 
+     <player id="575341" /> 
+     <player id="6293" /> 
+     <player id="53399" /> 
+     <player id="91566" /> 
+     <player id="113351" /> 
+     <player id="215652" /> 
+     <player id="235484" /> 
+     <player id="268920" /> 
+     <player id="298222" /> 
+     <player id="314099" /> 
+     <player id="446718" /> 
+     <player id="447128" /> 
+     <player id="508654" /> 
+     <player id="560654" /> 
+     <player id="597317" /> 
+   </players> 
+   <coaches> 
+     <coach id="110847" /> 
+     <coach id="110852" /> 
+     <coach id="163480" /> 
+     <coach id="249747" /> 
+     <coach id="304868" /> 
+   </coaches> 
+</team>

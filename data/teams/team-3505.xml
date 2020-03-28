@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3505</id> 
+   <name>نادي الريان</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3505.png</image> 
+   <country>قطر</country> 
+   <adrese>Shahaniya Road</adrese> 
+   <website>http://www.rayyanclub.com</website> 
+   <creation-date>1967</creation-date> 
+   <players> 
+     <player id="64840" /> 
+     <player id="64841" /> 
+     <player id="208806" /> 
+     <player id="325813" /> 
+     <player id="515747" /> 
+     <player id="582446" /> 
+     <player id="597230" /> 
+     <player id="643743" /> 
+     <player id="13727" /> 
+     <player id="15078" /> 
+     <player id="26672" /> 
+     <player id="69574" /> 
+     <player id="82008" /> 
+     <player id="116455" /> 
+     <player id="143071" /> 
+     <player id="209030" /> 
+     <player id="210320" /> 
+     <player id="233045" /> 
+     <player id="278271" /> 
+     <player id="465557" /> 
+     <player id="609927" /> 
+     <player id="643741" /> 
+     <player id="9358" /> 
+     <player id="26914" /> 
+     <player id="59344" /> 
+     <player id="64788" /> 
+     <player id="64891" /> 
+     <player id="81962" /> 
+     <player id="99403" /> 
+     <player id="111513" /> 
+     <player id="162169" /> 
+     <player id="197640" /> 
+     <player id="208915" /> 
+     <player id="279027" /> 
+     <player id="286085" /> 
+     <player id="318162" /> 
+     <player id="323245" /> 
+     <player id="326742" /> 
+     <player id="343753" /> 
+     <player id="392603" /> 
+     <player id="460706" /> 
+     <player id="462007" /> 
+     <player id="514150" /> 
+     <player id="514173" /> 
+     <player id="565123" /> 
+     <player id="592761" /> 
+     <player id="638940" /> 
+     <player id="638941" /> 
+     <player id="638942" /> 
+     <player id="642793" /> 
+     <player id="643740" /> 
+     <player id="645548" /> 
+     <player id="645549" /> 
+     <player id="39221" /> 
+     <player id="65035" /> 
+     <player id="68465" /> 
+     <player id="87684" /> 
+     <player id="120100" /> 
+     <player id="159586" /> 
+     <player id="192193" /> 
+     <player id="192634" /> 
+     <player id="245731" /> 
+     <player id="267588" /> 
+     <player id="343755" /> 
+     <player id="421144" /> 
+     <player id="475097" /> 
+     <player id="521258" /> 
+     <player id="609925" /> 
+   </players> 
+   <coaches> 
+     <coach id="3094" /> 
+     <coach id="136326" /> 
+     <coach id="143964" /> 
+     <coach id="175723" /> 
+     <coach id="575309" /> 
+     <coach id="587205" /> 
+   </coaches> 
+</team>

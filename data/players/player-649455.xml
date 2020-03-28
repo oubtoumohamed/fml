@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3473</team_id> 
+   <id>649455</id> 
+   <name>K. Masmoudi</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/649455.png</image> 
+   <position>الجزائر</position> 
+   <nationality>الجزائر</nationality> 
+   <birth-day></birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

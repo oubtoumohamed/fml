@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>207</id> 
+   <name>نادي شاختيور سوليغورسك لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/207.png</image> 
+   <country>بلاروسيا</country> 
+   <adrese>ul. Leninskogo Komsomola 51</adrese> 
+   <website>http://www.fcshakhter.by</website> 
+   <creation-date>1963</creation-date> 
+   <players> 
+     <player id="39994" /> 
+     <player id="80634" /> 
+     <player id="87591" /> 
+     <player id="131953" /> 
+     <player id="192914" /> 
+     <player id="447626" /> 
+     <player id="509782" /> 
+     <player id="509786" /> 
+     <player id="26168" /> 
+     <player id="40629" /> 
+     <player id="41046" /> 
+     <player id="41047" /> 
+     <player id="41054" /> 
+     <player id="47940" /> 
+     <player id="74724" /> 
+     <player id="80617" /> 
+     <player id="152950" /> 
+     <player id="194684" /> 
+     <player id="257863" /> 
+     <player id="269562" /> 
+     <player id="318753" /> 
+     <player id="380269" /> 
+     <player id="464086" /> 
+     <player id="478331" /> 
+     <player id="575579" /> 
+     <player id="35224" /> 
+     <player id="59517" /> 
+     <player id="74444" /> 
+     <player id="80513" /> 
+     <player id="85197" /> 
+     <player id="188757" /> 
+     <player id="196081" /> 
+     <player id="211989" /> 
+     <player id="239909" /> 
+     <player id="252037" /> 
+     <player id="274126" /> 
+     <player id="289430" /> 
+     <player id="303009" /> 
+     <player id="349969" /> 
+     <player id="402556" /> 
+     <player id="410151" /> 
+     <player id="446191" /> 
+     <player id="464099" /> 
+     <player id="464104" /> 
+     <player id="464112" /> 
+     <player id="464122" /> 
+     <player id="41089" /> 
+     <player id="72430" /> 
+     <player id="76982" /> 
+     <player id="80461" /> 
+     <player id="82765" /> 
+     <player id="147576" /> 
+     <player id="182836" /> 
+     <player id="190723" /> 
+     <player id="191919" /> 
+     <player id="253596" /> 
+     <player id="335819" /> 
+     <player id="386377" /> 
+     <player id="464119" /> 
+     <player id="464124" /> 
+     <player id="541645" /> 
+   </players> 
+   <coaches> 
+     <coach id="35227" /> 
+     <coach id="193324" /> 
+     <coach id="219845" /> 
+     <coach id="267537" /> 
+   </coaches> 
+</team>

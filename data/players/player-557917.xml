@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>796</team_id> 
+   <id>557917</id> 
+   <name>S. Johannesen</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/557917.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>جزر فارو</nationality> 
+   <birth-day>2001-09-07</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

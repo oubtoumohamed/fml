@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1357</team_id> 
+   <id>604565</id> 
+   <name>A. Khadzhiev</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/604565.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>كازاخستان</nationality> 
+   <birth-day>2000-10-24</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

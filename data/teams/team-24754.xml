@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>24754</id> 
+   <name>KF Shkupi 1927</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/24754.png</image> 
+   <country>مقدونيا</country> 
+   <adrese></adrese> 
+   <website>http://www.fcshkupi.com/</website> 
+   <creation-date>2014</creation-date> 
+   <players> 
+     <player id="57344" /> 
+     <player id="84066" /> 
+     <player id="91263" /> 
+     <player id="194623" /> 
+     <player id="272868" /> 
+     <player id="405896" /> 
+     <player id="440649" /> 
+     <player id="540975" /> 
+     <player id="616698" /> 
+     <player id="616699" /> 
+     <player id="616700" /> 
+     <player id="35190" /> 
+     <player id="40503" /> 
+     <player id="91022" /> 
+     <player id="144164" /> 
+     <player id="234443" /> 
+     <player id="246041" /> 
+     <player id="251894" /> 
+     <player id="270598" /> 
+     <player id="299153" /> 
+     <player id="312461" /> 
+     <player id="382759" /> 
+     <player id="532001" /> 
+     <player id="563367" /> 
+     <player id="577461" /> 
+     <player id="84257" /> 
+     <player id="91272" /> 
+     <player id="134712" /> 
+     <player id="194669" /> 
+     <player id="319455" /> 
+     <player id="329120" /> 
+     <player id="338475" /> 
+     <player id="341353" /> 
+     <player id="363897" /> 
+     <player id="413605" /> 
+     <player id="413640" /> 
+     <player id="467566" /> 
+     <player id="475784" /> 
+     <player id="482566" /> 
+     <player id="482567" /> 
+     <player id="514390" /> 
+     <player id="531970" /> 
+     <player id="540971" /> 
+     <player id="567217" /> 
+     <player id="573229" /> 
+     <player id="574536" /> 
+     <player id="579642" /> 
+     <player id="594700" /> 
+     <player id="597889" /> 
+     <player id="607623" /> 
+     <player id="625795" /> 
+     <player id="629748" /> 
+     <player id="644999" /> 
+     <player id="39735" /> 
+     <player id="129625" /> 
+     <player id="139906" /> 
+     <player id="262935" /> 
+     <player id="266731" /> 
+     <player id="321444" /> 
+     <player id="347475" /> 
+     <player id="453076" /> 
+     <player id="478477" /> 
+     <player id="513376" /> 
+     <player id="535817" /> 
+     <player id="616701" /> 
+     <player id="616702" /> 
+   </players> 
+   <coaches> 
+     <coach id="20118" /> 
+     <coach id="57348" /> 
+     <coach id="195663" /> 
+     <coach id="317245" /> 
+     <coach id="569381" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>682</id> 
+   <name>نادي ليستر سيتي لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/682.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Filbert Way</adrese> 
+   <website>http://www.lcfc.com</website> 
+   <creation-date>1884</creation-date> 
+   <players> 
+     <player id="2841" /> 
+     <player id="6453" /> 
+     <player id="50408" /> 
+     <player id="160922" /> 
+     <player id="11" /> 
+     <player id="11180" /> 
+     <player id="20278" /> 
+     <player id="20687" /> 
+     <player id="23197" /> 
+     <player id="35792" /> 
+     <player id="47493" /> 
+     <player id="182047" /> 
+     <player id="229723" /> 
+     <player id="250541" /> 
+     <player id="318349" /> 
+     <player id="330327" /> 
+     <player id="362461" /> 
+     <player id="383419" /> 
+     <player id="419705" /> 
+     <player id="431215" /> 
+     <player id="459636" /> 
+     <player id="16585" /> 
+     <player id="20816" /> 
+     <player id="21190" /> 
+     <player id="53462" /> 
+     <player id="73931" /> 
+     <player id="140912" /> 
+     <player id="155101" /> 
+     <player id="158393" /> 
+     <player id="297294" /> 
+     <player id="298168" /> 
+     <player id="302731" /> 
+     <player id="317144" /> 
+     <player id="317810" /> 
+     <player id="437092" /> 
+     <player id="453305" /> 
+     <player id="453317" /> 
+     <player id="454522" /> 
+     <player id="5724" /> 
+     <player id="58861" /> 
+     <player id="89404" /> 
+     <player id="130008" /> 
+     <player id="156662" /> 
+     <player id="159732" /> 
+     <player id="262852" /> 
+     <player id="311892" /> 
+     <player id="316310" /> 
+     <player id="319119" /> 
+     <player id="387393" /> 
+   </players> 
+   <coaches> 
+     <coach id="110844" /> 
+     <coach id="154853" /> 
+     <coach id="175563" /> 
+     <coach id="216409" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>947</id> 
+   <name>نادي دينامو تبليسي لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/947.png</image> 
+   <country>جورجيا</country> 
+   <adrese>Dighmis Masivi, III Kvartali</adrese> 
+   <website>http://www.fcdinamo.ge</website> 
+   <creation-date>1925</creation-date> 
+   <players> 
+     <player id="6738" /> 
+     <player id="26140" /> 
+     <player id="40894" /> 
+     <player id="59430" /> 
+     <player id="65327" /> 
+     <player id="65908" /> 
+     <player id="90387" /> 
+     <player id="93636" /> 
+     <player id="129211" /> 
+     <player id="166199" /> 
+     <player id="174533" /> 
+     <player id="275735" /> 
+     <player id="278978" /> 
+     <player id="318846" /> 
+     <player id="421460" /> 
+     <player id="429741" /> 
+     <player id="463138" /> 
+     <player id="463141" /> 
+     <player id="5985" /> 
+     <player id="6742" /> 
+     <player id="31585" /> 
+     <player id="37500" /> 
+     <player id="83031" /> 
+     <player id="83038" /> 
+     <player id="83105" /> 
+     <player id="91253" /> 
+     <player id="93648" /> 
+     <player id="102544" /> 
+     <player id="123702" /> 
+     <player id="134750" /> 
+     <player id="160309" /> 
+     <player id="192205" /> 
+     <player id="195514" /> 
+     <player id="207559" /> 
+     <player id="210997" /> 
+     <player id="211007" /> 
+     <player id="213182" /> 
+     <player id="217679" /> 
+     <player id="220819" /> 
+     <player id="236731" /> 
+     <player id="245072" /> 
+     <player id="253049" /> 
+     <player id="275834" /> 
+     <player id="280354" /> 
+     <player id="332099" /> 
+     <player id="366353" /> 
+     <player id="399213" /> 
+     <player id="409266" /> 
+     <player id="427688" /> 
+     <player id="427695" /> 
+     <player id="427696" /> 
+     <player id="459642" /> 
+     <player id="463144" /> 
+     <player id="463146" /> 
+     <player id="463152" /> 
+     <player id="518076" /> 
+     <player id="561631" /> 
+     <player id="598439" /> 
+     <player id="62966" /> 
+     <player id="83932" /> 
+     <player id="86944" /> 
+     <player id="93661" /> 
+     <player id="130935" /> 
+     <player id="131378" /> 
+     <player id="182824" /> 
+     <player id="190538" /> 
+     <player id="190638" /> 
+     <player id="191216" /> 
+     <player id="192066" /> 
+     <player id="201841" /> 
+     <player id="202877" /> 
+     <player id="204370" /> 
+     <player id="211000" /> 
+     <player id="217684" /> 
+     <player id="240100" /> 
+     <player id="263056" /> 
+     <player id="275374" /> 
+     <player id="275725" /> 
+     <player id="275727" /> 
+     <player id="275728" /> 
+     <player id="311133" /> 
+     <player id="311150" /> 
+     <player id="312499" /> 
+     <player id="315254" /> 
+     <player id="336158" /> 
+     <player id="337051" /> 
+     <player id="354261" /> 
+     <player id="387751" /> 
+     <player id="387755" /> 
+     <player id="399331" /> 
+     <player id="427700" /> 
+     <player id="427702" /> 
+     <player id="435836" /> 
+     <player id="439913" /> 
+     <player id="463153" /> 
+     <player id="463156" /> 
+     <player id="463157" /> 
+     <player id="518086" /> 
+     <player id="540896" /> 
+     <player id="554180" /> 
+     <player id="578296" /> 
+     <player id="16446" /> 
+     <player id="28214" /> 
+     <player id="29677" /> 
+     <player id="41137" /> 
+     <player id="41366" /> 
+     <player id="84246" /> 
+     <player id="85844" /> 
+     <player id="87628" /> 
+     <player id="109612" /> 
+     <player id="124032" /> 
+     <player id="146669" /> 
+     <player id="157147" /> 
+     <player id="160349" /> 
+     <player id="182886" /> 
+     <player id="183836" /> 
+     <player id="207563" /> 
+     <player id="214653" /> 
+     <player id="245539" /> 
+     <player id="263052" /> 
+     <player id="263072" /> 
+     <player id="319252" /> 
+     <player id="367539" /> 
+     <player id="382113" /> 
+     <player id="445215" /> 
+     <player id="463158" /> 
+     <player id="463165" /> 
+     <player id="463541" /> 
+   </players> 
+   <coaches> 
+     <coach id="83160" /> 
+     <coach id="89649" /> 
+     <coach id="134823" /> 
+     <coach id="134846" /> 
+     <coach id="136564" /> 
+     <coach id="166239" /> 
+     <coach id="213189" /> 
+     <coach id="225489" /> 
+     <coach id="302094" /> 
+     <coach id="315198" /> 
+     <coach id="598211" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>674</id> 
+   <name>نادي إيفرتون لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/674.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Goodison Road</adrese> 
+   <website>http://www.evertonfc.com</website> 
+   <creation-date>1878</creation-date> 
+   <players> 
+     <player id="4" /> 
+     <player id="39888" /> 
+     <player id="95877" /> 
+     <player id="160405" /> 
+     <player id="421572" /> 
+     <player id="451791" /> 
+     <player id="2600" /> 
+     <player id="2672" /> 
+     <player id="7158" /> 
+     <player id="47555" /> 
+     <player id="57652" /> 
+     <player id="68177" /> 
+     <player id="96307" /> 
+     <player id="97835" /> 
+     <player id="138198" /> 
+     <player id="149336" /> 
+     <player id="162511" /> 
+     <player id="209638" /> 
+     <player id="217740" /> 
+     <player id="280903" /> 
+     <player id="289762" /> 
+     <player id="310696" /> 
+     <player id="320270" /> 
+     <player id="335180" /> 
+     <player id="392071" /> 
+     <player id="409164" /> 
+     <player id="444227" /> 
+     <player id="453908" /> 
+     <player id="453917" /> 
+     <player id="457359" /> 
+     <player id="33245" /> 
+     <player id="46512" /> 
+     <player id="53097" /> 
+     <player id="57707" /> 
+     <player id="95907" /> 
+     <player id="144829" /> 
+     <player id="158581" /> 
+     <player id="183382" /> 
+     <player id="245897" /> 
+     <player id="258615" /> 
+     <player id="264176" /> 
+     <player id="290221" /> 
+     <player id="318353" /> 
+     <player id="387381" /> 
+     <player id="392787" /> 
+     <player id="392788" /> 
+     <player id="393269" /> 
+     <player id="422433" /> 
+     <player id="453276" /> 
+     <player id="453910" /> 
+     <player id="193" /> 
+     <player id="194" /> 
+     <player id="2073" /> 
+     <player id="68645" /> 
+     <player id="71338" /> 
+     <player id="213353" /> 
+     <player id="214369" /> 
+     <player id="230803" /> 
+     <player id="326320" /> 
+     <player id="386237" /> 
+     <player id="407737" /> 
+     <player id="412581" /> 
+     <player id="428612" /> 
+     <player id="429830" /> 
+     <player id="441329" /> 
+     <player id="465503" /> 
+   </players> 
+   <coaches> 
+     <coach id="105040" /> 
+     <coach id="110693" /> 
+     <coach id="132268" /> 
+     <coach id="210906" /> 
+     <coach id="221791" /> 
+   </coaches> 
+</team>

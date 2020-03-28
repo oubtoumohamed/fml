@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1515</id> 
+   <name>نادي اياكس أمستردام لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1515.png</image> 
+   <country>هولندا</country> 
+   <adrese>ArenA Boulevard 29</adrese> 
+   <website>http://www.ajax.nl</website> 
+   <creation-date>1900</creation-date> 
+   <players> 
+     <player id="88114" /> 
+     <player id="161787" /> 
+     <player id="222929" /> 
+     <player id="276990" /> 
+     <player id="319270" /> 
+     <player id="372465" /> 
+     <player id="440090" /> 
+     <player id="461386" /> 
+     <player id="506880" /> 
+     <player id="68886" /> 
+     <player id="78529" /> 
+     <player id="102599" /> 
+     <player id="102878" /> 
+     <player id="141419" /> 
+     <player id="219029" /> 
+     <player id="289814" /> 
+     <player id="300873" /> 
+     <player id="306588" /> 
+     <player id="379787" /> 
+     <player id="381105" /> 
+     <player id="399768" /> 
+     <player id="400831" /> 
+     <player id="423824" /> 
+     <player id="423940" /> 
+     <player id="435350" /> 
+     <player id="452053" /> 
+     <player id="454119" /> 
+     <player id="463008" /> 
+     <player id="463009" /> 
+     <player id="463010" /> 
+     <player id="463014" /> 
+     <player id="471671" /> 
+     <player id="473481" /> 
+     <player id="479402" /> 
+     <player id="504006" /> 
+     <player id="17366" /> 
+     <player id="20321" /> 
+     <player id="102889" /> 
+     <player id="255713" /> 
+     <player id="270586" /> 
+     <player id="319301" /> 
+     <player id="379791" /> 
+     <player id="381095" /> 
+     <player id="381099" /> 
+     <player id="385289" /> 
+     <player id="404591" /> 
+     <player id="450083" /> 
+     <player id="453849" /> 
+     <player id="463016" /> 
+     <player id="463017" /> 
+     <player id="463018" /> 
+     <player id="508784" /> 
+     <player id="508816" /> 
+     <player id="525932" /> 
+     <player id="572118" /> 
+     <player id="43" /> 
+     <player id="2179" /> 
+     <player id="40709" /> 
+     <player id="176472" /> 
+     <player id="191107" /> 
+     <player id="268815" /> 
+     <player id="316064" /> 
+     <player id="395433" /> 
+     <player id="401124" /> 
+     <player id="423563" /> 
+     <player id="423827" /> 
+     <player id="426578" /> 
+     <player id="433194" /> 
+     <player id="454183" /> 
+     <player id="460509" /> 
+     <player id="489072" /> 
+     <player id="508820" /> 
+     <player id="508823" /> 
+     <player id="520146" /> 
+     <player id="522475" /> 
+   </players> 
+   <coaches> 
+     <coach id="2249" /> 
+     <coach id="255436" /> 
+   </coaches> 
+</team>

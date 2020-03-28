@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3471</team_id> 
+   <id>648049</id> 
+   <name>A. Moudhi</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/648049.png</image> 
+   <position>مدافع</position> 
+   <nationality>المغرب</nationality> 
+   <birth-day>1992-09-02</birth-day> 
+   <length  unit="cm">190</length> 
+   <weight  unit="kg">80</weight> 
+</player>

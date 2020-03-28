@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>687</id> 
+   <name>نادي شيفيلد يونايتد لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/687.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Bramall Lane</adrese> 
+   <website>http://www.sufc.co.uk</website> 
+   <creation-date>1889</creation-date> 
+   <players> 
+     <player id="89079" /> 
+     <player id="169045" /> 
+     <player id="215676" /> 
+     <player id="277760" /> 
+     <player id="317323" /> 
+     <player id="448992" /> 
+     <player id="2600" /> 
+     <player id="2690" /> 
+     <player id="4702" /> 
+     <player id="15705" /> 
+     <player id="15938" /> 
+     <player id="16055" /> 
+     <player id="33952" /> 
+     <player id="35909" /> 
+     <player id="50718" /> 
+     <player id="51204" /> 
+     <player id="75124" /> 
+     <player id="83301" /> 
+     <player id="121151" /> 
+     <player id="129102" /> 
+     <player id="130344" /> 
+     <player id="134388" /> 
+     <player id="134509" /> 
+     <player id="142691" /> 
+     <player id="167685" /> 
+     <player id="269587" /> 
+     <player id="274626" /> 
+     <player id="360391" /> 
+     <player id="393436" /> 
+     <player id="429187" /> 
+     <player id="464744" /> 
+     <player id="468778" /> 
+     <player id="468779" /> 
+     <player id="484744" /> 
+     <player id="530362" /> 
+     <player id="23173" /> 
+     <player id="33337" /> 
+     <player id="34638" /> 
+     <player id="36429" /> 
+     <player id="36459" /> 
+     <player id="53126" /> 
+     <player id="60714" /> 
+     <player id="93781" /> 
+     <player id="129849" /> 
+     <player id="140783" /> 
+     <player id="144829" /> 
+     <player id="159895" /> 
+     <player id="162226" /> 
+     <player id="182270" /> 
+     <player id="183072" /> 
+     <player id="191635" /> 
+     <player id="235888" /> 
+     <player id="269601" /> 
+     <player id="290219" /> 
+     <player id="326054" /> 
+     <player id="376315" /> 
+     <player id="386243" /> 
+     <player id="392787" /> 
+     <player id="398474" /> 
+     <player id="468774" /> 
+     <player id="468777" /> 
+     <player id="468780" /> 
+     <player id="468781" /> 
+     <player id="7210" /> 
+     <player id="13007" /> 
+     <player id="13093" /> 
+     <player id="15490" /> 
+     <player id="15531" /> 
+     <player id="15534" /> 
+     <player id="20846" /> 
+     <player id="50873" /> 
+     <player id="85463" /> 
+     <player id="103747" /> 
+     <player id="133802" /> 
+     <player id="158885" /> 
+     <player id="215559" /> 
+     <player id="270446" /> 
+     <player id="278717" /> 
+     <player id="279066" /> 
+     <player id="322039" /> 
+     <player id="423981" /> 
+     <player id="426551" /> 
+     <player id="454689" /> 
+     <player id="559482" /> 
+   </players> 
+   <coaches> 
+     <coach id="199594" /> 
+   </coaches> 
+</team>

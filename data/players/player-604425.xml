@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1358</team_id> 
+   <id>604425</id> 
+   <name>G. Alykulov</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/604425.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>غيرغيستان</nationality> 
+   <birth-day>2000-11-25</birth-day> 
+   <length  unit="cm">غيرغيستان</length> 
+   <weight  unit="kg">170</weight> 
+</player>

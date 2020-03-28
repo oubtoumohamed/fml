@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1355</team_id> 
+   <id>606078</id> 
+   <name>R. Tuktamyshev</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/606078.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>كازاخستان</nationality> 
+   <birth-day>1999-08-24</birth-day> 
+   <length  unit="cm">180</length> 
+   <weight  unit="kg">71</weight> 
+</player>

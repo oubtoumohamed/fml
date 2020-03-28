@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2322</team_id> 
+   <id>218005</id> 
+   <name>فالداس دمبراوسكاس</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/218005.png</image> 
+   <position>لتوانيا</position> 
+   <nationality>1977-01-07</nationality> 
+   <birth-day>لتوانيا</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

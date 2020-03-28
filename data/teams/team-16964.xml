@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>16964</id> 
+   <name>اتحاد مدينة بلعباس</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/16964.png</image> 
+   <country>الجزائر</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="80726" /> 
+     <player id="87560" /> 
+     <player id="315848" /> 
+     <player id="495825" /> 
+     <player id="496089" /> 
+     <player id="49244" /> 
+     <player id="88528" /> 
+     <player id="89405" /> 
+     <player id="184086" /> 
+     <player id="278579" /> 
+     <player id="296244" /> 
+     <player id="311132" /> 
+     <player id="329557" /> 
+     <player id="357795" /> 
+     <player id="357803" /> 
+     <player id="468833" /> 
+     <player id="485007" /> 
+     <player id="495098" /> 
+     <player id="495575" /> 
+     <player id="496088" /> 
+     <player id="501806" /> 
+     <player id="551655" /> 
+     <player id="555716" /> 
+     <player id="560938" /> 
+     <player id="636212" /> 
+     <player id="48944" /> 
+     <player id="156376" /> 
+     <player id="211186" /> 
+     <player id="265340" /> 
+     <player id="297585" /> 
+     <player id="309952" /> 
+     <player id="340623" /> 
+     <player id="357751" /> 
+     <player id="394898" /> 
+     <player id="401839" /> 
+     <player id="455414" /> 
+     <player id="470245" /> 
+     <player id="472218" /> 
+     <player id="495827" /> 
+     <player id="610788" /> 
+     <player id="613865" /> 
+     <player id="623798" /> 
+     <player id="625105" /> 
+     <player id="625106" /> 
+     <player id="49036" /> 
+     <player id="265339" /> 
+     <player id="266144" /> 
+     <player id="266273" /> 
+     <player id="266653" /> 
+     <player id="311557" /> 
+     <player id="468832" /> 
+     <player id="496084" /> 
+     <player id="521322" /> 
+     <player id="526801" /> 
+     <player id="551656" /> 
+     <player id="628048" /> 
+   </players> 
+   <coaches> 
+     <coach id="266848" /> 
+     <coach id="276390" /> 
+     <coach id="281757" /> 
+     <coach id="285281" /> 
+     <coach id="403968" /> 
+     <coach id="406112" /> 
+     <coach id="434806" /> 
+     <coach id="455516" /> 
+     <coach id="575458" /> 
+     <coach id="594345" /> 
+     <coach id="595649" /> 
+     <coach id="647178" /> 
+   </coaches> 
+</team>

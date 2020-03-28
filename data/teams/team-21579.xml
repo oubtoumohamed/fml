@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>21579</id> 
+   <name>فولفسبرجر أتلتيك كلوب</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/21579.png</image> 
+   <country>النمسا</country> 
+   <adrese>Don-Bosco-Weg 1</adrese> 
+   <website>http://rzpelletswac.at</website> 
+   <creation-date>1931</creation-date> 
+   <players> 
+     <player id="41417" /> 
+     <player id="135302" /> 
+     <player id="143826" /> 
+     <player id="265030" /> 
+     <player id="303947" /> 
+     <player id="303952" /> 
+     <player id="499143" /> 
+     <player id="558544" /> 
+     <player id="21069" /> 
+     <player id="35584" /> 
+     <player id="35626" /> 
+     <player id="45532" /> 
+     <player id="55091" /> 
+     <player id="66198" /> 
+     <player id="66201" /> 
+     <player id="99668" /> 
+     <player id="129836" /> 
+     <player id="162148" /> 
+     <player id="272886" /> 
+     <player id="290222" /> 
+     <player id="348795" /> 
+     <player id="382207" /> 
+     <player id="408598" /> 
+     <player id="430617" /> 
+     <player id="433270" /> 
+     <player id="517692" /> 
+     <player id="34836" /> 
+     <player id="39114" /> 
+     <player id="86919" /> 
+     <player id="101136" /> 
+     <player id="144607" /> 
+     <player id="163991" /> 
+     <player id="176518" /> 
+     <player id="236523" /> 
+     <player id="253114" /> 
+     <player id="256392" /> 
+     <player id="258233" /> 
+     <player id="301392" /> 
+     <player id="319022" /> 
+     <player id="406188" /> 
+     <player id="425311" /> 
+     <player id="438002" /> 
+     <player id="438761" /> 
+     <player id="443871" /> 
+     <player id="468577" /> 
+     <player id="489183" /> 
+     <player id="491946" /> 
+     <player id="77446" /> 
+     <player id="83285" /> 
+     <player id="135461" /> 
+     <player id="159815" /> 
+     <player id="273304" /> 
+     <player id="301634" /> 
+     <player id="400833" /> 
+     <player id="425832" /> 
+     <player id="427540" /> 
+     <player id="438036" /> 
+     <player id="490216" /> 
+   </players> 
+   <coaches> 
+     <coach id="226391" /> 
+     <coach id="390393" /> 
+     <coach id="488496" /> 
+     <coach id="644857" /> 
+   </coaches> 
+</team>

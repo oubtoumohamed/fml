@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>27468</id> 
+   <name>فريق هلال الشابة</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/27468.png</image> 
+   <country>تونس</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="20917" /> 
+     <player id="71420" /> 
+     <player id="621032" /> 
+     <player id="284933" /> 
+     <player id="311132" /> 
+     <player id="328253" /> 
+     <player id="463120" /> 
+     <player id="488981" /> 
+     <player id="621033" /> 
+     <player id="621034" /> 
+     <player id="629958" /> 
+     <player id="53345" /> 
+     <player id="194822" /> 
+     <player id="220176" /> 
+     <player id="262559" /> 
+     <player id="326337" /> 
+     <player id="485231" /> 
+     <player id="500461" /> 
+     <player id="594666" /> 
+     <player id="621035" /> 
+     <player id="621036" /> 
+     <player id="621037" /> 
+     <player id="621038" /> 
+     <player id="621039" /> 
+     <player id="629961" /> 
+     <player id="422733" /> 
+     <player id="463061" /> 
+     <player id="483034" /> 
+     <player id="485077" /> 
+     <player id="502203" /> 
+     <player id="504824" /> 
+     <player id="621040" /> 
+     <player id="629960" /> 
+     <player id="641695" /> 
+   </players> 
+   <coaches> 
+     <coach id="134817" /> 
+     <coach id="141819" /> 
+     <coach id="537451" /> 
+   </coaches> 
+</team>

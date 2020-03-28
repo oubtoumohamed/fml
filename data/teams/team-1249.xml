@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1249</id> 
+   <name>نادي بولونيا 1909</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1249.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Via Casteldebole 10</adrese> 
+   <website>http://www.bolognafc.it</website> 
+   <creation-date>1909</creation-date> 
+   <players> 
+     <player id="17796" /> 
+     <player id="58380" /> 
+     <player id="67190" /> 
+     <player id="148167" /> 
+     <player id="195191" /> 
+     <player id="398101" /> 
+     <player id="459618" /> 
+     <player id="509585" /> 
+     <player id="541472" /> 
+     <player id="559122" /> 
+     <player id="9001" /> 
+     <player id="19117" /> 
+     <player id="21790" /> 
+     <player id="63052" /> 
+     <player id="65079" /> 
+     <player id="147788" /> 
+     <player id="185166" /> 
+     <player id="191101" /> 
+     <player id="204947" /> 
+     <player id="214850" /> 
+     <player id="219029" /> 
+     <player id="221800" /> 
+     <player id="223054" /> 
+     <player id="235486" /> 
+     <player id="250403" /> 
+     <player id="263958" /> 
+     <player id="273835" /> 
+     <player id="304996" /> 
+     <player id="394657" /> 
+     <player id="408131" /> 
+     <player id="412149" /> 
+     <player id="413092" /> 
+     <player id="472023" /> 
+     <player id="477617" /> 
+     <player id="517735" /> 
+     <player id="641668" /> 
+     <player id="209" /> 
+     <player id="17787" /> 
+     <player id="72309" /> 
+     <player id="103178" /> 
+     <player id="115525" /> 
+     <player id="166004" /> 
+     <player id="189602" /> 
+     <player id="206546" /> 
+     <player id="218912" /> 
+     <player id="233603" /> 
+     <player id="327739" /> 
+     <player id="332346" /> 
+     <player id="377463" /> 
+     <player id="389037" /> 
+     <player id="400165" /> 
+     <player id="425642" /> 
+     <player id="425657" /> 
+     <player id="433091" /> 
+     <player id="448432" /> 
+     <player id="463550" /> 
+     <player id="469902" /> 
+     <player id="477166" /> 
+     <player id="563350" /> 
+     <player id="114" /> 
+     <player id="31548" /> 
+     <player id="85503" /> 
+     <player id="91919" /> 
+     <player id="111753" /> 
+     <player id="114988" /> 
+     <player id="230579" /> 
+     <player id="283010" /> 
+     <player id="290747" /> 
+     <player id="401959" /> 
+     <player id="413311" /> 
+     <player id="490969" /> 
+     <player id="529431" /> 
+     <player id="569734" /> 
+     <player id="647759" /> 
+   </players> 
+   <coaches> 
+     <coach id="89" /> 
+     <coach id="110818" /> 
+     <coach id="165463" /> 
+     <coach id="304629" /> 
+     <coach id="625643" /> 
+   </coaches> 
+</team>

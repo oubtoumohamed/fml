@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1277</id> 
+   <name>نادي هيلاس فيرونا لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1277.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Via Evangelista Torricelli 37</adrese> 
+   <website>http://www.hellasverona.it</website> 
+   <creation-date>1903</creation-date> 
+   <players> 
+     <player id="17854" /> 
+     <player id="74343" /> 
+     <player id="95180" /> 
+     <player id="153979" /> 
+     <player id="251437" /> 
+     <player id="273834" /> 
+     <player id="297914" /> 
+     <player id="525774" /> 
+     <player id="573415" /> 
+     <player id="4441" /> 
+     <player id="17962" /> 
+     <player id="41372" /> 
+     <player id="44556" /> 
+     <player id="45617" /> 
+     <player id="47935" /> 
+     <player id="57116" /> 
+     <player id="63522" /> 
+     <player id="75207" /> 
+     <player id="90972" /> 
+     <player id="91150" /> 
+     <player id="142477" /> 
+     <player id="160106" /> 
+     <player id="180501" /> 
+     <player id="199387" /> 
+     <player id="201440" /> 
+     <player id="214850" /> 
+     <player id="261244" /> 
+     <player id="276363" /> 
+     <player id="296232" /> 
+     <player id="319946" /> 
+     <player id="326514" /> 
+     <player id="357829" /> 
+     <player id="394649" /> 
+     <player id="427012" /> 
+     <player id="433905" /> 
+     <player id="470002" /> 
+     <player id="475113" /> 
+     <player id="16591" /> 
+     <player id="31547" /> 
+     <player id="45612" /> 
+     <player id="58741" /> 
+     <player id="81899" /> 
+     <player id="86126" /> 
+     <player id="103198" /> 
+     <player id="134269" /> 
+     <player id="142470" /> 
+     <player id="147790" /> 
+     <player id="162492" /> 
+     <player id="162670" /> 
+     <player id="172118" /> 
+     <player id="178364" /> 
+     <player id="218100" /> 
+     <player id="265494" /> 
+     <player id="279720" /> 
+     <player id="283838" /> 
+     <player id="305841" /> 
+     <player id="319054" /> 
+     <player id="340535" /> 
+     <player id="360019" /> 
+     <player id="387255" /> 
+     <player id="414926" /> 
+     <player id="425385" /> 
+     <player id="425859" /> 
+     <player id="427632" /> 
+     <player id="498249" /> 
+     <player id="507987" /> 
+     <player id="517434" /> 
+     <player id="559890" /> 
+     <player id="4047" /> 
+     <player id="17833" /> 
+     <player id="17853" /> 
+     <player id="18602" /> 
+     <player id="72526" /> 
+     <player id="95826" /> 
+     <player id="147965" /> 
+     <player id="213133" /> 
+     <player id="213903" /> 
+     <player id="283010" /> 
+     <player id="326052" /> 
+     <player id="373031" /> 
+     <player id="387267" /> 
+     <player id="429830" /> 
+     <player id="460686" /> 
+     <player id="497250" /> 
+     <player id="598013" /> 
+     <player id="616280" /> 
+   </players> 
+   <coaches> 
+     <coach id="75" /> 
+     <coach id="4456" /> 
+     <coach id="17707" /> 
+     <coach id="194997" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>200</team_id> 
+   <id>224127</id> 
+   <name>كيه. كيوربانوف</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/224127.png</image> 
+   <position>مهاجم</position> 
+   <nationality>أذربيجان</nationality> 
+   <birth-day>1972-04-13</birth-day> 
+   <length  unit="cm">أذربيجان</length> 
+   <weight  unit="kg"></weight> 
+</player>

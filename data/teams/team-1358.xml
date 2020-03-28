@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1358</id> 
+   <name>قايرات ألماته</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1358.png</image> 
+   <country>كازاخستان</country> 
+   <adrese>ul. Kablukova 30</adrese> 
+   <website>http://www.fckairat.kz</website> 
+   <creation-date>1952</creation-date> 
+   <players> 
+     <player id="41368" /> 
+     <player id="186843" /> 
+     <player id="233732" /> 
+     <player id="440951" /> 
+     <player id="465844" /> 
+     <player id="509210" /> 
+     <player id="26168" /> 
+     <player id="79248" /> 
+     <player id="123187" /> 
+     <player id="123312" /> 
+     <player id="133968" /> 
+     <player id="154774" /> 
+     <player id="182013" /> 
+     <player id="248387" /> 
+     <player id="252027" /> 
+     <player id="322452" /> 
+     <player id="336979" /> 
+     <player id="357673" /> 
+     <player id="386633" /> 
+     <player id="421616" /> 
+     <player id="443428" /> 
+     <player id="463504" /> 
+     <player id="463506" /> 
+     <player id="479195" /> 
+     <player id="509229" /> 
+     <player id="1665" /> 
+     <player id="46286" /> 
+     <player id="60935" /> 
+     <player id="62801" /> 
+     <player id="124207" /> 
+     <player id="154789" /> 
+     <player id="160940" /> 
+     <player id="161803" /> 
+     <player id="180447" /> 
+     <player id="206571" /> 
+     <player id="241630" /> 
+     <player id="273274" /> 
+     <player id="273281" /> 
+     <player id="286511" /> 
+     <player id="303875" /> 
+     <player id="316866" /> 
+     <player id="316868" /> 
+     <player id="322446" /> 
+     <player id="386643" /> 
+     <player id="421607" /> 
+     <player id="425935" /> 
+     <player id="463507" /> 
+     <player id="463511" /> 
+     <player id="465883" /> 
+     <player id="598689" /> 
+     <player id="604425" /> 
+     <player id="6880" /> 
+     <player id="82791" /> 
+     <player id="138858" /> 
+     <player id="170797" /> 
+     <player id="193747" /> 
+     <player id="214348" /> 
+     <player id="273277" /> 
+     <player id="279290" /> 
+     <player id="410622" /> 
+     <player id="421617" /> 
+     <player id="421620" /> 
+     <player id="463518" /> 
+     <player id="465002" /> 
+     <player id="465901" /> 
+     <player id="509180" /> 
+     <player id="509182" /> 
+     <player id="551712" /> 
+   </players> 
+   <coaches> 
+     <coach id="6432" /> 
+     <coach id="399220" /> 
+     <coach id="555214" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>256</team_id> 
+   <id>114537</id> 
+   <name>فرانك ديوري</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/114537.png</image> 
+   <position>بلجيكا</position> 
+   <nationality>1957-10-11</nationality> 
+   <birth-day>Roeselare</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

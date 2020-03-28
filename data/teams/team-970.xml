@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>970</id> 
+   <name>نادي فرايبورج</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/970.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Schwarzwaldstraße 193</adrese> 
+   <website>http://www.scfreiburg.com</website> 
+   <creation-date>1904</creation-date> 
+   <players> 
+     <player id="16402" /> 
+     <player id="42494" /> 
+     <player id="154056" /> 
+     <player id="251509" /> 
+     <player id="400416" /> 
+     <player id="439583" /> 
+     <player id="38209" /> 
+     <player id="74587" /> 
+     <player id="86696" /> 
+     <player id="125799" /> 
+     <player id="136144" /> 
+     <player id="199842" /> 
+     <player id="235204" /> 
+     <player id="250039" /> 
+     <player id="288859" /> 
+     <player id="308251" /> 
+     <player id="335196" /> 
+     <player id="343955" /> 
+     <player id="354199" /> 
+     <player id="359139" /> 
+     <player id="362461" /> 
+     <player id="440860" /> 
+     <player id="453982" /> 
+     <player id="493088" /> 
+     <player id="21048" /> 
+     <player id="43663" /> 
+     <player id="51579" /> 
+     <player id="57843" /> 
+     <player id="74227" /> 
+     <player id="89661" /> 
+     <player id="120261" /> 
+     <player id="160324" /> 
+     <player id="227680" /> 
+     <player id="232689" /> 
+     <player id="254873" /> 
+     <player id="260917" /> 
+     <player id="302419" /> 
+     <player id="302731" /> 
+     <player id="307358" /> 
+     <player id="358247" /> 
+     <player id="358299" /> 
+     <player id="403560" /> 
+     <player id="453632" /> 
+     <player id="477854" /> 
+     <player id="534639" /> 
+     <player id="586" /> 
+     <player id="16310" /> 
+     <player id="71643" /> 
+     <player id="196096" /> 
+     <player id="262405" /> 
+     <player id="286007" /> 
+     <player id="290338" /> 
+     <player id="303491" /> 
+     <player id="305021" /> 
+     <player id="316292" /> 
+     <player id="318548" /> 
+     <player id="413778" /> 
+   </players> 
+   <coaches> 
+     <coach id="20576" /> 
+     <coach id="223823" /> 
+     <coach id="304366" /> 
+     <coach id="488259" /> 
+   </coaches> 
+</team>

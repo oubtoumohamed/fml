@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3481</id> 
+   <name>النادي الصفاقسي الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3481.png</image> 
+   <country>تونس</country> 
+   <adrese>Route de l'Aéroport, Kilomètre 3</adrese> 
+   <website>http://www.css-officiel.com</website> 
+   <creation-date>1928</creation-date> 
+   <players> 
+     <player id="71664" /> 
+     <player id="319072" /> 
+     <player id="326172" /> 
+     <player id="483174" /> 
+     <player id="138376" /> 
+     <player id="138419" /> 
+     <player id="262520" /> 
+     <player id="284933" /> 
+     <player id="326338" /> 
+     <player id="360201" /> 
+     <player id="425810" /> 
+     <player id="426037" /> 
+     <player id="459752" /> 
+     <player id="463039" /> 
+     <player id="470010" /> 
+     <player id="475704" /> 
+     <player id="475705" /> 
+     <player id="534711" /> 
+     <player id="566840" /> 
+     <player id="582911" /> 
+     <player id="599668" /> 
+     <player id="64362" /> 
+     <player id="140375" /> 
+     <player id="167742" /> 
+     <player id="183245" /> 
+     <player id="221593" /> 
+     <player id="230485" /> 
+     <player id="237703" /> 
+     <player id="268031" /> 
+     <player id="277243" /> 
+     <player id="285791" /> 
+     <player id="314626" /> 
+     <player id="328250" /> 
+     <player id="330102" /> 
+     <player id="336899" /> 
+     <player id="395498" /> 
+     <player id="403641" /> 
+     <player id="405049" /> 
+     <player id="405075" /> 
+     <player id="406628" /> 
+     <player id="426032" /> 
+     <player id="435943" /> 
+     <player id="463040" /> 
+     <player id="483009" /> 
+     <player id="500461" /> 
+     <player id="535589" /> 
+     <player id="600470" /> 
+     <player id="613574" /> 
+     <player id="622611" /> 
+     <player id="64719" /> 
+     <player id="139661" /> 
+     <player id="141097" /> 
+     <player id="298018" /> 
+     <player id="383231" /> 
+     <player id="400343" /> 
+     <player id="414183" /> 
+     <player id="426035" /> 
+     <player id="427870" /> 
+     <player id="447100" /> 
+     <player id="474567" /> 
+     <player id="532294" /> 
+     <player id="546888" /> 
+     <player id="569946" /> 
+     <player id="639262" /> 
+   </players> 
+   <coaches> 
+     <coach id="143754" /> 
+     <coach id="172054" /> 
+     <coach id="179310" /> 
+     <coach id="346215" /> 
+     <coach id="469360" /> 
+     <coach id="637362" /> 
+   </coaches> 
+</team>

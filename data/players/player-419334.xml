@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>918</team_id> 
+   <id>419334</id> 
+   <name>S. Besic</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/419334.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>البوسنة والهرسك</nationality> 
+   <birth-day>1998-04-09</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

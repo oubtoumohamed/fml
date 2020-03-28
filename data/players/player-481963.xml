@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>922</team_id> 
+   <id>481963</id> 
+   <name>ليني بينتور</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/481963.png</image> 
+   <position>مهاجم</position> 
+   <nationality>فرنسا</nationality> 
+   <birth-day>2000-08-05</birth-day> 
+   <length  unit="cm">179</length> 
+   <weight  unit="kg">66</weight> 
+</player>

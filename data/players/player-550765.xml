@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1949</team_id> 
+   <id>550765</id> 
+   <name>B. Ciger</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/550765.png</image> 
+   <position>مدافع</position> 
+   <nationality>صربيا</nationality> 
+   <birth-day>1994-06-18</birth-day> 
+   <length  unit="cm">صربيا</length> 
+   <weight  unit="kg">186</weight> 
+</player>

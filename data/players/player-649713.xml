@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3472</team_id> 
+   <id>649713</id> 
+   <name>B. El Gnaoui</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/649713.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>المغرب</nationality> 
+   <birth-day>1988-01-26</birth-day> 
+   <length  unit="cm">اليمني</length> 
+   <weight  unit="kg"></weight> 
+</player>

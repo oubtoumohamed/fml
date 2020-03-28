@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>245</team_id> 
+   <id>549000</id> 
+   <name>T. Roufosse</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/549000.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>بلجيكا</nationality> 
+   <birth-day>2001-03-28</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

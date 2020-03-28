@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>215</id> 
+   <name>نادي أندرلخت الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/215.png</image> 
+   <country>بلجيكا</country> 
+   <adrese>Avenue Théo Verbeeck 2</adrese> 
+   <website>http://www.rsca.be</website> 
+   <creation-date>1908</creation-date> 
+   <players> 
+     <player id="13463" /> 
+     <player id="89739" /> 
+     <player id="161276" /> 
+     <player id="193841" /> 
+     <player id="194904" /> 
+     <player id="259971" /> 
+     <player id="314145" /> 
+     <player id="420190" /> 
+     <player id="1998" /> 
+     <player id="4588" /> 
+     <player id="45535" /> 
+     <player id="90508" /> 
+     <player id="122768" /> 
+     <player id="123948" /> 
+     <player id="146637" /> 
+     <player id="156563" /> 
+     <player id="159061" /> 
+     <player id="162620" /> 
+     <player id="216767" /> 
+     <player id="312600" /> 
+     <player id="322329" /> 
+     <player id="329201" /> 
+     <player id="368993" /> 
+     <player id="372267" /> 
+     <player id="381097" /> 
+     <player id="421820" /> 
+     <player id="421826" /> 
+     <player id="425809" /> 
+     <player id="434755" /> 
+     <player id="462542" /> 
+     <player id="462566" /> 
+     <player id="462568" /> 
+     <player id="519183" /> 
+     <player id="1538" /> 
+     <player id="43606" /> 
+     <player id="49530" /> 
+     <player id="56324" /> 
+     <player id="88726" /> 
+     <player id="121076" /> 
+     <player id="136350" /> 
+     <player id="144580" /> 
+     <player id="165828" /> 
+     <player id="169853" /> 
+     <player id="172140" /> 
+     <player id="189118" /> 
+     <player id="197630" /> 
+     <player id="215348" /> 
+     <player id="232067" /> 
+     <player id="271091" /> 
+     <player id="387013" /> 
+     <player id="407742" /> 
+     <player id="409845" /> 
+     <player id="436548" /> 
+     <player id="436549" /> 
+     <player id="462600" /> 
+     <player id="467805" /> 
+     <player id="506160" /> 
+     <player id="509316" /> 
+     <player id="529017" /> 
+     <player id="574511" /> 
+     <player id="574515" /> 
+     <player id="71338" /> 
+     <player id="74709" /> 
+     <player id="157470" /> 
+     <player id="177641" /> 
+     <player id="187768" /> 
+     <player id="190871" /> 
+     <player id="314099" /> 
+     <player id="319401" /> 
+     <player id="345401" /> 
+     <player id="412581" /> 
+     <player id="435270" /> 
+     <player id="437567" /> 
+     <player id="548687" /> 
+     <player id="578892" /> 
+   </players> 
+   <coaches> 
+     <coach id="13247" /> 
+     <coach id="53524" /> 
+     <coach id="110869" /> 
+     <coach id="114525" /> 
+     <coach id="114526" /> 
+     <coach id="493772" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1523</id> 
+   <name>أوتريخت</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1523.png</image> 
+   <country>هولندا</country> 
+   <adrese>Herculesplein 241</adrese> 
+   <website>http://www.fcutrecht.nl</website> 
+   <creation-date>1970</creation-date> 
+   <players> 
+     <player id="61206" /> 
+     <player id="85019" /> 
+     <player id="138796" /> 
+     <player id="387675" /> 
+     <player id="399767" /> 
+     <player id="448951" /> 
+     <player id="463695" /> 
+     <player id="537692" /> 
+     <player id="2482" /> 
+     <player id="17327" /> 
+     <player id="83456" /> 
+     <player id="88182" /> 
+     <player id="185429" /> 
+     <player id="215549" /> 
+     <player id="251711" /> 
+     <player id="260550" /> 
+     <player id="268062" /> 
+     <player id="302164" /> 
+     <player id="399764" /> 
+     <player id="432697" /> 
+     <player id="477596" /> 
+     <player id="535271" /> 
+     <player id="537693" /> 
+     <player id="537706" /> 
+     <player id="540620" /> 
+     <player id="2177" /> 
+     <player id="68595" /> 
+     <player id="102889" /> 
+     <player id="102912" /> 
+     <player id="136119" /> 
+     <player id="161307" /> 
+     <player id="189025" /> 
+     <player id="197562" /> 
+     <player id="200302" /> 
+     <player id="218161" /> 
+     <player id="228067" /> 
+     <player id="283839" /> 
+     <player id="394807" /> 
+     <player id="436582" /> 
+     <player id="452058" /> 
+     <player id="452059" /> 
+     <player id="489707" /> 
+     <player id="567701" /> 
+     <player id="19677" /> 
+     <player id="157946" /> 
+     <player id="207175" /> 
+     <player id="218002" /> 
+     <player id="218123" /> 
+     <player id="252081" /> 
+     <player id="268815" /> 
+     <player id="278680" /> 
+     <player id="328107" /> 
+     <player id="332688" /> 
+     <player id="333892" /> 
+     <player id="359197" /> 
+     <player id="394561" /> 
+     <player id="446134" /> 
+     <player id="452064" /> 
+     <player id="452177" /> 
+     <player id="463702" /> 
+     <player id="476000" /> 
+     <player id="477598" /> 
+     <player id="568002" /> 
+   </players> 
+   <coaches> 
+     <coach id="459" /> 
+     <coach id="2491" /> 
+     <coach id="2492" /> 
+     <coach id="132627" /> 
+     <coach id="200485" /> 
+   </coaches> 
+</team>

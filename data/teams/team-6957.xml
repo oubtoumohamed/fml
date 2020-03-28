@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>6957</id> 
+   <name>ألكسندريا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/6957.png</image> 
+   <country>أوكرانيا</country> 
+   <adrese>vul. Shevchenka 58-B</adrese> 
+   <website>http://www.pfcalexandria.com.ua</website> 
+   <creation-date>1991</creation-date> 
+   <players> 
+     <player id="91462" /> 
+     <player id="211013" /> 
+     <player id="292785" /> 
+     <player id="450534" /> 
+     <player id="544600" /> 
+     <player id="551965" /> 
+     <player id="620649" /> 
+     <player id="31373" /> 
+     <player id="66075" /> 
+     <player id="83613" /> 
+     <player id="84808" /> 
+     <player id="84959" /> 
+     <player id="122227" /> 
+     <player id="135237" /> 
+     <player id="137634" /> 
+     <player id="264674" /> 
+     <player id="275715" /> 
+     <player id="286657" /> 
+     <player id="370785" /> 
+     <player id="377487" /> 
+     <player id="410636" /> 
+     <player id="420564" /> 
+     <player id="459852" /> 
+     <player id="478267" /> 
+     <player id="479569" /> 
+     <player id="490770" /> 
+     <player id="499554" /> 
+     <player id="538463" /> 
+     <player id="545213" /> 
+     <player id="636208" /> 
+     <player id="636209" /> 
+     <player id="36954" /> 
+     <player id="76142" /> 
+     <player id="84984" /> 
+     <player id="85090" /> 
+     <player id="91721" /> 
+     <player id="134889" /> 
+     <player id="188674" /> 
+     <player id="214603" /> 
+     <player id="251535" /> 
+     <player id="275748" /> 
+     <player id="302144" /> 
+     <player id="319819" /> 
+     <player id="335268" /> 
+     <player id="354261" /> 
+     <player id="365149" /> 
+     <player id="400577" /> 
+     <player id="450256" /> 
+     <player id="459942" /> 
+     <player id="476275" /> 
+     <player id="482825" /> 
+     <player id="506291" /> 
+     <player id="538459" /> 
+     <player id="541037" /> 
+     <player id="544080" /> 
+     <player id="573962" /> 
+     <player id="606324" /> 
+     <player id="85092" /> 
+     <player id="158319" /> 
+     <player id="251917" /> 
+     <player id="253150" /> 
+     <player id="420180" /> 
+     <player id="470208" /> 
+     <player id="476138" /> 
+     <player id="493713" /> 
+     <player id="541040" /> 
+     <player id="573961" /> 
+   </players> 
+   <coaches> 
+     <coach id="194405" /> 
+     <coach id="237650" /> 
+     <coach id="579350" /> 
+   </coaches> 
+</team>

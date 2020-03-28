@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2027</team_id> 
+   <id>391907</id> 
+   <name>إيمانول ألجواسيل</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/391907.png</image> 
+   <position>غير معروف</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>1971-07-04</birth-day> 
+   <length  unit="cm">إسبانيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

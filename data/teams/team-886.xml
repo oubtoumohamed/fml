@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>886</id> 
+   <name>نادي باريس سان جيرمان لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/886.png</image> 
+   <country>فرنسا</country> 
+   <adrese>24, rue du Commandant Guilbaud</adrese> 
+   <website>http://www.psg.fr</website> 
+   <creation-date>1970</creation-date> 
+   <players> 
+     <player id="53" /> 
+     <player id="42661" /> 
+     <player id="55435" /> 
+     <player id="138003" /> 
+     <player id="165184" /> 
+     <player id="314383" /> 
+     <player id="376889" /> 
+     <player id="459458" /> 
+     <player id="460024" /> 
+     <player id="3123" /> 
+     <player id="9136" /> 
+     <player id="75843" /> 
+     <player id="94078" /> 
+     <player id="155095" /> 
+     <player id="157942" /> 
+     <player id="180884" /> 
+     <player id="204842" /> 
+     <player id="265372" /> 
+     <player id="271063" /> 
+     <player id="271261" /> 
+     <player id="373451" /> 
+     <player id="419046" /> 
+     <player id="419553" /> 
+     <player id="463008" /> 
+     <player id="475342" /> 
+     <player id="506161" /> 
+     <player id="506166" /> 
+     <player id="571815" /> 
+     <player id="1588" /> 
+     <player id="2384" /> 
+     <player id="16579" /> 
+     <player id="17757" /> 
+     <player id="72451" /> 
+     <player id="93388" /> 
+     <player id="95786" /> 
+     <player id="95907" /> 
+     <player id="103184" /> 
+     <player id="163887" /> 
+     <player id="170341" /> 
+     <player id="242768" /> 
+     <player id="270357" /> 
+     <player id="376905" /> 
+     <player id="376909" /> 
+     <player id="392369" /> 
+     <player id="394261" /> 
+     <player id="419555" /> 
+     <player id="436588" /> 
+     <player id="460280" /> 
+     <player id="509818" /> 
+     <player id="571822" /> 
+     <player id="5920" /> 
+     <player id="16501" /> 
+     <player id="102697" /> 
+     <player id="157946" /> 
+     <player id="160640" /> 
+     <player id="244054" /> 
+     <player id="286056" /> 
+     <player id="376913" /> 
+     <player id="377149" /> 
+     <player id="419562" /> 
+     <player id="436589" /> 
+     <player id="460023" /> 
+     <player id="506164" /> 
+     <player id="509848" /> 
+     <player id="509852" /> 
+     <player id="571827" /> 
+   </players> 
+   <coaches> 
+     <coach id="2990" /> 
+     <coach id="110756" /> 
+     <coach id="110779" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>684</id> 
+   <name>نادي وست هام يونايتد لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/684.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Green Street</adrese> 
+   <website>http://www.whufc.com</website> 
+   <creation-date>1895</creation-date> 
+   <players> 
+     <player id="725" /> 
+     <player id="2842" /> 
+     <player id="3035" /> 
+     <player id="5245" /> 
+     <player id="5301" /> 
+     <player id="60036" /> 
+     <player id="453661" /> 
+     <player id="543732" /> 
+     <player id="2717" /> 
+     <player id="2909" /> 
+     <player id="3259" /> 
+     <player id="9770" /> 
+     <player id="11749" /> 
+     <player id="51175" /> 
+     <player id="202582" /> 
+     <player id="204236" /> 
+     <player id="225552" /> 
+     <player id="258007" /> 
+     <player id="320103" /> 
+     <player id="326358" /> 
+     <player id="363529" /> 
+     <player id="408147" /> 
+     <player id="408149" /> 
+     <player id="555001" /> 
+     <player id="1538" /> 
+     <player id="5320" /> 
+     <player id="13729" /> 
+     <player id="38569" /> 
+     <player id="53112" /> 
+     <player id="61075" /> 
+     <player id="73612" /> 
+     <player id="138045" /> 
+     <player id="141340" /> 
+     <player id="157530" /> 
+     <player id="217198" /> 
+     <player id="298173" /> 
+     <player id="319365" /> 
+     <player id="376731" /> 
+     <player id="387383" /> 
+     <player id="393143" /> 
+     <player id="399878" /> 
+     <player id="408152" /> 
+     <player id="408154" /> 
+     <player id="408156" /> 
+     <player id="408158" /> 
+     <player id="421581" /> 
+     <player id="422765" /> 
+     <player id="453865" /> 
+     <player id="455315" /> 
+     <player id="469390" /> 
+     <player id="5310" /> 
+     <player id="21018" /> 
+     <player id="53039" /> 
+     <player id="53937" /> 
+     <player id="115127" /> 
+     <player id="166466" /> 
+     <player id="272853" /> 
+     <player id="314892" /> 
+     <player id="316325" /> 
+     <player id="318341" /> 
+     <player id="324453" /> 
+     <player id="408163" /> 
+     <player id="455316" /> 
+   </players> 
+   <coaches> 
+     <coach id="110683" /> 
+     <coach id="110778" /> 
+     <coach id="417655" /> 
+   </coaches> 
+</team>

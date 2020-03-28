@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>5495</id> 
+   <name>بني ياس</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/5495.png</image> 
+   <country>الإمارات</country> 
+   <adrese>6th Street, P.O. Box 11111</adrese> 
+   <website>http://www.baniyasclub.ae</website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="77644" /> 
+     <player id="160942" /> 
+     <player id="166856" /> 
+     <player id="168188" /> 
+     <player id="178046" /> 
+     <player id="213764" /> 
+     <player id="244860" /> 
+     <player id="276239" /> 
+     <player id="371421" /> 
+     <player id="430254" /> 
+     <player id="567433" /> 
+     <player id="567456" /> 
+     <player id="576055" /> 
+     <player id="581541" /> 
+     <player id="633153" /> 
+     <player id="10827" /> 
+     <player id="58847" /> 
+     <player id="79642" /> 
+     <player id="97574" /> 
+     <player id="102536" /> 
+     <player id="151358" /> 
+     <player id="154844" /> 
+     <player id="166859" /> 
+     <player id="177134" /> 
+     <player id="201582" /> 
+     <player id="213579" /> 
+     <player id="213752" /> 
+     <player id="213997" /> 
+     <player id="214022" /> 
+     <player id="238986" /> 
+     <player id="294706" /> 
+     <player id="294718" /> 
+     <player id="294851" /> 
+     <player id="294853" /> 
+     <player id="294867" /> 
+     <player id="415131" /> 
+     <player id="415132" /> 
+     <player id="415152" /> 
+     <player id="442548" /> 
+     <player id="459089" /> 
+     <player id="459093" /> 
+     <player id="459120" /> 
+     <player id="472602" /> 
+     <player id="483363" /> 
+     <player id="492372" /> 
+     <player id="506696" /> 
+     <player id="529360" /> 
+     <player id="576054" /> 
+     <player id="626669" /> 
+     <player id="2246" /> 
+     <player id="3069" /> 
+     <player id="6182" /> 
+     <player id="10617" /> 
+     <player id="21094" /> 
+     <player id="26317" /> 
+     <player id="48634" /> 
+     <player id="64052" /> 
+     <player id="64136" /> 
+     <player id="64209" /> 
+     <player id="74808" /> 
+     <player id="97577" /> 
+     <player id="97582" /> 
+     <player id="114678" /> 
+     <player id="124479" /> 
+     <player id="140900" /> 
+     <player id="151150" /> 
+     <player id="154854" /> 
+     <player id="157871" /> 
+     <player id="173807" /> 
+     <player id="177126" /> 
+     <player id="191077" /> 
+     <player id="193049" /> 
+     <player id="213633" /> 
+     <player id="213755" /> 
+     <player id="214212" /> 
+     <player id="226011" /> 
+     <player id="244892" /> 
+     <player id="268645" /> 
+     <player id="268691" /> 
+     <player id="294703" /> 
+     <player id="294725" /> 
+     <player id="294855" /> 
+     <player id="294861" /> 
+     <player id="319335" /> 
+     <player id="371875" /> 
+     <player id="374167" /> 
+     <player id="399008" /> 
+     <player id="400007" /> 
+     <player id="415167" /> 
+     <player id="434327" /> 
+     <player id="442547" /> 
+     <player id="459099" /> 
+     <player id="459101" /> 
+     <player id="459115" /> 
+     <player id="459118" /> 
+     <player id="459121" /> 
+     <player id="470603" /> 
+     <player id="557486" /> 
+     <player id="567459" /> 
+     <player id="586838" /> 
+     <player id="632303" /> 
+     <player id="638915" /> 
+     <player id="649709" /> 
+     <player id="8039" /> 
+     <player id="12010" /> 
+     <player id="17862" /> 
+     <player id="19677" /> 
+     <player id="64135" /> 
+     <player id="64270" /> 
+     <player id="68517" /> 
+     <player id="90778" /> 
+     <player id="156295" /> 
+     <player id="157579" /> 
+     <player id="177360" /> 
+     <player id="177721" /> 
+     <player id="213694" /> 
+     <player id="226854" /> 
+     <player id="227785" /> 
+     <player id="268692" /> 
+     <player id="289001" /> 
+     <player id="294850" /> 
+     <player id="294856" /> 
+     <player id="294858" /> 
+     <player id="301336" /> 
+     <player id="415134" /> 
+     <player id="415160" /> 
+     <player id="458566" /> 
+     <player id="459096" /> 
+     <player id="459112" /> 
+     <player id="459119" /> 
+     <player id="567466" /> 
+     <player id="588919" /> 
+     <player id="649710" /> 
+   </players> 
+   <coaches> 
+     <coach id="135796" /> 
+     <coach id="138602" /> 
+     <coach id="156515" /> 
+     <coach id="181993" /> 
+     <coach id="277671" /> 
+     <coach id="284601" /> 
+     <coach id="473395" /> 
+     <coach id="640479" /> 
+   </coaches> 
+</team>

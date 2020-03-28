@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>901</id> 
+   <name>نادي سانت إيتيان لوار الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/901.png</image> 
+   <country>فرنسا</country> 
+   <adrese>14, rue Pierre et Paul Guichard</adrese> 
+   <website>http://www.asse.fr</website> 
+   <creation-date>1920</creation-date> 
+   <players> 
+     <player id="1310" /> 
+     <player id="1496" /> 
+     <player id="264684" /> 
+     <player id="364271" /> 
+     <player id="431493" /> 
+     <player id="517590" /> 
+     <player id="1325" /> 
+     <player id="2066" /> 
+     <player id="16907" /> 
+     <player id="42186" /> 
+     <player id="68515" /> 
+     <player id="103653" /> 
+     <player id="135312" /> 
+     <player id="151773" /> 
+     <player id="176390" /> 
+     <player id="182145" /> 
+     <player id="311877" /> 
+     <player id="314218" /> 
+     <player id="320102" /> 
+     <player id="379063" /> 
+     <player id="393188" /> 
+     <player id="413396" /> 
+     <player id="420676" /> 
+     <player id="446033" /> 
+     <player id="465056" /> 
+     <player id="534233" /> 
+     <player id="551454" /> 
+     <player id="560302" /> 
+     <player id="2056" /> 
+     <player id="39223" /> 
+     <player id="39294" /> 
+     <player id="86086" /> 
+     <player id="87812" /> 
+     <player id="137668" /> 
+     <player id="155940" /> 
+     <player id="159647" /> 
+     <player id="180889" /> 
+     <player id="193378" /> 
+     <player id="311779" /> 
+     <player id="319033" /> 
+     <player id="322795" /> 
+     <player id="363475" /> 
+     <player id="369501" /> 
+     <player id="394771" /> 
+     <player id="419034" /> 
+     <player id="420678" /> 
+     <player id="432733" /> 
+     <player id="456830" /> 
+     <player id="456833" /> 
+     <player id="468428" /> 
+     <player id="536997" /> 
+     <player id="560304" /> 
+     <player id="560306" /> 
+     <player id="611434" /> 
+     <player id="640861" /> 
+     <player id="13117" /> 
+     <player id="42189" /> 
+     <player id="73474" /> 
+     <player id="78160" /> 
+     <player id="218123" /> 
+     <player id="250816" /> 
+     <player id="271269" /> 
+     <player id="312250" /> 
+     <player id="314035" /> 
+     <player id="378905" /> 
+     <player id="436691" /> 
+     <player id="444034" /> 
+     <player id="525843" /> 
+     <player id="543643" /> 
+   </players> 
+   <coaches> 
+     <coach id="110844" /> 
+     <coach id="304825" /> 
+     <coach id="388875" /> 
+   </coaches> 
+</team>

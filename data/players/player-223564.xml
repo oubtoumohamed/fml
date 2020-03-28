@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>218</team_id> 
+   <id>223564</id> 
+   <name>كيه. إنجبريجتسن</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/223564.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>النرويج</nationality> 
+   <birth-day>1965-11-11</birth-day> 
+   <length  unit="cm">النرويج</length> 
+   <weight  unit="kg">175</weight> 
+</player>

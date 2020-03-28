@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1255</team_id> 
+   <id>627539</id> 
+   <name>خادم نديايي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/627539.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>السنغال</nationality> 
+   <birth-day>2000-04-12</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

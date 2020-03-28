@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>81</team_id> 
+   <id>488206</id> 
+   <name>مانويل فيدال</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/488206.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>1990-09-07</birth-day> 
+   <length  unit="cm">189</length> 
+   <weight  unit="kg">70</weight> 
+</player>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2146</team_id> 
+   <id>277580</id> 
+   <name>رومان بيليبتشوك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/277580.png</image> 
+   <position>غير معروف</position> 
+   <nationality>أوكرانيا</nationality> 
+   <birth-day>1967-04-27</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

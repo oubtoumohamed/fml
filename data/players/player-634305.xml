@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>22136</team_id> 
+   <id>634305</id> 
+   <name>M. El Ayadi</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/634305.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>المغرب</nationality> 
+   <birth-day>1993-02-27</birth-day> 
+   <length  unit="cm">187</length> 
+   <weight  unit="kg">77</weight> 
+</player>

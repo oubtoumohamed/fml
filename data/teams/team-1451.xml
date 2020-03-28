@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1451</id> 
+   <name>نادي فاليتا لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1451.png</image> 
+   <country>مالطا</country> 
+   <adrese>126, Triq Santa Lucija (St. Lucia Street)</adrese> 
+   <website>http://www.vallettafcofficial.net</website> 
+   <creation-date>1944</creation-date> 
+   <players> 
+     <player id="48819" /> 
+     <player id="83097" /> 
+     <player id="135735" /> 
+     <player id="455169" /> 
+     <player id="518661" /> 
+     <player id="555198" /> 
+     <player id="596305" /> 
+     <player id="617634" /> 
+     <player id="35147" /> 
+     <player id="45866" /> 
+     <player id="82950" /> 
+     <player id="83098" /> 
+     <player id="95468" /> 
+     <player id="159855" /> 
+     <player id="277216" /> 
+     <player id="285173" /> 
+     <player id="328389" /> 
+     <player id="340373" /> 
+     <player id="472407" /> 
+     <player id="4318" /> 
+     <player id="17562" /> 
+     <player id="18411" /> 
+     <player id="35153" /> 
+     <player id="40061" /> 
+     <player id="45793" /> 
+     <player id="80941" /> 
+     <player id="83066" /> 
+     <player id="194933" /> 
+     <player id="202294" /> 
+     <player id="205936" /> 
+     <player id="233218" /> 
+     <player id="330703" /> 
+     <player id="337667" /> 
+     <player id="433173" /> 
+     <player id="460606" /> 
+     <player id="474075" /> 
+     <player id="474636" /> 
+     <player id="516706" /> 
+     <player id="518860" /> 
+     <player id="523965" /> 
+     <player id="577439" /> 
+     <player id="579446" /> 
+     <player id="596307" /> 
+     <player id="15094" /> 
+     <player id="15836" /> 
+     <player id="25908" /> 
+     <player id="68882" /> 
+     <player id="107551" /> 
+     <player id="180744" /> 
+     <player id="190658" /> 
+     <player id="213915" /> 
+     <player id="257272" /> 
+     <player id="270661" /> 
+     <player id="290902" /> 
+     <player id="311476" /> 
+     <player id="328245" /> 
+     <player id="385297" /> 
+     <player id="385309" /> 
+     <player id="402771" /> 
+     <player id="415848" /> 
+     <player id="499458" /> 
+     <player id="594570" /> 
+     <player id="596308" /> 
+     <player id="596309" /> 
+     <player id="610223" /> 
+   </players> 
+   <coaches> 
+     <coach id="39417" /> 
+     <coach id="208634" /> 
+     <coach id="394921" /> 
+   </coaches> 
+</team>

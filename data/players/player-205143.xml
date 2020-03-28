@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1576</team_id> 
+   <id>205143</id> 
+   <name>إيه. سيموندزا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/205143.png</image> 
+   <position>مهاجم</position> 
+   <nationality>سلوفينيا</nationality> 
+   <birth-day>1971-09-28</birth-day> 
+   <length  unit="cm">سلوفينيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

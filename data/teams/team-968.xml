@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>968</id> 
+   <name>نادي فولفسبورج</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/968.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>In den Allerwiesen 1</adrese> 
+   <website>http://www.vfl-wolfsburg.de</website> 
+   <creation-date>1945</creation-date> 
+   <players> 
+     <player id="35636" /> 
+     <player id="38204" /> 
+     <player id="86026" /> 
+     <player id="259536" /> 
+     <player id="323268" /> 
+     <player id="497679" /> 
+     <player id="2122" /> 
+     <player id="63400" /> 
+     <player id="95823" /> 
+     <player id="150680" /> 
+     <player id="158006" /> 
+     <player id="159219" /> 
+     <player id="176540" /> 
+     <player id="228429" /> 
+     <player id="235506" /> 
+     <player id="260571" /> 
+     <player id="359765" /> 
+     <player id="359831" /> 
+     <player id="371501" /> 
+     <player id="403361" /> 
+     <player id="413868" /> 
+     <player id="414720" /> 
+     <player id="440860" /> 
+     <player id="489485" /> 
+     <player id="497317" /> 
+     <player id="16524" /> 
+     <player id="25406" /> 
+     <player id="44428" /> 
+     <player id="58565" /> 
+     <player id="75357" /> 
+     <player id="102535" /> 
+     <player id="130931" /> 
+     <player id="159647" /> 
+     <player id="160107" /> 
+     <player id="218161" /> 
+     <player id="250467" /> 
+     <player id="259550" /> 
+     <player id="310101" /> 
+     <player id="316765" /> 
+     <player id="318355" /> 
+     <player id="346565" /> 
+     <player id="359767" /> 
+     <player id="387017" /> 
+     <player id="414723" /> 
+     <player id="68621" /> 
+     <player id="215344" /> 
+     <player id="255205" /> 
+     <player id="302735" /> 
+     <player id="314580" /> 
+     <player id="318017" /> 
+     <player id="319401" /> 
+     <player id="331028" /> 
+     <player id="387389" /> 
+     <player id="425645" /> 
+     <player id="477856" /> 
+   </players> 
+   <coaches> 
+     <coach id="10994" /> 
+     <coach id="110744" /> 
+     <coach id="293821" /> 
+     <coach id="304381" /> 
+     <coach id="312814" /> 
+     <coach id="406348" /> 
+   </coaches> 
+</team>

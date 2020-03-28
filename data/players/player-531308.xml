@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2253</team_id> 
+   <id>531308</id> 
+   <name>I. Kargbo</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/531308.png</image> 
+   <position>مهاجم</position> 
+   <nationality>بلجيكا</nationality> 
+   <birth-day>2000-01-03</birth-day> 
+   <length  unit="cm">سيرياليون</length> 
+   <weight  unit="kg">190</weight> 
+</player>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>947</team_id> 
+   <id>28345</id> 
+   <name>ج. بورغ</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/28345.png</image> 
+   <position>مهاجم</position> 
+   <nationality>جزر فارو</nationality> 
+   <birth-day>1979-10-26</birth-day> 
+   <length  unit="cm">جزر</length> 
+   <weight  unit="kg">179</weight> 
+</player>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1887</id> 
+   <name>نادي تري بيني غالادزانو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1887.png</image> 
+   <country>سان مارينو</country> 
+   <adrese>Via Napoleono Bonaparte 160</adrese> 
+   <website>http://www.trepenne.sm/</website> 
+   <creation-date>1956</creation-date> 
+   <players> 
+     <player id="40717" /> 
+     <player id="95958" /> 
+     <player id="205627" /> 
+     <player id="570861" /> 
+     <player id="95966" /> 
+     <player id="96013" /> 
+     <player id="211892" /> 
+     <player id="214817" /> 
+     <player id="231559" /> 
+     <player id="231599" /> 
+     <player id="317777" /> 
+     <player id="320137" /> 
+     <player id="330052" /> 
+     <player id="570862" /> 
+     <player id="592451" /> 
+     <player id="615332" /> 
+     <player id="619230" /> 
+     <player id="40252" /> 
+     <player id="40735" /> 
+     <player id="95959" /> 
+     <player id="150213" /> 
+     <player id="154624" /> 
+     <player id="199903" /> 
+     <player id="214822" /> 
+     <player id="214824" /> 
+     <player id="228686" /> 
+     <player id="266939" /> 
+     <player id="271229" /> 
+     <player id="282162" /> 
+     <player id="320038" /> 
+     <player id="399187" /> 
+     <player id="433783" /> 
+     <player id="460105" /> 
+     <player id="460908" /> 
+     <player id="533984" /> 
+     <player id="615333" /> 
+     <player id="615334" /> 
+     <player id="615335" /> 
+     <player id="616152" /> 
+     <player id="633495" /> 
+     <player id="18375" /> 
+     <player id="42150" /> 
+     <player id="93807" /> 
+     <player id="95971" /> 
+     <player id="96146" /> 
+     <player id="142523" /> 
+     <player id="282203" /> 
+     <player id="357277" /> 
+     <player id="396331" /> 
+     <player id="421394" /> 
+     <player id="459566" /> 
+     <player id="512973" /> 
+     <player id="527757" /> 
+   </players> 
+   <coaches> 
+     <coach id="170144" /> 
+     <coach id="172618" /> 
+     <coach id="408073" /> 
+     <coach id="580071" /> 
+   </coaches> 
+</team>

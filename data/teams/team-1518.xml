@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1518</id> 
+   <name>فينورد روتردام</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1518.png</image> 
+   <country>هولندا</country> 
+   <adrese>Van Zandvlietplein 3</adrese> 
+   <website>http://www.feyenoord.nl</website> 
+   <creation-date>1908</creation-date> 
+   <players> 
+     <player id="2175" /> 
+     <player id="5190" /> 
+     <player id="37905" /> 
+     <player id="138796" /> 
+     <player id="340393" /> 
+     <player id="468587" /> 
+     <player id="506317" /> 
+     <player id="508894" /> 
+     <player id="24610" /> 
+     <player id="49658" /> 
+     <player id="57652" /> 
+     <player id="100123" /> 
+     <player id="217980" /> 
+     <player id="251685" /> 
+     <player id="275124" /> 
+     <player id="283008" /> 
+     <player id="319288" /> 
+     <player id="322327" /> 
+     <player id="352759" /> 
+     <player id="385279" /> 
+     <player id="394647" /> 
+     <player id="426580" /> 
+     <player id="427038" /> 
+     <player id="432117" /> 
+     <player id="454410" /> 
+     <player id="463698" /> 
+     <player id="477603" /> 
+     <player id="508909" /> 
+     <player id="508910" /> 
+     <player id="2466" /> 
+     <player id="24308" /> 
+     <player id="102900" /> 
+     <player id="110217" /> 
+     <player id="134078" /> 
+     <player id="180957" /> 
+     <player id="182926" /> 
+     <player id="189025" /> 
+     <player id="318683" /> 
+     <player id="319054" /> 
+     <player id="319302" /> 
+     <player id="339651" /> 
+     <player id="426586" /> 
+     <player id="463701" /> 
+     <player id="506333" /> 
+     <player id="508915" /> 
+     <player id="49" /> 
+     <player id="67424" /> 
+     <player id="94958" /> 
+     <player id="134080" /> 
+     <player id="138455" /> 
+     <player id="161285" /> 
+     <player id="300874" /> 
+     <player id="426585" /> 
+     <player id="440448" /> 
+     <player id="441807" /> 
+     <player id="455715" /> 
+     <player id="497122" /> 
+     <player id="506330" /> 
+     <player id="506350" /> 
+     <player id="508932" /> 
+     <player id="508937" /> 
+     <player id="525935" /> 
+   </players> 
+   <coaches> 
+     <coach id="38" /> 
+     <coach id="459" /> 
+     <coach id="2180" /> 
+     <coach id="223195" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1610</id> 
+   <name>نادي هاوجيسوند لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1610.png</image> 
+   <country>النرويج</country> 
+   <adrese>Rogalandsgata 92</adrese> 
+   <website>http://www.fkh.no</website> 
+   <creation-date>1993</creation-date> 
+   <players> 
+     <player id="12606" /> 
+     <player id="216025" /> 
+     <player id="258021" /> 
+     <player id="400381" /> 
+     <player id="421624" /> 
+     <player id="546939" /> 
+     <player id="29258" /> 
+     <player id="29259" /> 
+     <player id="76546" /> 
+     <player id="155921" /> 
+     <player id="175722" /> 
+     <player id="235316" /> 
+     <player id="245975" /> 
+     <player id="279666" /> 
+     <player id="291130" /> 
+     <player id="298063" /> 
+     <player id="437524" /> 
+     <player id="481077" /> 
+     <player id="545426" /> 
+     <player id="8003" /> 
+     <player id="76754" /> 
+     <player id="197620" /> 
+     <player id="226068" /> 
+     <player id="233877" /> 
+     <player id="240375" /> 
+     <player id="282290" /> 
+     <player id="294844" /> 
+     <player id="329751" /> 
+     <player id="403411" /> 
+     <player id="419034" /> 
+     <player id="452449" /> 
+     <player id="479048" /> 
+     <player id="479975" /> 
+     <player id="484717" /> 
+     <player id="619635" /> 
+     <player id="254300" /> 
+     <player id="316325" /> 
+     <player id="405575" /> 
+     <player id="408420" /> 
+     <player id="437525" /> 
+     <player id="437526" /> 
+     <player id="535873" /> 
+     <player id="559842" /> 
+     <player id="616400" /> 
+   </players> 
+   <coaches> 
+     <coach id="29257" /> 
+     <coach id="113162" /> 
+   </coaches> 
+</team>

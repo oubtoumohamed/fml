@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1188</id> 
+   <name>نادي سانت باتريكس أثليتيك لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1188.png</image> 
+   <country>أيرلندا</country> 
+   <adrese>125 Emmet Road, Inchicore</adrese> 
+   <website>http://www.stpatsfc.com</website> 
+   <creation-date>1929</creation-date> 
+   <players> 
+     <player id="7042" /> 
+     <player id="7130" /> 
+     <player id="7170" /> 
+     <player id="324170" /> 
+     <player id="465842" /> 
+     <player id="19235" /> 
+     <player id="73880" /> 
+     <player id="74577" /> 
+     <player id="74926" /> 
+     <player id="212219" /> 
+     <player id="277754" /> 
+     <player id="333105" /> 
+     <player id="426152" /> 
+     <player id="476062" /> 
+     <player id="554217" /> 
+     <player id="7052" /> 
+     <player id="7206" /> 
+     <player id="15736" /> 
+     <player id="121209" /> 
+     <player id="122366" /> 
+     <player id="128999" /> 
+     <player id="137380" /> 
+     <player id="179221" /> 
+     <player id="197549" /> 
+     <player id="272874" /> 
+     <player id="320321" /> 
+     <player id="395457" /> 
+     <player id="398090" /> 
+     <player id="435831" /> 
+     <player id="441254" /> 
+     <player id="537850" /> 
+     <player id="537852" /> 
+     <player id="578187" /> 
+     <player id="611875" /> 
+     <player id="614114" /> 
+     <player id="73889" /> 
+     <player id="85449" /> 
+     <player id="155810" /> 
+     <player id="209838" /> 
+     <player id="328630" /> 
+     <player id="332470" /> 
+     <player id="421851" /> 
+     <player id="464823" /> 
+     <player id="554218" /> 
+     <player id="575199" /> 
+     <player id="596455" /> 
+     <player id="597579" /> 
+   </players> 
+   <coaches> 
+     <coach id="968" /> 
+     <coach id="7134" /> 
+     <coach id="135855" /> 
+     <coach id="270857" /> 
+   </coaches> 
+</team>

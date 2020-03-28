@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>5966</team_id> 
+   <id>600289</id> 
+   <name>A. Kaluđerović</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/600289.png</image> 
+   <position>غير معروف</position> 
+   <nationality>مونتينيغرو</nationality> 
+   <birth-day>مونتينيغرو</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

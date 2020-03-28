@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>674</team_id> 
+   <id>453910</id> 
+   <name>A. Denny</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/453910.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>إنجلترا</nationality> 
+   <birth-day>2000-04-12</birth-day> 
+   <length  unit="cm">186</length> 
+   <weight  unit="kg">81</weight> 
+</player>

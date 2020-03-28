@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1536</team_id> 
+   <id>458619</id> 
+   <name>J. van Benthem</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/458619.png</image> 
+   <position>مدافع</position> 
+   <nationality>هولندا</nationality> 
+   <birth-day>1999-01-22</birth-day> 
+   <length  unit="cm">هولندا</length> 
+   <weight  unit="kg">190</weight> 
+</player>

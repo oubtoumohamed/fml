@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2260</id> 
+   <name>إلييتشوفيتس ماريوبول</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2260.png</image> 
+   <country>أوكرانيا</country> 
+   <adrese>vul. Evpatoriyskaya 45a</adrese> 
+   <website>http://www.fcilich.com</website> 
+   <creation-date>1938</creation-date> 
+   <players> 
+     <player id="47460" /> 
+     <player id="134281" /> 
+     <player id="158380" /> 
+     <player id="263301" /> 
+     <player id="417812" /> 
+     <player id="450687" /> 
+     <player id="579318" /> 
+     <player id="637740" /> 
+     <player id="35040" /> 
+     <player id="36900" /> 
+     <player id="100333" /> 
+     <player id="130072" /> 
+     <player id="134888" /> 
+     <player id="161232" /> 
+     <player id="183998" /> 
+     <player id="217764" /> 
+     <player id="217768" /> 
+     <player id="235897" /> 
+     <player id="251462" /> 
+     <player id="253049" /> 
+     <player id="275823" /> 
+     <player id="319812" /> 
+     <player id="355393" /> 
+     <player id="369391" /> 
+     <player id="398431" /> 
+     <player id="405145" /> 
+     <player id="410950" /> 
+     <player id="420162" /> 
+     <player id="420425" /> 
+     <player id="450676" /> 
+     <player id="450679" /> 
+     <player id="450684" /> 
+     <player id="453185" /> 
+     <player id="455164" /> 
+     <player id="506271" /> 
+     <player id="540561" /> 
+     <player id="571993" /> 
+     <player id="645533" /> 
+     <player id="36858" /> 
+     <player id="41522" /> 
+     <player id="47438" /> 
+     <player id="48020" /> 
+     <player id="76142" /> 
+     <player id="78562" /> 
+     <player id="88579" /> 
+     <player id="98619" /> 
+     <player id="196240" /> 
+     <player id="209832" /> 
+     <player id="215369" /> 
+     <player id="217770" /> 
+     <player id="251910" /> 
+     <player id="253146" /> 
+     <player id="270011" /> 
+     <player id="271565" /> 
+     <player id="281513" /> 
+     <player id="301161" /> 
+     <player id="302144" /> 
+     <player id="314186" /> 
+     <player id="319820" /> 
+     <player id="323468" /> 
+     <player id="335224" /> 
+     <player id="351713" /> 
+     <player id="352123" /> 
+     <player id="352413" /> 
+     <player id="362867" /> 
+     <player id="362871" /> 
+     <player id="362973" /> 
+     <player id="365021" /> 
+     <player id="378703" /> 
+     <player id="401072" /> 
+     <player id="402444" /> 
+     <player id="402462" /> 
+     <player id="420170" /> 
+     <player id="420176" /> 
+     <player id="420182" /> 
+     <player id="427950" /> 
+     <player id="427951" /> 
+     <player id="450605" /> 
+     <player id="450675" /> 
+     <player id="450678" /> 
+     <player id="450680" /> 
+     <player id="450681" /> 
+     <player id="451789" /> 
+     <player id="453186" /> 
+     <player id="454007" /> 
+     <player id="547835" /> 
+     <player id="547836" /> 
+     <player id="579863" /> 
+     <player id="608443" /> 
+     <player id="627496" /> 
+     <player id="627498" /> 
+     <player id="645535" /> 
+     <player id="37000" /> 
+     <player id="37003" /> 
+     <player id="78341" /> 
+     <player id="195284" /> 
+     <player id="253150" /> 
+     <player id="275736" /> 
+     <player id="275827" /> 
+     <player id="288253" /> 
+     <player id="302145" /> 
+     <player id="312844" /> 
+     <player id="420428" /> 
+     <player id="437811" /> 
+     <player id="494983" /> 
+     <player id="509456" /> 
+     <player id="515335" /> 
+   </players> 
+   <coaches> 
+     <coach id="36818" /> 
+     <coach id="36985" /> 
+     <coach id="196047" /> 
+     <coach id="226185" /> 
+   </coaches> 
+</team>

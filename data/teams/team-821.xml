@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>821</id> 
+   <name>نادي كووبيون بالوسورا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/821.png</image> 
+   <country>فينلندا</country> 
+   <adrese>Kaartokatu 6</adrese> 
+   <website>http://www.kups.fi</website> 
+   <creation-date>1923</creation-date> 
+   <players> 
+     <player id="192033" /> 
+     <player id="421109" /> 
+     <player id="547521" /> 
+     <player id="547522" /> 
+     <player id="31427" /> 
+     <player id="91775" /> 
+     <player id="127255" /> 
+     <player id="167696" /> 
+     <player id="187713" /> 
+     <player id="239806" /> 
+     <player id="295516" /> 
+     <player id="332067" /> 
+     <player id="349481" /> 
+     <player id="383023" /> 
+     <player id="386603" /> 
+     <player id="402275" /> 
+     <player id="406811" /> 
+     <player id="443829" /> 
+     <player id="547523" /> 
+     <player id="547524" /> 
+     <player id="31509" /> 
+     <player id="33935" /> 
+     <player id="77028" /> 
+     <player id="81533" /> 
+     <player id="114773" /> 
+     <player id="120757" /> 
+     <player id="167529" /> 
+     <player id="256548" /> 
+     <player id="287612" /> 
+     <player id="295512" /> 
+     <player id="365921" /> 
+     <player id="395070" /> 
+     <player id="406261" /> 
+     <player id="409713" /> 
+     <player id="434939" /> 
+     <player id="460158" /> 
+     <player id="463348" /> 
+     <player id="31410" /> 
+     <player id="72363" /> 
+     <player id="192366" /> 
+     <player id="274862" /> 
+     <player id="296231" /> 
+     <player id="343631" /> 
+     <player id="366287" /> 
+     <player id="397010" /> 
+     <player id="434938" /> 
+     <player id="478412" /> 
+     <player id="486131" /> 
+     <player id="504485" /> 
+   </players> 
+   <coaches> 
+     <coach id="193723" /> 
+     <coach id="238882" /> 
+     <coach id="239262" /> 
+   </coaches> 
+</team>

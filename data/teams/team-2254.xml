@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2254</id> 
+   <name>نادي شاختار دونيتسك لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2254.png</image> 
+   <country>أوكرانيا</country> 
+   <adrese>vul. Artema 86a</adrese> 
+   <website>http://www.shakhtar.com</website> 
+   <creation-date>1936</creation-date> 
+   <players> 
+     <player id="669" /> 
+     <player id="179305" /> 
+     <player id="196253" /> 
+     <player id="263301" /> 
+     <player id="372911" /> 
+     <player id="506249" /> 
+     <player id="366" /> 
+     <player id="32616" /> 
+     <player id="37041" /> 
+     <player id="71961" /> 
+     <player id="89845" /> 
+     <player id="134301" /> 
+     <player id="152887" /> 
+     <player id="158314" /> 
+     <player id="161232" /> 
+     <player id="215365" /> 
+     <player id="217768" /> 
+     <player id="275823" /> 
+     <player id="286649" /> 
+     <player id="314172" /> 
+     <player id="319818" /> 
+     <player id="355393" /> 
+     <player id="370785" /> 
+     <player id="420165" /> 
+     <player id="425511" /> 
+     <player id="475117" /> 
+     <player id="32561" /> 
+     <player id="32913" /> 
+     <player id="37038" /> 
+     <player id="39549" /> 
+     <player id="65127" /> 
+     <player id="95415" /> 
+     <player id="102691" /> 
+     <player id="134889" /> 
+     <player id="183382" /> 
+     <player id="195289" /> 
+     <player id="207992" /> 
+     <player id="215369" /> 
+     <player id="253046" /> 
+     <player id="253146" /> 
+     <player id="275828" /> 
+     <player id="301161" /> 
+     <player id="314186" /> 
+     <player id="319820" /> 
+     <player id="402462" /> 
+     <player id="426517" /> 
+     <player id="433352" /> 
+     <player id="475119" /> 
+     <player id="485422" /> 
+     <player id="506287" /> 
+     <player id="509448" /> 
+     <player id="521572" /> 
+     <player id="592507" /> 
+     <player id="9372" /> 
+     <player id="37000" /> 
+     <player id="68491" /> 
+     <player id="102554" /> 
+     <player id="158319" /> 
+     <player id="158375" /> 
+     <player id="180389" /> 
+     <player id="253150" /> 
+     <player id="275736" /> 
+     <player id="437811" /> 
+     <player id="494983" /> 
+     <player id="515335" /> 
+   </players> 
+   <coaches> 
+     <coach id="195779" /> 
+     <coach id="306098" /> 
+     <coach id="538335" /> 
+   </coaches> 
+</team>

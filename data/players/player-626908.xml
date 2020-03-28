@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>71</team_id> 
+   <id>626908</id> 
+   <name>D. Kapllani</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/626908.png</image> 
+   <position>مهاجم</position> 
+   <nationality>ألبانيا</nationality> 
+   <birth-day>2001-06-03</birth-day> 
+   <length  unit="cm">ألبانيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2522</team_id> 
+   <id>649401</id> 
+   <name>I. Bylyku</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/649401.png</image> 
+   <position>مدافع</position> 
+   <nationality>ألبانيا</nationality> 
+   <birth-day>2001-05-31</birth-day> 
+   <length  unit="cm">ألبانيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

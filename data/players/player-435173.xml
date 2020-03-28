@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1029</team_id> 
+   <id>435173</id> 
+   <name>بيرنارد تيكبيتيي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/435173.png</image> 
+   <position>مهاجم</position> 
+   <nationality>غانا</nationality> 
+   <birth-day>1997-09-03</birth-day> 
+   <length  unit="cm">غانا</length> 
+   <weight  unit="kg">172</weight> 
+</player>

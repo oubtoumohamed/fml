@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1842</team_id> 
+   <id>502213</id> 
+   <name>Ş. Fidan</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/502213.png</image> 
+   <position>مدافع</position> 
+   <nationality>تركيا</nationality> 
+   <birth-day>1966-01-29</birth-day> 
+   <length  unit="cm">تركيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

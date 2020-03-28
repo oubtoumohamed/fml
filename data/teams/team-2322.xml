@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2322</id> 
+   <name>Connah's Quay Nomads FC</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2322.png</image> 
+   <country>ويلز</country> 
+   <adrese>Kelsterton Road, Deeside</adrese> 
+   <website>http://www.gapconnahsquay.co.uk</website> 
+   <creation-date>1946</creation-date> 
+   <players> 
+     <player id="50444" /> 
+     <player id="261045" /> 
+     <player id="314635" /> 
+     <player id="386215" /> 
+     <player id="392820" /> 
+     <player id="420187" /> 
+     <player id="565314" /> 
+     <player id="616506" /> 
+     <player id="625245" /> 
+     <player id="643137" /> 
+     <player id="35281" /> 
+     <player id="47527" /> 
+     <player id="50449" /> 
+     <player id="51173" /> 
+     <player id="68953" /> 
+     <player id="82567" /> 
+     <player id="110839" /> 
+     <player id="327724" /> 
+     <player id="360835" /> 
+     <player id="363407" /> 
+     <player id="376857" /> 
+     <player id="455633" /> 
+     <player id="464735" /> 
+     <player id="464980" /> 
+     <player id="586100" /> 
+     <player id="35295" /> 
+     <player id="50733" /> 
+     <player id="55375" /> 
+     <player id="71503" /> 
+     <player id="92908" /> 
+     <player id="259611" /> 
+     <player id="325753" /> 
+     <player id="330338" /> 
+     <player id="334571" /> 
+     <player id="453143" /> 
+     <player id="488143" /> 
+     <player id="509412" /> 
+     <player id="543259" /> 
+     <player id="543261" /> 
+     <player id="543263" /> 
+     <player id="639798" /> 
+     <player id="639799" /> 
+     <player id="639800" /> 
+     <player id="646607" /> 
+     <player id="646609" /> 
+     <player id="40450" /> 
+     <player id="68294" /> 
+     <player id="93314" /> 
+     <player id="144797" /> 
+     <player id="361029" /> 
+     <player id="424430" /> 
+     <player id="464458" /> 
+     <player id="509411" /> 
+     <player id="616508" /> 
+   </players> 
+   <coaches> 
+     <coach id="429994" /> 
+   </coaches> 
+</team>

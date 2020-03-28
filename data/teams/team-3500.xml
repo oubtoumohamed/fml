@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3500</id> 
+   <name>النادي العربي الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3500.png</image> 
+   <country>قطر</country> 
+   <adrese>PO Box 1019</adrese> 
+   <website>http://www.alarabi.qa</website> 
+   <creation-date>1952</creation-date> 
+   <players> 
+     <player id="81966" /> 
+     <player id="153617" /> 
+     <player id="165328" /> 
+     <player id="200215" /> 
+     <player id="391859" /> 
+     <player id="514196" /> 
+     <player id="575707" /> 
+     <player id="579186" /> 
+     <player id="591742" /> 
+     <player id="10910" /> 
+     <player id="26765" /> 
+     <player id="79420" /> 
+     <player id="82015" /> 
+     <player id="85848" /> 
+     <player id="102758" /> 
+     <player id="119609" /> 
+     <player id="153578" /> 
+     <player id="165915" /> 
+     <player id="208914" /> 
+     <player id="223277" /> 
+     <player id="267550" /> 
+     <player id="267581" /> 
+     <player id="326982" /> 
+     <player id="343767" /> 
+     <player id="395713" /> 
+     <player id="465711" /> 
+     <player id="476130" /> 
+     <player id="516620" /> 
+     <player id="534937" /> 
+     <player id="575709" /> 
+     <player id="639026" /> 
+     <player id="639027" /> 
+     <player id="7800" /> 
+     <player id="10919" /> 
+     <player id="24655" /> 
+     <player id="62807" /> 
+     <player id="64891" /> 
+     <player id="125477" /> 
+     <player id="153627" /> 
+     <player id="208857" /> 
+     <player id="210414" /> 
+     <player id="210424" /> 
+     <player id="226929" /> 
+     <player id="235136" /> 
+     <player id="267542" /> 
+     <player id="267582" /> 
+     <player id="318213" /> 
+     <player id="322377" /> 
+     <player id="363873" /> 
+     <player id="383255" /> 
+     <player id="398080" /> 
+     <player id="428248" /> 
+     <player id="429686" /> 
+     <player id="467872" /> 
+     <player id="474882" /> 
+     <player id="509302" /> 
+     <player id="513959" /> 
+     <player id="514163" /> 
+     <player id="516623" /> 
+     <player id="522029" /> 
+     <player id="528266" /> 
+     <player id="530972" /> 
+     <player id="532118" /> 
+     <player id="536723" /> 
+     <player id="551722" /> 
+     <player id="568783" /> 
+     <player id="570020" /> 
+     <player id="579184" /> 
+     <player id="580400" /> 
+     <player id="591744" /> 
+     <player id="591745" /> 
+     <player id="591748" /> 
+     <player id="596536" /> 
+     <player id="21128" /> 
+     <player id="22715" /> 
+     <player id="59705" /> 
+     <player id="81981" /> 
+     <player id="153052" /> 
+     <player id="153615" /> 
+     <player id="165331" /> 
+     <player id="183836" /> 
+     <player id="222596" /> 
+     <player id="343755" /> 
+     <player id="591749" /> 
+   </players> 
+   <coaches> 
+     <coach id="113235" /> 
+     <coach id="194599" /> 
+     <coach id="468389" /> 
+     <coach id="469404" /> 
+     <coach id="522035" /> 
+     <coach id="575304" /> 
+   </coaches> 
+</team>

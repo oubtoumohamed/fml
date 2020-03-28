@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>884</id> 
+   <name>أولمبيك ليون</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/884.png</image> 
+   <country>فرنسا</country> 
+   <adrese>350, avenue Jean Jaures</adrese> 
+   <website>http://www.olweb.fr</website> 
+   <creation-date>1950</creation-date> 
+   <players> 
+     <player id="19741" /> 
+     <player id="110170" /> 
+     <player id="149866" /> 
+     <player id="209234" /> 
+     <player id="271260" /> 
+     <player id="420758" /> 
+     <player id="1124" /> 
+     <player id="9354" /> 
+     <player id="37674" /> 
+     <player id="55715" /> 
+     <player id="112044" /> 
+     <player id="215546" /> 
+     <player id="232240" /> 
+     <player id="276842" /> 
+     <player id="289528" /> 
+     <player id="299858" /> 
+     <player id="311836" /> 
+     <player id="314033" /> 
+     <player id="325868" /> 
+     <player id="470878" /> 
+     <player id="493739" /> 
+     <player id="571708" /> 
+     <player id="161112" /> 
+     <player id="167149" /> 
+     <player id="235917" /> 
+     <player id="271268" /> 
+     <player id="288488" /> 
+     <player id="327388" /> 
+     <player id="335533" /> 
+     <player id="362591" /> 
+     <player id="370563" /> 
+     <player id="387429" /> 
+     <player id="395213" /> 
+     <player id="400952" /> 
+     <player id="402388" /> 
+     <player id="419313" /> 
+     <player id="419674" /> 
+     <player id="458890" /> 
+     <player id="474926" /> 
+     <player id="493478" /> 
+     <player id="517603" /> 
+     <player id="559939" /> 
+     <player id="102801" /> 
+     <player id="161289" /> 
+     <player id="187868" /> 
+     <player id="206423" /> 
+     <player id="208858" /> 
+     <player id="260856" /> 
+     <player id="289781" /> 
+     <player id="328270" /> 
+     <player id="405728" /> 
+     <player id="419684" /> 
+     <player id="426537" /> 
+     <player id="453691" /> 
+     <player id="454747" /> 
+     <player id="477859" /> 
+     <player id="481963" /> 
+     <player id="496215" /> 
+     <player id="559938" /> 
+   </players> 
+   <coaches> 
+     <coach id="2988" /> 
+     <coach id="110849" /> 
+     <coach id="161114" /> 
+     <coach id="638479" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2028</team_id> 
+   <id>441078</id> 
+   <name>أندوني زوبيايري</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/441078.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>1996-12-04</birth-day> 
+   <length  unit="cm">إسبانيا</length> 
+   <weight  unit="kg">188</weight> 
+</player>

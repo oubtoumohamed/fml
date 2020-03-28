@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1664</team_id> 
+   <id>623493</id> 
+   <name>D. Pituła</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/623493.png</image> 
+   <position>مدافع</position> 
+   <nationality>بولندا</nationality> 
+   <birth-day>2000-04-01</birth-day> 
+   <length  unit="cm">بولندا</length> 
+   <weight  unit="kg">176</weight> 
+</player>

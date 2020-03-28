@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1255</id> 
+   <name>نادي أتالانتا بيرغاماستا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1255.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Corso Europa 46, Zingonia</adrese> 
+   <website>http://www.atalanta.it</website> 
+   <creation-date>1907</creation-date> 
+   <players> 
+     <player id="39897" /> 
+     <player id="95822" /> 
+     <player id="193830" /> 
+     <player id="297463" /> 
+     <player id="297914" /> 
+     <player id="425401" /> 
+     <player id="453677" /> 
+     <player id="467654" /> 
+     <player id="627539" /> 
+     <player id="4233" /> 
+     <player id="4312" /> 
+     <player id="5940" /> 
+     <player id="11744" /> 
+     <player id="78553" /> 
+     <player id="90283" /> 
+     <player id="157089" /> 
+     <player id="159044" /> 
+     <player id="180984" /> 
+     <player id="186633" /> 
+     <player id="229970" /> 
+     <player id="235486" /> 
+     <player id="273291" /> 
+     <player id="297445" /> 
+     <player id="311220" /> 
+     <player id="321340" /> 
+     <player id="327174" /> 
+     <player id="355909" /> 
+     <player id="380617" /> 
+     <player id="426558" /> 
+     <player id="426559" /> 
+     <player id="426562" /> 
+     <player id="431911" /> 
+     <player id="453551" /> 
+     <player id="474496" /> 
+     <player id="478429" /> 
+     <player id="554629" /> 
+     <player id="590504" /> 
+     <player id="13818" /> 
+     <player id="74539" /> 
+     <player id="80295" /> 
+     <player id="123946" /> 
+     <player id="129109" /> 
+     <player id="162679" /> 
+     <player id="206339" /> 
+     <player id="206546" /> 
+     <player id="212989" /> 
+     <player id="213130" /> 
+     <player id="215485" /> 
+     <player id="217771" /> 
+     <player id="244990" /> 
+     <player id="256420" /> 
+     <player id="280458" /> 
+     <player id="305841" /> 
+     <player id="319023" /> 
+     <player id="323574" /> 
+     <player id="332699" /> 
+     <player id="360595" /> 
+     <player id="384555" /> 
+     <player id="405514" /> 
+     <player id="460405" /> 
+     <player id="482778" /> 
+     <player id="542485" /> 
+     <player id="548015" /> 
+     <player id="548016" /> 
+     <player id="614188" /> 
+     <player id="632926" /> 
+     <player id="23237" /> 
+     <player id="33276" /> 
+     <player id="70512" /> 
+     <player id="83929" /> 
+     <player id="95237" /> 
+     <player id="162504" /> 
+     <player id="162678" /> 
+     <player id="211765" /> 
+     <player id="279236" /> 
+     <player id="295741" /> 
+     <player id="377095" /> 
+     <player id="377107" /> 
+     <player id="454245" /> 
+     <player id="529431" /> 
+     <player id="546145" /> 
+     <player id="550461" /> 
+     <player id="575343" /> 
+     <player id="608172" /> 
+     <player id="632969" /> 
+   </players> 
+   <coaches> 
+     <coach id="110811" /> 
+     <coach id="479981" /> 
+   </coaches> 
+</team>

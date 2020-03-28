@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1526</team_id> 
+   <id>587715</id> 
+   <name>D. Min</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/587715.png</image> 
+   <position>مهاجم</position> 
+   <nationality>هولندا</nationality> 
+   <birth-day>هولندا</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

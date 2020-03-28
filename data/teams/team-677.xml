@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>677</id> 
+   <name>نادي نورويتش سيتي لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/677.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Carrow Road</adrese> 
+   <website>http://www.canaries.co.uk</website> 
+   <creation-date>1902</creation-date> 
+   <players> 
+     <player id="782" /> 
+     <player id="2867" /> 
+     <player id="5256" /> 
+     <player id="16111" /> 
+     <player id="46315" /> 
+     <player id="50544" /> 
+     <player id="51034" /> 
+     <player id="152540" /> 
+     <player id="217678" /> 
+     <player id="356283" /> 
+     <player id="387373" /> 
+     <player id="454674" /> 
+     <player id="878" /> 
+     <player id="2683" /> 
+     <player id="3233" /> 
+     <player id="12943" /> 
+     <player id="15762" /> 
+     <player id="20944" /> 
+     <player id="50574" /> 
+     <player id="85673" /> 
+     <player id="86672" /> 
+     <player id="130306" /> 
+     <player id="136325" /> 
+     <player id="141541" /> 
+     <player id="155132" /> 
+     <player id="164733" /> 
+     <player id="166818" /> 
+     <player id="169710" /> 
+     <player id="213948" /> 
+     <player id="233145" /> 
+     <player id="258007" /> 
+     <player id="318699" /> 
+     <player id="326322" /> 
+     <player id="326323" /> 
+     <player id="363587" /> 
+     <player id="376409" /> 
+     <player id="440936" /> 
+     <player id="450615" /> 
+     <player id="452989" /> 
+     <player id="453015" /> 
+     <player id="454445" /> 
+     <player id="1707" /> 
+     <player id="2652" /> 
+     <player id="5926" /> 
+     <player id="7909" /> 
+     <player id="13561" /> 
+     <player id="15415" /> 
+     <player id="15954" /> 
+     <player id="38568" /> 
+     <player id="50442" /> 
+     <player id="53096" /> 
+     <player id="53098" /> 
+     <player id="53405" /> 
+     <player id="78485" /> 
+     <player id="79419" /> 
+     <player id="85643" /> 
+     <player id="88217" /> 
+     <player id="110508" /> 
+     <player id="134040" /> 
+     <player id="143436" /> 
+     <player id="148697" /> 
+     <player id="156961" /> 
+     <player id="161547" /> 
+     <player id="167964" /> 
+     <player id="183081" /> 
+     <player id="208879" /> 
+     <player id="217719" /> 
+     <player id="250672" /> 
+     <player id="258235" /> 
+     <player id="269268" /> 
+     <player id="310410" /> 
+     <player id="316425" /> 
+     <player id="317810" /> 
+     <player id="320278" /> 
+     <player id="326321" /> 
+     <player id="335467" /> 
+     <player id="349805" /> 
+     <player id="376603" /> 
+     <player id="404365" /> 
+     <player id="454452" /> 
+     <player id="454456" /> 
+     <player id="517890" /> 
+     <player id="1069" /> 
+     <player id="8468" /> 
+     <player id="9908" /> 
+     <player id="15809" /> 
+     <player id="15913" /> 
+     <player id="16031" /> 
+     <player id="17759" /> 
+     <player id="50797" /> 
+     <player id="53106" /> 
+     <player id="59407" /> 
+     <player id="115078" /> 
+     <player id="115130" /> 
+     <player id="143094" /> 
+     <player id="209645" /> 
+     <player id="318689" /> 
+     <player id="320475" /> 
+     <player id="330442" /> 
+     <player id="453017" /> 
+     <player id="465872" /> 
+   </players> 
+   <coaches> 
+     <coach id="51076" /> 
+     <coach id="103944" /> 
+     <coach id="303156" /> 
+     <coach id="371129" /> 
+     <coach id="407560" /> 
+   </coaches> 
+</team>

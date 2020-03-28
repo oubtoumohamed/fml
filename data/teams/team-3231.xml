@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3231</id> 
+   <name>OFK Titograd Podgorica</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3231.png</image> 
+   <country>مونتينيغرو</country> 
+   <adrese>ul. V Proleterske bb</adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="41141" /> 
+     <player id="136100" /> 
+     <player id="448979" /> 
+     <player id="597389" /> 
+     <player id="616490" /> 
+     <player id="82967" /> 
+     <player id="92446" /> 
+     <player id="92453" /> 
+     <player id="92663" /> 
+     <player id="92667" /> 
+     <player id="105125" /> 
+     <player id="158554" /> 
+     <player id="192416" /> 
+     <player id="266641" /> 
+     <player id="343861" /> 
+     <player id="386297" /> 
+     <player id="404624" /> 
+     <player id="413278" /> 
+     <player id="518000" /> 
+     <player id="616342" /> 
+     <player id="616491" /> 
+     <player id="616493" /> 
+     <player id="37101" /> 
+     <player id="39675" /> 
+     <player id="45542" /> 
+     <player id="85417" /> 
+     <player id="201841" /> 
+     <player id="214382" /> 
+     <player id="291896" /> 
+     <player id="357045" /> 
+     <player id="389783" /> 
+     <player id="448191" /> 
+     <player id="448982" /> 
+     <player id="466671" /> 
+     <player id="542181" /> 
+     <player id="580857" /> 
+     <player id="616494" /> 
+     <player id="82907" /> 
+     <player id="82982" /> 
+     <player id="84289" /> 
+     <player id="95327" /> 
+     <player id="105098" /> 
+     <player id="301827" /> 
+     <player id="306985" /> 
+     <player id="318377" /> 
+     <player id="414661" /> 
+     <player id="424246" /> 
+     <player id="468121" /> 
+     <player id="476934" /> 
+     <player id="507385" /> 
+     <player id="518010" /> 
+     <player id="541542" /> 
+     <player id="545342" /> 
+     <player id="555406" /> 
+     <player id="597390" /> 
+   </players> 
+   <coaches> 
+     <coach id="108527" /> 
+     <coach id="134842" /> 
+     <coach id="135844" /> 
+     <coach id="137775" /> 
+     <coach id="155070" /> 
+     <coach id="419320" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>679</id> 
+   <name>نادي كريستال بالاس لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/679.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Selhurst Park</adrese> 
+   <website>http://www.cpfc.co.uk</website> 
+   <creation-date>1905</creation-date> 
+   <players> 
+     <player id="9276" /> 
+     <player id="15380" /> 
+     <player id="15780" /> 
+     <player id="15936" /> 
+     <player id="62971" /> 
+     <player id="388463" /> 
+     <player id="394320" /> 
+     <player id="453591" /> 
+     <player id="2797" /> 
+     <player id="13118" /> 
+     <player id="15760" /> 
+     <player id="23292" /> 
+     <player id="26006" /> 
+     <player id="61076" /> 
+     <player id="66070" /> 
+     <player id="88136" /> 
+     <player id="95905" /> 
+     <player id="180530" /> 
+     <player id="215547" /> 
+     <player id="344149" /> 
+     <player id="420210" /> 
+     <player id="453876" /> 
+     <player id="470717" /> 
+     <player id="506440" /> 
+     <player id="506447" /> 
+     <player id="2056" /> 
+     <player id="26921" /> 
+     <player id="46474" /> 
+     <player id="46511" /> 
+     <player id="46512" /> 
+     <player id="53112" /> 
+     <player id="69272" /> 
+     <player id="75627" /> 
+     <player id="90657" /> 
+     <player id="213643" /> 
+     <player id="271290" /> 
+     <player id="275113" /> 
+     <player id="279608" /> 
+     <player id="290347" /> 
+     <player id="329804" /> 
+     <player id="442986" /> 
+     <player id="478365" /> 
+     <player id="496880" /> 
+     <player id="506454" /> 
+     <player id="647286" /> 
+     <player id="37600" /> 
+     <player id="53423" /> 
+     <player id="68645" /> 
+     <player id="76920" /> 
+     <player id="95810" /> 
+     <player id="123878" /> 
+     <player id="177338" /> 
+     <player id="218038" /> 
+     <player id="505511" /> 
+     <player id="506448" /> 
+     <player id="563988" /> 
+   </players> 
+   <coaches> 
+     <coach id="110691" /> 
+     <coach id="506205" /> 
+   </coaches> 
+</team>

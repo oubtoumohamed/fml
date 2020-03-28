@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1981</id> 
+   <name>نادي سلوفان براتيسلافا لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1981.png</image> 
+   <country>سلوفاكيا</country> 
+   <adrese>Viktoria Tegelhoffa 4</adrese> 
+   <website>http://www.skslovan.com</website> 
+   <creation-date>1919</creation-date> 
+   <players> 
+     <player id="103211" /> 
+     <player id="191159" /> 
+     <player id="399529" /> 
+     <player id="427704" /> 
+     <player id="441220" /> 
+     <player id="460924" /> 
+     <player id="636961" /> 
+     <player id="34798" /> 
+     <player id="38035" /> 
+     <player id="83532" /> 
+     <player id="87824" /> 
+     <player id="88116" /> 
+     <player id="121678" /> 
+     <player id="138191" /> 
+     <player id="178208" /> 
+     <player id="182213" /> 
+     <player id="232816" /> 
+     <player id="262074" /> 
+     <player id="302844" /> 
+     <player id="314004" /> 
+     <player id="322285" /> 
+     <player id="335728" /> 
+     <player id="416334" /> 
+     <player id="440870" /> 
+     <player id="443957" /> 
+     <player id="446721" /> 
+     <player id="513059" /> 
+     <player id="36588" /> 
+     <player id="46333" /> 
+     <player id="60352" /> 
+     <player id="97003" /> 
+     <player id="134076" /> 
+     <player id="177056" /> 
+     <player id="191114" /> 
+     <player id="205502" /> 
+     <player id="214381" /> 
+     <player id="239574" /> 
+     <player id="252011" /> 
+     <player id="286335" /> 
+     <player id="331461" /> 
+     <player id="413353" /> 
+     <player id="442788" /> 
+     <player id="442789" /> 
+     <player id="460937" /> 
+     <player id="497392" /> 
+     <player id="513502" /> 
+     <player id="1754" /> 
+     <player id="4988" /> 
+     <player id="191115" /> 
+     <player id="193282" /> 
+     <player id="200334" /> 
+     <player id="214389" /> 
+     <player id="214653" /> 
+     <player id="268938" /> 
+     <player id="303038" /> 
+     <player id="315285" /> 
+     <player id="421909" /> 
+     <player id="611322" /> 
+   </players> 
+   <coaches> 
+     <coach id="38045" /> 
+     <coach id="83958" /> 
+     <coach id="571447" /> 
+   </coaches> 
+</team>

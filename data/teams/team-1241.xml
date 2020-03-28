@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1241</id> 
+   <name>نادي روما الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1241.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Piazzale Dino Viola 1</adrese> 
+   <website>http://www.asroma.it</website> 
+   <creation-date>1927</creation-date> 
+   <players> 
+     <player id="17796" /> 
+     <player id="67190" /> 
+     <player id="102643" /> 
+     <player id="111435" /> 
+     <player id="280411" /> 
+     <player id="419724" /> 
+     <player id="426556" /> 
+     <player id="495150" /> 
+     <player id="557132" /> 
+     <player id="17782" /> 
+     <player id="18028" /> 
+     <player id="18902" /> 
+     <player id="32644" /> 
+     <player id="61131" /> 
+     <player id="74396" /> 
+     <player id="79474" /> 
+     <player id="112978" /> 
+     <player id="113524" /> 
+     <player id="134609" /> 
+     <player id="180855" /> 
+     <player id="180984" /> 
+     <player id="190553" /> 
+     <player id="205625" /> 
+     <player id="211263" /> 
+     <player id="273829" /> 
+     <player id="322327" /> 
+     <player id="380617" /> 
+     <player id="383983" /> 
+     <player id="419721" /> 
+     <player id="422148" /> 
+     <player id="433287" /> 
+     <player id="458700" /> 
+     <player id="462988" /> 
+     <player id="462989" /> 
+     <player id="466675" /> 
+     <player id="474496" /> 
+     <player id="503889" /> 
+     <player id="506080" /> 
+     <player id="506086" /> 
+     <player id="569733" /> 
+     <player id="572184" /> 
+     <player id="71" /> 
+     <player id="17757" /> 
+     <player id="18461" /> 
+     <player id="24675" /> 
+     <player id="39797" /> 
+     <player id="47041" /> 
+     <player id="91490" /> 
+     <player id="187142" /> 
+     <player id="213130" /> 
+     <player id="233605" /> 
+     <player id="316066" /> 
+     <player id="318357" /> 
+     <player id="339273" /> 
+     <player id="345217" /> 
+     <player id="363931" /> 
+     <player id="373061" /> 
+     <player id="377093" /> 
+     <player id="379015" /> 
+     <player id="393786" /> 
+     <player id="396155" /> 
+     <player id="462991" /> 
+     <player id="471102" /> 
+     <player id="489823" /> 
+     <player id="503888" /> 
+     <player id="569731" /> 
+     <player id="596921" /> 
+     <player id="5775" /> 
+     <player id="20588" /> 
+     <player id="33232" /> 
+     <player id="59017" /> 
+     <player id="69323" /> 
+     <player id="191223" /> 
+     <player id="268808" /> 
+     <player id="317832" /> 
+     <player id="372753" /> 
+     <player id="373031" /> 
+     <player id="373063" /> 
+     <player id="378685" /> 
+     <player id="383985" /> 
+     <player id="426563" /> 
+     <player id="426578" /> 
+     <player id="509587" /> 
+     <player id="569732" /> 
+     <player id="569734" /> 
+     <player id="569735" /> 
+     <player id="596932" /> 
+   </players> 
+   <coaches> 
+     <coach id="4030" /> 
+     <coach id="110804" /> 
+     <coach id="194719" /> 
+     <coach id="195779" /> 
+     <coach id="304630" /> 
+   </coaches> 
+</team>

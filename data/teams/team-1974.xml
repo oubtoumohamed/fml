@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1974</id> 
+   <name>روجومبيروك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1974.png</image> 
+   <country>سلوفاكيا</country> 
+   <adrese>Žilinská cesta 21</adrese> 
+   <website>http://www.mfkruzomberok.sk</website> 
+   <creation-date>1906</creation-date> 
+   <players> 
+     <player id="158520" /> 
+     <player id="302638" /> 
+     <player id="462951" /> 
+     <player id="478105" /> 
+     <player id="569806" /> 
+     <player id="626379" /> 
+     <player id="35488" /> 
+     <player id="35497" /> 
+     <player id="99296" /> 
+     <player id="183913" /> 
+     <player id="295749" /> 
+     <player id="332118" /> 
+     <player id="338225" /> 
+     <player id="349953" /> 
+     <player id="353677" /> 
+     <player id="459560" /> 
+     <player id="460935" /> 
+     <player id="462037" /> 
+     <player id="517103" /> 
+     <player id="520699" /> 
+     <player id="556297" /> 
+     <player id="575134" /> 
+     <player id="146831" /> 
+     <player id="191435" /> 
+     <player id="196090" /> 
+     <player id="213584" /> 
+     <player id="214381" /> 
+     <player id="270608" /> 
+     <player id="299337" /> 
+     <player id="308533" /> 
+     <player id="318321" /> 
+     <player id="332119" /> 
+     <player id="374351" /> 
+     <player id="401577" /> 
+     <player id="424987" /> 
+     <player id="427713" /> 
+     <player id="439047" /> 
+     <player id="464854" /> 
+     <player id="469829" /> 
+     <player id="540609" /> 
+     <player id="120749" /> 
+     <player id="134398" /> 
+     <player id="139239" /> 
+     <player id="245061" /> 
+     <player id="254567" /> 
+     <player id="302850" /> 
+     <player id="302859" /> 
+     <player id="369205" /> 
+     <player id="423451" /> 
+     <player id="441632" /> 
+     <player id="462973" /> 
+     <player id="468011" /> 
+     <player id="513508" /> 
+     <player id="556301" /> 
+     <player id="598661" /> 
+   </players> 
+   <coaches> 
+     <coach id="247047" /> 
+     <coach id="417975" /> 
+     <coach id="462981" /> 
+   </coaches> 
+</team>

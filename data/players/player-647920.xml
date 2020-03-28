@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2146</team_id> 
+   <id>647920</id> 
+   <name>P. Sejdiu</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/647920.png</image> 
+   <position>مهاجم</position> 
+   <nationality>السويد</nationality> 
+   <birth-day>2000-05-05</birth-day> 
+   <length  unit="cm">كوسوفو</length> 
+   <weight  unit="kg"></weight> 
+</player>

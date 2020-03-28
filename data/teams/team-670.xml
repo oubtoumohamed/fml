@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>670</id> 
+   <name>نادي ساوثامبتون لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/670.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Britannia Road</adrese> 
+   <website>http://www.saintsfc.co.uk</website> 
+   <creation-date>1885</creation-date> 
+   <players> 
+     <player id="2787" /> 
+     <player id="5259" /> 
+     <player id="69110" /> 
+     <player id="217678" /> 
+     <player id="413463" /> 
+     <player id="5803" /> 
+     <player id="21046" /> 
+     <player id="42166" /> 
+     <player id="134612" /> 
+     <player id="143213" /> 
+     <player id="154121" /> 
+     <player id="273910" /> 
+     <player id="300856" /> 
+     <player id="315557" /> 
+     <player id="330395" /> 
+     <player id="396792" /> 
+     <player id="425059" /> 
+     <player id="426524" /> 
+     <player id="453421" /> 
+     <player id="453430" /> 
+     <player id="454238" /> 
+     <player id="459573" /> 
+     <player id="2803" /> 
+     <player id="97045" /> 
+     <player id="134078" /> 
+     <player id="134248" /> 
+     <player id="148697" /> 
+     <player id="163668" /> 
+     <player id="182609" /> 
+     <player id="187383" /> 
+     <player id="200872" /> 
+     <player id="249782" /> 
+     <player id="310410" /> 
+     <player id="335185" /> 
+     <player id="392517" /> 
+     <player id="395913" /> 
+     <player id="453420" /> 
+     <player id="453436" /> 
+     <player id="489050" /> 
+     <player id="2586" /> 
+     <player id="40709" /> 
+     <player id="99940" /> 
+     <player id="122010" /> 
+     <player id="139523" /> 
+     <player id="192429" /> 
+     <player id="321697" /> 
+     <player id="390123" /> 
+     <player id="453425" /> 
+     <player id="453438" /> 
+     <player id="454235" /> 
+   </players> 
+   <coaches> 
+     <coach id="15479" /> 
+     <coach id="110680" /> 
+     <coach id="176648" /> 
+     <coach id="244177" /> 
+   </coaches> 
+</team>

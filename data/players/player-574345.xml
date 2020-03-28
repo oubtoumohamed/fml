@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>7903</team_id> 
+   <id>574345</id> 
+   <name>G. Popescu</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/574345.png</image> 
+   <position>مدافع</position> 
+   <nationality>رومانيا</nationality> 
+   <birth-day>2000-07-03</birth-day> 
+   <length  unit="cm">رومانيا</length> 
+   <weight  unit="kg">177</weight> 
+</player>

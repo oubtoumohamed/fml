@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>600</team_id> 
+   <id>557939</id> 
+   <name>M. Daramy</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/557939.png</image> 
+   <position>مهاجم</position> 
+   <nationality>سيرياليون</nationality> 
+   <birth-day>2002-01-07</birth-day> 
+   <length  unit="cm">180</length> 
+   <weight  unit="kg">71</weight> 
+</player>

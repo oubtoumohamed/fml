@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2015</id> 
+   <name>نادي فالنسيا لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2015.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Plaza del Valencia CF</adrese> 
+   <website>http://www.valenciacf.com</website> 
+   <creation-date>1919</creation-date> 
+   <players> 
+     <player id="89711" /> 
+     <player id="137206" /> 
+     <player id="249651" /> 
+     <player id="420640" /> 
+     <player id="3765" /> 
+     <player id="13870" /> 
+     <player id="62977" /> 
+     <player id="68177" /> 
+     <player id="102859" /> 
+     <player id="121315" /> 
+     <player id="134444" /> 
+     <player id="141934" /> 
+     <player id="160255" /> 
+     <player id="161784" /> 
+     <player id="167042" /> 
+     <player id="190553" /> 
+     <player id="228139" /> 
+     <player id="244107" /> 
+     <player id="325868" /> 
+     <player id="334799" /> 
+     <player id="335376" /> 
+     <player id="389945" /> 
+     <player id="396753" /> 
+     <player id="440099" /> 
+     <player id="461176" /> 
+     <player id="500132" /> 
+     <player id="31957" /> 
+     <player id="51278" /> 
+     <player id="63904" /> 
+     <player id="145463" /> 
+     <player id="152561" /> 
+     <player id="237311" /> 
+     <player id="270357" /> 
+     <player id="271091" /> 
+     <player id="275149" /> 
+     <player id="279610" /> 
+     <player id="279746" /> 
+     <player id="280261" /> 
+     <player id="299107" /> 
+     <player id="326457" /> 
+     <player id="326458" /> 
+     <player id="335377" /> 
+     <player id="393786" /> 
+     <player id="404347" /> 
+     <player id="420655" /> 
+     <player id="420666" /> 
+     <player id="445370" /> 
+     <player id="528977" /> 
+     <player id="574814" /> 
+     <player id="4647" /> 
+     <player id="13690" /> 
+     <player id="77386" /> 
+     <player id="116726" /> 
+     <player id="160637" /> 
+     <player id="177338" /> 
+     <player id="215145" /> 
+     <player id="281410" /> 
+     <player id="372757" /> 
+     <player id="403294" /> 
+     <player id="413470" /> 
+     <player id="432143" /> 
+     <player id="437923" /> 
+     <player id="557003" /> 
+   </players> 
+   <coaches> 
+     <coach id="3329" /> 
+     <coach id="175972" /> 
+     <coach id="304675" /> 
+   </coaches> 
+</team>

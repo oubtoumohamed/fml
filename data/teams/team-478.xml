@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>478</id> 
+   <name>نادي هايدوك سبليت</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/478.png</image> 
+   <country>كرواتيا</country> 
+   <adrese>8. Mediteranskih igara 2</adrese> 
+   <website>http://hajduk.hr</website> 
+   <creation-date>1911</creation-date> 
+   <players> 
+     <player id="85768" /> 
+     <player id="85773" /> 
+     <player id="137739" /> 
+     <player id="273290" /> 
+     <player id="290656" /> 
+     <player id="334071" /> 
+     <player id="427643" /> 
+     <player id="482576" /> 
+     <player id="504218" /> 
+     <player id="36596" /> 
+     <player id="88647" /> 
+     <player id="89862" /> 
+     <player id="150265" /> 
+     <player id="182772" /> 
+     <player id="190789" /> 
+     <player id="191600" /> 
+     <player id="214327" /> 
+     <player id="215483" /> 
+     <player id="251254" /> 
+     <player id="297458" /> 
+     <player id="363201" /> 
+     <player id="394365" /> 
+     <player id="396624" /> 
+     <player id="427650" /> 
+     <player id="445212" /> 
+     <player id="451343" /> 
+     <player id="482584" /> 
+     <player id="482587" /> 
+     <player id="501744" /> 
+     <player id="501748" /> 
+     <player id="513660" /> 
+     <player id="526509" /> 
+     <player id="66307" /> 
+     <player id="150570" /> 
+     <player id="156255" /> 
+     <player id="231766" /> 
+     <player id="245783" /> 
+     <player id="246641" /> 
+     <player id="253850" /> 
+     <player id="265100" /> 
+     <player id="266707" /> 
+     <player id="273289" /> 
+     <player id="273852" /> 
+     <player id="298159" /> 
+     <player id="308681" /> 
+     <player id="318350" /> 
+     <player id="360847" /> 
+     <player id="367465" /> 
+     <player id="401243" /> 
+     <player id="413983" /> 
+     <player id="427659" /> 
+     <player id="485820" /> 
+     <player id="501749" /> 
+     <player id="501764" /> 
+     <player id="2036" /> 
+     <player id="40357" /> 
+     <player id="72197" /> 
+     <player id="123303" /> 
+     <player id="187391" /> 
+     <player id="275405" /> 
+     <player id="288252" /> 
+     <player id="401371" /> 
+     <player id="424606" /> 
+     <player id="426664" /> 
+     <player id="427662" /> 
+     <player id="429675" /> 
+     <player id="482600" /> 
+     <player id="482601" /> 
+     <player id="489862" /> 
+     <player id="511943" /> 
+   </players> 
+   <coaches> 
+     <coach id="352" /> 
+     <coach id="122166" /> 
+     <coach id="205446" /> 
+     <coach id="304382" /> 
+     <coach id="470277" /> 
+     <coach id="501769" /> 
+   </coaches> 
+</team>

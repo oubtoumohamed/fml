@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1689</team_id> 
+   <id>575297</id> 
+   <name>Tiago Silva</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/575297.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>البرتغال</nationality> 
+   <birth-day>2000-03-28</birth-day> 
+   <length  unit="cm">185</length> 
+   <weight  unit="kg">اليمني</weight> 
+</player>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3513</id> 
+   <name>الإتحاد</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3513.png</image> 
+   <country>السعودية</country> 
+   <adrese>Sahafa Street</adrese> 
+   <website>http://www.ittihadnet.net</website> 
+   <creation-date>1927</creation-date> 
+   <players> 
+     <player id="9187" /> 
+     <player id="143679" /> 
+     <player id="197883" /> 
+     <player id="222651" /> 
+     <player id="358691" /> 
+     <player id="415450" /> 
+     <player id="472770" /> 
+     <player id="466" /> 
+     <player id="2388" /> 
+     <player id="26438" /> 
+     <player id="61225" /> 
+     <player id="65339" /> 
+     <player id="66884" /> 
+     <player id="66932" /> 
+     <player id="69569" /> 
+     <player id="143732" /> 
+     <player id="144203" /> 
+     <player id="144237" /> 
+     <player id="190157" /> 
+     <player id="222814" /> 
+     <player id="295040" /> 
+     <player id="295569" /> 
+     <player id="309671" /> 
+     <player id="320424" /> 
+     <player id="326949" /> 
+     <player id="327605" /> 
+     <player id="333848" /> 
+     <player id="334006" /> 
+     <player id="371317" /> 
+     <player id="403451" /> 
+     <player id="419725" /> 
+     <player id="465460" /> 
+     <player id="474257" /> 
+     <player id="474843" /> 
+     <player id="494918" /> 
+     <player id="520284" /> 
+     <player id="576450" /> 
+     <player id="647628" /> 
+     <player id="2466" /> 
+     <player id="8246" /> 
+     <player id="10439" /> 
+     <player id="68553" /> 
+     <player id="76643" /> 
+     <player id="131367" /> 
+     <player id="150612" /> 
+     <player id="167547" /> 
+     <player id="175393" /> 
+     <player id="207636" /> 
+     <player id="233411" /> 
+     <player id="245782" /> 
+     <player id="316232" /> 
+     <player id="317939" /> 
+     <player id="371355" /> 
+     <player id="414887" /> 
+     <player id="435182" /> 
+     <player id="465783" /> 
+     <player id="465886" /> 
+     <player id="482591" /> 
+     <player id="527782" /> 
+     <player id="529353" /> 
+     <player id="544999" /> 
+     <player id="576472" /> 
+     <player id="598557" /> 
+     <player id="644916" /> 
+     <player id="31558" /> 
+     <player id="59705" /> 
+     <player id="61394" /> 
+     <player id="67634" /> 
+     <player id="71412" /> 
+     <player id="88907" /> 
+     <player id="112373" /> 
+     <player id="158613" /> 
+     <player id="197876" /> 
+     <player id="211905" /> 
+     <player id="228967" /> 
+     <player id="282741" /> 
+     <player id="375315" /> 
+     <player id="455531" /> 
+     <player id="472773" /> 
+     <player id="538177" /> 
+     <player id="590736" /> 
+   </players> 
+   <coaches> 
+     <coach id="104690" /> 
+     <coach id="119288" /> 
+     <coach id="157287" /> 
+     <coach id="169469" /> 
+     <coach id="482592" /> 
+     <coach id="641701" /> 
+   </coaches> 
+</team>

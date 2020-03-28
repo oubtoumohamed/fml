@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>6676</team_id> 
+   <id>617102</id> 
+   <name>A. Doumbia</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/617102.png</image> 
+   <position>مدافع</position> 
+   <nationality>ساحل العاج</nationality> 
+   <birth-day>2000-01-01</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

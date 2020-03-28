@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2027</id> 
+   <name>نادي ريال ديبورتيفور مايوركا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2027.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Camí dels Reis</adrese> 
+   <website>http://www.rcdmallorca.es</website> 
+   <creation-date>1916</creation-date> 
+   <players> 
+     <player id="21080" /> 
+     <player id="58909" /> 
+     <player id="61656" /> 
+     <player id="360651" /> 
+     <player id="390155" /> 
+     <player id="60998" /> 
+     <player id="62639" /> 
+     <player id="148775" /> 
+     <player id="148891" /> 
+     <player id="160255" /> 
+     <player id="175787" /> 
+     <player id="205505" /> 
+     <player id="250040" /> 
+     <player id="258720" /> 
+     <player id="284090" /> 
+     <player id="300706" /> 
+     <player id="344133" /> 
+     <player id="372951" /> 
+     <player id="391919" /> 
+     <player id="393102" /> 
+     <player id="398771" /> 
+     <player id="408036" /> 
+     <player id="413584" /> 
+     <player id="418620" /> 
+     <player id="456121" /> 
+     <player id="579723" /> 
+     <player id="50035" /> 
+     <player id="59036" /> 
+     <player id="60949" /> 
+     <player id="145636" /> 
+     <player id="264499" /> 
+     <player id="265883" /> 
+     <player id="274941" /> 
+     <player id="289916" /> 
+     <player id="322134" /> 
+     <player id="328315" /> 
+     <player id="356143" /> 
+     <player id="363641" /> 
+     <player id="393014" /> 
+     <player id="393715" /> 
+     <player id="398363" /> 
+     <player id="399035" /> 
+     <player id="407241" /> 
+     <player id="459825" /> 
+     <player id="482505" /> 
+     <player id="558996" /> 
+     <player id="36544" /> 
+     <player id="42189" /> 
+     <player id="60730" /> 
+     <player id="77308" /> 
+     <player id="90658" /> 
+     <player id="137808" /> 
+     <player id="146988" /> 
+     <player id="154696" /> 
+     <player id="166540" /> 
+     <player id="214365" /> 
+     <player id="238341" /> 
+     <player id="242025" /> 
+     <player id="263188" /> 
+     <player id="311371" /> 
+     <player id="320197" /> 
+     <player id="363643" /> 
+     <player id="385263" /> 
+     <player id="402218" /> 
+     <player id="418975" /> 
+     <player id="420316" /> 
+     <player id="455282" /> 
+     <player id="455621" /> 
+     <player id="476397" /> 
+   </players> 
+   <coaches> 
+     <coach id="58855" /> 
+     <coach id="60938" /> 
+   </coaches> 
+</team>

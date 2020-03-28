@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1680</id> 
+   <name>نادي سبورتينغ البرتغالي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1680.png</image> 
+   <country>البرتغال</country> 
+   <adrese>Rua Professor Fernando da Fonseca, Apartado 4120</adrese> 
+   <website>http://www.sporting.pt</website> 
+   <creation-date>1906</creation-date> 
+   <players> 
+     <player id="1102" /> 
+     <player id="16583" /> 
+     <player id="18423" /> 
+     <player id="97659" /> 
+     <player id="318328" /> 
+     <player id="421587" /> 
+     <player id="463063" /> 
+     <player id="1294" /> 
+     <player id="16576" /> 
+     <player id="39552" /> 
+     <player id="56686" /> 
+     <player id="56921" /> 
+     <player id="77863" /> 
+     <player id="111647" /> 
+     <player id="131563" /> 
+     <player id="161776" /> 
+     <player id="167042" /> 
+     <player id="202360" /> 
+     <player id="213964" /> 
+     <player id="257120" /> 
+     <player id="344951" /> 
+     <player id="372951" /> 
+     <player id="374817" /> 
+     <player id="394462" /> 
+     <player id="416709" /> 
+     <player id="440099" /> 
+     <player id="460632" /> 
+     <player id="468838" /> 
+     <player id="574978" /> 
+     <player id="47166" /> 
+     <player id="72067" /> 
+     <player id="86404" /> 
+     <player id="155866" /> 
+     <player id="159057" /> 
+     <player id="163091" /> 
+     <player id="178336" /> 
+     <player id="217929" /> 
+     <player id="226423" /> 
+     <player id="229032" /> 
+     <player id="244185" /> 
+     <player id="249748" /> 
+     <player id="257341" /> 
+     <player id="261899" /> 
+     <player id="270492" /> 
+     <player id="276371" /> 
+     <player id="280821" /> 
+     <player id="280824" /> 
+     <player id="285652" /> 
+     <player id="340837" /> 
+     <player id="374831" /> 
+     <player id="404642" /> 
+     <player id="421588" /> 
+     <player id="448395" /> 
+     <player id="455763" /> 
+     <player id="460389" /> 
+     <player id="473916" /> 
+     <player id="509533" /> 
+     <player id="521572" /> 
+     <player id="537017" /> 
+     <player id="4647" /> 
+     <player id="5775" /> 
+     <player id="10045" /> 
+     <player id="16995" /> 
+     <player id="22747" /> 
+     <player id="59418" /> 
+     <player id="71338" /> 
+     <player id="89925" /> 
+     <player id="102895" /> 
+     <player id="129859" /> 
+     <player id="160640" /> 
+     <player id="161786" /> 
+     <player id="185912" /> 
+     <player id="189511" /> 
+     <player id="200334" /> 
+     <player id="215145" /> 
+     <player id="261884" /> 
+     <player id="263354" /> 
+     <player id="299054" /> 
+     <player id="327720" /> 
+     <player id="363507" /> 
+     <player id="373077" /> 
+     <player id="421589" /> 
+     <player id="429278" /> 
+     <player id="429714" /> 
+     <player id="454355" /> 
+     <player id="454356" /> 
+     <player id="455679" /> 
+     <player id="491348" /> 
+     <player id="575061" /> 
+   </players> 
+   <coaches> 
+     <coach id="110818" /> 
+     <coach id="140283" /> 
+     <coach id="165607" /> 
+     <coach id="203069" /> 
+     <coach id="323204" /> 
+     <coach id="340841" /> 
+     <coach id="460209" /> 
+     <coach id="542787" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>603</team_id> 
+   <id>463461</id> 
+   <name>ا. اولافسون</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/463461.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>أيسلندا</nationality> 
+   <birth-day>2000-03-11</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

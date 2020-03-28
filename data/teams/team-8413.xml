@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>8413</id> 
+   <name>FK Kauno Žalgiris</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/8413.png</image> 
+   <country>لتوانيا</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>2005</creation-date> 
+   <players> 
+     <player id="27352" /> 
+     <player id="27462" /> 
+     <player id="123064" /> 
+     <player id="275832" /> 
+     <player id="308907" /> 
+     <player id="449902" /> 
+     <player id="478515" /> 
+     <player id="616527" /> 
+     <player id="6368" /> 
+     <player id="27431" /> 
+     <player id="27466" /> 
+     <player id="40142" /> 
+     <player id="60303" /> 
+     <player id="78999" /> 
+     <player id="101703" /> 
+     <player id="116698" /> 
+     <player id="122980" /> 
+     <player id="134153" /> 
+     <player id="163170" /> 
+     <player id="181925" /> 
+     <player id="181930" /> 
+     <player id="213680" /> 
+     <player id="213889" /> 
+     <player id="253155" /> 
+     <player id="257119" /> 
+     <player id="275166" /> 
+     <player id="275818" /> 
+     <player id="312500" /> 
+     <player id="319234" /> 
+     <player id="382629" /> 
+     <player id="429056" /> 
+     <player id="447213" /> 
+     <player id="449655" /> 
+     <player id="491764" /> 
+     <player id="513687" /> 
+     <player id="551931" /> 
+     <player id="13054" /> 
+     <player id="26154" /> 
+     <player id="27390" /> 
+     <player id="27885" /> 
+     <player id="80429" /> 
+     <player id="124985" /> 
+     <player id="129678" /> 
+     <player id="134152" /> 
+     <player id="160643" /> 
+     <player id="183317" /> 
+     <player id="192801" /> 
+     <player id="220088" /> 
+     <player id="225801" /> 
+     <player id="246062" /> 
+     <player id="275174" /> 
+     <player id="275812" /> 
+     <player id="275815" /> 
+     <player id="302367" /> 
+     <player id="336951" /> 
+     <player id="384859" /> 
+     <player id="384861" /> 
+     <player id="387347" /> 
+     <player id="387353" /> 
+     <player id="443112" /> 
+     <player id="447230" /> 
+     <player id="447822" /> 
+     <player id="460452" /> 
+     <player id="477524" /> 
+     <player id="506705" /> 
+     <player id="507985" /> 
+     <player id="518062" /> 
+     <player id="573933" /> 
+     <player id="581654" /> 
+     <player id="4506" /> 
+     <player id="72363" /> 
+     <player id="80736" /> 
+     <player id="84370" /> 
+     <player id="128587" /> 
+     <player id="305631" /> 
+     <player id="318787" /> 
+     <player id="387941" /> 
+     <player id="390461" /> 
+     <player id="398300" /> 
+     <player id="433868" /> 
+     <player id="446379" /> 
+     <player id="498521" /> 
+     <player id="507402" /> 
+     <player id="614652" /> 
+   </players> 
+   <coaches> 
+     <coach id="125272" /> 
+     <coach id="219043" /> 
+     <coach id="275804" /> 
+     <coach id="293814" /> 
+     <coach id="298934" /> 
+     <coach id="442123" /> 
+   </coaches> 
+</team>

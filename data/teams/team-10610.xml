@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>10610</id> 
+   <name>كرانسودار</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/10610.png</image> 
+   <country>روسيا</country> 
+   <adrese>ul. Zhloby 114</adrese> 
+   <website>http://www.fckrasnodar.ru</website> 
+   <creation-date>2007</creation-date> 
+   <players> 
+     <player id="76203" /> 
+     <player id="128528" /> 
+     <player id="386253" /> 
+     <player id="406049" /> 
+     <player id="424249" /> 
+     <player id="476840" /> 
+     <player id="509280" /> 
+     <player id="4614" /> 
+     <player id="5290" /> 
+     <player id="5984" /> 
+     <player id="9637" /> 
+     <player id="65369" /> 
+     <player id="80423" /> 
+     <player id="86953" /> 
+     <player id="137933" /> 
+     <player id="162620" /> 
+     <player id="180799" /> 
+     <player id="301792" /> 
+     <player id="315809" /> 
+     <player id="338171" /> 
+     <player id="350977" /> 
+     <player id="381271" /> 
+     <player id="386257" /> 
+     <player id="401704" /> 
+     <player id="408879" /> 
+     <player id="424256" /> 
+     <player id="424257" /> 
+     <player id="451615" /> 
+     <player id="478306" /> 
+     <player id="575611" /> 
+     <player id="5200" /> 
+     <player id="6395" /> 
+     <player id="16736" /> 
+     <player id="21075" /> 
+     <player id="27847" /> 
+     <player id="40529" /> 
+     <player id="51710" /> 
+     <player id="67857" /> 
+     <player id="74021" /> 
+     <player id="87812" /> 
+     <player id="92436" /> 
+     <player id="104150" /> 
+     <player id="119128" /> 
+     <player id="120838" /> 
+     <player id="158311" /> 
+     <player id="182926" /> 
+     <player id="209823" /> 
+     <player id="233496" /> 
+     <player id="254434" /> 
+     <player id="291585" /> 
+     <player id="302683" /> 
+     <player id="321404" /> 
+     <player id="322459" /> 
+     <player id="356993" /> 
+     <player id="383495" /> 
+     <player id="424262" /> 
+     <player id="451618" /> 
+     <player id="509298" /> 
+     <player id="509300" /> 
+     <player id="545437" /> 
+     <player id="6257" /> 
+     <player id="6277" /> 
+     <player id="6451" /> 
+     <player id="190470" /> 
+     <player id="301800" /> 
+     <player id="326401" /> 
+     <player id="336316" /> 
+     <player id="424263" /> 
+     <player id="440082" /> 
+     <player id="504607" /> 
+     <player id="509303" /> 
+     <player id="509305" /> 
+   </players> 
+   <coaches> 
+     <coach id="305843" /> 
+     <coach id="424272" /> 
+     <coach id="509318" /> 
+   </coaches> 
+</team>

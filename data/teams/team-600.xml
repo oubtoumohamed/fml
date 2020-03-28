@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>600</id> 
+   <name>نادي كوبنهاجن لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/600.png</image> 
+   <country>الدنمارك</country> 
+   <adrese>Per Henrik Lings Allé 2</adrese> 
+   <website>http://www.fck.dk</website> 
+   <creation-date>1992</creation-date> 
+   <players> 
+     <player id="2760" /> 
+     <player id="11837" /> 
+     <player id="28144" /> 
+     <player id="34929" /> 
+     <player id="78882" /> 
+     <player id="111435" /> 
+     <player id="162037" /> 
+     <player id="460176" /> 
+     <player id="460492" /> 
+     <player id="6045" /> 
+     <player id="11723" /> 
+     <player id="11803" /> 
+     <player id="30291" /> 
+     <player id="42665" /> 
+     <player id="73851" /> 
+     <player id="126398" /> 
+     <player id="134934" /> 
+     <player id="155450" /> 
+     <player id="192656" /> 
+     <player id="293763" /> 
+     <player id="319334" /> 
+     <player id="421629" /> 
+     <player id="441234" /> 
+     <player id="452435" /> 
+     <player id="557937" /> 
+     <player id="557938" /> 
+     <player id="603057" /> 
+     <player id="11731" /> 
+     <player id="86954" /> 
+     <player id="90590" /> 
+     <player id="131329" /> 
+     <player id="143368" /> 
+     <player id="155076" /> 
+     <player id="167717" /> 
+     <player id="209269" /> 
+     <player id="280402" /> 
+     <player id="296804" /> 
+     <player id="319027" /> 
+     <player id="389713" /> 
+     <player id="437569" /> 
+     <player id="595999" /> 
+     <player id="16090" /> 
+     <player id="19142" /> 
+     <player id="31548" /> 
+     <player id="134297" /> 
+     <player id="158707" /> 
+     <player id="176519" /> 
+     <player id="191974" /> 
+     <player id="203762" /> 
+     <player id="421636" /> 
+     <player id="441239" /> 
+     <player id="548690" /> 
+     <player id="557939" /> 
+   </players> 
+   <coaches> 
+     <coach id="136265" /> 
+   </coaches> 
+</team>

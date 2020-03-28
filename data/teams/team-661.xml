@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>661</id> 
+   <name>نادي تشيلسي لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/661.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Fulham Road</adrese> 
+   <website>http://www.chelseafc.com</website> 
+   <creation-date>1905</creation-date> 
+   <players> 
+     <player id="2707" /> 
+     <player id="17094" /> 
+     <player id="58907" /> 
+     <player id="77294" /> 
+     <player id="200705" /> 
+     <player id="215676" /> 
+     <player id="263395" /> 
+     <player id="320054" /> 
+     <player id="372975" /> 
+     <player id="420554" /> 
+     <player id="459458" /> 
+     <player id="496586" /> 
+     <player id="2797" /> 
+     <player id="16580" /> 
+     <player id="18099" /> 
+     <player id="102548" /> 
+     <player id="125007" /> 
+     <player id="162511" /> 
+     <player id="178792" /> 
+     <player id="180822" /> 
+     <player id="181479" /> 
+     <player id="191098" /> 
+     <player id="192187" /> 
+     <player id="205625" /> 
+     <player id="213104" /> 
+     <player id="245833" /> 
+     <player id="250040" /> 
+     <player id="274798" /> 
+     <player id="294380" /> 
+     <player id="324725" /> 
+     <player id="372979" /> 
+     <player id="376687" /> 
+     <player id="376695" /> 
+     <player id="420559" /> 
+     <player id="440094" /> 
+     <player id="453252" /> 
+     <player id="459567" /> 
+     <player id="525926" /> 
+     <player id="328" /> 
+     <player id="25395" /> 
+     <player id="89512" /> 
+     <player id="124939" /> 
+     <player id="154068" /> 
+     <player id="156567" /> 
+     <player id="169273" /> 
+     <player id="175302" /> 
+     <player id="214469" /> 
+     <player id="215485" /> 
+     <player id="215566" /> 
+     <player id="263399" /> 
+     <player id="270001" /> 
+     <player id="271290" /> 
+     <player id="287912" /> 
+     <player id="314424" /> 
+     <player id="319141" /> 
+     <player id="324726" /> 
+     <player id="376697" /> 
+     <player id="413835" /> 
+     <player id="420563" /> 
+     <player id="420570" /> 
+     <player id="453254" /> 
+     <player id="486637" /> 
+     <player id="496724" /> 
+     <player id="5274" /> 
+     <player id="9051" /> 
+     <player id="39358" /> 
+     <player id="59504" /> 
+     <player id="61275" /> 
+     <player id="103171" /> 
+     <player id="177338" /> 
+     <player id="180825" /> 
+     <player id="193638" /> 
+     <player id="286556" /> 
+     <player id="372977" /> 
+     <player id="372981" /> 
+     <player id="375135" /> 
+     <player id="455314" /> 
+   </players> 
+   <coaches> 
+     <coach id="189" /> 
+     <coach id="31473" /> 
+     <coach id="105100" /> 
+     <coach id="168782" /> 
+     <coach id="276086" /> 
+     <coach id="431212" /> 
+   </coaches> 
+</team>

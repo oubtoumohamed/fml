@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1250</id> 
+   <name>بريشيا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1250.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Via Luigi Bazoli, 10</adrese> 
+   <website>http://www.bresciacalcio.it</website> 
+   <creation-date>1911</creation-date> 
+   <players> 
+     <player id="18341" /> 
+     <player id="90664" /> 
+     <player id="162037" /> 
+     <player id="310936" /> 
+     <player id="314482" /> 
+     <player id="345215" /> 
+     <player id="416937" /> 
+     <player id="483352" /> 
+     <player id="555934" /> 
+     <player id="595158" /> 
+     <player id="4307" /> 
+     <player id="4311" /> 
+     <player id="77391" /> 
+     <player id="87073" /> 
+     <player id="147046" /> 
+     <player id="149878" /> 
+     <player id="163049" /> 
+     <player id="204969" /> 
+     <player id="210299" /> 
+     <player id="211935" /> 
+     <player id="250990" /> 
+     <player id="268814" /> 
+     <player id="273292" /> 
+     <player id="274651" /> 
+     <player id="295568" /> 
+     <player id="314807" /> 
+     <player id="316506" /> 
+     <player id="317331" /> 
+     <player id="318521" /> 
+     <player id="319836" /> 
+     <player id="326411" /> 
+     <player id="338143" /> 
+     <player id="392518" /> 
+     <player id="399233" /> 
+     <player id="418065" /> 
+     <player id="442980" /> 
+     <player id="449582" /> 
+     <player id="468886" /> 
+     <player id="499027" /> 
+     <player id="4066" /> 
+     <player id="4112" /> 
+     <player id="4290" /> 
+     <player id="7800" /> 
+     <player id="86126" /> 
+     <player id="95856" /> 
+     <player id="151055" /> 
+     <player id="169245" /> 
+     <player id="192012" /> 
+     <player id="192321" /> 
+     <player id="245793" /> 
+     <player id="254898" /> 
+     <player id="263844" /> 
+     <player id="273850" /> 
+     <player id="295748" /> 
+     <player id="295876" /> 
+     <player id="308750" /> 
+     <player id="336857" /> 
+     <player id="379191" /> 
+     <player id="392113" /> 
+     <player id="397798" /> 
+     <player id="403533" /> 
+     <player id="422853" /> 
+     <player id="430331" /> 
+     <player id="495152" /> 
+     <player id="543242" /> 
+     <player id="621517" /> 
+     <player id="4091" /> 
+     <player id="17864" /> 
+     <player id="18101" /> 
+     <player id="22357" /> 
+     <player id="141693" /> 
+     <player id="142605" /> 
+     <player id="171259" /> 
+     <player id="210898" /> 
+     <player id="213129" /> 
+     <player id="289983" /> 
+     <player id="369181" /> 
+     <player id="391797" /> 
+     <player id="412150" /> 
+     <player id="421165" /> 
+     <player id="421640" /> 
+     <player id="425030" /> 
+     <player id="442155" /> 
+     <player id="509018" /> 
+     <player id="535006" /> 
+   </players> 
+   <coaches> 
+     <coach id="75" /> 
+     <coach id="4085" /> 
+     <coach id="4177" /> 
+     <coach id="110808" /> 
+     <coach id="182385" /> 
+     <coach id="217159" /> 
+   </coaches> 
+</team>

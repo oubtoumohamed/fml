@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3565</id> 
+   <name>الفيصلي الأردني (عمان)</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3565.png</image> 
+   <country>الأردن</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="81099" /> 
+     <player id="329068" /> 
+     <player id="431959" /> 
+     <player id="534329" /> 
+     <player id="80713" /> 
+     <player id="81071" /> 
+     <player id="81939" /> 
+     <player id="119534" /> 
+     <player id="165303" /> 
+     <player id="326945" /> 
+     <player id="373485" /> 
+     <player id="373513" /> 
+     <player id="397206" /> 
+     <player id="401633" /> 
+     <player id="490893" /> 
+     <player id="534326" /> 
+     <player id="534332" /> 
+     <player id="54583" /> 
+     <player id="70780" /> 
+     <player id="80750" /> 
+     <player id="80764" /> 
+     <player id="119532" /> 
+     <player id="165302" /> 
+     <player id="319187" /> 
+     <player id="345059" /> 
+     <player id="373491" /> 
+     <player id="490890" /> 
+     <player id="534334" /> 
+     <player id="614234" /> 
+     <player id="77431" /> 
+     <player id="165299" /> 
+     <player id="184448" /> 
+     <player id="222967" /> 
+     <player id="241778" /> 
+     <player id="284052" /> 
+     <player id="307579" /> 
+     <player id="326942" /> 
+     <player id="431963" /> 
+     <player id="567711" /> 
+     <player id="576386" /> 
+     <player id="648385" /> 
+     <player id="648395" /> 
+   </players> 
+   <coaches> 
+     <coach id="270192" /> 
+     <coach id="346215" /> 
+   </coaches> 
+</team>

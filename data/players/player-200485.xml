@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>164</team_id> 
+   <id>200485</id> 
+   <name>إم. ديجخويزين</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/200485.png</image> 
+   <position>مهاجم</position> 
+   <nationality>هولندا</nationality> 
+   <birth-day>1972-01-04</birth-day> 
+   <length  unit="cm">هولندا</length> 
+   <weight  unit="kg"></weight> 
+</player>

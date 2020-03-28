@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>9285</team_id> 
+   <id>495450</id> 
+   <name>محمد الضو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/495450.png</image> 
+   <position>مهاجم</position> 
+   <nationality>السعودية</nationality> 
+   <birth-day>1993-11-18</birth-day> 
+   <length  unit="cm">166</length> 
+   <weight  unit="kg">64</weight> 
+</player>

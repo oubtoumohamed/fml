@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1001</id> 
+   <name>نادي هوفنهايم 1899</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1001.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Silbergasse 45, Hoffenheim</adrese> 
+   <website>http://www.achtzehn99.de</website> 
+   <creation-date>1899</creation-date> 
+   <players> 
+     <player id="1943" /> 
+     <player id="16739" /> 
+     <player id="54482" /> 
+     <player id="55077" /> 
+     <player id="340409" /> 
+     <player id="453786" /> 
+     <player id="16087" /> 
+     <player id="54689" /> 
+     <player id="74231" /> 
+     <player id="114354" /> 
+     <player id="132279" /> 
+     <player id="159063" /> 
+     <player id="213932" /> 
+     <player id="218113" /> 
+     <player id="316755" /> 
+     <player id="358713" /> 
+     <player id="369345" /> 
+     <player id="376409" /> 
+     <player id="432697" /> 
+     <player id="440859" /> 
+     <player id="453554" /> 
+     <player id="525931" /> 
+     <player id="562373" /> 
+     <player id="1819" /> 
+     <player id="38433" /> 
+     <player id="43159" /> 
+     <player id="78485" /> 
+     <player id="141327" /> 
+     <player id="153049" /> 
+     <player id="179905" /> 
+     <player id="213124" /> 
+     <player id="213651" /> 
+     <player id="252721" /> 
+     <player id="254873" /> 
+     <player id="259912" /> 
+     <player id="279077" /> 
+     <player id="296416" /> 
+     <player id="296804" /> 
+     <player id="307165" /> 
+     <player id="330023" /> 
+     <player id="347111" /> 
+     <player id="357843" /> 
+     <player id="358727" /> 
+     <player id="400421" /> 
+     <player id="404953" /> 
+     <player id="427647" /> 
+     <player id="468314" /> 
+     <player id="542635" /> 
+     <player id="62146" /> 
+     <player id="83992" /> 
+     <player id="90778" /> 
+     <player id="158589" /> 
+     <player id="164106" /> 
+     <player id="191108" /> 
+     <player id="260349" /> 
+     <player id="282886" /> 
+     <player id="331264" /> 
+     <player id="350121" /> 
+     <player id="413913" /> 
+     <player id="420816" /> 
+     <player id="429540" /> 
+     <player id="460406" /> 
+     <player id="560397" /> 
+   </players> 
+   <coaches> 
+     <coach id="2249" /> 
+     <coach id="54412" /> 
+     <coach id="307331" /> 
+     <coach id="328167" /> 
+     <coach id="488260" /> 
+   </coaches> 
+</team>

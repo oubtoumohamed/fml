@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>548</team_id> 
+   <id>480013</id> 
+   <name>P. Mikulec</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/480013.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>التشيك</nationality> 
+   <birth-day>1999-04-05</birth-day> 
+   <length  unit="cm">التشيك</length> 
+   <weight  unit="kg">197</weight> 
+</player>

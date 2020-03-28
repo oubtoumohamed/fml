@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3478</id> 
+   <name>النادي الرياضي البنزرتي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3478.png</image> 
+   <country>تونس</country> 
+   <adrese>27, avenue Hédi Chaker</adrese> 
+   <website>http://www.cab-officiel.com</website> 
+   <creation-date>1928</creation-date> 
+   <players> 
+     <player id="509" /> 
+     <player id="138398" /> 
+     <player id="147724" /> 
+     <player id="463321" /> 
+     <player id="614142" /> 
+     <player id="622622" /> 
+     <player id="53158" /> 
+     <player id="95405" /> 
+     <player id="165777" /> 
+     <player id="319075" /> 
+     <player id="331164" /> 
+     <player id="359951" /> 
+     <player id="361393" /> 
+     <player id="379691" /> 
+     <player id="446945" /> 
+     <player id="529714" /> 
+     <player id="615078" /> 
+     <player id="71305" /> 
+     <player id="138435" /> 
+     <player id="209314" /> 
+     <player id="216875" /> 
+     <player id="218747" /> 
+     <player id="262550" /> 
+     <player id="268031" /> 
+     <player id="295981" /> 
+     <player id="299066" /> 
+     <player id="302321" /> 
+     <player id="314622" /> 
+     <player id="319084" /> 
+     <player id="359411" /> 
+     <player id="361397" /> 
+     <player id="373391" /> 
+     <player id="384671" /> 
+     <player id="404543" /> 
+     <player id="429525" /> 
+     <player id="429526" /> 
+     <player id="433520" /> 
+     <player id="433524" /> 
+     <player id="442006" /> 
+     <player id="446962" /> 
+     <player id="463323" /> 
+     <player id="471060" /> 
+     <player id="477103" /> 
+     <player id="588570" /> 
+     <player id="612860" /> 
+     <player id="612861" /> 
+     <player id="612862" /> 
+     <player id="622619" /> 
+     <player id="622620" /> 
+     <player id="622621" /> 
+     <player id="622623" /> 
+     <player id="626320" /> 
+     <player id="52584" /> 
+     <player id="70278" /> 
+     <player id="138417" /> 
+     <player id="421144" /> 
+     <player id="457982" /> 
+     <player id="473792" /> 
+     <player id="474566" /> 
+     <player id="485330" /> 
+     <player id="548746" /> 
+     <player id="611953" /> 
+     <player id="614143" /> 
+   </players> 
+   <coaches> 
+     <coach id="245784" /> 
+     <coach id="263788" /> 
+     <coach id="367471" /> 
+     <coach id="469358" /> 
+     <coach id="525032" /> 
+     <coach id="622624" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2408</id> 
+   <name>نادي ستيارنان جاروابيير للشباب</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2408.png</image> 
+   <country>أيسلندا</country> 
+   <adrese>Stjörnuheimilið</adrese> 
+   <website>http://www.stjarnan.is</website> 
+   <creation-date>1960</creation-date> 
+   <players> 
+     <player id="13033" /> 
+     <player id="131280" /> 
+     <player id="191464" /> 
+     <player id="345907" /> 
+     <player id="9618" /> 
+     <player id="32246" /> 
+     <player id="32793" /> 
+     <player id="33154" /> 
+     <player id="33312" /> 
+     <player id="33766" /> 
+     <player id="78616" /> 
+     <player id="133830" /> 
+     <player id="349497" /> 
+     <player id="423887" /> 
+     <player id="424025" /> 
+     <player id="424026" /> 
+     <player id="555669" /> 
+     <player id="9569" /> 
+     <player id="33316" /> 
+     <player id="196092" /> 
+     <player id="199226" /> 
+     <player id="248293" /> 
+     <player id="297973" /> 
+     <player id="339595" /> 
+     <player id="414892" /> 
+     <player id="451600" /> 
+     <player id="463551" /> 
+     <player id="483639" /> 
+     <player id="498146" /> 
+     <player id="547588" /> 
+     <player id="574149" /> 
+     <player id="625646" /> 
+     <player id="629366" /> 
+     <player id="633132" /> 
+     <player id="9711" /> 
+     <player id="32253" /> 
+     <player id="32276" /> 
+     <player id="33160" /> 
+     <player id="339597" /> 
+     <player id="345625" /> 
+     <player id="424056" /> 
+     <player id="558254" /> 
+     <player id="574148" /> 
+   </players> 
+   <coaches> 
+     <coach id="9557" /> 
+     <coach id="9600" /> 
+     <coach id="444475" /> 
+     <coach id="451913" /> 
+   </coaches> 
+</team>

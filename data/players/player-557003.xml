@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2015</team_id> 
+   <id>557003</id> 
+   <name>ج. إسكوبار فرنانديز</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/557003.png</image> 
+   <position>مهاجم</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>2002-02-10</birth-day> 
+   <length  unit="cm">إسبانيا</length> 
+   <weight  unit="kg">186</weight> 
+</player>

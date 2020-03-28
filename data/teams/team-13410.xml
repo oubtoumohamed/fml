@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>13410</id> 
+   <name>لايبزج</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/13410.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Neumarkt 29-33</adrese> 
+   <website>http://www.dierotenbullen.com/</website> 
+   <creation-date>2009</creation-date> 
+   <players> 
+     <player id="197" /> 
+     <player id="16881" /> 
+     <player id="59421" /> 
+     <player id="182815" /> 
+     <player id="232583" /> 
+     <player id="414682" /> 
+     <player id="497137" /> 
+     <player id="520971" /> 
+     <player id="130121" /> 
+     <player id="163303" /> 
+     <player id="195337" /> 
+     <player id="215597" /> 
+     <player id="290353" /> 
+     <player id="328528" /> 
+     <player id="368803" /> 
+     <player id="387419" /> 
+     <player id="416730" /> 
+     <player id="440094" /> 
+     <player id="454163" /> 
+     <player id="506219" /> 
+     <player id="509269" /> 
+     <player id="509274" /> 
+     <player id="35812" /> 
+     <player id="78541" /> 
+     <player id="81305" /> 
+     <player id="141226" /> 
+     <player id="143228" /> 
+     <player id="144455" /> 
+     <player id="165828" /> 
+     <player id="210551" /> 
+     <player id="316760" /> 
+     <player id="323155" /> 
+     <player id="376909" /> 
+     <player id="395366" /> 
+     <player id="396684" /> 
+     <player id="397867" /> 
+     <player id="400878" /> 
+     <player id="425830" /> 
+     <player id="443291" /> 
+     <player id="453125" /> 
+     <player id="476878" /> 
+     <player id="477853" /> 
+     <player id="482249" /> 
+     <player id="509276" /> 
+     <player id="509277" /> 
+     <player id="517672" /> 
+     <player id="560083" /> 
+     <player id="560294" /> 
+     <player id="56117" /> 
+     <player id="155071" /> 
+     <player id="159042" /> 
+     <player id="242778" /> 
+     <player id="268808" /> 
+     <player id="314396" /> 
+     <player id="424073" /> 
+     <player id="428612" /> 
+     <player id="473434" /> 
+     <player id="491026" /> 
+   </players> 
+   <coaches> 
+     <coach id="16700" /> 
+     <coach id="110749" /> 
+     <coach id="176648" /> 
+     <coach id="233372" /> 
+     <coach id="307331" /> 
+     <coach id="450754" /> 
+     <coach id="555371" /> 
+   </coaches> 
+</team>

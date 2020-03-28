@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>777</id> 
+   <name>نادي فلورا تالين لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/777.png</image> 
+   <country>أستونيا</country> 
+   <adrese>Asula 4c</adrese> 
+   <website>http://www.fcflora.ee</website> 
+   <creation-date>1990</creation-date> 
+   <players> 
+     <player id="120826" /> 
+     <player id="201128" /> 
+     <player id="212667" /> 
+     <player id="234510" /> 
+     <player id="410032" /> 
+     <player id="436709" /> 
+     <player id="476445" /> 
+     <player id="599364" /> 
+     <player id="7815" /> 
+     <player id="25790" /> 
+     <player id="78497" /> 
+     <player id="180088" /> 
+     <player id="199570" /> 
+     <player id="213389" /> 
+     <player id="249835" /> 
+     <player id="249836" /> 
+     <player id="286221" /> 
+     <player id="288249" /> 
+     <player id="387725" /> 
+     <player id="398720" /> 
+     <player id="412053" /> 
+     <player id="466644" /> 
+     <player id="572409" /> 
+     <player id="38771" /> 
+     <player id="92465" /> 
+     <player id="160115" /> 
+     <player id="179982" /> 
+     <player id="179984" /> 
+     <player id="212672" /> 
+     <player id="249837" /> 
+     <player id="286585" /> 
+     <player id="286595" /> 
+     <player id="296911" /> 
+     <player id="313878" /> 
+     <player id="398073" /> 
+     <player id="408928" /> 
+     <player id="427805" /> 
+     <player id="436708" /> 
+     <player id="490691" /> 
+     <player id="498321" /> 
+     <player id="56970" /> 
+     <player id="212668" /> 
+     <player id="212687" /> 
+     <player id="387727" /> 
+     <player id="427803" /> 
+     <player id="466653" /> 
+     <player id="490943" /> 
+   </players> 
+   <coaches> 
+     <coach id="25791" /> 
+     <coach id="121152" /> 
+     <coach id="329656" /> 
+   </coaches> 
+</team>

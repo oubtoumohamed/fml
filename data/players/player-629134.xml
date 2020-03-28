@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>9964</team_id> 
+   <id>629134</id> 
+   <name>محمد علي المراشدة</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/629134.png</image> 
+   <position>مهاجم</position> 
+   <nationality>الإمارات</nationality> 
+   <birth-day>2000-06-05</birth-day> 
+   <length  unit="cm">170</length> 
+   <weight  unit="kg">68</weight> 
+</player>

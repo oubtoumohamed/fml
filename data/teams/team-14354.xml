@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>14354</id> 
+   <name>Gzira United FC</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/14354.png</image> 
+   <country>مالطا</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>1947</creation-date> 
+   <players> 
+     <player id="57560" /> 
+     <player id="59614" /> 
+     <player id="63720" /> 
+     <player id="155872" /> 
+     <player id="232923" /> 
+     <player id="340369" /> 
+     <player id="499376" /> 
+     <player id="542055" /> 
+     <player id="642235" /> 
+     <player id="18508" /> 
+     <player id="39386" /> 
+     <player id="48825" /> 
+     <player id="66294" /> 
+     <player id="84229" /> 
+     <player id="101214" /> 
+     <player id="116731" /> 
+     <player id="134144" /> 
+     <player id="147545" /> 
+     <player id="275693" /> 
+     <player id="278878" /> 
+     <player id="296642" /> 
+     <player id="328152" /> 
+     <player id="340385" /> 
+     <player id="393802" /> 
+     <player id="459746" /> 
+     <player id="460601" /> 
+     <player id="471904" /> 
+     <player id="471922" /> 
+     <player id="478976" /> 
+     <player id="482457" /> 
+     <player id="499377" /> 
+     <player id="547498" /> 
+     <player id="565500" /> 
+     <player id="567373" /> 
+     <player id="635048" /> 
+     <player id="35155" /> 
+     <player id="39416" /> 
+     <player id="46281" /> 
+     <player id="48830" /> 
+     <player id="160072" /> 
+     <player id="165233" /> 
+     <player id="166110" /> 
+     <player id="178802" /> 
+     <player id="195671" /> 
+     <player id="227984" /> 
+     <player id="250650" /> 
+     <player id="270663" /> 
+     <player id="282959" /> 
+     <player id="327813" /> 
+     <player id="428034" /> 
+     <player id="435587" /> 
+     <player id="462149" /> 
+     <player id="469856" /> 
+     <player id="473091" /> 
+     <player id="507168" /> 
+     <player id="507356" /> 
+     <player id="565602" /> 
+     <player id="567709" /> 
+     <player id="598895" /> 
+     <player id="616361" /> 
+     <player id="27423" /> 
+     <player id="34275" /> 
+     <player id="43983" /> 
+     <player id="48874" /> 
+     <player id="49345" /> 
+     <player id="94749" /> 
+     <player id="104631" /> 
+     <player id="121523" /> 
+     <player id="176587" /> 
+     <player id="202718" /> 
+     <player id="202853" /> 
+     <player id="223318" /> 
+     <player id="227203" /> 
+     <player id="228865" /> 
+     <player id="290577" /> 
+     <player id="306997" /> 
+     <player id="351657" /> 
+     <player id="356097" /> 
+     <player id="447259" /> 
+     <player id="462150" /> 
+     <player id="469521" /> 
+     <player id="473768" /> 
+     <player id="542056" /> 
+     <player id="607751" /> 
+   </players> 
+   <coaches> 
+     <coach id="135778" /> 
+     <coach id="224735" /> 
+     <coach id="249471" /> 
+     <coach id="394921" /> 
+     <coach id="506233" /> 
+   </coaches> 
+</team>

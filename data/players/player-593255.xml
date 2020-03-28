@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>5643</team_id> 
+   <id>593255</id> 
+   <name>يوسف عمر</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/593255.png</image> 
+   <position>مهاجم</position> 
+   <nationality>النيجر</nationality> 
+   <birth-day>1994-06-04</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

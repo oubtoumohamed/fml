@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>977</team_id> 
+   <id>488259</id> 
+   <name>باتريك باير</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/488259.png</image> 
+   <position>ألمانيا</position> 
+   <nationality>1967-12-24</nationality> 
+   <birth-day>ألمانيا</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

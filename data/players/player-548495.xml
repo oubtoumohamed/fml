@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>7511</team_id> 
+   <id>548495</id> 
+   <name>ع. طالب</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/548495.png</image> 
+   <position>المغرب</position> 
+   <nationality>1963-09-10</nationality> 
+   <birth-day>المغرب</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

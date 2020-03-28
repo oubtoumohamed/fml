@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3565</team_id> 
+   <id>534329</id> 
+   <name>Mohammad Al Emwasi</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/534329.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>الأردن</nationality> 
+   <birth-day>1996-08-08</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

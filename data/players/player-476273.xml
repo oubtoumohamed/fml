@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>977</team_id> 
+   <id>476273</id> 
+   <name>M. Liesegang</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/476273.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>ألمانيا</nationality> 
+   <birth-day>2000-01-07</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

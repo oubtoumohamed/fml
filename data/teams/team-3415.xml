@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3415</id> 
+   <name>شباب قسنطينة</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3415.png</image> 
+   <country>الجزائر</country> 
+   <adrese>55, avenue Aouatti Mustapha</adrese> 
+   <website>http://www.csconstantine.net</website> 
+   <creation-date>1898</creation-date> 
+   <players> 
+     <player id="103791" /> 
+     <player id="359639" /> 
+     <player id="487150" /> 
+     <player id="495533" /> 
+     <player id="649982" /> 
+     <player id="89360" /> 
+     <player id="193994" /> 
+     <player id="266643" /> 
+     <player id="299852" /> 
+     <player id="311131" /> 
+     <player id="334218" /> 
+     <player id="357775" /> 
+     <player id="360359" /> 
+     <player id="414226" /> 
+     <player id="438592" /> 
+     <player id="470676" /> 
+     <player id="473887" /> 
+     <player id="604208" /> 
+     <player id="1136" /> 
+     <player id="1348" /> 
+     <player id="125370" /> 
+     <player id="182125" /> 
+     <player id="185952" /> 
+     <player id="244757" /> 
+     <player id="245203" /> 
+     <player id="265351" /> 
+     <player id="281712" /> 
+     <player id="296492" /> 
+     <player id="332273" /> 
+     <player id="395232" /> 
+     <player id="414113" /> 
+     <player id="432201" /> 
+     <player id="455414" /> 
+     <player id="471076" /> 
+     <player id="485832" /> 
+     <player id="599580" /> 
+     <player id="622227" /> 
+     <player id="648807" /> 
+     <player id="49052" /> 
+     <player id="49202" /> 
+     <player id="89417" /> 
+     <player id="131132" /> 
+     <player id="208102" /> 
+     <player id="219767" /> 
+     <player id="245204" /> 
+     <player id="281753" /> 
+     <player id="294671" /> 
+     <player id="330095" /> 
+     <player id="333231" /> 
+     <player id="455155" /> 
+     <player id="461253" /> 
+     <player id="470295" /> 
+     <player id="485835" /> 
+     <player id="495000" /> 
+     <player id="532161" /> 
+   </players> 
+   <coaches> 
+     <coach id="198816" /> 
+     <coach id="208046" /> 
+     <coach id="316745" /> 
+     <coach id="428131" /> 
+     <coach id="470674" /> 
+     <coach id="582677" /> 
+   </coaches> 
+</team>

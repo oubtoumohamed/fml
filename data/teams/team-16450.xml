@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>16450</id> 
+   <name>رجاء بني ملال</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/16450.png</image> 
+   <country>المغرب</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>1956</creation-date> 
+   <players> 
+     <player id="447142" /> 
+     <player id="631834" /> 
+     <player id="631835" /> 
+     <player id="631836" /> 
+     <player id="631837" /> 
+     <player id="641529" /> 
+     <player id="647458" /> 
+     <player id="166914" /> 
+     <player id="438307" /> 
+     <player id="533983" /> 
+     <player id="631838" /> 
+     <player id="632034" /> 
+     <player id="635947" /> 
+     <player id="635948" /> 
+     <player id="647672" /> 
+     <player id="648420" /> 
+     <player id="110832" /> 
+     <player id="144705" /> 
+     <player id="201291" /> 
+     <player id="233217" /> 
+     <player id="431690" /> 
+     <player id="532011" /> 
+     <player id="632036" /> 
+     <player id="632055" /> 
+     <player id="632057" /> 
+     <player id="632058" /> 
+     <player id="632060" /> 
+     <player id="632062" /> 
+     <player id="632064" /> 
+     <player id="632065" /> 
+     <player id="634447" /> 
+     <player id="636006" /> 
+     <player id="636007" /> 
+     <player id="636009" /> 
+     <player id="641559" /> 
+     <player id="647862" /> 
+     <player id="899" /> 
+     <player id="96210" /> 
+     <player id="170003" /> 
+     <player id="276935" /> 
+     <player id="548800" /> 
+     <player id="588582" /> 
+     <player id="632059" /> 
+     <player id="632068" /> 
+     <player id="634436" /> 
+     <player id="641881" /> 
+   </players> 
+   <coaches> 
+     <coach id="229962" /> 
+     <coach id="392145" /> 
+     <coach id="632081" /> 
+   </coaches> 
+</team>

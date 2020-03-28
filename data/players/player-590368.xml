@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1208</team_id> 
+   <id>590368</id> 
+   <name>N. Hagani</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/590368.png</image> 
+   <position>مهاجم</position> 
+   <nationality>اسرائيل</nationality> 
+   <birth-day>2000-02-17</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

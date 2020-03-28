@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1514</team_id> 
+   <id>551137</id> 
+   <name>M. van Ewijk</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/551137.png</image> 
+   <position>مدافع</position> 
+   <nationality>هولندا</nationality> 
+   <birth-day>2000-09-08</birth-day> 
+   <length  unit="cm">175</length> 
+   <weight  unit="kg"></weight> 
+</player>

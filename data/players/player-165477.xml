@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>16450</team_id> 
+   <id>165477</id> 
+   <name>ع. بن شيخة</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/165477.png</image> 
+   <position>غير معروف</position> 
+   <nationality>الجزائر</nationality> 
+   <birth-day>1963-11-22</birth-day> 
+   <length  unit="cm">الجزائر</length> 
+   <weight  unit="kg"></weight> 
+</player>

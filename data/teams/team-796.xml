@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>796</id> 
+   <name>بي36 تورشافن</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/796.png</image> 
+   <country>جزر فارو</country> 
+   <adrese>Postrúm 1136</adrese> 
+   <website>http://www.b36.fo</website> 
+   <creation-date>1936</creation-date> 
+   <players> 
+     <player id="28291" /> 
+     <player id="28438" /> 
+     <player id="76536" /> 
+     <player id="422171" /> 
+     <player id="557917" /> 
+     <player id="28256" /> 
+     <player id="28471" /> 
+     <player id="76564" /> 
+     <player id="138597" /> 
+     <player id="375165" /> 
+     <player id="422175" /> 
+     <player id="437388" /> 
+     <player id="466756" /> 
+     <player id="481244" /> 
+     <player id="511160" /> 
+     <player id="569147" /> 
+     <player id="575399" /> 
+     <player id="625629" /> 
+     <player id="28257" /> 
+     <player id="76549" /> 
+     <player id="84655" /> 
+     <player id="129334" /> 
+     <player id="133909" /> 
+     <player id="215855" /> 
+     <player id="268596" /> 
+     <player id="270013" /> 
+     <player id="270210" /> 
+     <player id="346345" /> 
+     <player id="375183" /> 
+     <player id="422179" /> 
+     <player id="443872" /> 
+     <player id="445673" /> 
+     <player id="466759" /> 
+     <player id="511167" /> 
+     <player id="553439" /> 
+     <player id="42263" /> 
+     <player id="42549" /> 
+     <player id="184389" /> 
+     <player id="422182" /> 
+     <player id="552995" /> 
+   </players> 
+   <coaches> 
+     <coach id="28345" /> 
+   </coaches> 
+</team>

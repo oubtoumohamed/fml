@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1268</team_id> 
+   <id>575673</id> 
+   <name>نيكولا رايوتي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/575673.png</image> 
+   <position>مهاجم</position> 
+   <nationality>إيطاليا</nationality> 
+   <birth-day>2000-04-17</birth-day> 
+   <length  unit="cm">180</length> 
+   <weight  unit="kg">اليمني</weight> 
+</player>

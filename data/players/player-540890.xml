@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1689</team_id> 
+   <id>540890</id> 
+   <name>D. Kerkez</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/540890.png</image> 
+   <position>غير معروف</position> 
+   <nationality>البوسنة والهرسك</nationality> 
+   <birth-day>1976-05-01</birth-day> 
+   <length  unit="cm">صربيا</length> 
+   <weight  unit="kg">181</weight> 
+</player>

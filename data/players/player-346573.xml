@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>7903</team_id> 
+   <id>346573</id> 
+   <name>S. Vídisson</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/346573.png</image> 
+   <position>غير معروف</position> 
+   <nationality>أيسلندا</nationality> 
+   <birth-day>أيسلندا</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

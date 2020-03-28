@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>478</team_id> 
+   <id>506233</id> 
+   <name>G. Cristaldi</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/506233.png</image> 
+   <position>غير معروف</position> 
+   <nationality>إيطاليا</nationality> 
+   <birth-day>1987-03-15</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

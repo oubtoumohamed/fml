@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1682</team_id> 
+   <id>440937</id> 
+   <name>برونو زاداس</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/440937.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>البرتغال</nationality> 
+   <birth-day>1997-12-02</birth-day> 
+   <length  unit="cm">البرتغال</length> 
+   <weight  unit="kg">179</weight> 
+</player>

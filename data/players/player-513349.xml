@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1842</team_id> 
+   <id>513349</id> 
+   <name>لاسانا ندايي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/513349.png</image> 
+   <position>مهاجم</position> 
+   <nationality>مالي</nationality> 
+   <birth-day>2000-10-03</birth-day> 
+   <length  unit="cm">180</length> 
+   <weight  unit="kg">82</weight> 
+</player>

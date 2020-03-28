@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>320</id> 
+   <name>نادي كورينثيانس باوليستا الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/320.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Rua São Jorge 777, Tatuapé</adrese> 
+   <website>http://www.corinthians.com.br</website> 
+   <creation-date>1910</creation-date> 
+   <players> 
+     <player id="17304" /> 
+     <player id="136425" /> 
+     <player id="247922" /> 
+     <player id="292112" /> 
+     <player id="426621" /> 
+     <player id="639996" /> 
+     <player id="12926" /> 
+     <player id="17306" /> 
+     <player id="32876" /> 
+     <player id="61079" /> 
+     <player id="78857" /> 
+     <player id="80390" /> 
+     <player id="112357" /> 
+     <player id="158622" /> 
+     <player id="178463" /> 
+     <player id="225552" /> 
+     <player id="282923" /> 
+     <player id="301816" /> 
+     <player id="328466" /> 
+     <player id="329711" /> 
+     <player id="398741" /> 
+     <player id="428407" /> 
+     <player id="436046" /> 
+     <player id="469301" /> 
+     <player id="469302" /> 
+     <player id="473229" /> 
+     <player id="478693" /> 
+     <player id="485207" /> 
+     <player id="486251" /> 
+     <player id="490693" /> 
+     <player id="541543" /> 
+     <player id="547251" /> 
+     <player id="575999" /> 
+     <player id="608472" /> 
+     <player id="609234" /> 
+     <player id="5638" /> 
+     <player id="8991" /> 
+     <player id="19656" /> 
+     <player id="21094" /> 
+     <player id="67276" /> 
+     <player id="73192" /> 
+     <player id="78714" /> 
+     <player id="84752" /> 
+     <player id="95917" /> 
+     <player id="112051" /> 
+     <player id="112508" /> 
+     <player id="129992" /> 
+     <player id="173974" /> 
+     <player id="174110" /> 
+     <player id="180800" /> 
+     <player id="271473" /> 
+     <player id="282119" /> 
+     <player id="284227" /> 
+     <player id="301821" /> 
+     <player id="330955" /> 
+     <player id="362429" /> 
+     <player id="396804" /> 
+     <player id="406989" /> 
+     <player id="414292" /> 
+     <player id="415931" /> 
+     <player id="427644" /> 
+     <player id="433352" /> 
+     <player id="436892" /> 
+     <player id="442641" /> 
+     <player id="473232" /> 
+     <player id="475909" /> 
+     <player id="476748" /> 
+     <player id="479042" /> 
+     <player id="485421" /> 
+     <player id="486585" /> 
+     <player id="519977" /> 
+     <player id="540291" /> 
+     <player id="542463" /> 
+     <player id="575998" /> 
+     <player id="4558" /> 
+     <player id="4581" /> 
+     <player id="13884" /> 
+     <player id="26660" /> 
+     <player id="33077" /> 
+     <player id="66297" /> 
+     <player id="86260" /> 
+     <player id="159586" /> 
+     <player id="192525" /> 
+     <player id="234507" /> 
+     <player id="285035" /> 
+     <player id="290248" /> 
+     <player id="324444" /> 
+     <player id="326679" /> 
+     <player id="330833" /> 
+     <player id="334314" /> 
+     <player id="395312" /> 
+     <player id="408931" /> 
+     <player id="419016" /> 
+     <player id="435734" /> 
+     <player id="468740" /> 
+     <player id="470549" /> 
+     <player id="472139" /> 
+     <player id="486604" /> 
+     <player id="511138" /> 
+     <player id="533994" /> 
+   </players> 
+   <coaches> 
+     <coach id="8908" /> 
+     <coach id="136489" /> 
+     <coach id="159296" /> 
+     <coach id="409453" /> 
+     <coach id="447416" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>6092</id> 
+   <name>تشيخورا ساتشخيره</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/6092.png</image> 
+   <country>جورجيا</country> 
+   <adrese>4 Tavisupleba Str.</adrese> 
+   <website>http://www.fcchikhura.ge</website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="94241" /> 
+     <player id="95720" /> 
+     <player id="497344" /> 
+     <player id="40195" /> 
+     <player id="48058" /> 
+     <player id="94229" /> 
+     <player id="132264" /> 
+     <player id="157338" /> 
+     <player id="232546" /> 
+     <player id="234815" /> 
+     <player id="245072" /> 
+     <player id="296964" /> 
+     <player id="322978" /> 
+     <player id="632008" /> 
+     <player id="83040" /> 
+     <player id="85217" /> 
+     <player id="94240" /> 
+     <player id="99765" /> 
+     <player id="116842" /> 
+     <player id="160347" /> 
+     <player id="232567" /> 
+     <player id="232623" /> 
+     <player id="287594" /> 
+     <player id="373217" /> 
+     <player id="387755" /> 
+     <player id="392202" /> 
+     <player id="414829" /> 
+     <player id="539297" /> 
+     <player id="560047" /> 
+     <player id="86925" /> 
+     <player id="88164" /> 
+     <player id="116841" /> 
+     <player id="160348" /> 
+     <player id="166198" /> 
+     <player id="194444" /> 
+     <player id="204878" /> 
+     <player id="263015" /> 
+     <player id="463165" /> 
+     <player id="476565" /> 
+     <player id="632006" /> 
+   </players> 
+   <coaches> 
+     <coach id="204376" /> 
+     <coach id="385791" /> 
+   </coaches> 
+</team>

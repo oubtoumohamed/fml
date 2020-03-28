@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2016</team_id> 
+   <id>520774</id> 
+   <name>رودريجو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/520774.png</image> 
+   <position>مهاجم</position> 
+   <nationality>البرازيل</nationality> 
+   <birth-day>2001-01-09</birth-day> 
+   <length  unit="cm">البرازيل</length> 
+   <weight  unit="kg">174</weight> 
+</player>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>13104</team_id> 
+   <id>606026</id> 
+   <name>R. Ibragimov</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/606026.png</image> 
+   <position>مدافع</position> 
+   <nationality>كازاخستان</nationality> 
+   <birth-day>2000-12-25</birth-day> 
+   <length  unit="cm">183</length> 
+   <weight  unit="kg">78</weight> 
+</player>

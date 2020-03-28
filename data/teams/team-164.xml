@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>164</id> 
+   <name>نادي ستورم غراتس الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/164.png</image> 
+   <country>النمسا</country> 
+   <adrese>Triesterstrasse 359/1</adrese> 
+   <website>http://www.sksturm.at</website> 
+   <creation-date>1909</creation-date> 
+   <players> 
+     <player id="11090" /> 
+     <player id="124763" /> 
+     <player id="303902" /> 
+     <player id="315170" /> 
+     <player id="400755" /> 
+     <player id="2025" /> 
+     <player id="39042" /> 
+     <player id="39048" /> 
+     <player id="70534" /> 
+     <player id="137442" /> 
+     <player id="143807" /> 
+     <player id="166308" /> 
+     <player id="182934" /> 
+     <player id="211826" /> 
+     <player id="274629" /> 
+     <player id="307112" /> 
+     <player id="398088" /> 
+     <player id="400754" /> 
+     <player id="435960" /> 
+     <player id="457464" /> 
+     <player id="490823" /> 
+     <player id="493188" /> 
+     <player id="20786" /> 
+     <player id="35839" /> 
+     <player id="66202" /> 
+     <player id="74556" /> 
+     <player id="110550" /> 
+     <player id="135276" /> 
+     <player id="144580" /> 
+     <player id="155937" /> 
+     <player id="159811" /> 
+     <player id="163991" /> 
+     <player id="176426" /> 
+     <player id="178660" /> 
+     <player id="331440" /> 
+     <player id="337051" /> 
+     <player id="340509" /> 
+     <player id="348375" /> 
+     <player id="382235" /> 
+     <player id="446270" /> 
+     <player id="457468" /> 
+     <player id="485240" /> 
+     <player id="495937" /> 
+     <player id="517687" /> 
+     <player id="35588" /> 
+     <player id="39089" /> 
+     <player id="54704" /> 
+     <player id="76665" /> 
+     <player id="83012" /> 
+     <player id="144575" /> 
+     <player id="235207" /> 
+     <player id="248140" /> 
+     <player id="382231" /> 
+     <player id="409221" /> 
+     <player id="481206" /> 
+   </players> 
+   <coaches> 
+     <coach id="104200" /> 
+     <coach id="177076" /> 
+     <coach id="213295" /> 
+     <coach id="304374" /> 
+   </coaches> 
+</team>

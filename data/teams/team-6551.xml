@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>6551</id> 
+   <name>نادي نومي كاليو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/6551.png</image> 
+   <country>أستونيا</country> 
+   <adrese>Harju tn. 6</adrese> 
+   <website>http://www.jkkalju.ee</website> 
+   <creation-date>1997</creation-date> 
+   <players> 
+     <player id="28246" /> 
+     <player id="73953" /> 
+     <player id="110736" /> 
+     <player id="398260" /> 
+     <player id="78213" /> 
+     <player id="119145" /> 
+     <player id="151175" /> 
+     <player id="157693" /> 
+     <player id="179975" /> 
+     <player id="180040" /> 
+     <player id="249834" /> 
+     <player id="249836" /> 
+     <player id="260696" /> 
+     <player id="285639" /> 
+     <player id="343831" /> 
+     <player id="351883" /> 
+     <player id="398264" /> 
+     <player id="541889" /> 
+     <player id="25800" /> 
+     <player id="76912" /> 
+     <player id="78058" /> 
+     <player id="84181" /> 
+     <player id="157172" /> 
+     <player id="160115" /> 
+     <player id="162005" /> 
+     <player id="200554" /> 
+     <player id="235360" /> 
+     <player id="266649" /> 
+     <player id="286595" /> 
+     <player id="331851" /> 
+     <player id="398272" /> 
+     <player id="437978" /> 
+     <player id="476482" /> 
+     <player id="477366" /> 
+     <player id="539190" /> 
+     <player id="643083" /> 
+     <player id="111945" /> 
+     <player id="121523" /> 
+     <player id="160131" /> 
+     <player id="180023" /> 
+     <player id="317183" /> 
+     <player id="429717" /> 
+     <player id="517653" /> 
+     <player id="552014" /> 
+   </players> 
+   <coaches> 
+     <coach id="122294" /> 
+     <coach id="122300" /> 
+     <coach id="184197" /> 
+     <coach id="392768" /> 
+     <coach id="608397" /> 
+   </coaches> 
+</team>

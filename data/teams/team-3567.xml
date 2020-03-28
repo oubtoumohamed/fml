@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3567</id> 
+   <name>الحسين</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3567.png</image> 
+   <country>الأردن</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="80800" /> 
+   </players> 
+   <coaches> 
+   </coaches> 
+</team>

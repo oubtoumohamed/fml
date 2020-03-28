@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1447</team_id> 
+   <id>267537</id> 
+   <name>M. Zub</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/267537.png</image> 
+   <position>غير معروف</position> 
+   <nationality>بولندا</nationality> 
+   <birth-day>1964-08-24</birth-day> 
+   <length  unit="cm">بولندا</length> 
+   <weight  unit="kg"></weight> 
+</player>

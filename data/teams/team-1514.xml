@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1514</id> 
+   <name>نادي أدو دين هاغ لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1514.png</image> 
+   <country>هولندا</country> 
+   <adrese>Haags Kwartier 55</adrese> 
+   <website>http://www.adodenhaag.nl</website> 
+   <creation-date>1905</creation-date> 
+   <players> 
+     <player id="2167" /> 
+     <player id="86402" /> 
+     <player id="149059" /> 
+     <player id="215540" /> 
+     <player id="275110" /> 
+     <player id="423561" /> 
+     <player id="537694" /> 
+     <player id="59081" /> 
+     <player id="61087" /> 
+     <player id="86085" /> 
+     <player id="137118" /> 
+     <player id="144782" /> 
+     <player id="252050" /> 
+     <player id="274649" /> 
+     <player id="302163" /> 
+     <player id="347771" /> 
+     <player id="385589" /> 
+     <player id="399764" /> 
+     <player id="408625" /> 
+     <player id="448390" /> 
+     <player id="470802" /> 
+     <player id="471787" /> 
+     <player id="471920" /> 
+     <player id="537703" /> 
+     <player id="542861" /> 
+     <player id="551137" /> 
+     <player id="17341" /> 
+     <player id="24674" /> 
+     <player id="63627" /> 
+     <player id="65236" /> 
+     <player id="65719" /> 
+     <player id="72230" /> 
+     <player id="161280" /> 
+     <player id="182931" /> 
+     <player id="280720" /> 
+     <player id="517973" /> 
+     <player id="519662" /> 
+     <player id="537628" /> 
+     <player id="537672" /> 
+     <player id="542858" /> 
+     <player id="560623" /> 
+     <player id="569332" /> 
+     <player id="646603" /> 
+     <player id="14975" /> 
+     <player id="19677" /> 
+     <player id="19680" /> 
+     <player id="171399" /> 
+     <player id="194723" /> 
+     <player id="219030" /> 
+     <player id="220871" /> 
+     <player id="256718" /> 
+     <player id="258732" /> 
+     <player id="271394" /> 
+     <player id="286644" /> 
+     <player id="316310" /> 
+     <player id="333892" /> 
+     <player id="398836" /> 
+     <player id="452371" /> 
+     <player id="477602" /> 
+     <player id="508937" /> 
+     <player id="517976" /> 
+     <player id="537685" /> 
+     <player id="542860" /> 
+   </players> 
+   <coaches> 
+     <coach id="110884" /> 
+     <coach id="121739" /> 
+     <coach id="185546" /> 
+     <coach id="199728" /> 
+   </coaches> 
+</team>

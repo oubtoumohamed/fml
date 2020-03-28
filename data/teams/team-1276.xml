@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1276</id> 
+   <name>نادي جنوى لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1276.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Via Ronchi, 67</adrese> 
+   <website>http://www.genoacfc.it</website> 
+   <creation-date>1893</creation-date> 
+   <players> 
+     <player id="18268" /> 
+     <player id="103157" /> 
+     <player id="142460" /> 
+     <player id="155449" /> 
+     <player id="327864" /> 
+     <player id="374725" /> 
+     <player id="408805" /> 
+     <player id="498245" /> 
+     <player id="517965" /> 
+     <player id="4020" /> 
+     <player id="4102" /> 
+     <player id="4312" /> 
+     <player id="14130" /> 
+     <player id="14273" /> 
+     <player id="17686" /> 
+     <player id="18728" /> 
+     <player id="19743" /> 
+     <player id="56344" /> 
+     <player id="71680" /> 
+     <player id="103834" /> 
+     <player id="126398" /> 
+     <player id="157945" /> 
+     <player id="160106" /> 
+     <player id="199874" /> 
+     <player id="201842" /> 
+     <player id="211945" /> 
+     <player id="244144" /> 
+     <player id="279072" /> 
+     <player id="302200" /> 
+     <player id="302730" /> 
+     <player id="332746" /> 
+     <player id="341437" /> 
+     <player id="357863" /> 
+     <player id="374815" /> 
+     <player id="394648" /> 
+     <player id="415580" /> 
+     <player id="432147" /> 
+     <player id="433963" /> 
+     <player id="467662" /> 
+     <player id="469398" /> 
+     <player id="481712" /> 
+     <player id="489391" /> 
+     <player id="508959" /> 
+     <player id="517710" /> 
+     <player id="555559" /> 
+     <player id="206" /> 
+     <player id="5885" /> 
+     <player id="16591" /> 
+     <player id="17366" /> 
+     <player id="18741" /> 
+     <player id="32131" /> 
+     <player id="45612" /> 
+     <player id="61429" /> 
+     <player id="65306" /> 
+     <player id="86126" /> 
+     <player id="119992" /> 
+     <player id="129173" /> 
+     <player id="136850" /> 
+     <player id="145357" /> 
+     <player id="156581" /> 
+     <player id="178336" /> 
+     <player id="188043" /> 
+     <player id="194564" /> 
+     <player id="217929" /> 
+     <player id="218100" /> 
+     <player id="224322" /> 
+     <player id="297964" /> 
+     <player id="319429" /> 
+     <player id="325551" /> 
+     <player id="335209" /> 
+     <player id="336857" /> 
+     <player id="376905" /> 
+     <player id="380591" /> 
+     <player id="395189" /> 
+     <player id="422963" /> 
+     <player id="424685" /> 
+     <player id="443712" /> 
+     <player id="476868" /> 
+     <player id="479546" /> 
+     <player id="548615" /> 
+     <player id="645730" /> 
+     <player id="2921" /> 
+     <player id="4072" /> 
+     <player id="85503" /> 
+     <player id="86713" /> 
+     <player id="142406" /> 
+     <player id="189129" /> 
+     <player id="260027" /> 
+     <player id="260733" /> 
+     <player id="342295" /> 
+     <player id="393223" /> 
+     <player id="397406" /> 
+     <player id="410028" /> 
+     <player id="422149" /> 
+     <player id="426569" /> 
+     <player id="453405" /> 
+     <player id="471575" /> 
+     <player id="478974" /> 
+     <player id="497250" /> 
+     <player id="642338" /> 
+   </players> 
+   <coaches> 
+     <coach id="2990" /> 
+     <coach id="17707" /> 
+     <coach id="18616" /> 
+     <coach id="110807" /> 
+     <coach id="110810" /> 
+     <coach id="283767" /> 
+     <coach id="479979" /> 
+   </coaches> 
+</team>

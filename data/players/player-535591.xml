@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>11640</team_id> 
+   <id>535591</id> 
+   <name>فخر الدين آوجي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/535591.png</image> 
+   <position>مهاجم</position> 
+   <nationality>تونس</nationality> 
+   <birth-day>1998-07-07</birth-day> 
+   <length  unit="cm">185</length> 
+   <weight  unit="kg">اليمني</weight> 
+</player>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>971</team_id> 
+   <id>396569</id> 
+   <name>أشيم بييرلورزير</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/396569.png</image> 
+   <position>غير معروف</position> 
+   <nationality>ألمانيا</nationality> 
+   <birth-day>1967-11-20</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

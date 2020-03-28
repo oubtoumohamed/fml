@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1250</team_id> 
+   <id>499027</id> 
+   <name>A. Milesi</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/499027.png</image> 
+   <position>مدافع</position> 
+   <nationality>بيرو</nationality> 
+   <birth-day>1999-12-21</birth-day> 
+   <length  unit="cm">بيرو</length> 
+   <weight  unit="kg">185</weight> 
+</player>

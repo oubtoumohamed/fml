@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1664</team_id> 
+   <id>168823</id> 
+   <name>M. Rossi</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/168823.png</image> 
+   <position>إيطاليا</position> 
+   <nationality>1964-09-09</nationality> 
+   <birth-day>Druento</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

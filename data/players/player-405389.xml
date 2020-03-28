@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1519</team_id> 
+   <id>405389</id> 
+   <name>F. Wormuth</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/405389.png</image> 
+   <position>غير معروف</position> 
+   <nationality>ألمانيا</nationality> 
+   <birth-day>1960-09-13</birth-day> 
+   <length  unit="cm">187</length> 
+   <weight  unit="kg"></weight> 
+</player>

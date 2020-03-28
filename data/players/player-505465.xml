@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2028</team_id> 
+   <id>505465</id> 
+   <name>أيهين مونيوز</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/505465.png</image> 
+   <position>مدافع</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>1997-08-16</birth-day> 
+   <length  unit="cm">إسبانيا</length> 
+   <weight  unit="kg">175</weight> 
+</player>

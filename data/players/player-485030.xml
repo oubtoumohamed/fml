@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3704</team_id> 
+   <id>485030</id> 
+   <name>Lazio</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/485030.png</image> 
+   <position>مدافع</position> 
+   <nationality>البرازيل</nationality> 
+   <birth-day>1996-01-22</birth-day> 
+   <length  unit="cm">190</length> 
+   <weight  unit="kg">83</weight> 
+</player>

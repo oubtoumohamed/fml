@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>9964</team_id> 
+   <id>507107</id> 
+   <name>أحمد عبد الله علي </name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/507107.png</image> 
+   <position>غير معروف</position> 
+   <nationality>الإمارات</nationality> 
+   <birth-day>1956-08-01</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

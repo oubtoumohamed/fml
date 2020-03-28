@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>5495</team_id> 
+   <id>633153</id> 
+   <name>سيف البلوشي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/633153.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>عمان</nationality> 
+   <birth-day>1998-09-15</birth-day> 
+   <length  unit="cm">190</length> 
+   <weight  unit="kg">91</weight> 
+</player>

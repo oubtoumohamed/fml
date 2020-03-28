@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2180</team_id> 
+   <id>226185</id> 
+   <name>ف. كريفيتسوف</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/226185.png</image> 
+   <position>أوكرانيا</position> 
+   <nationality>1973-07-31</nationality> 
+   <birth-day>Donetsk</birth-day> 
+   <length  unit="cm">177</length> 
+   <weight  unit="kg"></weight> 
+</player>

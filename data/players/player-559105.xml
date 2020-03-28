@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1843</team_id> 
+   <id>559105</id> 
+   <name>V. Sychev</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/559105.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>روسيا</nationality> 
+   <birth-day>2000-03-02</birth-day> 
+   <length  unit="cm">روسيا</length> 
+   <weight  unit="kg">200</weight> 
+</player>

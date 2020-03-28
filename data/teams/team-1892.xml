@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1892</id> 
+   <name>نادي تري فيوري</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1892.png</image> 
+   <country>سان مارينو</country> 
+   <adrese>Via 21 Settembre 93</adrese> 
+   <website></website> 
+   <creation-date>1949</creation-date> 
+   <players> 
+     <player id="60959" /> 
+     <player id="60962" /> 
+     <player id="210818" /> 
+     <player id="232547" /> 
+     <player id="386129" /> 
+     <player id="507054" /> 
+     <player id="572312" /> 
+     <player id="633497" /> 
+     <player id="645060" /> 
+     <player id="65" /> 
+     <player id="18615" /> 
+     <player id="18648" /> 
+     <player id="60968" /> 
+     <player id="65988" /> 
+     <player id="83074" /> 
+     <player id="83076" /> 
+     <player id="93837" /> 
+     <player id="161240" /> 
+     <player id="197983" /> 
+     <player id="227286" /> 
+     <player id="251802" /> 
+     <player id="317777" /> 
+     <player id="319601" /> 
+     <player id="319607" /> 
+     <player id="320134" /> 
+     <player id="321073" /> 
+     <player id="330052" /> 
+     <player id="331932" /> 
+     <player id="366499" /> 
+     <player id="460891" /> 
+     <player id="480775" /> 
+     <player id="512938" /> 
+     <player id="554611" /> 
+     <player id="555451" /> 
+     <player id="592637" /> 
+     <player id="594342" /> 
+     <player id="615486" /> 
+     <player id="5270" /> 
+     <player id="18644" /> 
+     <player id="95906" /> 
+     <player id="96083" /> 
+     <player id="198549" /> 
+     <player id="210926" /> 
+     <player id="264220" /> 
+     <player id="271079" /> 
+     <player id="281461" /> 
+     <player id="305769" /> 
+     <player id="315260" /> 
+     <player id="319596" /> 
+     <player id="319604" /> 
+     <player id="319606" /> 
+     <player id="367407" /> 
+     <player id="367477" /> 
+     <player id="382261" /> 
+     <player id="386905" /> 
+     <player id="391763" /> 
+     <player id="460901" /> 
+     <player id="506797" /> 
+     <player id="506801" /> 
+     <player id="615489" /> 
+     <player id="633574" /> 
+     <player id="18010" /> 
+     <player id="83090" /> 
+     <player id="113088" /> 
+     <player id="123322" /> 
+     <player id="203678" /> 
+     <player id="281224" /> 
+     <player id="306708" /> 
+     <player id="422220" /> 
+     <player id="422852" /> 
+     <player id="459601" /> 
+     <player id="460155" /> 
+     <player id="554608" /> 
+     <player id="554610" /> 
+     <player id="554612" /> 
+     <player id="572313" /> 
+     <player id="650079" /> 
+   </players> 
+   <coaches> 
+     <coach id="40254" /> 
+     <coach id="223379" /> 
+     <coach id="249444" /> 
+     <coach id="314933" /> 
+   </coaches> 
+</team>

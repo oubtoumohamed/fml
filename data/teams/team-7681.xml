@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>7681</id> 
+   <name>نادي فولا إيش الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/7681.png</image> 
+   <country>لوكسمبورغ</country> 
+   <adrese>Rue du Stade (Boite postale 83)</adrese> 
+   <website>http://www.csfola.lu</website> 
+   <creation-date>1906</creation-date> 
+   <players> 
+     <player id="90126" /> 
+     <player id="131793" /> 
+     <player id="347281" /> 
+     <player id="616341" /> 
+     <player id="618374" /> 
+     <player id="618384" /> 
+     <player id="44314" /> 
+     <player id="46550" /> 
+     <player id="100215" /> 
+     <player id="116481" /> 
+     <player id="140704" /> 
+     <player id="157980" /> 
+     <player id="193477" /> 
+     <player id="215930" /> 
+     <player id="448014" /> 
+     <player id="488103" /> 
+     <player id="578591" /> 
+     <player id="616339" /> 
+     <player id="616343" /> 
+     <player id="21131" /> 
+     <player id="55450" /> 
+     <player id="55690" /> 
+     <player id="134179" /> 
+     <player id="164724" /> 
+     <player id="195014" /> 
+     <player id="201619" /> 
+     <player id="215929" /> 
+     <player id="215937" /> 
+     <player id="347777" /> 
+     <player id="353477" /> 
+     <player id="394615" /> 
+     <player id="411538" /> 
+     <player id="488106" /> 
+     <player id="488107" /> 
+     <player id="488108" /> 
+     <player id="517938" /> 
+     <player id="555387" /> 
+     <player id="555388" /> 
+     <player id="1224" /> 
+     <player id="46703" /> 
+     <player id="71294" /> 
+     <player id="138689" /> 
+     <player id="185404" /> 
+     <player id="241264" /> 
+     <player id="329581" /> 
+     <player id="338499" /> 
+     <player id="387297" /> 
+     <player id="401812" /> 
+     <player id="420688" /> 
+     <player id="451352" /> 
+     <player id="488109" /> 
+     <player id="616340" /> 
+   </players> 
+   <coaches> 
+     <coach id="38177" /> 
+     <coach id="200420" /> 
+     <coach id="645062" /> 
+   </coaches> 
+</team>

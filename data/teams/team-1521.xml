@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1521</id> 
+   <name>فيلام 2</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1521.png</image> 
+   <country>هولندا</country> 
+   <adrese>Goirleseweg 34</adrese> 
+   <website>http://www.willem-ii.nl</website> 
+   <creation-date>1896</creation-date> 
+   <players> 
+     <player id="175358" /> 
+     <player id="213003" /> 
+     <player id="234586" /> 
+     <player id="258964" /> 
+     <player id="393834" /> 
+     <player id="516780" /> 
+     <player id="537863" /> 
+     <player id="569426" /> 
+     <player id="49571" /> 
+     <player id="86215" /> 
+     <player id="100123" /> 
+     <player id="102830" /> 
+     <player id="137134" /> 
+     <player id="139433" /> 
+     <player id="147659" /> 
+     <player id="213892" /> 
+     <player id="236408" /> 
+     <player id="275124" /> 
+     <player id="314252" /> 
+     <player id="372317" /> 
+     <player id="388553" /> 
+     <player id="400141" /> 
+     <player id="437606" /> 
+     <player id="468838" /> 
+     <player id="471837" /> 
+     <player id="504752" /> 
+     <player id="525367" /> 
+     <player id="537830" /> 
+     <player id="24607" /> 
+     <player id="57755" /> 
+     <player id="137185" /> 
+     <player id="138136" /> 
+     <player id="148990" /> 
+     <player id="180957" /> 
+     <player id="182931" /> 
+     <player id="206705" /> 
+     <player id="260313" /> 
+     <player id="270931" /> 
+     <player id="274936" /> 
+     <player id="325822" /> 
+     <player id="381741" /> 
+     <player id="387017" /> 
+     <player id="404513" /> 
+     <player id="419949" /> 
+     <player id="421832" /> 
+     <player id="423939" /> 
+     <player id="437145" /> 
+     <player id="444609" /> 
+     <player id="537847" /> 
+     <player id="569429" /> 
+     <player id="17940" /> 
+     <player id="35356" /> 
+     <player id="138269" /> 
+     <player id="166841" /> 
+     <player id="180145" /> 
+     <player id="261274" /> 
+     <player id="269332" /> 
+     <player id="379089" /> 
+     <player id="400423" /> 
+     <player id="414891" /> 
+     <player id="415559" /> 
+     <player id="419797" /> 
+     <player id="420527" /> 
+     <player id="422165" /> 
+     <player id="423827" /> 
+     <player id="437503" /> 
+     <player id="455715" /> 
+   </players> 
+   <coaches> 
+     <coach id="17372" /> 
+     <coach id="114524" /> 
+     <coach id="423842" /> 
+   </coaches> 
+</team>

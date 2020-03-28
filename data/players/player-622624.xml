@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3564</team_id> 
+   <id>622624</id> 
+   <name>N. Bayaoui</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/622624.png</image> 
+   <position>غير معروف</position> 
+   <nationality>تونس</nationality> 
+   <birth-day>1977-10-11</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

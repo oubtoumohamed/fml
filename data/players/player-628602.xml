@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2042</team_id> 
+   <id>628602</id> 
+   <name>Sergio Cubero</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/628602.png</image> 
+   <position>مدافع</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>1999-09-05</birth-day> 
+   <length  unit="cm">187</length> 
+   <weight  unit="kg">71</weight> 
+</player>

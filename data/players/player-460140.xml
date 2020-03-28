@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>977</team_id> 
+   <id>460140</id> 
+   <name>جوناثان ماير</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/460140.png</image> 
+   <position>مدافع</position> 
+   <nationality>ألمانيا</nationality> 
+   <birth-day>1999-11-11</birth-day> 
+   <length  unit="cm">181</length> 
+   <weight  unit="kg">اليسرى</weight> 
+</player>

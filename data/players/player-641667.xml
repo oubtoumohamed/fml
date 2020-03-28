@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>6946</team_id> 
+   <id>641667</id> 
+   <name>L. Guarneri</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/641667.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>إيطاليا</nationality> 
+   <birth-day>2002-05-05</birth-day> 
+   <length  unit="cm">إيطاليا</length> 
+   <weight  unit="kg">188</weight> 
+</player>

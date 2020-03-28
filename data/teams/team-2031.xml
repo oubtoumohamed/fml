@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2031</id> 
+   <name>نادي بلد الوليد لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2031.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Avenida del Mundial 82</adrese> 
+   <website>http://www.realvalladolid.es</website> 
+   <creation-date>1928</creation-date> 
+   <players> 
+     <player id="61892" /> 
+     <player id="148790" /> 
+     <player id="153265" /> 
+     <player id="371961" /> 
+     <player id="371963" /> 
+     <player id="427940" /> 
+     <player id="60072" /> 
+     <player id="62881" /> 
+     <player id="72238" /> 
+     <player id="83914" /> 
+     <player id="146657" /> 
+     <player id="149918" /> 
+     <player id="206407" /> 
+     <player id="211944" /> 
+     <player id="222073" /> 
+     <player id="285980" /> 
+     <player id="329462" /> 
+     <player id="372469" /> 
+     <player id="404636" /> 
+     <player id="415023" /> 
+     <player id="455612" /> 
+     <player id="480733" /> 
+     <player id="525641" /> 
+     <player id="534621" /> 
+     <player id="1588" /> 
+     <player id="3004" /> 
+     <player id="68875" /> 
+     <player id="95315" /> 
+     <player id="146710" /> 
+     <player id="169224" /> 
+     <player id="235947" /> 
+     <player id="235948" /> 
+     <player id="263206" /> 
+     <player id="282189" /> 
+     <player id="289916" /> 
+     <player id="297204" /> 
+     <player id="324529" /> 
+     <player id="327246" /> 
+     <player id="347529" /> 
+     <player id="354961" /> 
+     <player id="398817" /> 
+     <player id="415025" /> 
+     <player id="429650" /> 
+     <player id="455851" /> 
+     <player id="465735" /> 
+     <player id="499672" /> 
+     <player id="36591" /> 
+     <player id="134719" /> 
+     <player id="152249" /> 
+     <player id="204850" /> 
+     <player id="206004" /> 
+     <player id="214369" /> 
+     <player id="263320" /> 
+     <player id="285955" /> 
+     <player id="304929" /> 
+     <player id="311528" /> 
+     <player id="324453" /> 
+     <player id="351269" /> 
+     <player id="373031" /> 
+     <player id="424688" /> 
+     <player id="427964" /> 
+     <player id="455627" /> 
+     <player id="471467" /> 
+     <player id="471527" /> 
+     <player id="482407" /> 
+     <player id="507390" /> 
+     <player id="537048" /> 
+     <player id="560604" /> 
+   </players> 
+   <coaches> 
+     <coach id="3072" /> 
+   </coaches> 
+</team>

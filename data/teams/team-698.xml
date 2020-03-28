@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>698</id> 
+   <name>نادي بيرنلي لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/698.png</image> 
+   <country>إنجلترا</country> 
+   <adrese>Harry Potts Way</adrese> 
+   <website>http://www.burnleyfootballclub.com</website> 
+   <creation-date>1882</creation-date> 
+   <players> 
+     <player id="2842" /> 
+     <player id="2908" /> 
+     <player id="11817" /> 
+     <player id="16018" /> 
+     <player id="220636" /> 
+     <player id="429955" /> 
+     <player id="2487" /> 
+     <player id="4844" /> 
+     <player id="15410" /> 
+     <player id="78599" /> 
+     <player id="85440" /> 
+     <player id="97357" /> 
+     <player id="170333" /> 
+     <player id="187372" /> 
+     <player id="201149" /> 
+     <player id="420194" /> 
+     <player id="459349" /> 
+     <player id="506451" /> 
+     <player id="190" /> 
+     <player id="13523" /> 
+     <player id="15769" /> 
+     <player id="20164" /> 
+     <player id="20801" /> 
+     <player id="32136" /> 
+     <player id="67549" /> 
+     <player id="89512" /> 
+     <player id="134040" /> 
+     <player id="158140" /> 
+     <player id="306873" /> 
+     <player id="318195" /> 
+     <player id="413535" /> 
+     <player id="452934" /> 
+     <player id="453089" /> 
+     <player id="453359" /> 
+     <player id="191" /> 
+     <player id="15748" /> 
+     <player id="15915" /> 
+     <player id="36301" /> 
+     <player id="47068" /> 
+     <player id="75904" /> 
+     <player id="76918" /> 
+     <player id="170326" /> 
+     <player id="401511" /> 
+     <player id="506462" /> 
+     <player id="592272" /> 
+   </players> 
+   <coaches> 
+     <coach id="199720" /> 
+     <coach id="349651" /> 
+   </coaches> 
+</team>

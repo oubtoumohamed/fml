@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>964</id> 
+   <name>نادي بوروسيا دورتموند لكرة القدم 9</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/964.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Rheinlanddamm 207-209</adrese> 
+   <website>http://www.bvb.de</website> 
+   <creation-date>1909</creation-date> 
+   <players> 
+     <player id="1947" /> 
+     <player id="65860" /> 
+     <player id="124251" /> 
+     <player id="259319" /> 
+     <player id="308264" /> 
+     <player id="308953" /> 
+     <player id="453169" /> 
+     <player id="460151" /> 
+     <player id="509304" /> 
+     <player id="16381" /> 
+     <player id="16492" /> 
+     <player id="19278" /> 
+     <player id="39421" /> 
+     <player id="56958" /> 
+     <player id="163518" /> 
+     <player id="167009" /> 
+     <player id="182732" /> 
+     <player id="259325" /> 
+     <player id="271261" /> 
+     <player id="329229" /> 
+     <player id="359189" /> 
+     <player id="376409" /> 
+     <player id="376421" /> 
+     <player id="419254" /> 
+     <player id="419549" /> 
+     <player id="440862" /> 
+     <player id="453725" /> 
+     <player id="453728" /> 
+     <player id="460521" /> 
+     <player id="539937" /> 
+     <player id="548679" /> 
+     <player id="560485" /> 
+     <player id="562572" /> 
+     <player id="1964" /> 
+     <player id="13531" /> 
+     <player id="25072" /> 
+     <player id="38020" /> 
+     <player id="71993" /> 
+     <player id="84185" /> 
+     <player id="85098" /> 
+     <player id="86503" /> 
+     <player id="153049" /> 
+     <player id="259488" /> 
+     <player id="307658" /> 
+     <player id="321549" /> 
+     <player id="372711" /> 
+     <player id="376415" /> 
+     <player id="413835" /> 
+     <player id="435805" /> 
+     <player id="453120" /> 
+     <player id="453735" /> 
+     <player id="454039" /> 
+     <player id="460672" /> 
+     <player id="473474" /> 
+     <player id="482175" /> 
+     <player id="483397" /> 
+     <player id="493727" /> 
+     <player id="497191" /> 
+     <player id="562573" /> 
+     <player id="53039" /> 
+     <player id="55626" /> 
+     <player id="156709" /> 
+     <player id="164611" /> 
+     <player id="177338" /> 
+     <player id="212956" /> 
+     <player id="235441" /> 
+     <player id="259490" /> 
+     <player id="296340" /> 
+     <player id="307623" /> 
+     <player id="379837" /> 
+     <player id="400106" /> 
+     <player id="422165" /> 
+     <player id="430924" /> 
+     <player id="439341" /> 
+     <player id="441484" /> 
+     <player id="473475" /> 
+     <player id="564295" /> 
+     <player id="564301" /> 
+   </players> 
+   <coaches> 
+     <coach id="54869" /> 
+     <coach id="104205" /> 
+     <coach id="104481" /> 
+     <coach id="176620" /> 
+     <coach id="304361" /> 
+     <coach id="353201" /> 
+   </coaches> 
+</team>

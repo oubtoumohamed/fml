@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>25929</team_id> 
+   <id>623807</id> 
+   <name>A. Kellouche</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/623807.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>الجزائر</nationality> 
+   <birth-day>1995-02-04</birth-day> 
+   <length  unit="cm">الجزائر</length> 
+   <weight  unit="kg"></weight> 
+</player>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1776</id> 
+   <name>نادي ستياوا بوخارست لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1776.png</image> 
+   <country>رومانيا</country> 
+   <adrese>Bulevardul Ghencea, nr. 45, Sector 6</adrese> 
+   <website>http://www.steauafc.com</website> 
+   <creation-date>1947</creation-date> 
+   <players> 
+     <player id="12015" /> 
+     <player id="135812" /> 
+     <player id="300235" /> 
+     <player id="427552" /> 
+     <player id="517728" /> 
+     <player id="566653" /> 
+     <player id="619071" /> 
+     <player id="12097" /> 
+     <player id="61231" /> 
+     <player id="67063" /> 
+     <player id="76633" /> 
+     <player id="90312" /> 
+     <player id="92527" /> 
+     <player id="99424" /> 
+     <player id="128923" /> 
+     <player id="143027" /> 
+     <player id="153702" /> 
+     <player id="191739" /> 
+     <player id="214848" /> 
+     <player id="234645" /> 
+     <player id="259265" /> 
+     <player id="283627" /> 
+     <player id="302356" /> 
+     <player id="319634" /> 
+     <player id="365471" /> 
+     <player id="471627" /> 
+     <player id="487377" /> 
+     <player id="517763" /> 
+     <player id="540022" /> 
+     <player id="542020" /> 
+     <player id="573730" /> 
+     <player id="579791" /> 
+     <player id="598574" /> 
+     <player id="15443" /> 
+     <player id="43609" /> 
+     <player id="43634" /> 
+     <player id="51793" /> 
+     <player id="55528" /> 
+     <player id="71083" /> 
+     <player id="85792" /> 
+     <player id="92157" /> 
+     <player id="98596" /> 
+     <player id="131362" /> 
+     <player id="153998" /> 
+     <player id="159845" /> 
+     <player id="191961" /> 
+     <player id="312848" /> 
+     <player id="319633" /> 
+     <player id="319643" /> 
+     <player id="347813" /> 
+     <player id="379191" /> 
+     <player id="409786" /> 
+     <player id="417583" /> 
+     <player id="430000" /> 
+     <player id="449027" /> 
+     <player id="449031" /> 
+     <player id="479628" /> 
+     <player id="518999" /> 
+     <player id="519011" /> 
+     <player id="519267" /> 
+     <player id="519268" /> 
+     <player id="540019" /> 
+     <player id="540020" /> 
+     <player id="556268" /> 
+     <player id="573948" /> 
+     <player id="579790" /> 
+     <player id="601073" /> 
+     <player id="636139" /> 
+     <player id="20170" /> 
+     <player id="39432" /> 
+     <player id="47115" /> 
+     <player id="59679" /> 
+     <player id="65780" /> 
+     <player id="77431" /> 
+     <player id="138479" /> 
+     <player id="146360" /> 
+     <player id="154748" /> 
+     <player id="285901" /> 
+     <player id="379201" /> 
+     <player id="417578" /> 
+     <player id="428925" /> 
+     <player id="540021" /> 
+     <player id="555202" /> 
+     <player id="579792" /> 
+     <player id="647979" /> 
+   </players> 
+   <coaches> 
+     <coach id="4608" /> 
+     <coach id="71206" /> 
+     <coach id="154401" /> 
+     <coach id="154764" /> 
+     <coach id="267009" /> 
+     <coach id="304930" /> 
+   </coaches> 
+</team>

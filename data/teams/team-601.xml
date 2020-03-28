@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>601</id> 
+   <name>جمعية بروندبي الرياضية</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/601.png</image> 
+   <country>الدنمارك</country> 
+   <adrese>Brøndby Stadion 30</adrese> 
+   <website>http://brondby.com</website> 
+   <creation-date>1964</creation-date> 
+   <players> 
+     <player id="11662" /> 
+     <player id="141319" /> 
+     <player id="158351" /> 
+     <player id="213654" /> 
+     <player id="421623" /> 
+     <player id="448033" /> 
+     <player id="463682" /> 
+     <player id="632182" /> 
+     <player id="32183" /> 
+     <player id="38210" /> 
+     <player id="98645" /> 
+     <player id="121820" /> 
+     <player id="142056" /> 
+     <player id="155494" /> 
+     <player id="213102" /> 
+     <player id="235746" /> 
+     <player id="240099" /> 
+     <player id="277505" /> 
+     <player id="290884" /> 
+     <player id="421628" /> 
+     <player id="459658" /> 
+     <player id="463687" /> 
+     <player id="488897" /> 
+     <player id="520839" /> 
+     <player id="529457" /> 
+     <player id="42230" /> 
+     <player id="138853" /> 
+     <player id="143228" /> 
+     <player id="155064" /> 
+     <player id="155066" /> 
+     <player id="156255" /> 
+     <player id="160445" /> 
+     <player id="237301" /> 
+     <player id="238246" /> 
+     <player id="257941" /> 
+     <player id="426798" /> 
+     <player id="468045" /> 
+     <player id="476615" /> 
+     <player id="517669" /> 
+     <player id="517673" /> 
+     <player id="566867" /> 
+     <player id="8468" /> 
+     <player id="43275" /> 
+     <player id="78231" /> 
+     <player id="137741" /> 
+     <player id="217522" /> 
+     <player id="290506" /> 
+     <player id="315837" /> 
+     <player id="347913" /> 
+     <player id="349513" /> 
+     <player id="421642" /> 
+     <player id="474276" /> 
+     <player id="484730" /> 
+   </players> 
+   <coaches> 
+     <coach id="11674" /> 
+     <coach id="136271" /> 
+     <coach id="203312" /> 
+   </coaches> 
+</team>

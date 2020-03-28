@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>164</team_id> 
+   <id>481206</id> 
+   <name>إ. أيز</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/481206.png</image> 
+   <position>مهاجم</position> 
+   <nationality>نيجيريا</nationality> 
+   <birth-day>1996-09-26</birth-day> 
+   <length  unit="cm">185</length> 
+   <weight  unit="kg">80</weight> 
+</player>

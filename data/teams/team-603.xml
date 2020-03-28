@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>603</id> 
+   <name>نادي ميتلياند لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/603.png</image> 
+   <country>الدنمارك</country> 
+   <adrese>Kaj Zartows Vej 5</adrese> 
+   <website>http://www.fcm.dk</website> 
+   <creation-date>1999</creation-date> 
+   <players> 
+     <player id="5318" /> 
+     <player id="11766" /> 
+     <player id="123947" /> 
+     <player id="423930" /> 
+     <player id="463461" /> 
+     <player id="8480" /> 
+     <player id="33676" /> 
+     <player id="68922" /> 
+     <player id="78454" /> 
+     <player id="115381" /> 
+     <player id="138628" /> 
+     <player id="195495" /> 
+     <player id="281387" /> 
+     <player id="281824" /> 
+     <player id="304909" /> 
+     <player id="312600" /> 
+     <player id="316059" /> 
+     <player id="316060" /> 
+     <player id="329221" /> 
+     <player id="421625" /> 
+     <player id="423934" /> 
+     <player id="424121" /> 
+     <player id="463688" /> 
+     <player id="475267" /> 
+     <player id="41" /> 
+     <player id="2310" /> 
+     <player id="6141" /> 
+     <player id="11619" /> 
+     <player id="88438" /> 
+     <player id="182548" /> 
+     <player id="190246" /> 
+     <player id="213122" /> 
+     <player id="253849" /> 
+     <player id="257338" /> 
+     <player id="281501" /> 
+     <player id="319431" /> 
+     <player id="335277" /> 
+     <player id="352877" /> 
+     <player id="389197" /> 
+     <player id="398758" /> 
+     <player id="413544" /> 
+     <player id="423948" /> 
+     <player id="424123" /> 
+     <player id="424128" /> 
+     <player id="424129" /> 
+     <player id="434897" /> 
+     <player id="462667" /> 
+     <player id="466396" /> 
+     <player id="488039" /> 
+     <player id="574875" /> 
+     <player id="574880" /> 
+     <player id="11653" /> 
+     <player id="121144" /> 
+     <player id="170537" /> 
+     <player id="193747" /> 
+     <player id="279065" /> 
+     <player id="319294" /> 
+     <player id="352481" /> 
+     <player id="379857" /> 
+     <player id="408420" /> 
+     <player id="421646" /> 
+     <player id="462673" /> 
+     <player id="462679" /> 
+     <player id="472704" /> 
+     <player id="490821" /> 
+   </players> 
+   <coaches> 
+     <coach id="13159" /> 
+     <coach id="195545" /> 
+     <coach id="423953" /> 
+   </coaches> 
+</team>

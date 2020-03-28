@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>176</team_id> 
+   <id>541338</id> 
+   <name>D. Schnegg</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/541338.png</image> 
+   <position>مدافع</position> 
+   <nationality>النمسا</nationality> 
+   <birth-day>1998-09-29</birth-day> 
+   <length  unit="cm">185</length> 
+   <weight  unit="kg"></weight> 
+</player>

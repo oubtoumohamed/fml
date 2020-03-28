@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1885</id> 
+   <name>لا فيوريتا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1885.png</image> 
+   <country>سان مارينو</country> 
+   <adrese></adrese> 
+   <website>http://www.lafiorita.sm</website> 
+   <creation-date>1967</creation-date> 
+   <players> 
+     <player id="142639" /> 
+     <player id="321079" /> 
+     <player id="347171" /> 
+     <player id="433733" /> 
+     <player id="4256" /> 
+     <player id="18456" /> 
+     <player id="40257" /> 
+     <player id="40510" /> 
+     <player id="96261" /> 
+     <player id="96271" /> 
+     <player id="133948" /> 
+     <player id="151236" /> 
+     <player id="205566" /> 
+     <player id="319607" /> 
+     <player id="460894" /> 
+     <player id="514919" /> 
+     <player id="535149" /> 
+     <player id="554467" /> 
+     <player id="619230" /> 
+     <player id="633454" /> 
+     <player id="3930" /> 
+     <player id="96017" /> 
+     <player id="96264" /> 
+     <player id="97011" /> 
+     <player id="110533" /> 
+     <player id="142756" /> 
+     <player id="147845" /> 
+     <player id="153061" /> 
+     <player id="205574" /> 
+     <player id="253243" /> 
+     <player id="271074" /> 
+     <player id="319597" /> 
+     <player id="391763" /> 
+     <player id="423696" /> 
+     <player id="460910" /> 
+     <player id="464606" /> 
+     <player id="533711" /> 
+     <player id="642391" /> 
+     <player id="18302" /> 
+     <player id="18626" /> 
+     <player id="18647" /> 
+     <player id="58564" /> 
+     <player id="62951" /> 
+     <player id="76240" /> 
+     <player id="96258" /> 
+     <player id="134073" /> 
+     <player id="142772" /> 
+     <player id="280188" /> 
+     <player id="343817" /> 
+     <player id="357277" /> 
+     <player id="416524" /> 
+     <player id="424787" /> 
+     <player id="513714" /> 
+     <player id="533839" /> 
+     <player id="554608" /> 
+   </players> 
+   <coaches> 
+     <coach id="18413" /> 
+     <coach id="65980" /> 
+     <coach id="226479" /> 
+     <coach id="300694" /> 
+     <coach id="519923" /> 
+   </coaches> 
+</team>

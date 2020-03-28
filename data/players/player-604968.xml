@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3418</team_id> 
+   <id>604968</id> 
+   <name>R. Bensayah</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/604968.png</image> 
+   <position>مهاجم</position> 
+   <nationality>الجزائر</nationality> 
+   <birth-day>1994-08-22</birth-day> 
+   <length  unit="cm">الجزائر</length> 
+   <weight  unit="kg"></weight> 
+</player>

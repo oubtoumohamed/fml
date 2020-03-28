@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>69</team_id> 
+   <id>40446</id> 
+   <name>سكوت روسكو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/40446.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>ويلز</nationality> 
+   <birth-day>1977-12-15</birth-day> 
+   <length  unit="cm">إنجلترا</length> 
+   <weight  unit="kg">173</weight> 
+</player>

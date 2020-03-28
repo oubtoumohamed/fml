@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3485</id> 
+   <name>النـجـم الرياضي الساحلي‎</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3485.png</image> 
+   <country>تونس</country> 
+   <adrese>Avenue Mohamed Karoui</adrese> 
+   <website>http://www.etoile-du-sahel.com/fr/</website> 
+   <creation-date>1925</creation-date> 
+   <players> 
+     <player id="216935" /> 
+     <player id="290897" /> 
+     <player id="360191" /> 
+     <player id="393356" /> 
+     <player id="506742" /> 
+     <player id="548514" /> 
+     <player id="53322" /> 
+     <player id="138346" /> 
+     <player id="197694" /> 
+     <player id="218982" /> 
+     <player id="222986" /> 
+     <player id="246093" /> 
+     <player id="262544" /> 
+     <player id="319074" /> 
+     <player id="419245" /> 
+     <player id="450543" /> 
+     <player id="508478" /> 
+     <player id="596430" /> 
+     <player id="611559" /> 
+     <player id="526" /> 
+     <player id="39301" /> 
+     <player id="53339" /> 
+     <player id="64362" /> 
+     <player id="82458" /> 
+     <player id="209261" /> 
+     <player id="229767" /> 
+     <player id="306983" /> 
+     <player id="319084" /> 
+     <player id="328132" /> 
+     <player id="358633" /> 
+     <player id="359949" /> 
+     <player id="389985" /> 
+     <player id="403741" /> 
+     <player id="431958" /> 
+     <player id="449538" /> 
+     <player id="482166" /> 
+     <player id="483041" /> 
+     <player id="494997" /> 
+     <player id="495216" /> 
+     <player id="506744" /> 
+     <player id="527700" /> 
+     <player id="564934" /> 
+     <player id="587206" /> 
+     <player id="615084" /> 
+     <player id="622796" /> 
+     <player id="20912" /> 
+     <player id="64719" /> 
+     <player id="71412" /> 
+     <player id="193405" /> 
+     <player id="283686" /> 
+     <player id="318053" /> 
+     <player id="319079" /> 
+     <player id="319080" /> 
+     <player id="327010" /> 
+     <player id="337765" /> 
+     <player id="394201" /> 
+     <player id="419626" /> 
+     <player id="463349" /> 
+     <player id="513963" /> 
+     <player id="535591" /> 
+     <player id="556246" /> 
+     <player id="558666" /> 
+     <player id="592390" /> 
+   </players> 
+   <coaches> 
+     <coach id="508" /> 
+     <coach id="531" /> 
+     <coach id="111201" /> 
+     <coach id="113888" /> 
+     <coach id="114523" /> 
+     <coach id="209737" /> 
+     <coach id="270192" /> 
+     <coach id="589388" /> 
+     <coach id="642193" /> 
+   </coaches> 
+</team>

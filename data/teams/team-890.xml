@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>890</id> 
+   <name>أولمبيك مارسيليا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/890.png</image> 
+   <country>فرنسا</country> 
+   <adrese>La Commanderie, 33, traverse de La Martine</adrese> 
+   <website>http://www.om.net</website> 
+   <creation-date>1899</creation-date> 
+   <players> 
+     <player id="1227" /> 
+     <player id="13106" /> 
+     <player id="264407" /> 
+     <player id="320099" /> 
+     <player id="446018" /> 
+     <player id="627718" /> 
+     <player id="13635" /> 
+     <player id="16625" /> 
+     <player id="26192" /> 
+     <player id="47038" /> 
+     <player id="53329" /> 
+     <player id="74373" /> 
+     <player id="177262" /> 
+     <player id="183963" /> 
+     <player id="217615" /> 
+     <player id="227884" /> 
+     <player id="247931" /> 
+     <player id="266051" /> 
+     <player id="426522" /> 
+     <player id="429737" /> 
+     <player id="436464" /> 
+     <player id="454974" /> 
+     <player id="529690" /> 
+     <player id="1394" /> 
+     <player id="10592" /> 
+     <player id="24675" /> 
+     <player id="75257" /> 
+     <player id="87812" /> 
+     <player id="180836" /> 
+     <player id="180846" /> 
+     <player id="242484" /> 
+     <player id="269516" /> 
+     <player id="292940" /> 
+     <player id="309764" /> 
+     <player id="314574" /> 
+     <player id="394835" /> 
+     <player id="479198" /> 
+     <player id="519888" /> 
+     <player id="564643" /> 
+     <player id="19125" /> 
+     <player id="22357" /> 
+     <player id="68165" /> 
+     <player id="159224" /> 
+     <player id="217869" /> 
+     <player id="416502" /> 
+     <player id="472072" /> 
+     <player id="601234" /> 
+   </players> 
+   <coaches> 
+     <coach id="110849" /> 
+     <coach id="140282" /> 
+     <coach id="304630" /> 
+   </coaches> 
+</team>

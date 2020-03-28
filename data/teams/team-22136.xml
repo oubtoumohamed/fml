@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>22136</id> 
+   <name>نادي سريع وادي زم</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/22136.png</image> 
+   <country>المغرب</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="392139" /> 
+     <player id="437662" /> 
+     <player id="634305" /> 
+     <player id="405614" /> 
+     <player id="634264" /> 
+     <player id="634266" /> 
+     <player id="634268" /> 
+     <player id="634271" /> 
+     <player id="634292" /> 
+     <player id="634296" /> 
+     <player id="636872" /> 
+     <player id="647614" /> 
+     <player id="647902" /> 
+     <player id="648694" /> 
+     <player id="315094" /> 
+     <player id="431691" /> 
+     <player id="432261" /> 
+     <player id="437284" /> 
+     <player id="448144" /> 
+     <player id="483020" /> 
+     <player id="632064" /> 
+     <player id="634273" /> 
+     <player id="634279" /> 
+     <player id="634288" /> 
+     <player id="641882" /> 
+     <player id="327008" /> 
+     <player id="392144" /> 
+     <player id="507152" /> 
+     <player id="634286" /> 
+     <player id="648813" /> 
+   </players> 
+   <coaches> 
+     <coach id="326894" /> 
+     <coach id="641900" /> 
+     <coach id="643831" /> 
+   </coaches> 
+</team>

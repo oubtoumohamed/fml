@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>660</team_id> 
+   <id>533164</id> 
+   <name>جابرييل مارتينيلي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/533164.png</image> 
+   <position>مهاجم</position> 
+   <nationality>البرازيل</nationality> 
+   <birth-day>2001-06-18</birth-day> 
+   <length  unit="cm">180</length> 
+   <weight  unit="kg">75</weight> 
+</player>

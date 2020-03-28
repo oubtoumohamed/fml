@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1204</id> 
+   <name>نادي مكابي تل أبيب لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1204.png</image> 
+   <country>اسرائيل</country> 
+   <adrese>Ben Zvi Road 106</adrese> 
+   <website>http://www.maccabi-tlv.co.il</website> 
+   <creation-date>1906</creation-date> 
+   <players> 
+     <player id="56070" /> 
+     <player id="213864" /> 
+     <player id="219921" /> 
+     <player id="320040" /> 
+     <player id="370107" /> 
+     <player id="442305" /> 
+     <player id="468307" /> 
+     <player id="574763" /> 
+     <player id="2625" /> 
+     <player id="26106" /> 
+     <player id="58362" /> 
+     <player id="59956" /> 
+     <player id="92059" /> 
+     <player id="115179" /> 
+     <player id="135591" /> 
+     <player id="146136" /> 
+     <player id="147407" /> 
+     <player id="202360" /> 
+     <player id="213277" /> 
+     <player id="213282" /> 
+     <player id="352319" /> 
+     <player id="365119" /> 
+     <player id="386575" /> 
+     <player id="551500" /> 
+     <player id="596847" /> 
+     <player id="56066" /> 
+     <player id="92062" /> 
+     <player id="160271" /> 
+     <player id="160620" /> 
+     <player id="178354" /> 
+     <player id="191111" /> 
+     <player id="213284" /> 
+     <player id="217471" /> 
+     <player id="217505" /> 
+     <player id="273302" /> 
+     <player id="316757" /> 
+     <player id="322080" /> 
+     <player id="386585" /> 
+     <player id="420524" /> 
+     <player id="420533" /> 
+     <player id="437696" /> 
+     <player id="471806" /> 
+     <player id="516414" /> 
+     <player id="542982" /> 
+     <player id="574778" /> 
+     <player id="21125" /> 
+     <player id="33200" /> 
+     <player id="50642" /> 
+     <player id="55969" /> 
+     <player id="59540" /> 
+     <player id="193338" /> 
+     <player id="235390" /> 
+     <player id="266844" /> 
+     <player id="312694" /> 
+     <player id="318532" /> 
+     <player id="389779" /> 
+     <player id="415766" /> 
+     <player id="420502" /> 
+     <player id="420538" /> 
+     <player id="468321" /> 
+   </players> 
+   <coaches> 
+     <coach id="18861" /> 
+     <coach id="37024" /> 
+     <coach id="264521" /> 
+   </coaches> 
+</team>

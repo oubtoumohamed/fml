@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>215</team_id> 
+   <id>578892</id> 
+   <name>C. Dhauholou</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/578892.png</image> 
+   <position>مهاجم</position> 
+   <nationality>ساحل العاج</nationality> 
+   <birth-day>1997-06-06</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

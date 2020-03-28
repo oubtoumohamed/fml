@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3499</team_id> 
+   <id>636317</id> 
+   <name>Mohamed Emad Ayash</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/636317.png</image> 
+   <position>مدافع</position> 
+   <nationality>قطر</nationality> 
+   <birth-day>2001-02-27</birth-day> 
+   <length  unit="cm">190</length> 
+   <weight  unit="kg">74</weight> 
+</player>

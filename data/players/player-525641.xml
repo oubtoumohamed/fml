@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>676</team_id> 
+   <id>525641</id> 
+   <name>بيدرو بورو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/525641.png</image> 
+   <position>مدافع</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>1999-09-13</birth-day> 
+   <length  unit="cm">إسبانيا</length> 
+   <weight  unit="kg">176</weight> 
+</player>

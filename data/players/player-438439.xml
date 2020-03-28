@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2398</team_id> 
+   <id>438439</id> 
+   <name>K. Kizito</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/438439.png</image> 
+   <position>مهاجم</position> 
+   <nationality>غانا</nationality> 
+   <birth-day>1996-07-21</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

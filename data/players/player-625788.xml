@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1842</team_id> 
+   <id>625788</id> 
+   <name>V. Torop</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/625788.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>روسيا</nationality> 
+   <birth-day>2003-11-07</birth-day> 
+   <length  unit="cm">189</length> 
+   <weight  unit="kg">84</weight> 
+</player>

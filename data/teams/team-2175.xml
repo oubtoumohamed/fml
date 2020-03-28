@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2175</id> 
+   <name>نادي بيرنر يونج بويز الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2175.png</image> 
+   <country>سويسرا</country> 
+   <adrese>Papiermühlestrasse 77</adrese> 
+   <website>http://www.bscyb.ch</website> 
+   <creation-date>1898</creation-date> 
+   <players> 
+     <player id="11292" /> 
+     <player id="137658" /> 
+     <player id="301798" /> 
+     <player id="353263" /> 
+     <player id="11373" /> 
+     <player id="11490" /> 
+     <player id="109710" /> 
+     <player id="162898" /> 
+     <player id="235506" /> 
+     <player id="245613" /> 
+     <player id="299110" /> 
+     <player id="311877" /> 
+     <player id="341751" /> 
+     <player id="350335" /> 
+     <player id="369345" /> 
+     <player id="405870" /> 
+     <player id="408386" /> 
+     <player id="429167" /> 
+     <player id="429168" /> 
+     <player id="437742" /> 
+     <player id="466769" /> 
+     <player id="468821" /> 
+     <player id="572194" /> 
+     <player id="8829" /> 
+     <player id="83829" /> 
+     <player id="175393" /> 
+     <player id="213354" /> 
+     <player id="235917" /> 
+     <player id="245612" /> 
+     <player id="270599" /> 
+     <player id="305214" /> 
+     <player id="307123" /> 
+     <player id="316548" /> 
+     <player id="397328" /> 
+     <player id="403560" /> 
+     <player id="409826" /> 
+     <player id="411313" /> 
+     <player id="429170" /> 
+     <player id="442996" /> 
+     <player id="459532" /> 
+     <player id="572182" /> 
+     <player id="572192" /> 
+     <player id="572240" /> 
+     <player id="39286" /> 
+     <player id="241557" /> 
+     <player id="291325" /> 
+     <player id="449640" /> 
+     <player id="519279" /> 
+     <player id="565201" /> 
+     <player id="572198" /> 
+   </players> 
+   <coaches> 
+     <coach id="178757" /> 
+     <coach id="291616" /> 
+   </coaches> 
+</team>

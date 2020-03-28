@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>5555</id> 
+   <name>نادي الدفاع الحسني الجديدي</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/5555.png</image> 
+   <country>المغرب</country> 
+   <adrese>Boulevard Baghdad</adrese> 
+   <website>http://dhj.dhj.ma</website> 
+   <creation-date>1956</creation-date> 
+   <players> 
+     <player id="246670" /> 
+     <player id="326723" /> 
+     <player id="515640" /> 
+     <player id="548477" /> 
+     <player id="634192" /> 
+     <player id="245725" /> 
+     <player id="432148" /> 
+     <player id="464630" /> 
+     <player id="490962" /> 
+     <player id="531787" /> 
+     <player id="535884" /> 
+     <player id="538026" /> 
+     <player id="542119" /> 
+     <player id="548473" /> 
+     <player id="548479" /> 
+     <player id="548489" /> 
+     <player id="548491" /> 
+     <player id="633470" /> 
+     <player id="634198" /> 
+     <player id="634208" /> 
+     <player id="634225" /> 
+     <player id="634236" /> 
+     <player id="634247" /> 
+     <player id="183362" /> 
+     <player id="231020" /> 
+     <player id="432161" /> 
+     <player id="483018" /> 
+     <player id="515621" /> 
+     <player id="548465" /> 
+     <player id="548474" /> 
+     <player id="548482" /> 
+     <player id="634226" /> 
+     <player id="634233" /> 
+     <player id="634240" /> 
+     <player id="636014" /> 
+     <player id="645584" /> 
+     <player id="246980" /> 
+     <player id="285762" /> 
+     <player id="318702" /> 
+     <player id="432066" /> 
+     <player id="485141" /> 
+     <player id="531790" /> 
+     <player id="531968" /> 
+     <player id="538027" /> 
+     <player id="538029" /> 
+     <player id="548493" /> 
+     <player id="634242" /> 
+     <player id="634253" /> 
+     <player id="648545" /> 
+   </players> 
+   <coaches> 
+     <coach id="208046" /> 
+     <coach id="230284" /> 
+     <coach id="548495" /> 
+     <coach id="647600" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1526</id> 
+   <name>آر كاي سي فالفيك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1526.png</image> 
+   <country>هولندا</country> 
+   <adrese>Akkerlaan 2</adrese> 
+   <website>http://www.rkcwaalwijk.nl</website> 
+   <creation-date>1940</creation-date> 
+   <players> 
+     <player id="64676" /> 
+     <player id="335600" /> 
+     <player id="381077" /> 
+     <player id="408572" /> 
+     <player id="414138" /> 
+     <player id="475038" /> 
+     <player id="484186" /> 
+     <player id="517840" /> 
+     <player id="535385" /> 
+     <player id="2305" /> 
+     <player id="61344" /> 
+     <player id="189960" /> 
+     <player id="217662" /> 
+     <player id="273934" /> 
+     <player id="303283" /> 
+     <player id="305452" /> 
+     <player id="315769" /> 
+     <player id="340237" /> 
+     <player id="355903" /> 
+     <player id="421826" /> 
+     <player id="459325" /> 
+     <player id="494756" /> 
+     <player id="507972" /> 
+     <player id="541824" /> 
+     <player id="563816" /> 
+     <player id="579625" /> 
+     <player id="2247" /> 
+     <player id="49372" /> 
+     <player id="49840" /> 
+     <player id="257758" /> 
+     <player id="261680" /> 
+     <player id="261975" /> 
+     <player id="264397" /> 
+     <player id="275122" /> 
+     <player id="281874" /> 
+     <player id="308402" /> 
+     <player id="316806" /> 
+     <player id="323282" /> 
+     <player id="325391" /> 
+     <player id="339651" /> 
+     <player id="430854" /> 
+     <player id="452076" /> 
+     <player id="452697" /> 
+     <player id="453641" /> 
+     <player id="454609" /> 
+     <player id="497090" /> 
+     <player id="634530" /> 
+     <player id="2243" /> 
+     <player id="89330" /> 
+     <player id="173378" /> 
+     <player id="192772" /> 
+     <player id="195085" /> 
+     <player id="242807" /> 
+     <player id="257453" /> 
+     <player id="319308" /> 
+     <player id="319403" /> 
+     <player id="409000" /> 
+     <player id="426585" /> 
+     <player id="452064" /> 
+     <player id="452371" /> 
+     <player id="452698" /> 
+     <player id="468037" /> 
+     <player id="470365" /> 
+     <player id="488426" /> 
+     <player id="514733" /> 
+     <player id="517839" /> 
+     <player id="587715" /> 
+   </players> 
+   <coaches> 
+     <coach id="142136" /> 
+     <coach id="273478" /> 
+   </coaches> 
+</team>

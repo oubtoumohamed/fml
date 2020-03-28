@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>228</id> 
+   <name>نادي راسينج جينك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/228.png</image> 
+   <country>بلجيكا</country> 
+   <adrese>Stadionplein 4</adrese> 
+   <website>http://www.krcgenk.be</website> 
+   <creation-date>1988</creation-date> 
+   <players> 
+     <player id="17505" /> 
+     <player id="319354" /> 
+     <player id="399757" /> 
+     <player id="548686" /> 
+     <player id="560377" /> 
+     <player id="632453" /> 
+     <player id="632456" /> 
+     <player id="80095" /> 
+     <player id="134181" /> 
+     <player id="134996" /> 
+     <player id="189113" /> 
+     <player id="222237" /> 
+     <player id="246644" /> 
+     <player id="319392" /> 
+     <player id="386997" /> 
+     <player id="394760" /> 
+     <player id="398772" /> 
+     <player id="399756" /> 
+     <player id="405509" /> 
+     <player id="445545" /> 
+     <player id="449126" /> 
+     <player id="472399" /> 
+     <player id="489028" /> 
+     <player id="560379" /> 
+     <player id="560394" /> 
+     <player id="618207" /> 
+     <player id="827" /> 
+     <player id="13561" /> 
+     <player id="151961" /> 
+     <player id="158657" /> 
+     <player id="210477" /> 
+     <player id="217771" /> 
+     <player id="232915" /> 
+     <player id="273296" /> 
+     <player id="334192" /> 
+     <player id="334699" /> 
+     <player id="361105" /> 
+     <player id="379193" /> 
+     <player id="398474" /> 
+     <player id="410320" /> 
+     <player id="428362" /> 
+     <player id="443019" /> 
+     <player id="449296" /> 
+     <player id="492392" /> 
+     <player id="519184" /> 
+     <player id="534413" /> 
+     <player id="535804" /> 
+     <player id="560400" /> 
+     <player id="615805" /> 
+     <player id="28974" /> 
+     <player id="155109" /> 
+     <player id="175962" /> 
+     <player id="182709" /> 
+     <player id="196297" /> 
+     <player id="215353" /> 
+     <player id="269934" /> 
+     <player id="279065" /> 
+     <player id="298598" /> 
+     <player id="302900" /> 
+     <player id="337057" /> 
+     <player id="392263" /> 
+     <player id="424582" /> 
+     <player id="424934" /> 
+     <player id="467663" /> 
+     <player id="485005" /> 
+     <player id="485234" /> 
+     <player id="517071" /> 
+     <player id="606361" /> 
+     <player id="615795" /> 
+     <player id="632518" /> 
+   </players> 
+   <coaches> 
+     <coach id="114528" /> 
+     <coach id="114769" /> 
+     <coach id="202471" /> 
+     <coach id="276406" /> 
+     <coach id="413837" /> 
+     <coach id="643384" /> 
+   </coaches> 
+</team>

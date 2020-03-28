@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>219</id> 
+   <name>نادي كلوب بروج لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/219.png</image> 
+   <country>بلجيكا</country> 
+   <adrese>Olympialaan 74</adrese> 
+   <website>http://www.clubbrugge.be</website> 
+   <creation-date>1891</creation-date> 
+   <players> 
+     <player id="2175" /> 
+     <player id="6671" /> 
+     <player id="13465" /> 
+     <player id="183117" /> 
+     <player id="301988" /> 
+     <player id="334071" /> 
+     <player id="386989" /> 
+     <player id="460028" /> 
+     <player id="466443" /> 
+     <player id="571865" /> 
+     <player id="37828" /> 
+     <player id="76543" /> 
+     <player id="134067" /> 
+     <player id="137987" /> 
+     <player id="138628" /> 
+     <player id="191101" /> 
+     <player id="215365" /> 
+     <player id="222237" /> 
+     <player id="231721" /> 
+     <player id="246755" /> 
+     <player id="274387" /> 
+     <player id="295384" /> 
+     <player id="295563" /> 
+     <player id="302013" /> 
+     <player id="302497" /> 
+     <player id="319391" /> 
+     <player id="343439" /> 
+     <player id="385255" /> 
+     <player id="387007" /> 
+     <player id="460029" /> 
+     <player id="460051" /> 
+     <player id="460073" /> 
+     <player id="571868" /> 
+     <player id="591862" /> 
+     <player id="2206" /> 
+     <player id="2391" /> 
+     <player id="56060" /> 
+     <player id="99420" /> 
+     <player id="113777" /> 
+     <player id="132313" /> 
+     <player id="134078" /> 
+     <player id="154152" /> 
+     <player id="281751" /> 
+     <player id="296548" /> 
+     <player id="319054" /> 
+     <player id="421831" /> 
+     <player id="440352" /> 
+     <player id="460053" /> 
+     <player id="571892" /> 
+     <player id="571897" /> 
+     <player id="591828" /> 
+     <player id="633347" /> 
+     <player id="9933" /> 
+     <player id="102746" /> 
+     <player id="129859" /> 
+     <player id="215353" /> 
+     <player id="273195" /> 
+     <player id="276465" /> 
+     <player id="300043" /> 
+     <player id="312060" /> 
+     <player id="331332" /> 
+     <player id="408768" /> 
+     <player id="419539" /> 
+     <player id="424580" /> 
+     <player id="439051" /> 
+     <player id="442014" /> 
+     <player id="450289" /> 
+     <player id="460071" /> 
+     <player id="476968" /> 
+     <player id="594701" /> 
+     <player id="594708" /> 
+   </players> 
+   <coaches> 
+     <coach id="357" /> 
+     <coach id="276406" /> 
+   </coaches> 
+</team>

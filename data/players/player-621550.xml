@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>17353</team_id> 
+   <id>621550</id> 
+   <name>B. Hamidi</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/621550.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>الجزائر</nationality> 
+   <birth-day>1996-05-07</birth-day> 
+   <length  unit="cm">الجزائر</length> 
+   <weight  unit="kg"></weight> 
+</player>

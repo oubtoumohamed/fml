@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd">
+    
+    <!-- team_id : [integer] The club id to which the player belongs -->
+    <team_id>663</team_id>
+    <!-- id : [integer] The id of player -->
+    <id>138653</id>
+    <!-- name : [string] The name of player -->
+    <name>محمد صلاح</name>
+    <!-- image :[anyURI] The picture of player -->
+    <image>https://secure.optasports.com/soccer/players/138653.png</image>
+    <!-- position :[string] The position of player -->
+    <position>مهاجم</position>
+    <!-- nationality :[string] The nationality of player -->
+    <nationality>مصر</nationality>
+    <!-- birth-day :[date] The date of birth of the player -->
+    <birth-day>1992-06-15</birth-day>
+    <!-- length :[decimal] The lenght of the player on cm -->
+    <length unit="cm">175</length>
+    <!-- weight :[decimal] The weight of the player on kg -->
+    <weight unit="kg">71</weight>
+</player>

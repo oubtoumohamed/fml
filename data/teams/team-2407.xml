@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2407</id> 
+   <name>فالور رياكيافيك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2407.png</image> 
+   <country>أيسلندا</country> 
+   <adrese>Laufásvegi, Hlíðarendi</adrese> 
+   <website>http://www.valur.is</website> 
+   <creation-date>1911</creation-date> 
+   <players> 
+     <player id="9634" /> 
+     <player id="131280" /> 
+     <player id="249868" /> 
+     <player id="301162" /> 
+     <player id="443435" /> 
+     <player id="9701" /> 
+     <player id="29742" /> 
+     <player id="32218" /> 
+     <player id="32804" /> 
+     <player id="78792" /> 
+     <player id="86224" /> 
+     <player id="147196" /> 
+     <player id="209817" /> 
+     <player id="424478" /> 
+     <player id="540737" /> 
+     <player id="9877" /> 
+     <player id="32161" /> 
+     <player id="32197" /> 
+     <player id="39356" /> 
+     <player id="97598" /> 
+     <player id="100534" /> 
+     <player id="124732" /> 
+     <player id="131031" /> 
+     <player id="188646" /> 
+     <player id="204293" /> 
+     <player id="345117" /> 
+     <player id="361905" /> 
+     <player id="420000" /> 
+     <player id="424477" /> 
+     <player id="446327" /> 
+     <player id="481704" /> 
+     <player id="546319" /> 
+     <player id="628439" /> 
+     <player id="628441" /> 
+     <player id="9716" /> 
+     <player id="28160" /> 
+     <player id="108668" /> 
+     <player id="122141" /> 
+     <player id="130927" /> 
+     <player id="130941" /> 
+     <player id="155506" /> 
+     <player id="195963" /> 
+     <player id="196071" /> 
+     <player id="404759" /> 
+   </players> 
+   <coaches> 
+     <coach id="9708" /> 
+     <coach id="150017" /> 
+     <coach id="559459" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>479</team_id> 
+   <id>505115</id> 
+   <name>L. Šipoš</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/505115.png</image> 
+   <position>مهاجم</position> 
+   <nationality>كرواتيا</nationality> 
+   <birth-day>2000-02-28</birth-day> 
+   <length  unit="cm">كرواتيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

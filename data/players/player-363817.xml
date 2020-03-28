@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1259</team_id> 
+   <id>363817</id> 
+   <name>ماركو لاندوسي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/363817.png</image> 
+   <position>غير معروف</position> 
+   <nationality>إيطاليا</nationality> 
+   <birth-day>1964-03-25</birth-day> 
+   <length  unit="cm">إيطاليا</length> 
+   <weight  unit="kg"></weight> 
+</player>

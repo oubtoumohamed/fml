@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1526</team_id> 
+   <id>433202</id> 
+   <name>J. Driessen</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/433202.png</image> 
+   <position>غير معروف</position> 
+   <nationality>هولندا</nationality> 
+   <birth-day>1969-08-04</birth-day> 
+   <length  unit="cm">هولندا</length> 
+   <weight  unit="kg"></weight> 
+</player>

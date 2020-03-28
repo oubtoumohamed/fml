@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1040</id> 
+   <name>نادي أوليمبياكوس</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1040.png</image> 
+   <country>اليونان</country> 
+   <adrese>Plateia Alexandras</adrese> 
+   <website>http://www.olympiakos.gr</website> 
+   <creation-date>1925</creation-date> 
+   <players> 
+     <player id="9898" /> 
+     <player id="156210" /> 
+     <player id="158035" /> 
+     <player id="203528" /> 
+     <player id="215498" /> 
+     <player id="219921" /> 
+     <player id="257644" /> 
+     <player id="379045" /> 
+     <player id="420518" /> 
+     <player id="420679" /> 
+     <player id="509744" /> 
+     <player id="590096" /> 
+     <player id="18845" /> 
+     <player id="19117" /> 
+     <player id="20869" /> 
+     <player id="47935" /> 
+     <player id="62738" /> 
+     <player id="134168" /> 
+     <player id="134608" /> 
+     <player id="138341" /> 
+     <player id="215120" /> 
+     <player id="217921" /> 
+     <player id="257120" /> 
+     <player id="262361" /> 
+     <player id="284090" /> 
+     <player id="303805" /> 
+     <player id="304387" /> 
+     <player id="317606" /> 
+     <player id="326338" /> 
+     <player id="334524" /> 
+     <player id="372297" /> 
+     <player id="372317" /> 
+     <player id="379055" /> 
+     <player id="397093" /> 
+     <player id="413288" /> 
+     <player id="467537" /> 
+     <player id="477571" /> 
+     <player id="492428" /> 
+     <player id="618390" /> 
+     <player id="1532" /> 
+     <player id="4496" /> 
+     <player id="13280" /> 
+     <player id="13561" /> 
+     <player id="16899" /> 
+     <player id="18891" /> 
+     <player id="20374" /> 
+     <player id="22419" /> 
+     <player id="39452" /> 
+     <player id="48956" /> 
+     <player id="66306" /> 
+     <player id="88991" /> 
+     <player id="103765" /> 
+     <player id="134410" /> 
+     <player id="138473" /> 
+     <player id="141498" /> 
+     <player id="148819" /> 
+     <player id="156184" /> 
+     <player id="213870" /> 
+     <player id="268926" /> 
+     <player id="273848" /> 
+     <player id="280821" /> 
+     <player id="285272" /> 
+     <player id="363147" /> 
+     <player id="372333" /> 
+     <player id="372347" /> 
+     <player id="408630" /> 
+     <player id="420530" /> 
+     <player id="421907" /> 
+     <player id="453868" /> 
+     <player id="461778" /> 
+     <player id="471421" /> 
+     <player id="506133" /> 
+     <player id="509687" /> 
+     <player id="603727" /> 
+     <player id="2073" /> 
+     <player id="47410" /> 
+     <player id="69289" /> 
+     <player id="91362" /> 
+     <player id="111522" /> 
+     <player id="132863" /> 
+     <player id="193094" /> 
+     <player id="194598" /> 
+     <player id="203549" /> 
+     <player id="204850" /> 
+     <player id="213020" /> 
+     <player id="215947" /> 
+     <player id="260205" /> 
+     <player id="297796" /> 
+     <player id="317194" /> 
+     <player id="356451" /> 
+     <player id="388469" /> 
+     <player id="404969" /> 
+     <player id="420527" /> 
+     <player id="420534" /> 
+     <player id="440467" /> 
+     <player id="441469" /> 
+     <player id="443855" /> 
+     <player id="467648" /> 
+     <player id="581530" /> 
+   </players> 
+   <coaches> 
+     <coach id="40275" /> 
+     <coach id="153980" /> 
+   </coaches> 
+</team>

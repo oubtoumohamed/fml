@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3476</id> 
+   <name>نادي الوداد الرياضي</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3476.png</image> 
+   <country>المغرب</country> 
+   <adrese>BP 20026</adrese> 
+   <website>http://www.wac.ma</website> 
+   <creation-date>1937</creation-date> 
+   <players> 
+     <player id="138679" /> 
+     <player id="319063" /> 
+     <player id="405612" /> 
+     <player id="437663" /> 
+     <player id="458899" /> 
+     <player id="588355" /> 
+     <player id="606340" /> 
+     <player id="631835" /> 
+     <player id="20795" /> 
+     <player id="65329" /> 
+     <player id="168007" /> 
+     <player id="261797" /> 
+     <player id="285744" /> 
+     <player id="324522" /> 
+     <player id="421830" /> 
+     <player id="437664" /> 
+     <player id="437665" /> 
+     <player id="447145" /> 
+     <player id="480552" /> 
+     <player id="588356" /> 
+     <player id="588357" /> 
+     <player id="632074" /> 
+     <player id="632710" /> 
+     <player id="647648" /> 
+     <player id="37688" /> 
+     <player id="39617" /> 
+     <player id="64553" /> 
+     <player id="75622" /> 
+     <player id="179904" /> 
+     <player id="183362" /> 
+     <player id="247049" /> 
+     <player id="326719" /> 
+     <player id="326720" /> 
+     <player id="341919" /> 
+     <player id="405639" /> 
+     <player id="429235" /> 
+     <player id="483020" /> 
+     <player id="484974" /> 
+     <player id="515612" /> 
+     <player id="531784" /> 
+     <player id="539172" /> 
+     <player id="588358" /> 
+     <player id="632073" /> 
+     <player id="632075" /> 
+     <player id="634218" /> 
+     <player id="648421" /> 
+     <player id="138160" /> 
+     <player id="169448" /> 
+     <player id="176944" /> 
+     <player id="182710" /> 
+     <player id="257073" /> 
+     <player id="319068" /> 
+     <player id="342137" /> 
+     <player id="399340" /> 
+     <player id="405087" /> 
+     <player id="432007" /> 
+     <player id="432146" /> 
+     <player id="437668" /> 
+     <player id="437847" /> 
+     <player id="531785" /> 
+     <player id="616724" /> 
+     <player id="643138" /> 
+     <player id="648050" /> 
+   </players> 
+   <coaches> 
+     <coach id="103988" /> 
+     <coach id="111201" /> 
+     <coach id="220898" /> 
+     <coach id="548620" /> 
+     <coach id="564728" /> 
+     <coach id="642515" /> 
+     <coach id="649455" /> 
+   </coaches> 
+</team>

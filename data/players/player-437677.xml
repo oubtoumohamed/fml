@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>33093</team_id> 
+   <id>437677</id> 
+   <name>K. Mbombo</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/437677.png</image> 
+   <position>مهاجم</position> 
+   <nationality>الكونغو الديمقراطيه</nationality> 
+   <birth-day>1996-05-10</birth-day> 
+   <length  unit="cm">186</length> 
+   <weight  unit="kg"></weight> 
+</player>

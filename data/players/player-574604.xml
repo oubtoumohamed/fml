@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>13104</team_id> 
+   <id>574604</id> 
+   <name>A. Umbitaliyev</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/574604.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>كازاخستان</nationality> 
+   <birth-day>2001-07-09</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

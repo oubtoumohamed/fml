@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3480</id> 
+   <name>نادي حمام الأنف الرياضي</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3480.png</image> 
+   <country>تونس</country> 
+   <adrese>5, rue Ali Chehimi</adrese> 
+   <website>http://www.hamhama.com</website> 
+   <creation-date>1944</creation-date> 
+   <players> 
+     <player id="53200" /> 
+     <player id="138431" /> 
+     <player id="189634" /> 
+     <player id="195581" /> 
+     <player id="220180" /> 
+     <player id="242312" /> 
+     <player id="407420" /> 
+     <player id="419956" /> 
+     <player id="568976" /> 
+     <player id="622710" /> 
+     <player id="21419" /> 
+     <player id="53158" /> 
+     <player id="53308" /> 
+     <player id="53381" /> 
+     <player id="71458" /> 
+     <player id="71813" /> 
+     <player id="102497" /> 
+     <player id="138542" /> 
+     <player id="157300" /> 
+     <player id="218731" /> 
+     <player id="221909" /> 
+     <player id="231518" /> 
+     <player id="231549" /> 
+     <player id="234230" /> 
+     <player id="265988" /> 
+     <player id="267484" /> 
+     <player id="330007" /> 
+     <player id="405039" /> 
+     <player id="405517" /> 
+     <player id="422771" /> 
+     <player id="568977" /> 
+     <player id="571376" /> 
+     <player id="605543" /> 
+     <player id="632693" /> 
+     <player id="637250" /> 
+     <player id="20821" /> 
+     <player id="20920" /> 
+     <player id="53364" /> 
+     <player id="53390" /> 
+     <player id="58756" /> 
+     <player id="71463" /> 
+     <player id="76877" /> 
+     <player id="114570" /> 
+     <player id="138435" /> 
+     <player id="138438" /> 
+     <player id="138543" /> 
+     <player id="138548" /> 
+     <player id="147706" /> 
+     <player id="147718" /> 
+     <player id="147719" /> 
+     <player id="167739" /> 
+     <player id="168418" /> 
+     <player id="168423" /> 
+     <player id="189633" /> 
+     <player id="195065" /> 
+     <player id="195066" /> 
+     <player id="195582" /> 
+     <player id="206665" /> 
+     <player id="222987" /> 
+     <player id="238972" /> 
+     <player id="319077" /> 
+     <player id="321059" /> 
+     <player id="339299" /> 
+     <player id="361607" /> 
+     <player id="389985" /> 
+     <player id="403645" /> 
+     <player id="403891" /> 
+     <player id="403892" /> 
+     <player id="404543" /> 
+     <player id="407421" /> 
+     <player id="420834" /> 
+     <player id="428798" /> 
+     <player id="436435" /> 
+     <player id="446398" /> 
+     <player id="447069" /> 
+     <player id="447507" /> 
+     <player id="470009" /> 
+     <player id="483219" /> 
+     <player id="539330" /> 
+     <player id="567518" /> 
+     <player id="571371" /> 
+     <player id="571372" /> 
+     <player id="587207" /> 
+     <player id="622712" /> 
+     <player id="626215" /> 
+     <player id="1196" /> 
+     <player id="20926" /> 
+     <player id="44876" /> 
+     <player id="53312" /> 
+     <player id="53330" /> 
+     <player id="60725" /> 
+     <player id="63991" /> 
+     <player id="69046" /> 
+     <player id="71630" /> 
+     <player id="81900" /> 
+     <player id="108606" /> 
+     <player id="138544" /> 
+     <player id="186200" /> 
+     <player id="192639" /> 
+     <player id="193877" /> 
+     <player id="234263" /> 
+     <player id="265792" /> 
+     <player id="314460" /> 
+     <player id="316883" /> 
+     <player id="321057" /> 
+     <player id="330492" /> 
+     <player id="332277" /> 
+     <player id="419193" /> 
+     <player id="419630" /> 
+     <player id="422772" /> 
+     <player id="485084" /> 
+     <player id="507160" /> 
+     <player id="568987" /> 
+     <player id="568990" /> 
+     <player id="579939" /> 
+     <player id="626216" /> 
+   </players> 
+   <coaches> 
+     <coach id="53300" /> 
+     <coach id="231465" /> 
+     <coach id="272697" /> 
+     <coach id="312523" /> 
+     <coach id="432228" /> 
+     <coach id="572740" /> 
+     <coach id="598684" /> 
+   </coaches> 
+</team>

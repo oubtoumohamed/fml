@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1101</team_id> 
+   <id>202232</id> 
+   <name>جيورجي شيابرشفيلي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/202232.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>جورجيا</nationality> 
+   <birth-day>1979-10-07</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

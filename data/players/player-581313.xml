@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3514</team_id> 
+   <id>581313</id> 
+   <name>Hassan Al-Abdooli</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/581313.png</image> 
+   <position>غير معروف</position> 
+   <nationality>الإمارات</nationality> 
+   <birth-day>1974-08-28</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

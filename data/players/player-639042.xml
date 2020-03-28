@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>5492</team_id> 
+   <id>639042</id> 
+   <name>عمرو رضى</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/639042.png</image> 
+   <position>مهاجم</position> 
+   <nationality>مصر</nationality> 
+   <birth-day>1999-01-18</birth-day> 
+   <length  unit="cm">187</length> 
+   <weight  unit="kg">84</weight> 
+</player>

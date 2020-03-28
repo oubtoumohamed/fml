@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1568</id> 
+   <name>نادي لينفيلد لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1568.png</image> 
+   <country>إيرلندا الشمالية</country> 
+   <adrese>Donegall Avenue</adrese> 
+   <website>http://www.linfieldfc.com</website> 
+   <creation-date>1886</creation-date> 
+   <players> 
+     <player id="2708" /> 
+     <player id="158888" /> 
+     <player id="274903" /> 
+     <player id="381297" /> 
+     <player id="443677" /> 
+     <player id="578168" /> 
+     <player id="15729" /> 
+     <player id="45705" /> 
+     <player id="59713" /> 
+     <player id="161885" /> 
+     <player id="212064" /> 
+     <player id="215914" /> 
+     <player id="229642" /> 
+     <player id="242021" /> 
+     <player id="338375" /> 
+     <player id="354663" /> 
+     <player id="375085" /> 
+     <player id="547888" /> 
+     <player id="556436" /> 
+     <player id="578181" /> 
+     <player id="15475" /> 
+     <player id="39540" /> 
+     <player id="45375" /> 
+     <player id="83857" /> 
+     <player id="121935" /> 
+     <player id="134041" /> 
+     <player id="134323" /> 
+     <player id="157940" /> 
+     <player id="237872" /> 
+     <player id="322562" /> 
+     <player id="331920" /> 
+     <player id="375133" /> 
+     <player id="393269" /> 
+     <player id="399078" /> 
+     <player id="559162" /> 
+     <player id="608374" /> 
+     <player id="46520" /> 
+     <player id="85206" /> 
+     <player id="233160" /> 
+     <player id="308633" /> 
+     <player id="322564" /> 
+     <player id="332470" /> 
+     <player id="383273" /> 
+     <player id="390959" /> 
+     <player id="397786" /> 
+     <player id="443676" /> 
+     <player id="451067" /> 
+     <player id="465258" /> 
+     <player id="468226" /> 
+     <player id="470119" /> 
+     <player id="470920" /> 
+     <player id="473840" /> 
+     <player id="474720" /> 
+     <player id="546934" /> 
+     <player id="578191" /> 
+   </players> 
+   <coaches> 
+     <coach id="426178" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>251</team_id> 
+   <id>647129</id> 
+   <name>M. Van Oost</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/647129.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>بلجيكا</nationality> 
+   <birth-day>2001-08-06</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

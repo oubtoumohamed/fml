@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1498</id> 
+   <name>نادي شريف تيراسبول</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1498.png</image> 
+   <country>مولدوفا</country> 
+   <adrese>ul. K. Libnekhta, nr. 1/2</adrese> 
+   <website>http://www.fc-sheriff.com</website> 
+   <creation-date>1997</creation-date> 
+   <players> 
+     <player id="29785" /> 
+     <player id="85748" /> 
+     <player id="251507" /> 
+     <player id="265026" /> 
+     <player id="462800" /> 
+     <player id="463431" /> 
+     <player id="28155" /> 
+     <player id="36608" /> 
+     <player id="41483" /> 
+     <player id="83391" /> 
+     <player id="131147" /> 
+     <player id="135237" /> 
+     <player id="158372" /> 
+     <player id="185050" /> 
+     <player id="264806" /> 
+     <player id="269983" /> 
+     <player id="285145" /> 
+     <player id="296212" /> 
+     <player id="297269" /> 
+     <player id="324683" /> 
+     <player id="344149" /> 
+     <player id="384509" /> 
+     <player id="384517" /> 
+     <player id="427812" /> 
+     <player id="464075" /> 
+     <player id="31061" /> 
+     <player id="37491" /> 
+     <player id="38960" /> 
+     <player id="85197" /> 
+     <player id="138136" /> 
+     <player id="151956" /> 
+     <player id="161218" /> 
+     <player id="209080" /> 
+     <player id="211289" /> 
+     <player id="217612" /> 
+     <player id="269806" /> 
+     <player id="269984" /> 
+     <player id="270145" /> 
+     <player id="316441" /> 
+     <player id="384521" /> 
+     <player id="403623" /> 
+     <player id="427816" /> 
+     <player id="463455" /> 
+     <player id="489507" /> 
+     <player id="489511" /> 
+     <player id="629580" /> 
+     <player id="123303" /> 
+     <player id="129160" /> 
+     <player id="170744" /> 
+     <player id="195963" /> 
+     <player id="215730" /> 
+     <player id="231948" /> 
+     <player id="297934" /> 
+     <player id="305853" /> 
+     <player id="344633" /> 
+     <player id="403265" /> 
+     <player id="423840" /> 
+     <player id="437256" /> 
+     <player id="477195" /> 
+     <player id="556465" /> 
+   </players> 
+   <coaches> 
+     <coach id="36581" /> 
+     <coach id="304564" /> 
+     <coach id="327496" /> 
+     <coach id="362155" /> 
+   </coaches> 
+</team>

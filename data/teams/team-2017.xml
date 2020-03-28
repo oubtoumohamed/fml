@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2017</id> 
+   <name>نادي برشلونة لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2017.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Avenida de Arístides Maillol</adrese> 
+   <website>http://www.fcbarcelona.com</website> 
+   <creation-date>1899</creation-date> 
+   <players> 
+     <player id="89711" /> 
+     <player id="102525" /> 
+     <player id="137206" /> 
+     <player id="177265" /> 
+     <player id="394156" /> 
+     <player id="400666" /> 
+     <player id="456109" /> 
+     <player id="2181" /> 
+     <player id="10605" /> 
+     <player id="60883" /> 
+     <player id="64457" /> 
+     <player id="102859" /> 
+     <player id="103186" /> 
+     <player id="138198" /> 
+     <player id="158369" /> 
+     <player id="215638" /> 
+     <player id="257122" /> 
+     <player id="289762" /> 
+     <player id="299242" /> 
+     <player id="308962" /> 
+     <player id="314218" /> 
+     <player id="372739" /> 
+     <player id="372743" /> 
+     <player id="372745" /> 
+     <player id="396788" /> 
+     <player id="397866" /> 
+     <player id="405580" /> 
+     <player id="407751" /> 
+     <player id="459276" /> 
+     <player id="460016" /> 
+     <player id="460017" /> 
+     <player id="461131" /> 
+     <player id="464313" /> 
+     <player id="480539" /> 
+     <player id="485662" /> 
+     <player id="502349" /> 
+     <player id="329" /> 
+     <player id="4634" /> 
+     <player id="11354" /> 
+     <player id="16386" /> 
+     <player id="31974" /> 
+     <player id="61274" /> 
+     <player id="82507" /> 
+     <player id="108457" /> 
+     <player id="149750" /> 
+     <player id="160259" /> 
+     <player id="170346" /> 
+     <player id="200890" /> 
+     <player id="214364" /> 
+     <player id="245897" /> 
+     <player id="260738" /> 
+     <player id="288085" /> 
+     <player id="316433" /> 
+     <player id="316437" /> 
+     <player id="372751" /> 
+     <player id="393460" /> 
+     <player id="404591" /> 
+     <player id="405148" /> 
+     <player id="426595" /> 
+     <player id="428650" /> 
+     <player id="456255" /> 
+     <player id="460015" /> 
+     <player id="469613" /> 
+     <player id="477413" /> 
+     <player id="497147" /> 
+     <player id="506107" /> 
+     <player id="119" /> 
+     <player id="1870" /> 
+     <player id="2290" /> 
+     <player id="92385" /> 
+     <player id="164611" /> 
+     <player id="312839" /> 
+     <player id="320112" /> 
+     <player id="333697" /> 
+     <player id="354959" /> 
+     <player id="372753" /> 
+     <player id="386947" /> 
+     <player id="427921" /> 
+     <player id="436482" /> 
+     <player id="474465" /> 
+     <player id="509703" /> 
+     <player id="524685" /> 
+     <player id="571800" /> 
+   </players> 
+   <coaches> 
+     <coach id="110782" /> 
+     <coach id="209009" /> 
+     <coach id="304634" /> 
+   </coaches> 
+</team>

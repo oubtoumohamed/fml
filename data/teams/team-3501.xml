@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3501</id> 
+   <name>نادي الغرافة الراياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/3501.png</image> 
+   <country>قطر</country> 
+   <adrese>P.O. Box 4767, Al-Gharaffah</adrese> 
+   <website>http://www.al-gharafa.com</website> 
+   <creation-date>1979</creation-date> 
+   <players> 
+     <player id="26764" /> 
+     <player id="64819" /> 
+     <player id="208814" /> 
+     <player id="343779" /> 
+     <player id="474993" /> 
+     <player id="570051" /> 
+     <player id="576213" /> 
+     <player id="590212" /> 
+     <player id="596529" /> 
+     <player id="643832" /> 
+     <player id="10907" /> 
+     <player id="15159" /> 
+     <player id="56293" /> 
+     <player id="156684" /> 
+     <player id="161965" /> 
+     <player id="175610" /> 
+     <player id="208820" /> 
+     <player id="263311" /> 
+     <player id="322815" /> 
+     <player id="343759" /> 
+     <player id="465691" /> 
+     <player id="465705" /> 
+     <player id="472264" /> 
+     <player id="569607" /> 
+     <player id="575715" /> 
+     <player id="576187" /> 
+     <player id="34" /> 
+     <player id="53518" /> 
+     <player id="64881" /> 
+     <player id="88296" /> 
+     <player id="97318" /> 
+     <player id="111513" /> 
+     <player id="143880" /> 
+     <player id="163840" /> 
+     <player id="210394" /> 
+     <player id="210395" /> 
+     <player id="233049" /> 
+     <player id="295025" /> 
+     <player id="343747" /> 
+     <player id="343749" /> 
+     <player id="465724" /> 
+     <player id="479986" /> 
+     <player id="506852" /> 
+     <player id="515030" /> 
+     <player id="528106" /> 
+     <player id="551720" /> 
+     <player id="559715" /> 
+     <player id="565069" /> 
+     <player id="575716" /> 
+     <player id="582716" /> 
+     <player id="582717" /> 
+     <player id="594782" /> 
+     <player id="636330" /> 
+     <player id="639051" /> 
+     <player id="639052" /> 
+     <player id="639053" /> 
+     <player id="639055" /> 
+     <player id="639056" /> 
+     <player id="639057" /> 
+     <player id="26758" /> 
+     <player id="65765" /> 
+     <player id="79476" /> 
+     <player id="115634" /> 
+     <player id="163741" /> 
+     <player id="175204" /> 
+     <player id="179179" /> 
+     <player id="472272" /> 
+     <player id="474990" /> 
+     <player id="474994" /> 
+   </players> 
+   <coaches> 
+     <coach id="110862" /> 
+     <coach id="143964" /> 
+     <coach id="248045" /> 
+     <coach id="280657" /> 
+   </coaches> 
+</team>

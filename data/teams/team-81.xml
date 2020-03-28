@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>81</id> 
+   <name>نادي سانت جوليا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/81.png</image> 
+   <country>أندورا</country> 
+   <adrese>Plaça de la Germandat</adrese> 
+   <website></website> 
+   <creation-date>1982</creation-date> 
+   <players> 
+     <player id="39170" /> 
+     <player id="150145" /> 
+     <player id="154611" /> 
+     <player id="191658" /> 
+     <player id="194567" /> 
+     <player id="195765" /> 
+     <player id="279221" /> 
+     <player id="488206" /> 
+     <player id="14154" /> 
+     <player id="40552" /> 
+     <player id="62937" /> 
+     <player id="148043" /> 
+     <player id="157934" /> 
+     <player id="203045" /> 
+     <player id="208369" /> 
+     <player id="246080" /> 
+     <player id="285650" /> 
+     <player id="407843" /> 
+     <player id="407877" /> 
+     <player id="407943" /> 
+     <player id="412225" /> 
+     <player id="488209" /> 
+     <player id="502753" /> 
+     <player id="554494" /> 
+     <player id="554510" /> 
+     <player id="39368" /> 
+     <player id="59797" /> 
+     <player id="92910" /> 
+     <player id="118790" /> 
+     <player id="128901" /> 
+     <player id="128908" /> 
+     <player id="134799" /> 
+     <player id="135884" /> 
+     <player id="136207" /> 
+     <player id="158010" /> 
+     <player id="195772" /> 
+     <player id="210588" /> 
+     <player id="250970" /> 
+     <player id="265716" /> 
+     <player id="280003" /> 
+     <player id="407847" /> 
+     <player id="407849" /> 
+     <player id="554506" /> 
+     <player id="39108" /> 
+     <player id="87644" /> 
+     <player id="134290" /> 
+     <player id="134296" /> 
+     <player id="347399" /> 
+     <player id="349899" /> 
+     <player id="416924" /> 
+     <player id="482364" /> 
+     <player id="488229" /> 
+     <player id="554495" /> 
+     <player id="554496" /> 
+     <player id="554504" /> 
+     <player id="615481" /> 
+   </players> 
+   <coaches> 
+     <coach id="40848" /> 
+     <coach id="194434" /> 
+     <coach id="226318" /> 
+     <coach id="554511" /> 
+   </coaches> 
+</team>

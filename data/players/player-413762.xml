@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1140</team_id> 
+   <id>413762</id> 
+   <name>إيرلينج مو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/413762.png</image> 
+   <position>غير معروف</position> 
+   <nationality>النرويج</nationality> 
+   <birth-day>Molde</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

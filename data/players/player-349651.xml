@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>670</team_id> 
+   <id>349651</id> 
+   <name>إيان وان</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/349651.png</image> 
+   <position>غير معروف</position> 
+   <nationality>إنجلترا</nationality> 
+   <birth-day>1967-12-14</birth-day> 
+   <length  unit="cm">إنجلترا</length> 
+   <weight  unit="kg"></weight> 
+</player>

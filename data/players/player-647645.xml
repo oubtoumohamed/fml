@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>39043</team_id> 
+   <id>647645</id> 
+   <name>Y. El Khafi</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/647645.png</image> 
+   <position>مهاجم</position> 
+   <nationality>المغرب</nationality> 
+   <birth-day>1994-04-11</birth-day> 
+   <length  unit="cm">175</length> 
+   <weight  unit="kg">63</weight> 
+</player>

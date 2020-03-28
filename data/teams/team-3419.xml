@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3419</id> 
+   <name>نادي مولودية الجزائر</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3419.png</image> 
+   <country>الجزائر</country> 
+   <adrese>Lotissement Benhadaddi, Villa 12B</adrese> 
+   <website>http://www.mouloudia.org</website> 
+   <creation-date>1921</creation-date> 
+   <players> 
+     <player id="49258" /> 
+     <player id="315848" /> 
+     <player id="356285" /> 
+     <player id="495102" /> 
+     <player id="495825" /> 
+     <player id="498384" /> 
+     <player id="548448" /> 
+     <player id="48979" /> 
+     <player id="89360" /> 
+     <player id="89429" /> 
+     <player id="156341" /> 
+     <player id="163400" /> 
+     <player id="199294" /> 
+     <player id="205195" /> 
+     <player id="217090" /> 
+     <player id="235504" /> 
+     <player id="266659" /> 
+     <player id="288551" /> 
+     <player id="311129" /> 
+     <player id="468833" /> 
+     <player id="490511" /> 
+     <player id="495307" /> 
+     <player id="555084" /> 
+     <player id="556043" /> 
+     <player id="594794" /> 
+     <player id="612664" /> 
+     <player id="649446" /> 
+     <player id="49033" /> 
+     <player id="73102" /> 
+     <player id="103793" /> 
+     <player id="138410" /> 
+     <player id="159743" /> 
+     <player id="220813" /> 
+     <player id="256487" /> 
+     <player id="271901" /> 
+     <player id="326036" /> 
+     <player id="356313" /> 
+     <player id="413676" /> 
+     <player id="432260" /> 
+     <player id="455439" /> 
+     <player id="455509" /> 
+     <player id="495101" /> 
+     <player id="495103" /> 
+     <player id="495104" /> 
+     <player id="495286" /> 
+     <player id="612663" /> 
+     <player id="49052" /> 
+     <player id="49151" /> 
+     <player id="89417" /> 
+     <player id="178613" /> 
+     <player id="222965" /> 
+     <player id="360177" /> 
+     <player id="368419" /> 
+     <player id="442158" /> 
+     <player id="456180" /> 
+     <player id="469821" /> 
+     <player id="472189" /> 
+     <player id="550641" /> 
+     <player id="647696" /> 
+   </players> 
+   <coaches> 
+     <coach id="2061" /> 
+     <coach id="138864" /> 
+     <coach id="183200" /> 
+     <coach id="231285" /> 
+     <coach id="359735" /> 
+     <coach id="569896" /> 
+   </coaches> 
+</team>

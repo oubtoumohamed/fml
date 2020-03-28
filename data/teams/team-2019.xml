@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2019</id> 
+   <name>أتليتيكو بلباو</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2019.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Alameda de Mazarredo 23</adrese> 
+   <website>http://www.athletic-club.net</website> 
+   <creation-date>1898</creation-date> 
+   <players> 
+     <player id="61473" /> 
+     <player id="200705" /> 
+     <player id="263177" /> 
+     <player id="369295" /> 
+     <player id="372585" /> 
+     <player id="372587" /> 
+     <player id="394156" /> 
+     <player id="471526" /> 
+     <player id="61355" /> 
+     <player id="61483" /> 
+     <player id="69348" /> 
+     <player id="75843" /> 
+     <player id="146136" /> 
+     <player id="146693" /> 
+     <player id="205314" /> 
+     <player id="214367" /> 
+     <player id="263172" /> 
+     <player id="263173" /> 
+     <player id="274456" /> 
+     <player id="282315" /> 
+     <player id="372599" /> 
+     <player id="372605" /> 
+     <player id="452745" /> 
+     <player id="494562" /> 
+     <player id="494901" /> 
+     <player id="500094" /> 
+     <player id="3470" /> 
+     <player id="19071" /> 
+     <player id="47927" /> 
+     <player id="60089" /> 
+     <player id="61486" /> 
+     <player id="72239" /> 
+     <player id="135892" /> 
+     <player id="147149" /> 
+     <player id="263167" /> 
+     <player id="319524" /> 
+     <player id="372661" /> 
+     <player id="447217" /> 
+     <player id="456309" /> 
+     <player id="459012" /> 
+     <player id="494559" /> 
+     <player id="518958" /> 
+     <player id="3163" /> 
+     <player id="20021" /> 
+     <player id="58325" /> 
+     <player id="203762" /> 
+     <player id="237168" /> 
+     <player id="263175" /> 
+     <player id="277682" /> 
+     <player id="316428" /> 
+     <player id="372647" /> 
+     <player id="372657" /> 
+   </players> 
+   <coaches> 
+     <coach id="3159" /> 
+     <coach id="176991" /> 
+     <coach id="224156" /> 
+     <coach id="248135" /> 
+   </coaches> 
+</team>

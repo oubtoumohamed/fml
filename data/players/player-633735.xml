@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3471</team_id> 
+   <id>633735</id> 
+   <name>A.  Kernane</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/633735.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>المغرب</nationality> 
+   <birth-day>2000-02-24</birth-day> 
+   <length  unit="cm">185</length> 
+   <weight  unit="kg">اليمني</weight> 
+</player>

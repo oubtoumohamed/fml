@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>17351</team_id> 
+   <id>569896</id> 
+   <name>فارس بلخير</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/569896.png</image> 
+   <position>غير معروف</position> 
+   <nationality>الجزائر</nationality> 
+   <birth-day>الجزائر</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

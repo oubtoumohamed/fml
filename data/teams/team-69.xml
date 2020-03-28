@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>69</id> 
+   <name>بارتيزاني تيرانا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/69.png</image> 
+   <country>ألبانيا</country> 
+   <adrese>Rruga Frosina Plaku</adrese> 
+   <website></website> 
+   <creation-date>1946</creation-date> 
+   <players> 
+     <player id="39587" /> 
+     <player id="41067" /> 
+     <player id="155951" /> 
+     <player id="465015" /> 
+     <player id="467631" /> 
+     <player id="512380" /> 
+     <player id="540866" /> 
+     <player id="571071" /> 
+     <player id="127255" /> 
+     <player id="135704" /> 
+     <player id="149729" /> 
+     <player id="195234" /> 
+     <player id="208399" /> 
+     <player id="211778" /> 
+     <player id="214850" /> 
+     <player id="250538" /> 
+     <player id="251894" /> 
+     <player id="269400" /> 
+     <player id="285128" /> 
+     <player id="298977" /> 
+     <player id="300795" /> 
+     <player id="394958" /> 
+     <player id="395379" /> 
+     <player id="454880" /> 
+     <player id="508768" /> 
+     <player id="571072" /> 
+     <player id="613342" /> 
+     <player id="613431" /> 
+     <player id="632589" /> 
+     <player id="637356" /> 
+     <player id="7487" /> 
+     <player id="47282" /> 
+     <player id="57355" /> 
+     <player id="97276" /> 
+     <player id="127267" /> 
+     <player id="142075" /> 
+     <player id="165030" /> 
+     <player id="171948" /> 
+     <player id="190827" /> 
+     <player id="246984" /> 
+     <player id="306393" /> 
+     <player id="310557" /> 
+     <player id="319654" /> 
+     <player id="319657" /> 
+     <player id="329120" /> 
+     <player id="341353" /> 
+     <player id="374003" /> 
+     <player id="394203" /> 
+     <player id="423242" /> 
+     <player id="446006" /> 
+     <player id="465020" /> 
+     <player id="465076" /> 
+     <player id="467563" /> 
+     <player id="534592" /> 
+     <player id="564740" /> 
+     <player id="595078" /> 
+     <player id="613432" /> 
+     <player id="613433" /> 
+     <player id="613434" /> 
+     <player id="637355" /> 
+     <player id="28120" /> 
+     <player id="37489" /> 
+     <player id="53866" /> 
+     <player id="276785" /> 
+     <player id="282274" /> 
+     <player id="302499" /> 
+     <player id="333264" /> 
+     <player id="335474" /> 
+     <player id="382419" /> 
+     <player id="390791" /> 
+     <player id="424079" /> 
+     <player id="424081" /> 
+     <player id="430046" /> 
+     <player id="473753" /> 
+     <player id="514236" /> 
+     <player id="571073" /> 
+     <player id="573620" /> 
+     <player id="616280" /> 
+   </players> 
+   <coaches> 
+     <coach id="57368" /> 
+     <coach id="98113" /> 
+     <coach id="223496" /> 
+     <coach id="250550" /> 
+     <coach id="389711" /> 
+   </coaches> 
+</team>

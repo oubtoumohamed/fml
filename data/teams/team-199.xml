@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>199</id> 
+   <name>نادي دينامو مينسك لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/199.png</image> 
+   <country>بلاروسيا</country> 
+   <adrese>ul. Vitebskaja 11</adrese> 
+   <website>http://www.dinamo-minsk.by</website> 
+   <creation-date>1927</creation-date> 
+   <players> 
+     <player id="80420" /> 
+     <player id="135920" /> 
+     <player id="194219" /> 
+     <player id="319663" /> 
+     <player id="467571" /> 
+     <player id="525427" /> 
+     <player id="575523" /> 
+     <player id="625739" /> 
+     <player id="5987" /> 
+     <player id="27567" /> 
+     <player id="39567" /> 
+     <player id="59609" /> 
+     <player id="85285" /> 
+     <player id="125204" /> 
+     <player id="127273" /> 
+     <player id="129883" /> 
+     <player id="134639" /> 
+     <player id="135823" /> 
+     <player id="143406" /> 
+     <player id="166011" /> 
+     <player id="194684" /> 
+     <player id="198132" /> 
+     <player id="386351" /> 
+     <player id="386357" /> 
+     <player id="399179" /> 
+     <player id="424935" /> 
+     <player id="468829" /> 
+     <player id="559292" /> 
+     <player id="559294" /> 
+     <player id="35222" /> 
+     <player id="39578" /> 
+     <player id="70654" /> 
+     <player id="80434" /> 
+     <player id="80457" /> 
+     <player id="80513" /> 
+     <player id="83218" /> 
+     <player id="84287" /> 
+     <player id="85770" /> 
+     <player id="135730" /> 
+     <player id="136332" /> 
+     <player id="152941" /> 
+     <player id="180535" /> 
+     <player id="181674" /> 
+     <player id="191468" /> 
+     <player id="210494" /> 
+     <player id="215380" /> 
+     <player id="217505" /> 
+     <player id="235379" /> 
+     <player id="258557" /> 
+     <player id="269801" /> 
+     <player id="272936" /> 
+     <player id="284108" /> 
+     <player id="386367" /> 
+     <player id="424028" /> 
+     <player id="424029" /> 
+     <player id="424032" /> 
+     <player id="489548" /> 
+     <player id="554111" /> 
+     <player id="615324" /> 
+     <player id="615825" /> 
+     <player id="52868" /> 
+     <player id="80461" /> 
+     <player id="80486" /> 
+     <player id="80618" /> 
+     <player id="179836" /> 
+     <player id="319678" /> 
+     <player id="347465" /> 
+     <player id="488341" /> 
+     <player id="559293" /> 
+     <player id="575603" /> 
+     <player id="606928" /> 
+   </players> 
+   <coaches> 
+     <coach id="185069" /> 
+     <coach id="225934" /> 
+     <coach id="277580" /> 
+   </coaches> 
+</team>

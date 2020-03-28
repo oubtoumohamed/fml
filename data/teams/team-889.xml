@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>889</id> 
+   <name>نادي نانت لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/889.png</image> 
+   <country>فرنسا</country> 
+   <adrese>Centre Sportif José Arribas, La Jonelière</adrese> 
+   <website>http://www.fcnantes.com</website> 
+   <creation-date>1943</creation-date> 
+   <players> 
+     <player id="13763" /> 
+     <player id="19741" /> 
+     <player id="189523" /> 
+     <player id="389155" /> 
+     <player id="404765" /> 
+     <player id="426518" /> 
+     <player id="20978" /> 
+     <player id="61064" /> 
+     <player id="79757" /> 
+     <player id="112536" /> 
+     <player id="122768" /> 
+     <player id="138197" /> 
+     <player id="146637" /> 
+     <player id="163502" /> 
+     <player id="196792" /> 
+     <player id="217980" /> 
+     <player id="250807" /> 
+     <player id="276842" /> 
+     <player id="294380" /> 
+     <player id="307051" /> 
+     <player id="320101" /> 
+     <player id="364047" /> 
+     <player id="396832" /> 
+     <player id="419471" /> 
+     <player id="419603" /> 
+     <player id="464542" /> 
+     <player id="466677" /> 
+     <player id="484686" /> 
+     <player id="85494" /> 
+     <player id="118840" /> 
+     <player id="132629" /> 
+     <player id="154152" /> 
+     <player id="159223" /> 
+     <player id="171544" /> 
+     <player id="180973" /> 
+     <player id="242372" /> 
+     <player id="250810" /> 
+     <player id="250812" /> 
+     <player id="263372" /> 
+     <player id="263489" /> 
+     <player id="265377" /> 
+     <player id="288089" /> 
+     <player id="292940" /> 
+     <player id="298183" /> 
+     <player id="311596" /> 
+     <player id="331300" /> 
+     <player id="344099" /> 
+     <player id="364049" /> 
+     <player id="367009" /> 
+     <player id="417723" /> 
+     <player id="502748" /> 
+     <player id="517595" /> 
+     <player id="9605" /> 
+     <player id="43533" /> 
+     <player id="86063" /> 
+     <player id="122047" /> 
+     <player id="146358" /> 
+     <player id="175303" /> 
+     <player id="182288" /> 
+     <player id="187099" /> 
+     <player id="213903" /> 
+     <player id="242831" /> 
+     <player id="257712" /> 
+     <player id="298167" /> 
+     <player id="336621" /> 
+     <player id="447098" /> 
+     <player id="458921" /> 
+     <player id="502776" /> 
+   </players> 
+   <coaches> 
+     <coach id="110804" /> 
+     <coach id="110862" /> 
+     <coach id="111204" /> 
+     <coach id="429576" /> 
+     <coach id="494618" /> 
+   </coaches> 
+</team>

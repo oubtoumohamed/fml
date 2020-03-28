@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1240</team_id> 
+   <id>619255</id> 
+   <name>دانييل مالديني</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/619255.png</image> 
+   <position>مهاجم</position> 
+   <nationality>إيطاليا</nationality> 
+   <birth-day>2001-10-11</birth-day> 
+   <length  unit="cm">اليمني</length> 
+   <weight  unit="kg"></weight> 
+</player>

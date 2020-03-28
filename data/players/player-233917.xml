@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>599</team_id> 
+   <id>233917</id> 
+   <name>P. Čuhel</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/233917.png</image> 
+   <position>التشيك</position> 
+   <nationality>1965-01-04</nationality> 
+   <birth-day>التشيك</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>12557</id> 
+   <name>العدالة</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/12557.png</image> 
+   <country>السعودية</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>1984</creation-date> 
+   <players> 
+     <player id="21417" /> 
+     <player id="53313" /> 
+     <player id="143685" /> 
+     <player id="308571" /> 
+     <player id="476071" /> 
+     <player id="476107" /> 
+     <player id="91171" /> 
+     <player id="143696" /> 
+     <player id="143728" /> 
+     <player id="143732" /> 
+     <player id="174695" /> 
+     <player id="174723" /> 
+     <player id="193726" /> 
+     <player id="194267" /> 
+     <player id="224000" /> 
+     <player id="300369" /> 
+     <player id="325192" /> 
+     <player id="422738" /> 
+     <player id="465469" /> 
+     <player id="476073" /> 
+     <player id="476080" /> 
+     <player id="476085" /> 
+     <player id="479437" /> 
+     <player id="625824" /> 
+     <player id="45596" /> 
+     <player id="71462" /> 
+     <player id="167547" /> 
+     <player id="174716" /> 
+     <player id="174720" /> 
+     <player id="207507" /> 
+     <player id="207636" /> 
+     <player id="279335" /> 
+     <player id="298258" /> 
+     <player id="314622" /> 
+     <player id="375801" /> 
+     <player id="399789" /> 
+     <player id="414809" /> 
+     <player id="438090" /> 
+     <player id="469731" /> 
+     <player id="476072" /> 
+     <player id="476074" /> 
+     <player id="476076" /> 
+     <player id="476078" /> 
+     <player id="476081" /> 
+     <player id="476083" /> 
+     <player id="476086" /> 
+     <player id="498072" /> 
+     <player id="498318" /> 
+     <player id="625816" /> 
+     <player id="647686" /> 
+     <player id="145907" /> 
+     <player id="159740" /> 
+     <player id="346045" /> 
+     <player id="378125" /> 
+     <player id="433605" /> 
+     <player id="473410" /> 
+     <player id="476084" /> 
+     <player id="492145" /> 
+   </players> 
+   <coaches> 
+     <coach id="245784" /> 
+     <coach id="280300" /> 
+     <coach id="360591" /> 
+   </coaches> 
+</team>

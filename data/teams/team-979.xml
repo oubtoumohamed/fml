@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>979</id> 
+   <name>آينتراخت فرانكفورت</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/979.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Mörfelder Landstraße 362</adrese> 
+   <website>http://www.eintracht.de</website> 
+   <creation-date>1899</creation-date> 
+   <players> 
+     <player id="1785" /> 
+     <player id="8570" /> 
+     <player id="55435" /> 
+     <player id="85380" /> 
+     <player id="158351" /> 
+     <player id="329910" /> 
+     <player id="494810" /> 
+     <player id="1790" /> 
+     <player id="5335" /> 
+     <player id="21022" /> 
+     <player id="57720" /> 
+     <player id="91817" /> 
+     <player id="127794" /> 
+     <player id="161282" /> 
+     <player id="163279" /> 
+     <player id="167009" /> 
+     <player id="167977" /> 
+     <player id="222752" /> 
+     <player id="286705" /> 
+     <player id="454071" /> 
+     <player id="454728" /> 
+     <player id="473455" /> 
+     <player id="481748" /> 
+     <player id="490697" /> 
+     <player id="2259" /> 
+     <player id="11446" /> 
+     <player id="22870" /> 
+     <player id="38020" /> 
+     <player id="56968" /> 
+     <player id="145254" /> 
+     <player id="208118" /> 
+     <player id="212612" /> 
+     <player id="215576" /> 
+     <player id="237351" /> 
+     <player id="242779" /> 
+     <player id="280824" /> 
+     <player id="316548" /> 
+     <player id="335199" /> 
+     <player id="397947" /> 
+     <player id="411698" /> 
+     <player id="414413" /> 
+     <player id="463422" /> 
+     <player id="482629" /> 
+     <player id="494807" /> 
+     <player id="494808" /> 
+     <player id="542530" /> 
+     <player id="565522" /> 
+     <player id="1802" /> 
+     <player id="1870" /> 
+     <player id="59418" /> 
+     <player id="114430" /> 
+     <player id="161790" /> 
+     <player id="166466" /> 
+     <player id="175582" /> 
+     <player id="191203" /> 
+     <player id="214897" /> 
+     <player id="259490" /> 
+     <player id="290152" /> 
+     <player id="414066" /> 
+     <player id="427736" /> 
+     <player id="442705" /> 
+   </players> 
+   <coaches> 
+     <coach id="178757" /> 
+     <coach id="257597" /> 
+     <coach id="282522" /> 
+     <coach id="282523" /> 
+     <coach id="304380" /> 
+   </coaches> 
+</team>

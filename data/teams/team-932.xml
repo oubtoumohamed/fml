@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>932</id> 
+   <name>نيم أولمبيك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/932.png</image> 
+   <country>فرنسا</country> 
+   <adrese>Avenue de la Bouvine</adrese> 
+   <website>http://www.nimesolympique.fr</website> 
+   <creation-date>1937</creation-date> 
+   <players> 
+     <player id="159210" /> 
+     <player id="196782" /> 
+     <player id="196783" /> 
+     <player id="199432" /> 
+     <player id="286272" /> 
+     <player id="320100" /> 
+     <player id="442484" /> 
+     <player id="444895" /> 
+     <player id="469999" /> 
+     <player id="595457" /> 
+     <player id="1148" /> 
+     <player id="37695" /> 
+     <player id="37754" /> 
+     <player id="66649" /> 
+     <player id="75598" /> 
+     <player id="87538" /> 
+     <player id="87569" /> 
+     <player id="153680" /> 
+     <player id="157945" /> 
+     <player id="161078" /> 
+     <player id="161568" /> 
+     <player id="217618" /> 
+     <player id="242165" /> 
+     <player id="247883" /> 
+     <player id="263291" /> 
+     <player id="294999" /> 
+     <player id="295938" /> 
+     <player id="297710" /> 
+     <player id="315518" /> 
+     <player id="329542" /> 
+     <player id="343029" /> 
+     <player id="348357" /> 
+     <player id="429870" /> 
+     <player id="443910" /> 
+     <player id="447199" /> 
+     <player id="459821" /> 
+     <player id="468815" /> 
+     <player id="1443" /> 
+     <player id="2079" /> 
+     <player id="4570" /> 
+     <player id="13163" /> 
+     <player id="21024" /> 
+     <player id="37688" /> 
+     <player id="37742" /> 
+     <player id="37960" /> 
+     <player id="39298" /> 
+     <player id="71597" /> 
+     <player id="74789" /> 
+     <player id="78194" /> 
+     <player id="124968" /> 
+     <player id="160769" /> 
+     <player id="161112" /> 
+     <player id="190151" /> 
+     <player id="196789" /> 
+     <player id="218727" /> 
+     <player id="218748" /> 
+     <player id="246081" /> 
+     <player id="259005" /> 
+     <player id="295076" /> 
+     <player id="298122" /> 
+     <player id="312538" /> 
+     <player id="363475" /> 
+     <player id="374045" /> 
+     <player id="398062" /> 
+     <player id="402768" /> 
+     <player id="405576" /> 
+     <player id="406484" /> 
+     <player id="446690" /> 
+     <player id="468384" /> 
+     <player id="480436" /> 
+     <player id="535059" /> 
+     <player id="575680" /> 
+     <player id="1409" /> 
+     <player id="1545" /> 
+     <player id="113713" /> 
+     <player id="163479" /> 
+     <player id="163559" /> 
+     <player id="185560" /> 
+     <player id="192307" /> 
+     <player id="207915" /> 
+     <player id="249283" /> 
+     <player id="249611" /> 
+     <player id="275059" /> 
+     <player id="285403" /> 
+     <player id="309091" /> 
+     <player id="328270" /> 
+     <player id="329580" /> 
+     <player id="343469" /> 
+     <player id="388305" /> 
+     <player id="405579" /> 
+     <player id="438713" /> 
+     <player id="444218" /> 
+     <player id="456817" /> 
+     <player id="458600" /> 
+     <player id="468816" /> 
+     <player id="597204" /> 
+   </players> 
+   <coaches> 
+     <coach id="138883" /> 
+     <coach id="262102" /> 
+     <coach id="647728" /> 
+   </coaches> 
+</team>

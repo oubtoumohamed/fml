@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1026</id> 
+   <name>نادي أونيون برلين لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1026.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Hämmerlingstraße 80-88</adrese> 
+   <website>http://www.fc-union-berlin.de</website> 
+   <creation-date>1966</creation-date> 
+   <players> 
+     <player id="42494" /> 
+     <player id="197662" /> 
+     <player id="259451" /> 
+     <player id="338433" /> 
+     <player id="486722" /> 
+     <player id="546672" /> 
+     <player id="4685" /> 
+     <player id="16668" /> 
+     <player id="16907" /> 
+     <player id="35557" /> 
+     <player id="38186" /> 
+     <player id="76007" /> 
+     <player id="76661" /> 
+     <player id="156996" /> 
+     <player id="229818" /> 
+     <player id="259481" /> 
+     <player id="260502" /> 
+     <player id="292479" /> 
+     <player id="353099" /> 
+     <player id="410286" /> 
+     <player id="493088" /> 
+     <player id="497529" /> 
+     <player id="1939" /> 
+     <player id="39380" /> 
+     <player id="54180" /> 
+     <player id="57673" /> 
+     <player id="68180" /> 
+     <player id="94206" /> 
+     <player id="102535" /> 
+     <player id="119181" /> 
+     <player id="141327" /> 
+     <player id="238246" /> 
+     <player id="259394" /> 
+     <player id="259440" /> 
+     <player id="259799" /> 
+     <player id="271948" /> 
+     <player id="279077" /> 
+     <player id="307933" /> 
+     <player id="308268" /> 
+     <player id="356063" /> 
+     <player id="406188" /> 
+     <player id="435823" /> 
+     <player id="454152" /> 
+     <player id="494340" /> 
+     <player id="497582" /> 
+     <player id="54321" /> 
+     <player id="54704" /> 
+     <player id="122073" /> 
+     <player id="127165" /> 
+     <player id="158651" /> 
+     <player id="161786" /> 
+     <player id="219030" /> 
+     <player id="269934" /> 
+     <player id="395765" /> 
+     <player id="518060" /> 
+   </players> 
+   <coaches> 
+     <coach id="38148" /> 
+     <coach id="195455" /> 
+     <coach id="247840" /> 
+     <coach id="437901" /> 
+   </coaches> 
+</team>

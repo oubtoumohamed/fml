@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3564</id> 
+   <name>البقعة</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3564.png</image> 
+   <country>الأردن</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="80658" /> 
+     <player id="80688" /> 
+     <player id="80700" /> 
+   </players> 
+   <coaches> 
+   </coaches> 
+</team>

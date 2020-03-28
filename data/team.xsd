@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+    <xs:element name="team" type="complexroot">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="id" type="xs:integer" maxOccurs="1"/>
+                <xs:element name="name" type="xs:string" maxOccurs="1"/>
+                <xs:element name="image" type="xs:string" maxOccurs="1"/>
+                <xs:element name="country" type="xs:string" maxOccurs="1"/>
+                <xs:element name="adrese" type="xs:string" maxOccurs="1"/>
+                <xs:element name="website" type="xs:anyURI" maxOccurs="1"/>
+                <xs:element name="creation-date" type="xs:date" maxOccurs="1"/>
+
+                <xs:element name="players" type="complexPlayers" minOccurs="unbounded"/>
+                <xs:element name="coaches" type="complexCoaches" minOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="complexPlayers">
+        <xs:sequence>
+            <xs:element name="player">
+                <xs:complexType>
+                    <xs:attribute name="id" type="xs:integer"/>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="complexCoaches">
+        <xs:sequence>
+            <xs:element name="coach">
+                <xs:complexType>
+                    <xs:sequence>
+
+                        <xs:element name="id" type="xs:integer" maxOccurs="1"/>
+                        <xs:element name="name" type="xs:string" maxOccurs="1"/>
+
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:schema>

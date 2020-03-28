@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>24902</id> 
+   <name>اف سي سابورتالو تيبيليسي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/24902.png</image> 
+   <country>جورجيا</country> 
+   <adrese>7a, M. Asatiani str.</adrese> 
+   <website>http://fcsaburtalo.ge</website> 
+   <creation-date>2000</creation-date> 
+   <players> 
+     <player id="86622" /> 
+     <player id="93636" /> 
+     <player id="156955" /> 
+     <player id="245315" /> 
+     <player id="275735" /> 
+     <player id="275737" /> 
+     <player id="310910" /> 
+     <player id="405134" /> 
+     <player id="405309" /> 
+     <player id="83031" /> 
+     <player id="106286" /> 
+     <player id="160309" /> 
+     <player id="160343" /> 
+     <player id="236731" /> 
+     <player id="275724" /> 
+     <player id="275746" /> 
+     <player id="310914" /> 
+     <player id="404712" /> 
+     <player id="419715" /> 
+     <player id="423650" /> 
+     <player id="455157" /> 
+     <player id="463524" /> 
+     <player id="509357" /> 
+     <player id="40910" /> 
+     <player id="54900" /> 
+     <player id="65110" /> 
+     <player id="85217" /> 
+     <player id="95640" /> 
+     <player id="196081" /> 
+     <player id="274126" /> 
+     <player id="275727" /> 
+     <player id="310915" /> 
+     <player id="310916" /> 
+     <player id="310918" /> 
+     <player id="341341" /> 
+     <player id="404312" /> 
+     <player id="430452" /> 
+     <player id="476733" /> 
+     <player id="29677" /> 
+     <player id="48270" /> 
+     <player id="88164" /> 
+     <player id="181270" /> 
+     <player id="181893" /> 
+     <player id="215557" /> 
+     <player id="263072" /> 
+     <player id="312803" /> 
+     <player id="367539" /> 
+     <player id="373861" /> 
+     <player id="379967" /> 
+     <player id="463545" /> 
+     <player id="644901" /> 
+   </players> 
+   <coaches> 
+     <coach id="41370" /> 
+     <coach id="194439" /> 
+     <coach id="202232" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>158</team_id> 
+   <id>559542</id> 
+   <name>D. Matrljan</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/559542.png</image> 
+   <position>كرواتيا</position> 
+   <nationality>1960-03-04</nationality> 
+   <birth-day>Rijeka</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

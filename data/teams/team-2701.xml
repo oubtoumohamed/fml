@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2701</id> 
+   <name>نادي شيروكي برييغ</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2701.png</image> 
+   <country>البوسنة والهرسك</country> 
+   <adrese>Fra Dudaka Buntica bb</adrese> 
+   <website>http://www.nk-sirokibrijeg.com</website> 
+   <creation-date>1948</creation-date> 
+   <players> 
+     <player id="95057" /> 
+     <player id="302079" /> 
+     <player id="318875" /> 
+     <player id="414059" /> 
+     <player id="478334" /> 
+     <player id="83586" /> 
+     <player id="95784" /> 
+     <player id="122191" /> 
+     <player id="200092" /> 
+     <player id="252018" /> 
+     <player id="266471" /> 
+     <player id="266578" /> 
+     <player id="285145" /> 
+     <player id="309119" /> 
+     <player id="386965" /> 
+     <player id="407941" /> 
+     <player id="494599" /> 
+     <player id="616667" /> 
+     <player id="36565" /> 
+     <player id="40936" /> 
+     <player id="40937" /> 
+     <player id="82707" /> 
+     <player id="83145" /> 
+     <player id="85417" /> 
+     <player id="85523" /> 
+     <player id="85591" /> 
+     <player id="90308" /> 
+     <player id="119747" /> 
+     <player id="134095" /> 
+     <player id="134314" /> 
+     <player id="160127" /> 
+     <player id="215575" /> 
+     <player id="238890" /> 
+     <player id="288409" /> 
+     <player id="375333" /> 
+     <player id="382705" /> 
+     <player id="386973" /> 
+     <player id="398299" /> 
+     <player id="456878" /> 
+     <player id="461825" /> 
+     <player id="462704" /> 
+     <player id="488167" /> 
+     <player id="616482" /> 
+     <player id="617221" /> 
+     <player id="129625" /> 
+     <player id="235274" /> 
+     <player id="249616" /> 
+     <player id="266527" /> 
+     <player id="404770" /> 
+     <player id="406517" /> 
+     <player id="427791" /> 
+     <player id="464694" /> 
+   </players> 
+   <coaches> 
+     <coach id="36581" /> 
+     <coach id="245901" /> 
+     <coach id="259948" /> 
+     <coach id="395151" /> 
+     <coach id="467390" /> 
+   </coaches> 
+</team>

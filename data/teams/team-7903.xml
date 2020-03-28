@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>7903</id> 
+   <name>نادي فادوتس لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/7903.png</image> 
+   <country>ليشنشتاين</country> 
+   <adrese>Lettstrasse 74</adrese> 
+   <website>http://www.fcvaduz.li</website> 
+   <creation-date>1932</creation-date> 
+   <players> 
+     <player id="16913" /> 
+     <player id="40322" /> 
+     <player id="102637" /> 
+     <player id="163232" /> 
+     <player id="372369" /> 
+     <player id="387761" /> 
+     <player id="427825" /> 
+     <player id="595891" /> 
+     <player id="36643" /> 
+     <player id="54448" /> 
+     <player id="109703" /> 
+     <player id="183953" /> 
+     <player id="213979" /> 
+     <player id="260504" /> 
+     <player id="272850" /> 
+     <player id="307359" /> 
+     <player id="345751" /> 
+     <player id="386927" /> 
+     <player id="387771" /> 
+     <player id="404588" /> 
+     <player id="419316" /> 
+     <player id="444247" /> 
+     <player id="463031" /> 
+     <player id="479523" /> 
+     <player id="529243" /> 
+     <player id="574345" /> 
+     <player id="11416" /> 
+     <player id="11419" /> 
+     <player id="16926" /> 
+     <player id="37206" /> 
+     <player id="39932" /> 
+     <player id="41549" /> 
+     <player id="47294" /> 
+     <player id="57660" /> 
+     <player id="130197" /> 
+     <player id="154832" /> 
+     <player id="167043" /> 
+     <player id="196673" /> 
+     <player id="295739" /> 
+     <player id="296818" /> 
+     <player id="426996" /> 
+     <player id="490660" /> 
+     <player id="535311" /> 
+     <player id="612679" /> 
+     <player id="635916" /> 
+     <player id="644936" /> 
+     <player id="11349" /> 
+     <player id="37002" /> 
+     <player id="44792" /> 
+     <player id="85490" /> 
+     <player id="131348" /> 
+     <player id="134685" /> 
+     <player id="135319" /> 
+     <player id="248747" /> 
+     <player id="272403" /> 
+     <player id="273799" /> 
+     <player id="314051" /> 
+     <player id="335082" /> 
+     <player id="463741" /> 
+     <player id="554062" /> 
+   </players> 
+   <coaches> 
+     <coach id="4331" /> 
+     <coach id="40327" /> 
+     <coach id="322240" /> 
+   </coaches> 
+</team>

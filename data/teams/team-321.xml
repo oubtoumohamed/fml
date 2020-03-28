@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>321</id> 
+   <name>نادي فاسكو دا جاما</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/321.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Rua Gal Almério de Moura 131, Bairro Vasco da Gama</adrese> 
+   <website>http://www.crvascodagama.com</website> 
+   <creation-date>1898</creation-date> 
+   <players> 
+     <player id="55853" /> 
+     <player id="71994" /> 
+     <player id="112354" /> 
+     <player id="281402" /> 
+     <player id="406795" /> 
+     <player id="474968" /> 
+     <player id="531057" /> 
+     <player id="607208" /> 
+     <player id="649943" /> 
+     <player id="9052" /> 
+     <player id="9382" /> 
+     <player id="22275" /> 
+     <player id="32644" /> 
+     <player id="32825" /> 
+     <player id="65001" /> 
+     <player id="74179" /> 
+     <player id="76809" /> 
+     <player id="90643" /> 
+     <player id="103416" /> 
+     <player id="115005" /> 
+     <player id="131039" /> 
+     <player id="180820" /> 
+     <player id="234585" /> 
+     <player id="282265" /> 
+     <player id="302496" /> 
+     <player id="433187" /> 
+     <player id="442601" /> 
+     <player id="490044" /> 
+     <player id="533729" /> 
+     <player id="533902" /> 
+     <player id="534322" /> 
+     <player id="534323" /> 
+     <player id="557679" /> 
+     <player id="586255" /> 
+     <player id="591245" /> 
+     <player id="629514" /> 
+     <player id="648713" /> 
+     <player id="648714" /> 
+     <player id="648748" /> 
+     <player id="649814" /> 
+     <player id="649817" /> 
+     <player id="9044" /> 
+     <player id="10589" /> 
+     <player id="21094" /> 
+     <player id="37941" /> 
+     <player id="53471" /> 
+     <player id="56482" /> 
+     <player id="72067" /> 
+     <player id="95917" /> 
+     <player id="112809" /> 
+     <player id="176744" /> 
+     <player id="180826" /> 
+     <player id="234689" /> 
+     <player id="301821" /> 
+     <player id="317939" /> 
+     <player id="328116" /> 
+     <player id="328982" /> 
+     <player id="335712" /> 
+     <player id="355905" /> 
+     <player id="398755" /> 
+     <player id="398758" /> 
+     <player id="399075" /> 
+     <player id="402060" /> 
+     <player id="443307" /> 
+     <player id="447415" /> 
+     <player id="455798" /> 
+     <player id="524579" /> 
+     <player id="534324" /> 
+     <player id="552684" /> 
+     <player id="554109" /> 
+     <player id="574660" /> 
+     <player id="630627" /> 
+     <player id="630629" /> 
+     <player id="648715" /> 
+     <player id="649813" /> 
+     <player id="649815" /> 
+     <player id="3619" /> 
+     <player id="15378" /> 
+     <player id="17809" /> 
+     <player id="52463" /> 
+     <player id="159253" /> 
+     <player id="172278" /> 
+     <player id="226564" /> 
+     <player id="276337" /> 
+     <player id="283703" /> 
+     <player id="315205" /> 
+     <player id="420897" /> 
+     <player id="433835" /> 
+     <player id="438314" /> 
+     <player id="449543" /> 
+     <player id="475123" /> 
+     <player id="483534" /> 
+     <player id="534321" /> 
+     <player id="539399" /> 
+     <player id="551980" /> 
+     <player id="560119" /> 
+     <player id="586258" /> 
+     <player id="594684" /> 
+     <player id="619962" /> 
+     <player id="630632" /> 
+     <player id="649816" /> 
+   </players> 
+   <coaches> 
+     <coach id="113209" /> 
+     <coach id="126533" /> 
+     <coach id="149493" /> 
+     <coach id="340431" /> 
+     <coach id="446484" /> 
+     <coach id="478616" /> 
+     <coach id="608001" /> 
+   </coaches> 
+</team>

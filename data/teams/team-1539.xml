@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1539</id> 
+   <name>إيمين</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1539.png</image> 
+   <country>هولندا</country> 
+   <adrese>Stadionplein 1</adrese> 
+   <website>http://www.fcemmen.nl</website> 
+   <creation-date>1985</creation-date> 
+   <players> 
+     <player id="49791" /> 
+     <player id="65038" /> 
+     <player id="234586" /> 
+     <player id="258057" /> 
+     <player id="461386" /> 
+     <player id="464812" /> 
+     <player id="590381" /> 
+     <player id="24618" /> 
+     <player id="49562" /> 
+     <player id="49893" /> 
+     <player id="86233" /> 
+     <player id="97557" /> 
+     <player id="110910" /> 
+     <player id="134185" /> 
+     <player id="134880" /> 
+     <player id="144782" /> 
+     <player id="180954" /> 
+     <player id="210274" /> 
+     <player id="235324" /> 
+     <player id="251793" /> 
+     <player id="257296" /> 
+     <player id="264806" /> 
+     <player id="275120" /> 
+     <player id="300864" /> 
+     <player id="319285" /> 
+     <player id="381327" /> 
+     <player id="391823" /> 
+     <player id="400986" /> 
+     <player id="440862" /> 
+     <player id="453652" /> 
+     <player id="537582" /> 
+     <player id="543993" /> 
+     <player id="550082" /> 
+     <player id="618143" /> 
+     <player id="21692" /> 
+     <player id="87825" /> 
+     <player id="103541" /> 
+     <player id="137204" /> 
+     <player id="189026" /> 
+     <player id="194647" /> 
+     <player id="209173" /> 
+     <player id="215556" /> 
+     <player id="236419" /> 
+     <player id="240975" /> 
+     <player id="347801" /> 
+     <player id="433355" /> 
+     <player id="447106" /> 
+     <player id="452956" /> 
+     <player id="466029" /> 
+     <player id="467805" /> 
+     <player id="494056" /> 
+     <player id="507984" /> 
+     <player id="26789" /> 
+     <player id="49803" /> 
+     <player id="132829" /> 
+     <player id="173378" /> 
+     <player id="176608" /> 
+     <player id="197564" /> 
+     <player id="213353" /> 
+     <player id="215487" /> 
+     <player id="226378" /> 
+     <player id="349513" /> 
+     <player id="381093" /> 
+     <player id="391071" /> 
+     <player id="494055" /> 
+     <player id="512732" /> 
+     <player id="560750" /> 
+     <player id="607573" /> 
+   </players> 
+   <coaches> 
+     <coach id="304903" /> 
+     <coach id="526738" /> 
+   </coaches> 
+</team>

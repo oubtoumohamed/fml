@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>808</team_id> 
+   <id>203312</id> 
+   <name>ألكسندر زورنيجر</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/203312.png</image> 
+   <position>ألمانيا</position> 
+   <nationality>1967-10-08</nationality> 
+   <birth-day>Mutlangen</birth-day> 
+   <length  unit="cm">182</length> 
+   <weight  unit="kg">85</weight> 
+</player>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1208</id> 
+   <name>بني يهودا تل أبيب لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1208.png</image> 
+   <country>اسرائيل</country> 
+   <adrese>Kabir Str. 20</adrese> 
+   <website>http://www.fc-bnei-yehuda.co.il</website> 
+   <creation-date>1936</creation-date> 
+   <players> 
+     <player id="83860" /> 
+     <player id="91929" /> 
+     <player id="385593" /> 
+     <player id="474416" /> 
+     <player id="551438" /> 
+     <player id="560981" /> 
+     <player id="12943" /> 
+     <player id="55965" /> 
+     <player id="58816" /> 
+     <player id="85842" /> 
+     <player id="149773" /> 
+     <player id="156602" /> 
+     <player id="217513" /> 
+     <player id="217514" /> 
+     <player id="294126" /> 
+     <player id="313374" /> 
+     <player id="365119" /> 
+     <player id="366929" /> 
+     <player id="395545" /> 
+     <player id="445246" /> 
+     <player id="469516" /> 
+     <player id="498355" /> 
+     <player id="516396" /> 
+     <player id="559879" /> 
+     <player id="577029" /> 
+     <player id="601408" /> 
+     <player id="618815" /> 
+     <player id="92045" /> 
+     <player id="134065" /> 
+     <player id="147643" /> 
+     <player id="181580" /> 
+     <player id="195754" /> 
+     <player id="242994" /> 
+     <player id="245890" /> 
+     <player id="262040" /> 
+     <player id="264772" /> 
+     <player id="282847" /> 
+     <player id="318680" /> 
+     <player id="320049" /> 
+     <player id="322080" /> 
+     <player id="343609" /> 
+     <player id="392176" /> 
+     <player id="429366" /> 
+     <player id="437696" /> 
+     <player id="464788" /> 
+     <player id="490194" /> 
+     <player id="530575" /> 
+     <player id="559028" /> 
+     <player id="559031" /> 
+     <player id="559032" /> 
+     <player id="618816" /> 
+     <player id="618818" /> 
+     <player id="628089" /> 
+     <player id="27457" /> 
+     <player id="38104" /> 
+     <player id="84527" /> 
+     <player id="193338" /> 
+     <player id="210929" /> 
+     <player id="245371" /> 
+     <player id="246109" /> 
+     <player id="318531" /> 
+     <player id="320056" /> 
+     <player id="368541" /> 
+     <player id="389779" /> 
+     <player id="404437" /> 
+     <player id="415766" /> 
+     <player id="420543" /> 
+     <player id="545104" /> 
+     <player id="590367" /> 
+     <player id="590368" /> 
+   </players> 
+   <coaches> 
+     <coach id="138484" /> 
+     <coach id="195755" /> 
+     <coach id="325650" /> 
+   </coaches> 
+</team>

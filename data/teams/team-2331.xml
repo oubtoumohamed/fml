@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2331</id> 
+   <name>نادي باري تاون لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2331.png</image> 
+   <country>ويلز</country> 
+   <adrese>22 Goodwick Close, Lundy Park</adrese> 
+   <website>http://www.barrytownfc.com</website> 
+   <creation-date>1912</creation-date> 
+   <players> 
+     <player id="35276" /> 
+     <player id="120106" /> 
+     <player id="325141" /> 
+     <player id="460612" /> 
+     <player id="462846" /> 
+     <player id="516686" /> 
+     <player id="143158" /> 
+     <player id="214290" /> 
+     <player id="282979" /> 
+     <player id="282983" /> 
+     <player id="316306" /> 
+     <player id="464968" /> 
+     <player id="464969" /> 
+     <player id="644818" /> 
+     <player id="28465" /> 
+     <player id="71385" /> 
+     <player id="155036" /> 
+     <player id="164788" /> 
+     <player id="283506" /> 
+     <player id="316313" /> 
+     <player id="360925" /> 
+     <player id="390063" /> 
+     <player id="464971" /> 
+     <player id="472278" /> 
+     <player id="521385" /> 
+     <player id="560629" /> 
+     <player id="636436" /> 
+     <player id="636438" /> 
+     <player id="55324" /> 
+     <player id="69377" /> 
+     <player id="201293" /> 
+     <player id="434438" /> 
+     <player id="460619" /> 
+     <player id="462855" /> 
+     <player id="465250" /> 
+     <player id="468730" /> 
+     <player id="561832" /> 
+   </players> 
+   <coaches> 
+     <coach id="290412" /> 
+   </coaches> 
+</team>

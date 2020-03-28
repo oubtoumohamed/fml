@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1243</id> 
+   <name>نادي بارما لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1243.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Via Partigiani d'Italia 1</adrese> 
+   <website>http://parmacalcio1913.com/</website> 
+   <creation-date>1913 / 2004</creation-date> 
+   <players> 
+     <player id="18360" /> 
+     <player id="71501" /> 
+     <player id="94493" /> 
+     <player id="197981" /> 
+     <player id="278650" /> 
+     <player id="322484" /> 
+     <player id="408426" /> 
+     <player id="474967" /> 
+     <player id="508938" /> 
+     <player id="619928" /> 
+     <player id="4037" /> 
+     <player id="4369" /> 
+     <player id="4580" /> 
+     <player id="17720" /> 
+     <player id="17867" /> 
+     <player id="17947" /> 
+     <player id="18386" /> 
+     <player id="142418" /> 
+     <player id="142450" /> 
+     <player id="195345" /> 
+     <player id="251825" /> 
+     <player id="273832" /> 
+     <player id="314490" /> 
+     <player id="314538" /> 
+     <player id="327840" /> 
+     <player id="360965" /> 
+     <player id="376175" /> 
+     <player id="403084" /> 
+     <player id="409782" /> 
+     <player id="415580" /> 
+     <player id="426558" /> 
+     <player id="437908" /> 
+     <player id="448571" /> 
+     <player id="554940" /> 
+     <player id="556918" /> 
+     <player id="561955" /> 
+     <player id="573894" /> 
+     <player id="580869" /> 
+     <player id="4089" /> 
+     <player id="4372" /> 
+     <player id="18444" /> 
+     <player id="18741" /> 
+     <player id="18784" /> 
+     <player id="35495" /> 
+     <player id="93446" /> 
+     <player id="93972" /> 
+     <player id="103120" /> 
+     <player id="113977" /> 
+     <player id="130077" /> 
+     <player id="142470" /> 
+     <player id="145522" /> 
+     <player id="166678" /> 
+     <player id="180889" /> 
+     <player id="196464" /> 
+     <player id="206583" /> 
+     <player id="211949" /> 
+     <player id="213128" /> 
+     <player id="252013" /> 
+     <player id="297043" /> 
+     <player id="342381" /> 
+     <player id="397798" /> 
+     <player id="397883" /> 
+     <player id="409924" /> 
+     <player id="421857" /> 
+     <player id="451523" /> 
+     <player id="460405" /> 
+     <player id="554939" /> 
+     <player id="554941" /> 
+     <player id="575143" /> 
+     <player id="606737" /> 
+     <player id="13760" /> 
+     <player id="17678" /> 
+     <player id="17967" /> 
+     <player id="61024" /> 
+     <player id="79432" /> 
+     <player id="93392" /> 
+     <player id="137805" /> 
+     <player id="190636" /> 
+     <player id="196465" /> 
+     <player id="211765" /> 
+     <player id="272944" /> 
+     <player id="279741" /> 
+     <player id="327998" /> 
+     <player id="387433" /> 
+     <player id="391603" /> 
+     <player id="442153" /> 
+     <player id="460166" /> 
+     <player id="509017" /> 
+     <player id="554938" /> 
+     <player id="565467" /> 
+     <player id="594088" /> 
+     <player id="645891" /> 
+     <player id="648587" /> 
+   </players> 
+   <coaches> 
+     <coach id="4322" /> 
+     <coach id="477788" /> 
+   </coaches> 
+</team>

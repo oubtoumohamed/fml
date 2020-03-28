@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1358</team_id> 
+   <id>509229</id> 
+   <name>R. Jarlayev</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/509229.png</image> 
+   <position>مدافع</position> 
+   <nationality>كازاخستان</nationality> 
+   <birth-day>2001-05-04</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

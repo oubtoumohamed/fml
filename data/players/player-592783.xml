@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>229</team_id> 
+   <id>592783</id> 
+   <name>N. Balongo</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/592783.png</image> 
+   <position>مهاجم</position> 
+   <nationality>الكونغو الديمقراطيه</nationality> 
+   <birth-day>1999-04-15</birth-day> 
+   <length  unit="cm">بلجيكا</length> 
+   <weight  unit="kg">187</weight> 
+</player>

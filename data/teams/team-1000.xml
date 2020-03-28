@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1000</id> 
+   <name>نادي أوجسبورغ لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1000.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Donauwörther Straße 170</adrese> 
+   <website>http://www.fcaugsburg.de</website> 
+   <creation-date>1907</creation-date> 
+   <players> 
+     <player id="54793" /> 
+     <player id="55076" /> 
+     <player id="124251" /> 
+     <player id="146310" /> 
+     <player id="155043" /> 
+     <player id="340409" /> 
+     <player id="454214" /> 
+     <player id="1888" /> 
+     <player id="2057" /> 
+     <player id="14961" /> 
+     <player id="16690" /> 
+     <player id="97343" /> 
+     <player id="127794" /> 
+     <player id="159063" /> 
+     <player id="175281" /> 
+     <player id="245801" /> 
+     <player id="251720" /> 
+     <player id="255272" /> 
+     <player id="259873" /> 
+     <player id="260502" /> 
+     <player id="345339" /> 
+     <player id="359831" /> 
+     <player id="363529" /> 
+     <player id="396792" /> 
+     <player id="413771" /> 
+     <player id="414368" /> 
+     <player id="454230" /> 
+     <player id="472677" /> 
+     <player id="540373" /> 
+     <player id="8243" /> 
+     <player id="16507" /> 
+     <player id="32400" /> 
+     <player id="48626" /> 
+     <player id="59309" /> 
+     <player id="74703" /> 
+     <player id="78561" /> 
+     <player id="83450" /> 
+     <player id="89661" /> 
+     <player id="97318" /> 
+     <player id="126393" /> 
+     <player id="180793" /> 
+     <player id="192188" /> 
+     <player id="193531" /> 
+     <player id="307814" /> 
+     <player id="319689" /> 
+     <player id="358461" /> 
+     <player id="408123" /> 
+     <player id="454226" /> 
+     <player id="454228" /> 
+     <player id="494525" /> 
+     <player id="561498" /> 
+     <player id="32128" /> 
+     <player id="39015" /> 
+     <player id="119758" /> 
+     <player id="196096" /> 
+     <player id="258977" /> 
+     <player id="358987" /> 
+     <player id="361327" /> 
+     <player id="477857" /> 
+     <player id="489383" /> 
+     <player id="562505" /> 
+     <player id="595018" /> 
+   </players> 
+   <coaches> 
+     <coach id="38336" /> 
+     <coach id="211702" /> 
+     <coach id="262978" /> 
+     <coach id="328295" /> 
+     <coach id="359119" /> 
+     <coach id="490111" /> 
+     <coach id="553685" /> 
+   </coaches> 
+</team>

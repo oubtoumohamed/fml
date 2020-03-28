@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>481</id> 
+   <name>أوسييك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/481.png</image> 
+   <country>كرواتيا</country> 
+   <adrese>Woodrova Wilsona bb</adrese> 
+   <website>http://www.nk-osijek.hr</website> 
+   <creation-date>1947</creation-date> 
+   <players> 
+     <player id="36545" /> 
+     <player id="137798" /> 
+     <player id="182834" /> 
+     <player id="215498" /> 
+     <player id="274399" /> 
+     <player id="449578" /> 
+     <player id="36739" /> 
+     <player id="85757" /> 
+     <player id="135064" /> 
+     <player id="143405" /> 
+     <player id="197955" /> 
+     <player id="266493" /> 
+     <player id="285854" /> 
+     <player id="301359" /> 
+     <player id="303805" /> 
+     <player id="350281" /> 
+     <player id="387441" /> 
+     <player id="407941" /> 
+     <player id="427652" /> 
+     <player id="440091" /> 
+     <player id="478134" /> 
+     <player id="501279" /> 
+     <player id="533364" /> 
+     <player id="554629" /> 
+     <player id="36787" /> 
+     <player id="85492" /> 
+     <player id="85755" /> 
+     <player id="91069" /> 
+     <player id="138220" /> 
+     <player id="154604" /> 
+     <player id="245451" /> 
+     <player id="270145" /> 
+     <player id="307534" /> 
+     <player id="318876" /> 
+     <player id="357193" /> 
+     <player id="360233" /> 
+     <player id="389713" /> 
+     <player id="394364" /> 
+     <player id="407241" /> 
+     <player id="413973" /> 
+     <player id="422597" /> 
+     <player id="440093" /> 
+     <player id="444305" /> 
+     <player id="444306" /> 
+     <player id="444756" /> 
+     <player id="457873" /> 
+     <player id="463422" /> 
+     <player id="485397" /> 
+     <player id="485867" /> 
+     <player id="549035" /> 
+     <player id="549275" /> 
+     <player id="565312" /> 
+     <player id="91034" /> 
+     <player id="149140" /> 
+     <player id="215588" /> 
+     <player id="215730" /> 
+     <player id="235225" /> 
+     <player id="245800" /> 
+     <player id="301336" /> 
+     <player id="311181" /> 
+     <player id="318356" /> 
+     <player id="336621" /> 
+     <player id="411969" /> 
+     <player id="421106" /> 
+     <player id="435270" /> 
+     <player id="461657" /> 
+     <player id="485871" /> 
+     <player id="487992" /> 
+     <player id="560076" /> 
+     <player id="569997" /> 
+   </players> 
+   <coaches> 
+     <coach id="327496" /> 
+     <coach id="560966" /> 
+     <coach id="604492" /> 
+     <coach id="640781" /> 
+   </coaches> 
+</team>

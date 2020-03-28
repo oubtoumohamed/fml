@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1103</id> 
+   <name>فيديبريتسيني</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1103.png</image> 
+   <country>المجر</country> 
+   <adrese>Oláh Gábor utca 5.</adrese> 
+   <website>http://www.dvsc.hu</website> 
+   <creation-date>1902</creation-date> 
+   <players> 
+     <player id="63490" /> 
+     <player id="83609" /> 
+     <player id="210527" /> 
+     <player id="477675" /> 
+     <player id="490388" /> 
+     <player id="33592" /> 
+     <player id="83532" /> 
+     <player id="85897" /> 
+     <player id="150722" /> 
+     <player id="150762" /> 
+     <player id="206540" /> 
+     <player id="246012" /> 
+     <player id="261188" /> 
+     <player id="316289" /> 
+     <player id="322587" /> 
+     <player id="504077" /> 
+     <player id="540061" /> 
+     <player id="4607" /> 
+     <player id="33566" /> 
+     <player id="47334" /> 
+     <player id="123592" /> 
+     <player id="134643" /> 
+     <player id="136102" /> 
+     <player id="145060" /> 
+     <player id="163759" /> 
+     <player id="273246" /> 
+     <player id="316294" /> 
+     <player id="367727" /> 
+     <player id="373903" /> 
+     <player id="412100" /> 
+     <player id="475224" /> 
+     <player id="490394" /> 
+     <player id="572273" /> 
+     <player id="597279" /> 
+     <player id="597387" /> 
+     <player id="597388" /> 
+     <player id="598028" /> 
+     <player id="33654" /> 
+     <player id="85930" /> 
+     <player id="153651" /> 
+     <player id="154592" /> 
+     <player id="182818" /> 
+     <player id="223318" /> 
+     <player id="246696" /> 
+     <player id="271788" /> 
+     <player id="351657" /> 
+     <player id="423674" /> 
+     <player id="427699" /> 
+     <player id="432005" /> 
+     <player id="493247" /> 
+     <player id="495001" /> 
+     <player id="511915" /> 
+     <player id="573906" /> 
+     <player id="594987" /> 
+     <player id="597391" /> 
+   </players> 
+   <coaches> 
+     <coach id="34952" /> 
+     <coach id="135134" /> 
+   </coaches> 
+</team>

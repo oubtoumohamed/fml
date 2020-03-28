@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1892</team_id> 
+   <id>236803</id> 
+   <name>م.توماسن</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/236803.png</image> 
+   <position>جزر فارو</position> 
+   <nationality>1976-01-12</nationality> 
+   <birth-day>جزر فارو</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

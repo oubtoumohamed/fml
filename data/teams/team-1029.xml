@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1029</id> 
+   <name>فورتونا دوسلدورف 1895</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1029.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Flinger Broich 87</adrese> 
+   <website>http://www.fortuna-duesseldorf.de</website> 
+   <creation-date>1895</creation-date> 
+   <players> 
+     <player id="2040" /> 
+     <player id="2732" /> 
+     <player id="16400" /> 
+     <player id="16498" /> 
+     <player id="281843" /> 
+     <player id="293479" /> 
+     <player id="313892" /> 
+     <player id="403214" /> 
+     <player id="453514" /> 
+     <player id="482379" /> 
+     <player id="560056" /> 
+     <player id="16460" /> 
+     <player id="35785" /> 
+     <player id="54804" /> 
+     <player id="55091" /> 
+     <player id="68887" /> 
+     <player id="101016" /> 
+     <player id="141413" /> 
+     <player id="149747" /> 
+     <player id="159868" /> 
+     <player id="309710" /> 
+     <player id="358921" /> 
+     <player id="362949" /> 
+     <player id="369345" /> 
+     <player id="403760" /> 
+     <player id="453556" /> 
+     <player id="453583" /> 
+     <player id="38313" /> 
+     <player id="68597" /> 
+     <player id="74310" /> 
+     <player id="74703" /> 
+     <player id="88586" /> 
+     <player id="122245" /> 
+     <player id="171941" /> 
+     <player id="172505" /> 
+     <player id="212082" /> 
+     <player id="215566" /> 
+     <player id="250044" /> 
+     <player id="259879" /> 
+     <player id="260501" /> 
+     <player id="358727" /> 
+     <player id="358799" /> 
+     <player id="359823" /> 
+     <player id="386621" /> 
+     <player id="413775" /> 
+     <player id="414413" /> 
+     <player id="449180" /> 
+     <player id="479382" /> 
+     <player id="622225" /> 
+     <player id="2014" /> 
+     <player id="28107" /> 
+     <player id="99831" /> 
+     <player id="155105" /> 
+     <player id="158651" /> 
+     <player id="182725" /> 
+     <player id="191921" /> 
+     <player id="237023" /> 
+     <player id="273924" /> 
+     <player id="324923" /> 
+     <player id="331196" /> 
+     <player id="386619" /> 
+     <player id="435173" /> 
+   </players> 
+   <coaches> 
+     <coach id="16675" /> 
+     <coach id="23214" /> 
+     <coach id="110751" /> 
+     <coach id="199634" /> 
+   </coaches> 
+</team>

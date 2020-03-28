@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>21484</id> 
+   <name>النجم الرياضي متلاوي</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/21484.png</image> 
+   <country>تونس</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>1950</creation-date> 
+   <players> 
+     <player id="53175" /> 
+     <player id="53313" /> 
+     <player id="168420" /> 
+     <player id="485073" /> 
+     <player id="647724" /> 
+     <player id="53319" /> 
+     <player id="71425" /> 
+     <player id="71604" /> 
+     <player id="101346" /> 
+     <player id="138315" /> 
+     <player id="138542" /> 
+     <player id="188763" /> 
+     <player id="231228" /> 
+     <player id="314627" /> 
+     <player id="316740" /> 
+     <player id="319089" /> 
+     <player id="330372" /> 
+     <player id="359951" /> 
+     <player id="360205" /> 
+     <player id="361391" /> 
+     <player id="375545" /> 
+     <player id="396652" /> 
+     <player id="424568" /> 
+     <player id="437741" /> 
+     <player id="534711" /> 
+     <player id="626213" /> 
+     <player id="629964" /> 
+     <player id="71611" /> 
+     <player id="138344" /> 
+     <player id="138569" /> 
+     <player id="140375" /> 
+     <player id="147718" /> 
+     <player id="229703" /> 
+     <player id="250219" /> 
+     <player id="285791" /> 
+     <player id="317209" /> 
+     <player id="319077" /> 
+     <player id="384671" /> 
+     <player id="399204" /> 
+     <player id="400215" /> 
+     <player id="477103" /> 
+     <player id="482166" /> 
+     <player id="546898" /> 
+     <player id="566851" /> 
+     <player id="581002" /> 
+     <player id="605947" /> 
+     <player id="622386" /> 
+     <player id="637982" /> 
+     <player id="646592" /> 
+     <player id="52751" /> 
+     <player id="53182" /> 
+     <player id="53235" /> 
+     <player id="216932" /> 
+     <player id="218485" /> 
+     <player id="317210" /> 
+     <player id="317214" /> 
+     <player id="327159" /> 
+     <player id="422733" /> 
+     <player id="424957" /> 
+     <player id="428904" /> 
+     <player id="471015" /> 
+     <player id="473827" /> 
+     <player id="519350" /> 
+     <player id="534826" /> 
+     <player id="642191" /> 
+   </players> 
+   <coaches> 
+     <coach id="53326" /> 
+     <coach id="432228" /> 
+     <coach id="630072" /> 
+     <coach id="642345" /> 
+     <coach id="644088" /> 
+   </coaches> 
+</team>

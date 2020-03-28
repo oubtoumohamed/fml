@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>923</team_id> 
+   <id>200393</id> 
+   <name>J. Vasseur</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/200393.png</image> 
+   <position>غير معروف</position> 
+   <nationality>فرنسا</nationality> 
+   <birth-day>1969-01-01</birth-day> 
+   <length  unit="cm">فرنسا</length> 
+   <weight  unit="kg"></weight> 
+</player>

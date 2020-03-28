@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3505</team_id> 
+   <id>609925</id> 
+   <name>Abdalaziz Al Hasia</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/609925.png</image> 
+   <position>مهاجم</position> 
+   <nationality>قطر</nationality> 
+   <birth-day>1999-08-31</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

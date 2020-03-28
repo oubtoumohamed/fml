@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>9967</id> 
+   <name>خورفكان</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/9967.png</image> 
+   <country>الإمارات</country> 
+   <adrese>PO Box 10050</adrese> 
+   <website></website> 
+   <creation-date>1981</creation-date> 
+   <players> 
+     <player id="177814" /> 
+     <player id="213653" /> 
+     <player id="492977" /> 
+     <player id="505272" /> 
+     <player id="629250" /> 
+     <player id="10830" /> 
+     <player id="64037" /> 
+     <player id="64343" /> 
+     <player id="152826" /> 
+     <player id="158132" /> 
+     <player id="238986" /> 
+     <player id="268089" /> 
+     <player id="268178" /> 
+     <player id="268214" /> 
+     <player id="371527" /> 
+     <player id="415159" /> 
+     <player id="629245" /> 
+     <player id="638914" /> 
+     <player id="647557" /> 
+     <player id="64096" /> 
+     <player id="64136" /> 
+     <player id="64321" /> 
+     <player id="103089" /> 
+     <player id="176270" /> 
+     <player id="177206" /> 
+     <player id="226011" /> 
+     <player id="303918" /> 
+     <player id="396635" /> 
+     <player id="400007" /> 
+     <player id="418521" /> 
+     <player id="458579" /> 
+     <player id="465627" /> 
+     <player id="478405" /> 
+     <player id="568476" /> 
+     <player id="599704" /> 
+     <player id="626635" /> 
+     <player id="637750" /> 
+     <player id="8988" /> 
+     <player id="73431" /> 
+     <player id="79315" /> 
+     <player id="85066" /> 
+     <player id="118493" /> 
+     <player id="167764" /> 
+     <player id="217247" /> 
+     <player id="568507" /> 
+     <player id="629252" /> 
+   </players> 
+   <coaches> 
+     <coach id="133075" /> 
+     <coach id="165770" /> 
+     <coach id="198153" /> 
+   </coaches> 
+</team>

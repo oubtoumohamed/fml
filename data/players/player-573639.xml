@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>12573</team_id> 
+   <id>573639</id> 
+   <name>F. Džemaili</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/573639.png</image> 
+   <position>مدافع</position> 
+   <nationality>صربيا</nationality> 
+   <birth-day>1998-11-15</birth-day> 
+   <length  unit="cm">صربيا</length> 
+   <weight  unit="kg">183</weight> 
+</player>

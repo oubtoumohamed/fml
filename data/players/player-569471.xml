@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>9965</team_id> 
+   <id>569471</id> 
+   <name>سلطان محمد</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/569471.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>الإمارات</nationality> 
+   <birth-day>1999-08-10</birth-day> 
+   <length  unit="cm">175</length> 
+   <weight  unit="kg">76</weight> 
+</player>

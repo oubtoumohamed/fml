@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>5642</id> 
+   <name>أبها</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/5642.png</image> 
+   <country>السعودية</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="400810" /> 
+     <player id="401359" /> 
+     <player id="484479" /> 
+     <player id="593084" /> 
+     <player id="593088" /> 
+     <player id="593251" /> 
+     <player id="26438" /> 
+     <player id="53319" /> 
+     <player id="143601" /> 
+     <player id="143921" /> 
+     <player id="184460" /> 
+     <player id="207515" /> 
+     <player id="218265" /> 
+     <player id="365341" /> 
+     <player id="437664" /> 
+     <player id="460702" /> 
+     <player id="476005" /> 
+     <player id="593074" /> 
+     <player id="593083" /> 
+     <player id="593384" /> 
+     <player id="626164" /> 
+     <player id="58289" /> 
+     <player id="64362" /> 
+     <player id="66691" /> 
+     <player id="120757" /> 
+     <player id="244973" /> 
+     <player id="258257" /> 
+     <player id="277252" /> 
+     <player id="278546" /> 
+     <player id="323635" /> 
+     <player id="402795" /> 
+     <player id="414903" /> 
+     <player id="433671" /> 
+     <player id="440006" /> 
+     <player id="465783" /> 
+     <player id="495444" /> 
+     <player id="498072" /> 
+     <player id="593069" /> 
+     <player id="593071" /> 
+     <player id="626165" /> 
+     <player id="626167" /> 
+     <player id="632312" /> 
+     <player id="648297" /> 
+     <player id="46967" /> 
+     <player id="179712" /> 
+     <player id="312933" /> 
+     <player id="326110" /> 
+     <player id="393619" /> 
+     <player id="593256" /> 
+     <player id="621233" /> 
+     <player id="636564" /> 
+   </players> 
+   <coaches> 
+     <coach id="279071" /> 
+     <coach id="593011" /> 
+   </coaches> 
+</team>

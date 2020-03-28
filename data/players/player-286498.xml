@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1529</team_id> 
+   <id>286498</id> 
+   <name>بينات سان خوسي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/286498.png</image> 
+   <position>غير معروف</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>1979-09-24</birth-day> 
+   <length  unit="cm">إسبانيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

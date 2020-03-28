@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>980</team_id> 
+   <id>467565</id> 
+   <name>داركو شورلينوف</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/467565.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>مقدونيا</nationality> 
+   <birth-day>2000-07-11</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

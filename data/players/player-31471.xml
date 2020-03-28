@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>812</team_id> 
+   <id>31471</id> 
+   <name>ديريك ماك إينس </name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/31471.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>إسكتلندا</nationality> 
+   <birth-day>1971-07-05</birth-day> 
+   <length  unit="cm">إسكتلندا</length> 
+   <weight  unit="kg">170</weight> 
+</player>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1259</id> 
+   <name>نادي فيورينتينا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1259.png</image> 
+   <country>إيطاليا</country> 
+   <adrese>Viale Manfredo Fanti 4</adrese> 
+   <website>http://it.violachannel.tv</website> 
+   <creation-date>1926</creation-date> 
+   <players> 
+     <player id="98312" /> 
+     <player id="193830" /> 
+     <player id="297844" /> 
+     <player id="426518" /> 
+     <player id="457633" /> 
+     <player id="467652" /> 
+     <player id="472824" /> 
+     <player id="617425" /> 
+     <player id="19070" /> 
+     <player id="47172" /> 
+     <player id="112507" /> 
+     <player id="142450" /> 
+     <player id="162485" /> 
+     <player id="165998" /> 
+     <player id="166618" /> 
+     <player id="169054" /> 
+     <player id="187555" /> 
+     <player id="257120" /> 
+     <player id="316057" /> 
+     <player id="318523" /> 
+     <player id="329953" /> 
+     <player id="351873" /> 
+     <player id="352759" /> 
+     <player id="389473" /> 
+     <player id="391059" /> 
+     <player id="404400" /> 
+     <player id="427728" /> 
+     <player id="440930" /> 
+     <player id="465821" /> 
+     <player id="498243" /> 
+     <player id="610300" /> 
+     <player id="547" /> 
+     <player id="13729" /> 
+     <player id="85043" /> 
+     <player id="131283" /> 
+     <player id="145357" /> 
+     <player id="155064" /> 
+     <player id="158393" /> 
+     <player id="159223" /> 
+     <player id="172336" /> 
+     <player id="187142" /> 
+     <player id="191944" /> 
+     <player id="218153" /> 
+     <player id="218912" /> 
+     <player id="298173" /> 
+     <player id="308767" /> 
+     <player id="363931" /> 
+     <player id="366543" /> 
+     <player id="374753" /> 
+     <player id="467642" /> 
+     <player id="468951" /> 
+     <player id="473500" /> 
+     <player id="495095" /> 
+     <player id="519786" /> 
+     <player id="558442" /> 
+     <player id="1870" /> 
+     <player id="2073" /> 
+     <player id="13557" /> 
+     <player id="83929" /> 
+     <player id="91919" /> 
+     <player id="215494" /> 
+     <player id="253323" /> 
+     <player id="303036" /> 
+     <player id="356451" /> 
+     <player id="384563" /> 
+     <player id="394246" /> 
+     <player id="401063" /> 
+     <player id="426568" /> 
+     <player id="427854" /> 
+     <player id="435998" /> 
+     <player id="436316" /> 
+     <player id="453099" /> 
+     <player id="453705" /> 
+     <player id="498242" /> 
+     <player id="498244" /> 
+   </players> 
+   <coaches> 
+     <coach id="137774" /> 
+     <coach id="137800" /> 
+     <coach id="177478" /> 
+     <coach id="429483" /> 
+   </coaches> 
+</team>

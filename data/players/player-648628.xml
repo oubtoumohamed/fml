@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>307</team_id> 
+   <id>648628</id> 
+   <name>Cleubinho</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/648628.png</image> 
+   <position>مدافع</position> 
+   <nationality>البرازيل</nationality> 
+   <birth-day>1999-03-30</birth-day> 
+   <length  unit="cm">165</length> 
+   <weight  unit="kg">56</weight> 
+</player>

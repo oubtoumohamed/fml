@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>953</id> 
+   <name>نادي توربيدو كوتايسي لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/953.png</image> 
+   <country>جورجيا</country> 
+   <adrese>1 Khorava Str.</adrese> 
+   <website>http://www.fctorpedo.ge</website> 
+   <creation-date>1946</creation-date> 
+   <players> 
+     <player id="40894" /> 
+     <player id="86824" /> 
+     <player id="266478" /> 
+     <player id="291335" /> 
+     <player id="444906" /> 
+     <player id="576629" /> 
+     <player id="613340" /> 
+     <player id="640409" /> 
+     <player id="83928" /> 
+     <player id="93648" /> 
+     <player id="115249" /> 
+     <player id="192082" /> 
+     <player id="192205" /> 
+     <player id="195514" /> 
+     <player id="210038" /> 
+     <player id="213182" /> 
+     <player id="232546" /> 
+     <player id="242581" /> 
+     <player id="244895" /> 
+     <player id="245072" /> 
+     <player id="296964" /> 
+     <player id="310914" /> 
+     <player id="316112" /> 
+     <player id="419715" /> 
+     <player id="426185" /> 
+     <player id="450495" /> 
+     <player id="476590" /> 
+     <player id="518077" /> 
+     <player id="554061" /> 
+     <player id="597465" /> 
+     <player id="640395" /> 
+     <player id="41506" /> 
+     <player id="83035" /> 
+     <player id="83162" /> 
+     <player id="93661" /> 
+     <player id="101708" /> 
+     <player id="125361" /> 
+     <player id="145822" /> 
+     <player id="190638" /> 
+     <player id="204370" /> 
+     <player id="221381" /> 
+     <player id="240100" /> 
+     <player id="265973" /> 
+     <player id="270010" /> 
+     <player id="280801" /> 
+     <player id="286882" /> 
+     <player id="287594" /> 
+     <player id="313471" /> 
+     <player id="313567" /> 
+     <player id="319254" /> 
+     <player id="384821" /> 
+     <player id="405554" /> 
+     <player id="438533" /> 
+     <player id="443013" /> 
+     <player id="597466" /> 
+     <player id="608148" /> 
+     <player id="616135" /> 
+     <player id="640396" /> 
+     <player id="640397" /> 
+     <player id="640398" /> 
+     <player id="640410" /> 
+     <player id="640419" /> 
+     <player id="640422" /> 
+     <player id="640424" /> 
+     <player id="640426" /> 
+     <player id="42487" /> 
+     <player id="84246" /> 
+     <player id="101692" /> 
+     <player id="109612" /> 
+     <player id="182136" /> 
+     <player id="182886" /> 
+     <player id="194444" /> 
+     <player id="397392" /> 
+     <player id="408402" /> 
+     <player id="415672" /> 
+     <player id="424668" /> 
+     <player id="476565" /> 
+     <player id="483370" /> 
+     <player id="572879" /> 
+     <player id="640412" /> 
+   </players> 
+   <coaches> 
+     <coach id="55541" /> 
+     <coach id="83160" /> 
+   </coaches> 
+</team>

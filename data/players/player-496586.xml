@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>661</team_id> 
+   <id>496586</id> 
+   <name>K. Žiger</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/496586.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>كرواتيا</nationality> 
+   <birth-day>2001-05-11</birth-day> 
+   <length  unit="cm">كرواتيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

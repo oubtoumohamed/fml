@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2253</team_id> 
+   <id>276406</id> 
+   <name>ف.كليمنت</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/276406.png</image> 
+   <position>مدافع</position> 
+   <nationality>بلجيكا</nationality> 
+   <birth-day>1974-03-22</birth-day> 
+   <length  unit="cm">بلجيكا</length> 
+   <weight  unit="kg">191</weight> 
+</player>

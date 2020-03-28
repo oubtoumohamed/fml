@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>341</id> 
+   <name>نادي باهيا لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/341.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Avenida Octávio Mangabeira</adrese> 
+   <website>http://www.esporteclubebahia.com.br</website> 
+   <creation-date>1931</creation-date> 
+   <players> 
+     <player id="78696" /> 
+     <player id="226394" /> 
+     <player id="396534" /> 
+     <player id="438529" /> 
+     <player id="454691" /> 
+     <player id="548745" /> 
+     <player id="556441" /> 
+     <player id="593089" /> 
+     <player id="9156" /> 
+     <player id="9241" /> 
+     <player id="83266" /> 
+     <player id="92712" /> 
+     <player id="111938" /> 
+     <player id="112181" /> 
+     <player id="115289" /> 
+     <player id="121698" /> 
+     <player id="158622" /> 
+     <player id="170536" /> 
+     <player id="196743" /> 
+     <player id="227603" /> 
+     <player id="245160" /> 
+     <player id="283137" /> 
+     <player id="301816" /> 
+     <player id="319777" /> 
+     <player id="329221" /> 
+     <player id="332808" /> 
+     <player id="352281" /> 
+     <player id="371205" /> 
+     <player id="404800" /> 
+     <player id="409612" /> 
+     <player id="418702" /> 
+     <player id="428407" /> 
+     <player id="429988" /> 
+     <player id="433747" /> 
+     <player id="438358" /> 
+     <player id="443417" /> 
+     <player id="473400" /> 
+     <player id="477005" /> 
+     <player id="478754" /> 
+     <player id="532831" /> 
+     <player id="534686" /> 
+     <player id="543494" /> 
+     <player id="558066" /> 
+     <player id="593093" /> 
+     <player id="593117" /> 
+     <player id="593621" /> 
+     <player id="649726" /> 
+     <player id="650804" /> 
+     <player id="8991" /> 
+     <player id="10461" /> 
+     <player id="17174" /> 
+     <player id="64444" /> 
+     <player id="78771" /> 
+     <player id="99989" /> 
+     <player id="180856" /> 
+     <player id="187565" /> 
+     <player id="242453" /> 
+     <player id="282119" /> 
+     <player id="285642" /> 
+     <player id="285949" /> 
+     <player id="396680" /> 
+     <player id="396909" /> 
+     <player id="397411" /> 
+     <player id="415931" /> 
+     <player id="428489" /> 
+     <player id="430034" /> 
+     <player id="433032" /> 
+     <player id="433191" /> 
+     <player id="435108" /> 
+     <player id="438323" /> 
+     <player id="438599" /> 
+     <player id="438600" /> 
+     <player id="438601" /> 
+     <player id="438729" /> 
+     <player id="438730" /> 
+     <player id="448056" /> 
+     <player id="469423" /> 
+     <player id="475909" /> 
+     <player id="485261" /> 
+     <player id="488055" /> 
+     <player id="534340" /> 
+     <player id="534565" /> 
+     <player id="569659" /> 
+     <player id="575144" /> 
+     <player id="593091" /> 
+     <player id="64361" /> 
+     <player id="75894" /> 
+     <player id="136395" /> 
+     <player id="136408" /> 
+     <player id="148322" /> 
+     <player id="159586" /> 
+     <player id="189034" /> 
+     <player id="207544" /> 
+     <player id="226564" /> 
+     <player id="234507" /> 
+     <player id="276337" /> 
+     <player id="282080" /> 
+     <player id="395748" /> 
+     <player id="399399" /> 
+     <player id="408005" /> 
+     <player id="438728" /> 
+     <player id="441961" /> 
+     <player id="446562" /> 
+     <player id="447813" /> 
+     <player id="479611" /> 
+     <player id="490821" /> 
+     <player id="536063" /> 
+     <player id="564044" /> 
+     <player id="593090" /> 
+     <player id="595653" /> 
+     <player id="649725" /> 
+   </players> 
+   <coaches> 
+     <coach id="9132" /> 
+     <coach id="132212" /> 
+     <coach id="153057" /> 
+     <coach id="176428" /> 
+     <coach id="276688" /> 
+   </coaches> 
+</team>

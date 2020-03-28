@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>33093</id> 
+   <name>Riga FC</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/33093.png</image> 
+   <country>لاتفيا</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>2015</creation-date> 
+   <players> 
+     <player id="65910" /> 
+     <player id="85794" /> 
+     <player id="123068" /> 
+     <player id="302317" /> 
+     <player id="350287" /> 
+     <player id="617057" /> 
+     <player id="617363" /> 
+     <player id="25815" /> 
+     <player id="27684" /> 
+     <player id="29440" /> 
+     <player id="29520" /> 
+     <player id="29657" /> 
+     <player id="29672" /> 
+     <player id="125945" /> 
+     <player id="126483" /> 
+     <player id="159258" /> 
+     <player id="161320" /> 
+     <player id="182832" /> 
+     <player id="188374" /> 
+     <player id="203004" /> 
+     <player id="275128" /> 
+     <player id="302570" /> 
+     <player id="461829" /> 
+     <player id="5408" /> 
+     <player id="29533" /> 
+     <player id="29602" /> 
+     <player id="29655" /> 
+     <player id="29663" /> 
+     <player id="29669" /> 
+     <player id="40057" /> 
+     <player id="75114" /> 
+     <player id="85063" /> 
+     <player id="85734" /> 
+     <player id="87676" /> 
+     <player id="113087" /> 
+     <player id="129020" /> 
+     <player id="154513" /> 
+     <player id="160127" /> 
+     <player id="161324" /> 
+     <player id="170817" /> 
+     <player id="196080" /> 
+     <player id="216798" /> 
+     <player id="238890" /> 
+     <player id="242452" /> 
+     <player id="246091" /> 
+     <player id="322494" /> 
+     <player id="368235" /> 
+     <player id="421573" /> 
+     <player id="433899" /> 
+     <player id="445926" /> 
+     <player id="447907" /> 
+     <player id="555272" /> 
+     <player id="555273" /> 
+     <player id="13592" /> 
+     <player id="29652" /> 
+     <player id="45319" /> 
+     <player id="68747" /> 
+     <player id="84343" /> 
+     <player id="85209" /> 
+     <player id="103419" /> 
+     <player id="125588" /> 
+     <player id="125804" /> 
+     <player id="143802" /> 
+     <player id="161341" /> 
+     <player id="165964" /> 
+     <player id="215605" /> 
+     <player id="226136" /> 
+     <player id="288394" /> 
+     <player id="334550" /> 
+     <player id="337845" /> 
+     <player id="355683" /> 
+     <player id="420835" /> 
+     <player id="437677" /> 
+   </players> 
+   <coaches> 
+     <coach id="195978" /> 
+     <coach id="197457" /> 
+     <coach id="252936" /> 
+     <coach id="305413" /> 
+     <coach id="401307" /> 
+   </coaches> 
+</team>

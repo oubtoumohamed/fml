@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1885</team_id> 
+   <id>642391</id> 
+   <name>C. Pitti</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/642391.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>إيطاليا</nationality> 
+   <birth-day>1981-04-15</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

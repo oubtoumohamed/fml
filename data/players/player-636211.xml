@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>6765</team_id> 
+   <id>636211</id> 
+   <name>عبد العزيز أولابي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/636211.png</image> 
+   <position>مدافع</position> 
+   <nationality>نيجيريا</nationality> 
+   <birth-day>2000-04-13</birth-day> 
+   <length  unit="cm">176</length> 
+   <weight  unit="kg">70</weight> 
+</player>

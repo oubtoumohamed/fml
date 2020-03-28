@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>178</team_id> 
+   <id>617536</id> 
+   <name>A. Serin</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/617536.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>أذربيجان</nationality> 
+   <birth-day>2002-02-09</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

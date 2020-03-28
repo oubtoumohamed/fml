@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>6294</id> 
+   <name>CS Alagoano</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/6294.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Avenida Major Cícero de Goes Monteiro 2593, Mutange</adrese> 
+   <website>http://www.centrosportivoalagoano.com/website/</website> 
+   <creation-date>1913</creation-date> 
+   <players> 
+     <player id="32691" /> 
+     <player id="68943" /> 
+     <player id="98909" /> 
+     <player id="112132" /> 
+     <player id="242517" /> 
+     <player id="281402" /> 
+     <player id="410989" /> 
+     <player id="597061" /> 
+     <player id="9347" /> 
+     <player id="22373" /> 
+     <player id="32289" /> 
+     <player id="33252" /> 
+     <player id="71957" /> 
+     <player id="74810" /> 
+     <player id="99990" /> 
+     <player id="101377" /> 
+     <player id="112327" /> 
+     <player id="116493" /> 
+     <player id="121328" /> 
+     <player id="129758" /> 
+     <player id="137112" /> 
+     <player id="163583" /> 
+     <player id="175954" /> 
+     <player id="234763" /> 
+     <player id="301699" /> 
+     <player id="397011" /> 
+     <player id="433182" /> 
+     <player id="476495" /> 
+     <player id="530885" /> 
+     <player id="543875" /> 
+     <player id="592417" /> 
+     <player id="604526" /> 
+     <player id="9473" /> 
+     <player id="13847" /> 
+     <player id="17174" /> 
+     <player id="37513" /> 
+     <player id="56571" /> 
+     <player id="81882" /> 
+     <player id="87079" /> 
+     <player id="170348" /> 
+     <player id="170928" /> 
+     <player id="172588" /> 
+     <player id="191208" /> 
+     <player id="226899" /> 
+     <player id="234464" /> 
+     <player id="243845" /> 
+     <player id="294400" /> 
+     <player id="296908" /> 
+     <player id="303828" /> 
+     <player id="396764" /> 
+     <player id="432679" /> 
+     <player id="434061" /> 
+     <player id="531397" /> 
+     <player id="543880" /> 
+     <player id="546058" /> 
+     <player id="550844" /> 
+     <player id="575998" /> 
+     <player id="592418" /> 
+     <player id="630839" /> 
+     <player id="23715" /> 
+     <player id="32705" /> 
+     <player id="64341" /> 
+     <player id="72168" /> 
+     <player id="78112" /> 
+     <player id="101372" /> 
+     <player id="116043" /> 
+     <player id="129515" /> 
+     <player id="282245" /> 
+     <player id="328436" /> 
+     <player id="360809" /> 
+     <player id="398674" /> 
+     <player id="398746" /> 
+     <player id="433440" /> 
+     <player id="433986" /> 
+     <player id="492912" /> 
+     <player id="533180" /> 
+     <player id="543881" /> 
+     <player id="566984" /> 
+     <player id="593146" /> 
+     <player id="596260" /> 
+   </players> 
+   <coaches> 
+     <coach id="136490" /> 
+     <coach id="268198" /> 
+     <coach id="281618" /> 
+     <coach id="478789" /> 
+     <coach id="506014" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>215</team_id> 
+   <id>519183</id> 
+   <name>K. Sardella</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/519183.png</image> 
+   <position>مدافع</position> 
+   <nationality>بلجيكا</nationality> 
+   <birth-day>2002-05-02</birth-day> 
+   <length  unit="cm">177</length> 
+   <weight  unit="kg">اليمني</weight> 
+</player>

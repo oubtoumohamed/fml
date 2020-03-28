@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>11640</id> 
+   <name>الاتحاد الرياضي ببن ڤردان</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/11640.png</image> 
+   <country>تونس</country> 
+   <adrese>BP 331</adrese> 
+   <website></website> 
+   <creation-date>1945</creation-date> 
+   <players> 
+     <player id="53175" /> 
+     <player id="53313" /> 
+     <player id="241844" /> 
+     <player id="291047" /> 
+     <player id="424404" /> 
+     <player id="483070" /> 
+     <player id="504792" /> 
+     <player id="506742" /> 
+     <player id="519744" /> 
+     <player id="622518" /> 
+     <player id="49267" /> 
+     <player id="71604" /> 
+     <player id="71689" /> 
+     <player id="89445" /> 
+     <player id="122309" /> 
+     <player id="138346" /> 
+     <player id="166512" /> 
+     <player id="195523" /> 
+     <player id="212030" /> 
+     <player id="231549" /> 
+     <player id="358743" /> 
+     <player id="399050" /> 
+     <player id="422738" /> 
+     <player id="422740" /> 
+     <player id="463120" /> 
+     <player id="463929" /> 
+     <player id="502221" /> 
+     <player id="506743" /> 
+     <player id="508478" /> 
+     <player id="536081" /> 
+     <player id="589302" /> 
+     <player id="613572" /> 
+     <player id="53346" /> 
+     <player id="71691" /> 
+     <player id="100789" /> 
+     <player id="186212" /> 
+     <player id="277252" /> 
+     <player id="296825" /> 
+     <player id="302321" /> 
+     <player id="316780" /> 
+     <player id="389985" /> 
+     <player id="419632" /> 
+     <player id="426023" /> 
+     <player id="426241" /> 
+     <player id="426242" /> 
+     <player id="426246" /> 
+     <player id="432085" /> 
+     <player id="435314" /> 
+     <player id="447050" /> 
+     <player id="463323" /> 
+     <player id="481867" /> 
+     <player id="483510" /> 
+     <player id="500463" /> 
+     <player id="506744" /> 
+     <player id="508480" /> 
+     <player id="535589" /> 
+     <player id="536127" /> 
+     <player id="563947" /> 
+     <player id="613573" /> 
+     <player id="23437" /> 
+     <player id="138355" /> 
+     <player id="147710" /> 
+     <player id="186200" /> 
+     <player id="193482" /> 
+     <player id="266725" /> 
+     <player id="268660" /> 
+     <player id="277253" /> 
+     <player id="326339" /> 
+     <player id="329203" /> 
+     <player id="422946" /> 
+     <player id="426243" /> 
+     <player id="426245" /> 
+     <player id="431540" /> 
+     <player id="457984" /> 
+     <player id="500457" /> 
+     <player id="501790" /> 
+     <player id="507160" /> 
+     <player id="530743" /> 
+     <player id="535591" /> 
+   </players> 
+   <coaches> 
+     <coach id="60397" /> 
+     <coach id="104773" /> 
+     <coach id="249887" /> 
+     <coach id="317212" /> 
+     <coach id="519890" /> 
+     <coach id="587850" /> 
+   </coaches> 
+</team>

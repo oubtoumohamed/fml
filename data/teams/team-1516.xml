@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1516</id> 
+   <name>الكمار زانستريك</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1516.png</image> 
+   <country>هولندا</country> 
+   <adrese>Stadionweg 1</adrese> 
+   <website>http://www.az.nl</website> 
+   <creation-date>1967</creation-date> 
+   <players> 
+     <player id="2140" /> 
+     <player id="65045" /> 
+     <player id="134058" /> 
+     <player id="235322" /> 
+     <player id="398415" /> 
+     <player id="408099" /> 
+     <player id="454473" /> 
+     <player id="454477" /> 
+     <player id="540600" /> 
+     <player id="2248" /> 
+     <player id="2482" /> 
+     <player id="8824" /> 
+     <player id="58712" /> 
+     <player id="86215" /> 
+     <player id="126923" /> 
+     <player id="134067" /> 
+     <player id="334852" /> 
+     <player id="340395" /> 
+     <player id="379787" /> 
+     <player id="402051" /> 
+     <player id="407740" /> 
+     <player id="433901" /> 
+     <player id="440858" /> 
+     <player id="453378" /> 
+     <player id="465083" /> 
+     <player id="477592" /> 
+     <player id="479395" /> 
+     <player id="591723" /> 
+     <player id="66278" /> 
+     <player id="102912" /> 
+     <player id="134078" /> 
+     <player id="135714" /> 
+     <player id="137185" /> 
+     <player id="148887" /> 
+     <player id="161307" /> 
+     <player id="194827" /> 
+     <player id="381095" /> 
+     <player id="399769" /> 
+     <player id="427849" /> 
+     <player id="448434" /> 
+     <player id="451981" /> 
+     <player id="452925" /> 
+     <player id="454472" /> 
+     <player id="465082" /> 
+     <player id="477630" /> 
+     <player id="497090" /> 
+     <player id="508815" /> 
+     <player id="515464" /> 
+     <player id="525934" /> 
+     <player id="591724" /> 
+     <player id="591726" /> 
+     <player id="207918" /> 
+     <player id="250530" /> 
+     <player id="255205" /> 
+     <player id="256718" /> 
+     <player id="274647" /> 
+     <player id="275115" /> 
+     <player id="276465" /> 
+     <player id="305986" /> 
+     <player id="320098" /> 
+     <player id="373457" /> 
+     <player id="454471" /> 
+     <player id="458658" /> 
+     <player id="458659" /> 
+     <player id="463703" /> 
+     <player id="573335" /> 
+     <player id="581257" /> 
+   </players> 
+   <coaches> 
+     <coach id="2353" /> 
+     <coach id="132627" /> 
+     <coach id="411091" /> 
+   </coaches> 
+</team>

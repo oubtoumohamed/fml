@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2042</id> 
+   <name>سوسيداد ديبورتيفا إيبار</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2042.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Ipurua Kalea 2</adrese> 
+   <website>http://www.sdeibar.com</website> 
+   <creation-date>1940</creation-date> 
+   <players> 
+     <player id="61892" /> 
+     <player id="94374" /> 
+     <player id="134344" /> 
+     <player id="372577" /> 
+     <player id="476312" /> 
+     <player id="3542" /> 
+     <player id="20957" /> 
+     <player id="61500" /> 
+     <player id="71507" /> 
+     <player id="145231" /> 
+     <player id="146821" /> 
+     <player id="147251" /> 
+     <player id="152582" /> 
+     <player id="205314" /> 
+     <player id="206006" /> 
+     <player id="248483" /> 
+     <player id="290153" /> 
+     <player id="310490" /> 
+     <player id="322231" /> 
+     <player id="328785" /> 
+     <player id="372363" /> 
+     <player id="372743" /> 
+     <player id="409662" /> 
+     <player id="416172" /> 
+     <player id="422905" /> 
+     <player id="458036" /> 
+     <player id="628602" /> 
+     <player id="1458" /> 
+     <player id="5394" /> 
+     <player id="20001" /> 
+     <player id="21710" /> 
+     <player id="62132" /> 
+     <player id="116414" /> 
+     <player id="131332" /> 
+     <player id="146710" /> 
+     <player id="147149" /> 
+     <player id="191944" /> 
+     <player id="247894" /> 
+     <player id="261141" /> 
+     <player id="274943" /> 
+     <player id="279222" /> 
+     <player id="314193" /> 
+     <player id="314359" /> 
+     <player id="405148" /> 
+     <player id="426787" /> 
+     <player id="471523" /> 
+     <player id="479600" /> 
+     <player id="494603" /> 
+     <player id="619904" /> 
+     <player id="61623" /> 
+     <player id="61767" /> 
+     <player id="62164" /> 
+     <player id="93855" /> 
+     <player id="147134" /> 
+     <player id="206725" /> 
+     <player id="326343" /> 
+     <player id="416209" /> 
+     <player id="439185" /> 
+     <player id="456110" /> 
+     <player id="494871" /> 
+   </players> 
+   <coaches> 
+     <coach id="17927" /> 
+     <coach id="110794" /> 
+     <coach id="461411" /> 
+   </coaches> 
+</team>

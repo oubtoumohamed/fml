@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>9133</team_id> 
+   <id>304930</id> 
+   <name>M. Teja</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/304930.png</image> 
+   <position>غير معروف</position> 
+   <nationality>رومانيا</nationality> 
+   <birth-day>1978-09-22</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>947</team_id> 
+   <id>463141</id> 
+   <name>G. Mamardashvili</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/463141.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>جورجيا</nationality> 
+   <birth-day>2000-09-29</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

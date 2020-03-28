@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>307</team_id> 
+   <id>405601</id> 
+   <name>Matheus</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/405601.png</image> 
+   <position>البرازيل</position> 
+   <nationality>1994-12-15</nationality> 
+   <birth-day>البرازيل</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

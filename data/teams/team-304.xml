@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>304</id> 
+   <name>نادي كروزيرو الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/304.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Rua Timbiras 2903, Bairro Preto</adrese> 
+   <website>http://www.cruzeiro.com.br</website> 
+   <creation-date>1921</creation-date> 
+   <players> 
+     <player id="8961" /> 
+     <player id="90157" /> 
+     <player id="97650" /> 
+     <player id="330060" /> 
+     <player id="431776" /> 
+     <player id="472789" /> 
+     <player id="474967" /> 
+     <player id="531145" /> 
+     <player id="612960" /> 
+     <player id="9319" /> 
+     <player id="64406" /> 
+     <player id="65012" /> 
+     <player id="71117" /> 
+     <player id="71699" /> 
+     <player id="80390" /> 
+     <player id="102655" /> 
+     <player id="136504" /> 
+     <player id="228064" /> 
+     <player id="245160" /> 
+     <player id="282477" /> 
+     <player id="306588" /> 
+     <player id="408424" /> 
+     <player id="438564" /> 
+     <player id="442306" /> 
+     <player id="472694" /> 
+     <player id="486408" /> 
+     <player id="488877" /> 
+     <player id="504208" /> 
+     <player id="526594" /> 
+     <player id="536815" /> 
+     <player id="536816" /> 
+     <player id="536819" /> 
+     <player id="536820" /> 
+     <player id="593597" /> 
+     <player id="618637" /> 
+     <player id="650561" /> 
+     <player id="9112" /> 
+     <player id="9394" /> 
+     <player id="14311" /> 
+     <player id="48535" /> 
+     <player id="65376" /> 
+     <player id="69072" /> 
+     <player id="73192" /> 
+     <player id="78714" /> 
+     <player id="94923" /> 
+     <player id="187565" /> 
+     <player id="233956" /> 
+     <player id="247639" /> 
+     <player id="265228" /> 
+     <player id="296908" /> 
+     <player id="307939" /> 
+     <player id="327804" /> 
+     <player id="351995" /> 
+     <player id="441315" /> 
+     <player id="450353" /> 
+     <player id="472697" /> 
+     <player id="478707" /> 
+     <player id="504209" /> 
+     <player id="532886" /> 
+     <player id="536814" /> 
+     <player id="546075" /> 
+     <player id="560422" /> 
+     <player id="561051" /> 
+     <player id="576096" /> 
+     <player id="581953" /> 
+     <player id="586509" /> 
+     <player id="586511" /> 
+     <player id="155" /> 
+     <player id="3596" /> 
+     <player id="4987" /> 
+     <player id="20270" /> 
+     <player id="73190" /> 
+     <player id="232741" /> 
+     <player id="236674" /> 
+     <player id="283522" /> 
+     <player id="329713" /> 
+     <player id="367119" /> 
+     <player id="396310" /> 
+     <player id="420897" /> 
+     <player id="442984" /> 
+     <player id="492689" /> 
+     <player id="523522" /> 
+     <player id="525976" /> 
+     <player id="536811" /> 
+     <player id="597999" /> 
+     <player id="614107" /> 
+     <player id="618639" /> 
+     <player id="649255" /> 
+     <player id="649258" /> 
+     <player id="649618" /> 
+   </players> 
+   <coaches> 
+     <coach id="9373" /> 
+     <coach id="113209" /> 
+     <coach id="116836" /> 
+     <coach id="118668" /> 
+     <coach id="473997" /> 
+     <coach id="623521" /> 
+   </coaches> 
+</team>

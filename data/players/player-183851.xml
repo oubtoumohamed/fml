@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1184</team_id> 
+   <id>183851</id> 
+   <name>L. Nilsen</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/183851.png</image> 
+   <position>النرويج</position> 
+   <nationality>1964-04-06</nationality> 
+   <birth-day>Bergen</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

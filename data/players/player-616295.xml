@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2850</team_id> 
+   <id>616295</id> 
+   <name>I. Krstić</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/616295.png</image> 
+   <position>مدافع</position> 
+   <nationality>صربيا</nationality> 
+   <birth-day>2000-05-01</birth-day> 
+   <length  unit="cm">صربيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

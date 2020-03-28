@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>204</id> 
+   <name>FC Vitebsk</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/204.png</image> 
+   <country>بلاروسيا</country> 
+   <adrese>prospekt Ljudnikova 12</adrese> 
+   <website>http://www.fc.vitebsk.by</website> 
+   <creation-date>1960</creation-date> 
+   <players> 
+     <player id="80632" /> 
+     <player id="125101" /> 
+     <player id="134445" /> 
+     <player id="191202" /> 
+     <player id="467570" /> 
+     <player id="31585" /> 
+     <player id="67333" /> 
+     <player id="78547" /> 
+     <player id="125204" /> 
+     <player id="128786" /> 
+     <player id="154807" /> 
+     <player id="183917" /> 
+     <player id="210496" /> 
+     <player id="335305" /> 
+     <player id="347941" /> 
+     <player id="401020" /> 
+     <player id="545531" /> 
+     <player id="19658" /> 
+     <player id="36828" /> 
+     <player id="61224" /> 
+     <player id="86005" /> 
+     <player id="130818" /> 
+     <player id="143399" /> 
+     <player id="269976" /> 
+     <player id="272936" /> 
+     <player id="408459" /> 
+     <player id="446191" /> 
+     <player id="491865" /> 
+     <player id="491886" /> 
+     <player id="517525" /> 
+     <player id="532825" /> 
+     <player id="584503" /> 
+     <player id="623605" /> 
+     <player id="6382" /> 
+     <player id="27423" /> 
+     <player id="36930" /> 
+     <player id="80618" /> 
+     <player id="122846" /> 
+     <player id="338403" /> 
+     <player id="347001" /> 
+     <player id="403276" /> 
+     <player id="441721" /> 
+     <player id="445588" /> 
+     <player id="535029" /> 
+     <player id="623606" /> 
+   </players> 
+   <coaches> 
+     <coach id="421927" /> 
+   </coaches> 
+</team>

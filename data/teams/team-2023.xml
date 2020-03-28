@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2023</id> 
+   <name>نادي فياريال لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2023.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Camino Miralcamp</adrese> 
+   <website>http://www.villarrealcf.es</website> 
+   <creation-date>1923</creation-date> 
+   <players> 
+     <player id="17919" /> 
+     <player id="62591" /> 
+     <player id="68407" /> 
+     <player id="216217" /> 
+     <player id="3017" /> 
+     <player id="3991" /> 
+     <player id="21051" /> 
+     <player id="62886" /> 
+     <player id="62977" /> 
+     <player id="85169" /> 
+     <player id="86684" /> 
+     <player id="149336" /> 
+     <player id="183963" /> 
+     <player id="192742" /> 
+     <player id="217921" /> 
+     <player id="260731" /> 
+     <player id="319878" /> 
+     <player id="349005" /> 
+     <player id="405258" /> 
+     <player id="423620" /> 
+     <player id="423623" /> 
+     <player id="423631" /> 
+     <player id="10442" /> 
+     <player id="18102" /> 
+     <player id="18105" /> 
+     <player id="20498" /> 
+     <player id="21190" /> 
+     <player id="39145" /> 
+     <player id="72309" /> 
+     <player id="145463" /> 
+     <player id="187228" /> 
+     <player id="192645" /> 
+     <player id="197872" /> 
+     <player id="214374" /> 
+     <player id="261141" /> 
+     <player id="283530" /> 
+     <player id="285272" /> 
+     <player id="289690" /> 
+     <player id="289916" /> 
+     <player id="316424" /> 
+     <player id="387321" /> 
+     <player id="394220" /> 
+     <player id="394835" /> 
+     <player id="395959" /> 
+     <player id="422765" /> 
+     <player id="423633" /> 
+     <player id="423634" /> 
+     <player id="425644" /> 
+     <player id="427956" /> 
+     <player id="429650" /> 
+     <player id="439041" /> 
+     <player id="455172" /> 
+     <player id="464340" /> 
+     <player id="517637" /> 
+     <player id="526631" /> 
+     <player id="74149" /> 
+     <player id="114988" /> 
+     <player id="164611" /> 
+     <player id="179938" /> 
+     <player id="187868" /> 
+     <player id="289944" /> 
+     <player id="300190" /> 
+     <player id="304929" /> 
+     <player id="343739" /> 
+     <player id="423644" /> 
+     <player id="431275" /> 
+     <player id="627811" /> 
+   </players> 
+   <coaches> 
+     <coach id="59213" /> 
+     <coach id="138602" /> 
+     <coach id="304638" /> 
+   </coaches> 
+</team>

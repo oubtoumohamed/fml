@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3490</team_id> 
+   <id>629177</id> 
+   <name>Mohamed Mkaari</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/629177.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>ليبيا</nationality> 
+   <birth-day>1996-04-09</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

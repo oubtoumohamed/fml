@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>899</team_id> 
+   <id>597317</id> 
+   <name>S. Zobo</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/597317.png</image> 
+   <position>مهاجم</position> 
+   <nationality>الكاميرون</nationality> 
+   <birth-day>2000-08-02</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

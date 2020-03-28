@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3463</team_id> 
+   <id>257580</id> 
+   <name>Ángel Viadero</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/257580.png</image> 
+   <position>غير معروف</position> 
+   <nationality>إسبانيا</nationality> 
+   <birth-day>1969-01-03</birth-day> 
+   <length  unit="cm">إسبانيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

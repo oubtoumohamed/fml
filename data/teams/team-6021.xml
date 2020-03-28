@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>6021</id> 
+   <name>نادي الجزيرة (عمان)</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/6021.png</image> 
+   <country>الأردن</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date></creation-date> 
+   <players> 
+     <player id="81098" /> 
+     <player id="222606" /> 
+     <player id="431959" /> 
+     <player id="536158" /> 
+     <player id="165297" /> 
+     <player id="280138" /> 
+     <player id="373471" /> 
+     <player id="373477" /> 
+     <player id="397211" /> 
+     <player id="504645" /> 
+     <player id="531010" /> 
+     <player id="81075" /> 
+     <player id="84876" /> 
+     <player id="217584" /> 
+     <player id="265796" /> 
+     <player id="329081" /> 
+     <player id="329084" /> 
+     <player id="329085" /> 
+     <player id="371477" /> 
+     <player id="373491" /> 
+     <player id="395716" /> 
+     <player id="397210" /> 
+     <player id="454613" /> 
+     <player id="504652" /> 
+     <player id="536155" /> 
+     <player id="576363" /> 
+     <player id="576368" /> 
+     <player id="635728" /> 
+     <player id="165300" /> 
+     <player id="184439" /> 
+     <player id="217882" /> 
+     <player id="284394" /> 
+     <player id="373601" /> 
+     <player id="433093" /> 
+     <player id="531142" /> 
+     <player id="536157" /> 
+     <player id="576375" /> 
+     <player id="599834" /> 
+   </players> 
+   <coaches> 
+     <coach id="198080" /> 
+     <coach id="270192" /> 
+   </coaches> 
+</team>

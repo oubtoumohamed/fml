@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<voitures>
+	<voiture marque="dacia" />
+	<voiture>Toyota</voiture>
+	<voiture marque="logan" />
+	<voiture marque="Fiat" />
+	<voiture>Volvo</voiture>
+</voitures>	

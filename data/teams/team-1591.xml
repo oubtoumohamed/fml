@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1591</id> 
+   <name>نادي بران الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1591.png</image> 
+   <country>النرويج</country> 
+   <adrese>Kniksens plass 1</adrese> 
+   <website>http://www.brann.no</website> 
+   <creation-date>1908</creation-date> 
+   <players> 
+     <player id="7478" /> 
+     <player id="124874" /> 
+     <player id="157672" /> 
+     <player id="413115" /> 
+     <player id="423969" /> 
+     <player id="614730" /> 
+     <player id="25781" /> 
+     <player id="43040" /> 
+     <player id="61318" /> 
+     <player id="125448" /> 
+     <player id="132626" /> 
+     <player id="155924" /> 
+     <player id="188863" /> 
+     <player id="240213" /> 
+     <player id="277249" /> 
+     <player id="423990" /> 
+     <player id="431799" /> 
+     <player id="546965" /> 
+     <player id="7987" /> 
+     <player id="28154" /> 
+     <player id="74249" /> 
+     <player id="183846" /> 
+     <player id="189528" /> 
+     <player id="190736" /> 
+     <player id="256540" /> 
+     <player id="333173" /> 
+     <player id="423993" /> 
+     <player id="550213" /> 
+     <player id="612299" /> 
+     <player id="632627" /> 
+     <player id="7915" /> 
+     <player id="18259" /> 
+     <player id="102894" /> 
+     <player id="155942" /> 
+     <player id="159948" /> 
+     <player id="207904" /> 
+     <player id="212053" /> 
+     <player id="233485" /> 
+     <player id="291177" /> 
+     <player id="308507" /> 
+     <player id="437761" /> 
+     <player id="451697" /> 
+     <player id="495146" /> 
+     <player id="550211" /> 
+     <player id="640697" /> 
+   </players> 
+   <coaches> 
+     <coach id="183851" /> 
+   </coaches> 
+</team>

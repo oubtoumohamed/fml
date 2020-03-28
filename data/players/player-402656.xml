@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>158</team_id> 
+   <id>402656</id> 
+   <name>م. كوس</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/402656.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>النمسا</nationality> 
+   <birth-day>1997-04-12</birth-day> 
+   <length  unit="cm">النمسا</length> 
+   <weight  unit="kg">183</weight> 
+</player>

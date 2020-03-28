@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1678</team_id> 
+   <id>509320</id> 
+   <name>Fabio Vieira</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/509320.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>البرتغال</nationality> 
+   <birth-day>2000-05-30</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

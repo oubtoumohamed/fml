@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>5488</team_id> 
+   <id>514882</id> 
+   <name>محمد الجالبوت</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/514882.png</image> 
+   <position>غير معروف</position> 
+   <nationality>الإمارات</nationality> 
+   <birth-day>1968-10-18</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

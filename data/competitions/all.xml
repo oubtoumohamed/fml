@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<competitions>
+	<competition> 
+		<id>15911</id> 
+		<image>frontend/img/flags/15911.png</image> 
+		<name>الدوري الأردني للمحترفين</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+	<competition> 
+		<id>16888</id> 
+		<image>frontend/img/flags/16888.png</image> 
+		<name>الدوري البرازيلي</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+
+	<competition> 
+		<id>17217</id> 
+		<image>frontend/img/flags/17217.png</image> 
+		<name>دوري النجوم القطري</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+
+	<competition> 
+		<id>17429</id> 
+		<image>frontend/img/flags/17429.png</image> 
+		<name>الدوري الإنجليزي الممتاز</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+
+	<competition> 
+		<id>17512</id> 
+		<image>frontend/img/flags/17512.png</image> 
+		<name>الدوري الألماني</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+	<competition> 
+		<id>17516</id> 
+		<image>frontend/img/flags/17516.png</image> 
+		<name>الدوري الاسباني</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+	<competition> 
+		<id>17522</id> 
+		<image>frontend/img/flags/17522.png</image> 
+		<name>الدوري البلجيكي</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+	<competition> 
+		<id>17555</id> 
+		<image>frontend/img/flags/17555.png</image> 
+		<name>الدوري الفرنسي</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+	<competition> 
+		<id>17638</id> 
+		<image>frontend/img/flags/17638.png</image> 
+		<name>الدوري الاماراتي الممتاز</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+	<competition> 
+		<id>17653</id> 
+		<image>frontend/img/flags/17653.png</image> 
+		<name>الدوري الأوروبي</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+	<competition> 
+		<id>17663</id> 
+		<image>frontend/img/flags/17663.png</image> 
+		<name>الدوري الهولندي الممتاز</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+	<competition> 
+		<id>17689</id> 
+		<image>frontend/img/flags/17689.png</image> 
+		<name>دوري أبطال أوروبا</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+	<competition> 
+		<id>17814</id> 
+		<image>frontend/img/flags/17814.png</image> 
+		<name>الدوري المغربي الممتاز</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+	<competition> 
+		<id>17835</id> 
+		<image>frontend/img/flags/17835.png</image> 
+		<name>الدوري الجزائري</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+	<competition> 
+		<id>17837</id> 
+		<image>frontend/img/flags/17837.png</image> 
+		<name>دوري المحترفين السعودي</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+	<competition> 
+		<id>17874</id> 
+		<image>frontend/img/flags/17874.png</image> 
+		<name>الدوري التونسي</name> 
+		<session>2019/2020</session> 
+	</competition>
+
+	<competition> 
+		<id>17886</id> 
+		<image>frontend/img/flags/17886.png</image> 
+		<name>الدوري الإيطالي</name> 
+		<session>2019/2020</session> 
+	</competition>
+</competitions>

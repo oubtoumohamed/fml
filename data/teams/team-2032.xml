@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2032</id> 
+   <name>نادي ريال ديبورتيفو إسبانيول</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2032.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Avenida Baix Llobregat 100</adrese> 
+   <website>http://www.rcdespanyol.com</website> 
+   <creation-date>1900</creation-date> 
+   <players> 
+     <player id="2996" /> 
+     <player id="3035" /> 
+     <player id="275481" /> 
+     <player id="280411" /> 
+     <player id="427903" /> 
+     <player id="481882" /> 
+     <player id="13577" /> 
+     <player id="18901" /> 
+     <player id="42671" /> 
+     <player id="59007" /> 
+     <player id="71577" /> 
+     <player id="73166" /> 
+     <player id="74027" /> 
+     <player id="99588" /> 
+     <player id="112182" /> 
+     <player id="155820" /> 
+     <player id="314116" /> 
+     <player id="316422" /> 
+     <player id="316431" /> 
+     <player id="368537" /> 
+     <player id="389469" /> 
+     <player id="393793" /> 
+     <player id="431062" /> 
+     <player id="436235" /> 
+     <player id="445556" /> 
+     <player id="455612" /> 
+     <player id="477410" /> 
+     <player id="3044" /> 
+     <player id="13729" /> 
+     <player id="18824" /> 
+     <player id="26263" /> 
+     <player id="59253" /> 
+     <player id="61486" /> 
+     <player id="200908" /> 
+     <player id="363679" /> 
+     <player id="388735" /> 
+     <player id="397784" /> 
+     <player id="405659" /> 
+     <player id="412655" /> 
+     <player id="427909" /> 
+     <player id="455687" /> 
+     <player id="456255" /> 
+     <player id="540668" /> 
+     <player id="3824" /> 
+     <player id="23737" /> 
+     <player id="68491" /> 
+     <player id="116426" /> 
+     <player id="153319" /> 
+     <player id="154869" /> 
+     <player id="160277" /> 
+     <player id="179938" /> 
+     <player id="211376" /> 
+     <player id="265255" /> 
+     <player id="301156" /> 
+     <player id="309946" /> 
+     <player id="394812" /> 
+     <player id="409801" /> 
+     <player id="412664" /> 
+     <player id="455683" /> 
+     <player id="479746" /> 
+   </players> 
+   <coaches> 
+     <coach id="110781" /> 
+     <coach id="236374" /> 
+     <coach id="262844" /> 
+     <coach id="292869" /> 
+     <coach id="407561" /> 
+     <coach id="431072" /> 
+     <coach id="450722" /> 
+     <coach id="550455" /> 
+   </coaches> 
+</team>

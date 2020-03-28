@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>3704</team_id> 
+   <id>179266</id> 
+   <name>اندرياس آلم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/179266.png</image> 
+   <position>السويد</position> 
+   <nationality>1973-06-19</nationality> 
+   <birth-day>Gällivare</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

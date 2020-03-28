@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2253</team_id> 
+   <id>482640</id> 
+   <name>O. Syrota</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/482640.png</image> 
+   <position>مدافع</position> 
+   <nationality>أوكرانيا</nationality> 
+   <birth-day>2000-06-11</birth-day> 
+   <length  unit="cm">أوكرانيا</length> 
+   <weight  unit="kg">193</weight> 
+</player>

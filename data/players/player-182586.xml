@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>5492</team_id> 
+   <id>182586</id> 
+   <name>فوك رازوفيتش</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/182586.png</image> 
+   <position>صربيا</position> 
+   <nationality>1973-01-03</nationality> 
+   <birth-day>Dortmund</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

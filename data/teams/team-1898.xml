@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1898</id> 
+   <name>نادي سلتيك لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1898.png</image> 
+   <country>إسكتلندا</country> 
+   <adrese>18 Kerrydale Street</adrese> 
+   <website>http://www.celticfc.co.uk</website> 
+   <creation-date>1888</creation-date> 
+   <players> 
+     <player id="841" /> 
+     <player id="5259" /> 
+     <player id="47553" /> 
+     <player id="134241" /> 
+     <player id="375051" /> 
+     <player id="375069" /> 
+     <player id="1817" /> 
+     <player id="10245" /> 
+     <player id="28186" /> 
+     <player id="44104" /> 
+     <player id="111111" /> 
+     <player id="134483" /> 
+     <player id="156259" /> 
+     <player id="182732" /> 
+     <player id="189321" /> 
+     <player id="195355" /> 
+     <player id="301892" /> 
+     <player id="314531" /> 
+     <player id="314581" /> 
+     <player id="316212" /> 
+     <player id="318349" /> 
+     <player id="323402" /> 
+     <player id="337487" /> 
+     <player id="347247" /> 
+     <player id="405025" /> 
+     <player id="414267" /> 
+     <player id="421858" /> 
+     <player id="443199" /> 
+     <player id="451011" /> 
+     <player id="453104" /> 
+     <player id="460021" /> 
+     <player id="460411" /> 
+     <player id="460425" /> 
+     <player id="491190" /> 
+     <player id="892" /> 
+     <player id="5926" /> 
+     <player id="15719" /> 
+     <player id="20707" /> 
+     <player id="91988" /> 
+     <player id="110336" /> 
+     <player id="134248" /> 
+     <player id="157090" /> 
+     <player id="157642" /> 
+     <player id="180579" /> 
+     <player id="187383" /> 
+     <player id="226304" /> 
+     <player id="271264" /> 
+     <player id="291498" /> 
+     <player id="314508" /> 
+     <player id="320278" /> 
+     <player id="329210" /> 
+     <player id="334258" /> 
+     <player id="375117" /> 
+     <player id="376371" /> 
+     <player id="398279" /> 
+     <player id="398287" /> 
+     <player id="424432" /> 
+     <player id="443019" /> 
+     <player id="460413" /> 
+     <player id="499188" /> 
+     <player id="506178" /> 
+     <player id="509541" /> 
+     <player id="530013" /> 
+     <player id="38567" /> 
+     <player id="193638" /> 
+     <player id="289781" /> 
+     <player id="376915" /> 
+     <player id="400636" /> 
+     <player id="405082" /> 
+     <player id="423874" /> 
+     <player id="460023" /> 
+     <player id="462465" /> 
+     <player id="464218" /> 
+     <player id="611351" /> 
+   </players> 
+   <coaches> 
+     <coach id="135536" /> 
+     <coach id="154853" /> 
+   </coaches> 
+</team>

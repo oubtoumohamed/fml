@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1689</id> 
+   <name>نادي فيتوريا غيمارايش الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1689.png</image> 
+   <country>البرتغال</country> 
+   <adrese>Dr. António Pimenta Machado, Apartado 505</adrese> 
+   <website>http://www.vitoriasc.pt</website> 
+   <creation-date>1922</creation-date> 
+   <players> 
+     <player id="52818" /> 
+     <player id="171503" /> 
+     <player id="259039" /> 
+     <player id="328383" /> 
+     <player id="575297" /> 
+     <player id="17082" /> 
+     <player id="66173" /> 
+     <player id="139538" /> 
+     <player id="149619" /> 
+     <player id="166610" /> 
+     <player id="170872" /> 
+     <player id="214874" /> 
+     <player id="253172" /> 
+     <player id="255845" /> 
+     <player id="265129" /> 
+     <player id="266223" /> 
+     <player id="283484" /> 
+     <player id="335690" /> 
+     <player id="356779" /> 
+     <player id="370785" /> 
+     <player id="377269" /> 
+     <player id="405522" /> 
+     <player id="425511" /> 
+     <player id="435624" /> 
+     <player id="456607" /> 
+     <player id="485837" /> 
+     <player id="491324" /> 
+     <player id="495498" /> 
+     <player id="504208" /> 
+     <player id="8924" /> 
+     <player id="23860" /> 
+     <player id="56937" /> 
+     <player id="162710" /> 
+     <player id="194804" /> 
+     <player id="198862" /> 
+     <player id="214883" /> 
+     <player id="217199" /> 
+     <player id="217209" /> 
+     <player id="229032" /> 
+     <player id="234408" /> 
+     <player id="272891" /> 
+     <player id="291134" /> 
+     <player id="298183" /> 
+     <player id="314072" /> 
+     <player id="318330" /> 
+     <player id="320106" /> 
+     <player id="327006" /> 
+     <player id="349579" /> 
+     <player id="387385" /> 
+     <player id="395295" /> 
+     <player id="396637" /> 
+     <player id="414691" /> 
+     <player id="452411" /> 
+     <player id="452413" /> 
+     <player id="491335" /> 
+     <player id="624412" /> 
+     <player id="72120" /> 
+     <player id="89925" /> 
+     <player id="102902" /> 
+     <player id="114985" /> 
+     <player id="147926" /> 
+     <player id="174795" /> 
+     <player id="176052" /> 
+     <player id="180819" /> 
+     <player id="215116" /> 
+     <player id="218205" /> 
+     <player id="257642" /> 
+     <player id="282448" /> 
+     <player id="318341" /> 
+     <player id="322185" /> 
+     <player id="356459" /> 
+     <player id="361793" /> 
+     <player id="399024" /> 
+     <player id="401474" /> 
+     <player id="412321" /> 
+     <player id="419866" /> 
+     <player id="429714" /> 
+     <player id="446971" /> 
+     <player id="460205" /> 
+     <player id="481763" /> 
+     <player id="490541" /> 
+     <player id="619648" /> 
+   </players> 
+   <coaches> 
+     <coach id="165607" /> 
+     <coach id="195773" /> 
+     <coach id="306098" /> 
+     <coach id="330960" /> 
+   </coaches> 
+</team>

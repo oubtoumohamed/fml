@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>898</id> 
+   <name>نادي ريسينغ ستراسبورغ</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/898.png</image> 
+   <country>فرنسا</country> 
+   <adrese>12, rue de l'Extenwoerth</adrese> 
+   <website>http://www.rcstrasbourgalsace.fr/</website> 
+   <creation-date>1906</creation-date> 
+   <players> 
+     <player id="5440" /> 
+     <player id="37630" /> 
+     <player id="39352" /> 
+     <player id="89739" /> 
+     <player id="334724" /> 
+     <player id="468193" /> 
+     <player id="518048" /> 
+     <player id="11390" /> 
+     <player id="37589" /> 
+     <player id="55703" /> 
+     <player id="120110" /> 
+     <player id="138779" /> 
+     <player id="139779" /> 
+     <player id="156497" /> 
+     <player id="161568" /> 
+     <player id="175301" /> 
+     <player id="242749" /> 
+     <player id="262766" /> 
+     <player id="363083" /> 
+     <player id="400604" /> 
+     <player id="427440" /> 
+     <player id="454638" /> 
+     <player id="471621" /> 
+     <player id="478037" /> 
+     <player id="518049" /> 
+     <player id="564548" /> 
+     <player id="37975" /> 
+     <player id="39295" /> 
+     <player id="45246" /> 
+     <player id="113366" /> 
+     <player id="138313" /> 
+     <player id="138713" /> 
+     <player id="158019" /> 
+     <player id="158472" /> 
+     <player id="193378" /> 
+     <player id="213426" /> 
+     <player id="242372" /> 
+     <player id="327832" /> 
+     <player id="395124" /> 
+     <player id="419313" /> 
+     <player id="420786" /> 
+     <player id="445450" /> 
+     <player id="500276" /> 
+     <player id="521931" /> 
+     <player id="56557" /> 
+     <player id="122047" /> 
+     <player id="143854" /> 
+     <player id="191939" /> 
+     <player id="247341" /> 
+     <player id="264466" /> 
+     <player id="393350" /> 
+     <player id="474965" /> 
+     <player id="482318" /> 
+     <player id="526192" /> 
+   </players> 
+   <coaches> 
+     <coach id="236340" /> 
+   </coaches> 
+</team>

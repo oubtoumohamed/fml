@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1113</team_id> 
+   <id>559116</id> 
+   <name>M. Hegedűs</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/559116.png</image> 
+   <position>مهاجم</position> 
+   <nationality>المجر</nationality> 
+   <birth-day>1998-01-16</birth-day> 
+   <length  unit="cm">المجر</length> 
+   <weight  unit="kg">182</weight> 
+</player>

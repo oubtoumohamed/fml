@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>178</id> 
+   <name>نادي نيفتشي باكو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/178.png</image> 
+   <country>أذربيجان</country> 
+   <adrese>64 Nobel prospekti</adrese> 
+   <website>http://www.neftchipfk.com</website> 
+   <creation-date>1937</creation-date> 
+   <players> 
+     <player id="84201" /> 
+     <player id="89319" /> 
+     <player id="161845" /> 
+     <player id="400271" /> 
+     <player id="448067" /> 
+     <player id="581015" /> 
+     <player id="28155" /> 
+     <player id="35778" /> 
+     <player id="90106" /> 
+     <player id="115373" /> 
+     <player id="122876" /> 
+     <player id="130071" /> 
+     <player id="266578" /> 
+     <player id="381409" /> 
+     <player id="400272" /> 
+     <player id="406067" /> 
+     <player id="444177" /> 
+     <player id="448068" /> 
+     <player id="468503" /> 
+     <player id="509896" /> 
+     <player id="515642" /> 
+     <player id="539478" /> 
+     <player id="561886" /> 
+     <player id="617528" /> 
+     <player id="637886" /> 
+     <player id="19206" /> 
+     <player id="35248" /> 
+     <player id="59345" /> 
+     <player id="70395" /> 
+     <player id="85418" /> 
+     <player id="99846" /> 
+     <player id="110917" /> 
+     <player id="128080" /> 
+     <player id="135847" /> 
+     <player id="161865" /> 
+     <player id="163532" /> 
+     <player id="173082" /> 
+     <player id="204991" /> 
+     <player id="274874" /> 
+     <player id="342057" /> 
+     <player id="389793" /> 
+     <player id="423510" /> 
+     <player id="467499" /> 
+     <player id="483734" /> 
+     <player id="505575" /> 
+     <player id="505577" /> 
+     <player id="515647" /> 
+     <player id="516638" /> 
+     <player id="520830" /> 
+     <player id="617536" /> 
+     <player id="65383" /> 
+     <player id="66124" /> 
+     <player id="71339" /> 
+     <player id="84411" /> 
+     <player id="116489" /> 
+     <player id="158052" /> 
+     <player id="183836" /> 
+     <player id="227599" /> 
+     <player id="267364" /> 
+     <player id="274876" /> 
+     <player id="357097" /> 
+     <player id="468504" /> 
+     <player id="555402" /> 
+   </players> 
+   <coaches> 
+     <coach id="224060" /> 
+     <coach id="304564" /> 
+     <coach id="574071" /> 
+   </coaches> 
+</team>

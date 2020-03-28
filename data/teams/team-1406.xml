@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1406</id> 
+   <name>زالغيريس فيلنيوس</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1406.png</image> 
+   <country>لتوانيا</country> 
+   <adrese>Žolyno gatvė 29</adrese> 
+   <website>http://www.zalgiris-vilnius.lt</website> 
+   <creation-date>1947</creation-date> 
+   <players> 
+     <player id="27462" /> 
+     <player id="139066" /> 
+     <player id="147346" /> 
+     <player id="154736" /> 
+     <player id="275158" /> 
+     <player id="476660" /> 
+     <player id="476661" /> 
+     <player id="487910" /> 
+     <player id="575042" /> 
+     <player id="8831" /> 
+     <player id="12337" /> 
+     <player id="36868" /> 
+     <player id="53068" /> 
+     <player id="128751" /> 
+     <player id="190832" /> 
+     <player id="235256" /> 
+     <player id="248742" /> 
+     <player id="299153" /> 
+     <player id="319936" /> 
+     <player id="338359" /> 
+     <player id="381409" /> 
+     <player id="477128" /> 
+     <player id="573922" /> 
+     <player id="867" /> 
+     <player id="27435" /> 
+     <player id="35674" /> 
+     <player id="58374" /> 
+     <player id="85828" /> 
+     <player id="92929" /> 
+     <player id="175076" /> 
+     <player id="190462" /> 
+     <player id="198416" /> 
+     <player id="246062" /> 
+     <player id="275161" /> 
+     <player id="275174" /> 
+     <player id="288319" /> 
+     <player id="300703" /> 
+     <player id="355929" /> 
+     <player id="361095" /> 
+     <player id="404511" /> 
+     <player id="461908" /> 
+     <player id="461909" /> 
+     <player id="539616" /> 
+     <player id="544000" /> 
+     <player id="549834" /> 
+     <player id="550378" /> 
+     <player id="615362" /> 
+     <player id="615364" /> 
+     <player id="30386" /> 
+     <player id="182836" /> 
+     <player id="195089" /> 
+     <player id="196043" /> 
+     <player id="331172" /> 
+     <player id="414404" /> 
+     <player id="423472" /> 
+     <player id="458184" /> 
+     <player id="488211" /> 
+     <player id="573936" /> 
+     <player id="597729" /> 
+     <player id="636168" /> 
+   </players> 
+   <coaches> 
+     <coach id="27509" /> 
+     <coach id="77808" /> 
+     <coach id="124182" /> 
+     <coach id="196161" /> 
+     <coach id="226608" /> 
+     <coach id="267537" /> 
+     <coach id="417826" /> 
+   </coaches> 
+</team>

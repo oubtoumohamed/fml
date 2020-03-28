@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>14354</team_id> 
+   <id>105709</id> 
+   <name>جيه. نيكول</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/105709.png</image> 
+   <position>مدافع</position> 
+   <nationality>إيرلندا الشمالية</nationality> 
+   <birth-day>1956-12-28</birth-day> 
+   <length  unit="cm">كندا</length> 
+   <weight  unit="kg">177</weight> 
+</player>

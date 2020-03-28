@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>889</team_id> 
+   <id>426518</id> 
+   <name>ألبان لافون</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/426518.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>فرنسا</nationality> 
+   <birth-day>1999-01-23</birth-day> 
+   <length  unit="cm">بوركينا</length> 
+   <weight  unit="kg">193</weight> 
+</player>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>9611</team_id> 
+   <id>641534</id> 
+   <name>Hadi Ali Tabasideh</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/641534.png</image> 
+   <position>مهاجم</position> 
+   <nationality>قطر</nationality> 
+   <birth-day>2001-09-14</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

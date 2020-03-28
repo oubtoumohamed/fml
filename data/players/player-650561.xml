@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>304</team_id> 
+   <id>650561</id> 
+   <name>Valdir</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/650561.png</image> 
+   <position>مدافع</position> 
+   <nationality>البرازيل</nationality> 
+   <birth-day>2000-05-22</birth-day> 
+   <length  unit="cm">185</length> 
+   <weight  unit="kg">81</weight> 
+</player>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>352</id> 
+   <name>نادي لوكوموتيف بلوفديف لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/352.png</image> 
+   <country>بلغاريا</country> 
+   <adrese>Park Lauta</adrese> 
+   <website>http://www.lokomotivpd.com</website> 
+   <creation-date>1926</creation-date> 
+   <players> 
+     <player id="51680" /> 
+     <player id="160179" /> 
+     <player id="266492" /> 
+     <player id="286505" /> 
+     <player id="308198" /> 
+     <player id="404653" /> 
+     <player id="477107" /> 
+     <player id="485438" /> 
+     <player id="574469" /> 
+     <player id="36579" /> 
+     <player id="40964" /> 
+     <player id="145334" /> 
+     <player id="153882" /> 
+     <player id="201514" /> 
+     <player id="250507" /> 
+     <player id="307139" /> 
+     <player id="308433" /> 
+     <player id="311067" /> 
+     <player id="317588" /> 
+     <player id="319101" /> 
+     <player id="405105" /> 
+     <player id="405526" /> 
+     <player id="408135" /> 
+     <player id="423767" /> 
+     <player id="431999" /> 
+     <player id="541396" /> 
+     <player id="607475" /> 
+     <player id="607476" /> 
+     <player id="629247" /> 
+     <player id="39194" /> 
+     <player id="51814" /> 
+     <player id="64378" /> 
+     <player id="85590" /> 
+     <player id="149722" /> 
+     <player id="196790" /> 
+     <player id="197533" /> 
+     <player id="198051" /> 
+     <player id="288787" /> 
+     <player id="298042" /> 
+     <player id="334607" /> 
+     <player id="338089" /> 
+     <player id="477108" /> 
+     <player id="481801" /> 
+     <player id="485604" /> 
+     <player id="508839" /> 
+     <player id="510316" /> 
+     <player id="539606" /> 
+     <player id="557178" /> 
+     <player id="557179" /> 
+     <player id="587797" /> 
+     <player id="607473" /> 
+     <player id="51769" /> 
+     <player id="51900" /> 
+     <player id="89092" /> 
+     <player id="142540" /> 
+     <player id="208288" /> 
+     <player id="214998" /> 
+     <player id="264676" /> 
+     <player id="268938" /> 
+     <player id="366697" /> 
+     <player id="383197" /> 
+     <player id="485605" /> 
+     <player id="557177" /> 
+     <player id="607471" /> 
+     <player id="607472" /> 
+   </players> 
+   <coaches> 
+     <coach id="37477" /> 
+     <coach id="223411" /> 
+     <coach id="227131" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2163</team_id> 
+   <id>436259</id> 
+   <name>I. Pettersson</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/436259.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>السويد</nationality> 
+   <birth-day>1997-06-06</birth-day> 
+   <length  unit="cm">180</length> 
+   <weight  unit="kg">80</weight> 
+</player>

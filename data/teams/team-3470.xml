@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>3470</id> 
+   <name>نادي مولودية وجدة</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/3470.png</image> 
+   <country>المغرب</country> 
+   <adrese>BP 76</adrese> 
+   <website></website> 
+   <creation-date>1946</creation-date> 
+   <players> 
+     <player id="169985" /> 
+     <player id="632207" /> 
+     <player id="632208" /> 
+     <player id="392133" /> 
+     <player id="405613" /> 
+     <player id="405630" /> 
+     <player id="432158" /> 
+     <player id="632209" /> 
+     <player id="632210" /> 
+     <player id="632211" /> 
+     <player id="632213" /> 
+     <player id="634318" /> 
+     <player id="137629" /> 
+     <player id="254962" /> 
+     <player id="315094" /> 
+     <player id="342123" /> 
+     <player id="392131" /> 
+     <player id="488611" /> 
+     <player id="548482" /> 
+     <player id="632214" /> 
+     <player id="632215" /> 
+     <player id="632254" /> 
+     <player id="632258" /> 
+     <player id="632263" /> 
+     <player id="634320" /> 
+     <player id="641515" /> 
+     <player id="642687" /> 
+     <player id="648940" /> 
+     <player id="274965" /> 
+     <player id="276935" /> 
+     <player id="283961" /> 
+     <player id="478723" /> 
+     <player id="483035" /> 
+     <player id="588560" /> 
+     <player id="634313" /> 
+   </players> 
+   <coaches> 
+     <coach id="165477" /> 
+   </coaches> 
+</team>

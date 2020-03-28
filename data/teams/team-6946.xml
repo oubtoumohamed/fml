@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>6946</id> 
+   <name>موسكرون بيروفيلز</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/6946.png</image> 
+   <country>بلجيكا</country> 
+   <adrese>Rue du Stade 33</adrese> 
+   <website>http://www.excel-foot.be/nl/</website> 
+   <creation-date>2010</creation-date> 
+   <players> 
+     <player id="9911" /> 
+     <player id="13371" /> 
+     <player id="85694" /> 
+     <player id="129103" /> 
+     <player id="263155" /> 
+     <player id="301747" /> 
+     <player id="489074" /> 
+     <player id="526500" /> 
+     <player id="641667" /> 
+     <player id="18968" /> 
+     <player id="21089" /> 
+     <player id="29758" /> 
+     <player id="85094" /> 
+     <player id="103342" /> 
+     <player id="128083" /> 
+     <player id="129319" /> 
+     <player id="138311" /> 
+     <player id="146650" /> 
+     <player id="158813" /> 
+     <player id="211936" /> 
+     <player id="215331" /> 
+     <player id="250667" /> 
+     <player id="273643" /> 
+     <player id="317603" /> 
+     <player id="342129" /> 
+     <player id="355445" /> 
+     <player id="379063" /> 
+     <player id="419698" /> 
+     <player id="428023" /> 
+     <player id="440011" /> 
+     <player id="458889" /> 
+     <player id="480811" /> 
+     <player id="492488" /> 
+     <player id="161804" /> 
+     <player id="186548" /> 
+     <player id="190248" /> 
+     <player id="203260" /> 
+     <player id="213878" /> 
+     <player id="254489" /> 
+     <player id="260263" /> 
+     <player id="286205" /> 
+     <player id="289439" /> 
+     <player id="311730" /> 
+     <player id="316531" /> 
+     <player id="398797" /> 
+     <player id="404544" /> 
+     <player id="404697" /> 
+     <player id="409847" /> 
+     <player id="431315" /> 
+     <player id="448199" /> 
+     <player id="479507" /> 
+     <player id="483520" /> 
+     <player id="484636" /> 
+     <player id="546679" /> 
+     <player id="577153" /> 
+     <player id="610302" /> 
+     <player id="610768" /> 
+     <player id="13364" /> 
+     <player id="198988" /> 
+     <player id="270151" /> 
+     <player id="276465" /> 
+     <player id="296904" /> 
+     <player id="318343" /> 
+     <player id="319132" /> 
+     <player id="334388" /> 
+     <player id="337057" /> 
+     <player id="363643" /> 
+     <player id="409000" /> 
+     <player id="423975" /> 
+     <player id="444992" /> 
+     <player id="475376" /> 
+     <player id="484637" /> 
+     <player id="555762" /> 
+     <player id="604984" /> 
+   </players> 
+   <coaches> 
+     <coach id="13616" /> 
+     <coach id="149997" /> 
+     <coach id="189090" /> 
+     <coach id="192261" /> 
+     <coach id="223171" /> 
+     <coach id="348893" /> 
+     <coach id="647491" /> 
+   </coaches> 
+</team>

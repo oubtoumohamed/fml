@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>980</id> 
+   <name>1. نادي كولن لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/980.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Aachener Straße 999</adrese> 
+   <website>http://www.fc-koeln.de</website> 
+   <creation-date>1948</creation-date> 
+   <players> 
+     <player id="16268" /> 
+     <player id="141582" /> 
+     <player id="260547" /> 
+     <player id="428499" /> 
+     <player id="484458" /> 
+     <player id="497137" /> 
+     <player id="54414" /> 
+     <player id="85094" /> 
+     <player id="139141" /> 
+     <player id="141045" /> 
+     <player id="156996" /> 
+     <player id="162898" /> 
+     <player id="199842" /> 
+     <player id="215597" /> 
+     <player id="307951" /> 
+     <player id="309843" /> 
+     <player id="318019" /> 
+     <player id="339111" /> 
+     <player id="376489" /> 
+     <player id="391407" /> 
+     <player id="410042" /> 
+     <player id="421820" /> 
+     <player id="443904" /> 
+     <player id="453582" /> 
+     <player id="468838" /> 
+     <player id="496914" /> 
+     <player id="496931" /> 
+     <player id="1641" /> 
+     <player id="44080" /> 
+     <player id="87892" /> 
+     <player id="88438" /> 
+     <player id="121130" /> 
+     <player id="124759" /> 
+     <player id="141580" /> 
+     <player id="144607" /> 
+     <player id="159823" /> 
+     <player id="163804" /> 
+     <player id="179905" /> 
+     <player id="215119" /> 
+     <player id="257552" /> 
+     <player id="280199" /> 
+     <player id="307148" /> 
+     <player id="314080" /> 
+     <player id="359287" /> 
+     <player id="359767" /> 
+     <player id="392912" /> 
+     <player id="454039" /> 
+     <player id="460178" /> 
+     <player id="467565" /> 
+     <player id="2054" /> 
+     <player id="13773" /> 
+     <player id="16471" /> 
+     <player id="69056" /> 
+     <player id="74303" /> 
+     <player id="158542" /> 
+     <player id="164106" /> 
+     <player id="296914" /> 
+     <player id="444228" /> 
+     <player id="560031" /> 
+   </players> 
+   <coaches> 
+     <coach id="1601" /> 
+     <coach id="16470" /> 
+     <coach id="38264" /> 
+     <coach id="290943" /> 
+     <coach id="299816" /> 
+     <coach id="303437" /> 
+     <coach id="353201" /> 
+     <coach id="396569" /> 
+     <coach id="488252" /> 
+     <coach id="554005" /> 
+     <coach id="554006" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>80</team_id> 
+   <id>580071</id> 
+   <name>C. Bertoni</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/580071.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>إيطاليا</nationality> 
+   <birth-day>1957-02-19</birth-day> 
+   <length  unit="cm">إيطاليا</length> 
+   <weight  unit="kg"></weight> 
+</player>

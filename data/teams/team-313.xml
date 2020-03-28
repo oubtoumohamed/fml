@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>313</id> 
+   <name>نادي جريميو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/313.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Rua Largo dos Campeões 1</adrese> 
+   <website>http://www.gremio.net</website> 
+   <creation-date>1903</creation-date> 
+   <players> 
+     <player id="8933" /> 
+     <player id="9187" /> 
+     <player id="32900" /> 
+     <player id="64355" /> 
+     <player id="68943" /> 
+     <player id="328222" /> 
+     <player id="478108" /> 
+     <player id="485404" /> 
+     <player id="526592" /> 
+     <player id="591555" /> 
+     <player id="9064" /> 
+     <player id="9278" /> 
+     <player id="10265" /> 
+     <player id="17076" /> 
+     <player id="65193" /> 
+     <player id="72164" /> 
+     <player id="90643" /> 
+     <player id="115239" /> 
+     <player id="122865" /> 
+     <player id="172590" /> 
+     <player id="173856" /> 
+     <player id="173980" /> 
+     <player id="286196" /> 
+     <player id="292652" /> 
+     <player id="306588" /> 
+     <player id="327847" /> 
+     <player id="352281" /> 
+     <player id="419887" /> 
+     <player id="428407" /> 
+     <player id="447501" /> 
+     <player id="481978" /> 
+     <player id="523928" /> 
+     <player id="526595" /> 
+     <player id="526598" /> 
+     <player id="526601" /> 
+     <player id="531137" /> 
+     <player id="8978" /> 
+     <player id="9138" /> 
+     <player id="16465" /> 
+     <player id="32552" /> 
+     <player id="115775" /> 
+     <player id="170956" /> 
+     <player id="174110" /> 
+     <player id="233956" /> 
+     <player id="282447" /> 
+     <player id="285547" /> 
+     <player id="288085" /> 
+     <player id="327850" /> 
+     <player id="368517" /> 
+     <player id="395629" /> 
+     <player id="398752" /> 
+     <player id="400791" /> 
+     <player id="401710" /> 
+     <player id="415615" /> 
+     <player id="417745" /> 
+     <player id="425171" /> 
+     <player id="448413" /> 
+     <player id="450353" /> 
+     <player id="465750" /> 
+     <player id="472421" /> 
+     <player id="472566" /> 
+     <player id="475121" /> 
+     <player id="487284" /> 
+     <player id="488448" /> 
+     <player id="494291" /> 
+     <player id="526602" /> 
+     <player id="531138" /> 
+     <player id="532391" /> 
+     <player id="534866" /> 
+     <player id="593144" /> 
+     <player id="646136" /> 
+     <player id="4493" /> 
+     <player id="33226" /> 
+     <player id="33287" /> 
+     <player id="75403" /> 
+     <player id="120807" /> 
+     <player id="234684" /> 
+     <player id="276507" /> 
+     <player id="285035" /> 
+     <player id="327852" /> 
+     <player id="374861" /> 
+     <player id="398248" /> 
+     <player id="408264" /> 
+     <player id="418349" /> 
+     <player id="434106" /> 
+     <player id="434545" /> 
+     <player id="476640" /> 
+     <player id="531139" /> 
+     <player id="533369" /> 
+     <player id="590949" /> 
+     <player id="616997" /> 
+     <player id="618661" /> 
+     <player id="636485" /> 
+   </players> 
+   <coaches> 
+     <coach id="107109" /> 
+     <coach id="473890" /> 
+     <coach id="597126" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>891</id> 
+   <name>نادي جيروندين دي بوردو لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/891.png</image> 
+   <country>فرنسا</country> 
+   <adrese>Rue Joliot Curie </adrese> 
+   <website>http://www.girondins.com</website> 
+   <creation-date>1881</creation-date> 
+   <players> 
+     <player id="13642" /> 
+     <player id="259268" /> 
+     <player id="320100" /> 
+     <player id="416588" /> 
+     <player id="426520" /> 
+     <player id="470026" /> 
+     <player id="13121" /> 
+     <player id="37785" /> 
+     <player id="42500" /> 
+     <player id="68887" /> 
+     <player id="94606" /> 
+     <player id="109710" /> 
+     <player id="113986" /> 
+     <player id="183733" /> 
+     <player id="187102" /> 
+     <player id="227674" /> 
+     <player id="269998" /> 
+     <player id="290153" /> 
+     <player id="314218" /> 
+     <player id="320101" /> 
+     <player id="326020" /> 
+     <player id="370003" /> 
+     <player id="374143" /> 
+     <player id="426559" /> 
+     <player id="430809" /> 
+     <player id="466676" /> 
+     <player id="479289" /> 
+     <player id="508628" /> 
+     <player id="259" /> 
+     <player id="20361" /> 
+     <player id="162513" /> 
+     <player id="188043" /> 
+     <player id="311779" /> 
+     <player id="322795" /> 
+     <player id="328063" /> 
+     <player id="360847" /> 
+     <player id="408936" /> 
+     <player id="446690" /> 
+     <player id="459829" /> 
+     <player id="460280" /> 
+     <player id="466684" /> 
+     <player id="468428" /> 
+     <player id="508642" /> 
+     <player id="1473" /> 
+     <player id="87566" /> 
+     <player id="99757" /> 
+     <player id="172539" /> 
+     <player id="182902" /> 
+     <player id="197891" /> 
+     <player id="211765" /> 
+     <player id="286607" /> 
+     <player id="309091" /> 
+     <player id="312582" /> 
+     <player id="333697" /> 
+     <player id="351285" /> 
+     <player id="387433" /> 
+     <player id="418016" /> 
+     <player id="426538" /> 
+     <player id="431441" /> 
+     <player id="432062" /> 
+     <player id="437251" /> 
+     <player id="439799" /> 
+     <player id="453695" /> 
+     <player id="508656" /> 
+     <player id="508661" /> 
+     <player id="519193" /> 
+   </players> 
+   <coaches> 
+     <coach id="154891" /> 
+     <coach id="169885" /> 
+     <coach id="336667" /> 
+     <coach id="533308" /> 
+   </coaches> 
+</team>

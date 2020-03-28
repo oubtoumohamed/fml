@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<matche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="matche.xsd"> 
+   <id>3059071</id> 
+   <competition_id>17516</competition_id> 
+   <date>2020-03-07</date> 
+   <time>15:00:00</time> 
+   <status>Played</status> 
+   <winner>draw</winner> 
+   <stadium></stadium> 
+   <team_a id="2020" /> 
+   <team_b id="2021" /> 
+</matche>

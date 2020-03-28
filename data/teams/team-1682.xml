@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1682</id> 
+   <name>سبورتينغ براغا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1682.png</image> 
+   <country>البرتغال</country> 
+   <adrese>Estádio 1º de Maio, Apartado 12, Avenida da Liberdade, Galerias</adrese> 
+   <website>http://www.scbraga.pt</website> 
+   <creation-date>1921</creation-date> 
+   <players> 
+     <player id="17094" /> 
+     <player id="56919" /> 
+     <player id="239000" /> 
+     <player id="306975" /> 
+     <player id="390685" /> 
+     <player id="39552" /> 
+     <player id="86500" /> 
+     <player id="120316" /> 
+     <player id="134614" /> 
+     <player id="159058" /> 
+     <player id="166256" /> 
+     <player id="174255" /> 
+     <player id="201551" /> 
+     <player id="205031" /> 
+     <player id="234691" /> 
+     <player id="257293" /> 
+     <player id="264806" /> 
+     <player id="283627" /> 
+     <player id="293475" /> 
+     <player id="301700" /> 
+     <player id="308943" /> 
+     <player id="318133" /> 
+     <player id="374853" /> 
+     <player id="413288" /> 
+     <player id="420345" /> 
+     <player id="430364" /> 
+     <player id="433196" /> 
+     <player id="495004" /> 
+     <player id="551427" /> 
+     <player id="24650" /> 
+     <player id="80912" /> 
+     <player id="171097" /> 
+     <player id="177711" /> 
+     <player id="186541" /> 
+     <player id="186548" /> 
+     <player id="217199" /> 
+     <player id="244379" /> 
+     <player id="273295" /> 
+     <player id="282239" /> 
+     <player id="285652" /> 
+     <player id="288087" /> 
+     <player id="288279" /> 
+     <player id="298160" /> 
+     <player id="323076" /> 
+     <player id="356457" /> 
+     <player id="376675" /> 
+     <player id="405578" /> 
+     <player id="420506" /> 
+     <player id="440937" /> 
+     <player id="68184" /> 
+     <player id="90658" /> 
+     <player id="111523" /> 
+     <player id="141963" /> 
+     <player id="178786" /> 
+     <player id="217208" /> 
+     <player id="218894" /> 
+     <player id="233320" /> 
+     <player id="260205" /> 
+     <player id="286562" /> 
+     <player id="373755" /> 
+     <player id="395671" /> 
+     <player id="413520" /> 
+     <player id="440079" /> 
+     <player id="472497" /> 
+     <player id="477582" /> 
+   </players> 
+   <coaches> 
+     <coach id="89825" /> 
+     <coach id="227866" /> 
+     <coach id="229911" /> 
+     <coach id="306099" /> 
+   </coaches> 
+</team>

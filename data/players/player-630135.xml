@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>5026</team_id> 
+   <id>630135</id> 
+   <name>B. Arnaud</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/630135.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>ساحل العاج</nationality> 
+   <birth-day>2000-11-07</birth-day> 
+   <length  unit="cm">176</length> 
+   <weight  unit="kg">72</weight> 
+</player>

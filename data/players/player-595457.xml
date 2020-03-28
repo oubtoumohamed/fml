@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>932</team_id> 
+   <id>595457</id> 
+   <name>A. Nazih</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/595457.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>فرنسا</nationality> 
+   <birth-day>2002-01-18</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

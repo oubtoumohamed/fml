@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1673</id> 
+   <name>بياست غليفيتسى</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1673.png</image> 
+   <country>بولندا</country> 
+   <adrese>ul. Stefana Okrzei 20</adrese> 
+   <website>http://www.piast-gliwice.eu</website> 
+   <creation-date>1945</creation-date> 
+   <players> 
+     <player id="42589" /> 
+     <player id="195734" /> 
+     <player id="259869" /> 
+     <player id="449034" /> 
+     <player id="449975" /> 
+     <player id="516504" /> 
+     <player id="641567" /> 
+     <player id="12551" /> 
+     <player id="38651" /> 
+     <player id="42646" /> 
+     <player id="85826" /> 
+     <player id="86493" /> 
+     <player id="86583" /> 
+     <player id="114622" /> 
+     <player id="134371" /> 
+     <player id="137284" /> 
+     <player id="154542" /> 
+     <player id="160641" /> 
+     <player id="196051" /> 
+     <player id="258720" /> 
+     <player id="260801" /> 
+     <player id="353941" /> 
+     <player id="557603" /> 
+     <player id="565324" /> 
+     <player id="12473" /> 
+     <player id="38771" /> 
+     <player id="89550" /> 
+     <player id="135914" /> 
+     <player id="137305" /> 
+     <player id="161843" /> 
+     <player id="213906" /> 
+     <player id="233772" /> 
+     <player id="265220" /> 
+     <player id="268003" /> 
+     <player id="334771" /> 
+     <player id="343397" /> 
+     <player id="405478" /> 
+     <player id="418606" /> 
+     <player id="470900" /> 
+     <player id="474507" /> 
+     <player id="616348" /> 
+     <player id="616349" /> 
+     <player id="1899" /> 
+     <player id="21488" /> 
+     <player id="86385" /> 
+     <player id="134380" /> 
+     <player id="193488" /> 
+     <player id="257719" /> 
+     <player id="279644" /> 
+     <player id="423856" /> 
+     <player id="453504" /> 
+     <player id="464931" /> 
+     <player id="485805" /> 
+     <player id="538721" /> 
+     <player id="557435" /> 
+   </players> 
+   <coaches> 
+     <coach id="134837" /> 
+   </coaches> 
+</team>

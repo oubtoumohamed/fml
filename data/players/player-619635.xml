@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1610</team_id> 
+   <id>619635</id> 
+   <name>J. Kvarven</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/619635.png</image> 
+   <position>لاعب وسط</position> 
+   <nationality>النرويج</nationality> 
+   <birth-day>2001-12-16</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

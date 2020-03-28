@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2213</id> 
+   <name>طرابزون سبور</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2213.png</image> 
+   <country>تركيا</country> 
+   <adrese>Mehmet Ali Yilmaz Tesisleri</adrese> 
+   <website>http://www.trabzonspor.org.tr</website> 
+   <creation-date>1967</creation-date> 
+   <players> 
+     <player id="21109" /> 
+     <player id="89223" /> 
+     <player id="267979" /> 
+     <player id="382571" /> 
+     <player id="431376" /> 
+     <player id="472947" /> 
+     <player id="502212" /> 
+     <player id="503373" /> 
+     <player id="505012" /> 
+     <player id="595227" /> 
+     <player id="16107" /> 
+     <player id="16600" /> 
+     <player id="26192" /> 
+     <player id="47040" /> 
+     <player id="59520" /> 
+     <player id="72303" /> 
+     <player id="77449" /> 
+     <player id="102767" /> 
+     <player id="151390" /> 
+     <player id="151423" /> 
+     <player id="217980" /> 
+     <player id="313811" /> 
+     <player id="319495" /> 
+     <player id="373033" /> 
+     <player id="431337" /> 
+     <player id="435327" /> 
+     <player id="485906" /> 
+     <player id="497476" /> 
+     <player id="497565" /> 
+     <player id="498356" /> 
+     <player id="503273" /> 
+     <player id="503292" /> 
+     <player id="503400" /> 
+     <player id="503410" /> 
+     <player id="505011" /> 
+     <player id="505083" /> 
+     <player id="2536" /> 
+     <player id="16382" /> 
+     <player id="35495" /> 
+     <player id="57681" /> 
+     <player id="102546" /> 
+     <player id="102848" /> 
+     <player id="112765" /> 
+     <player id="148843" /> 
+     <player id="213587" /> 
+     <player id="237612" /> 
+     <player id="262693" /> 
+     <player id="267465" /> 
+     <player id="270931" /> 
+     <player id="285023" /> 
+     <player id="292119" /> 
+     <player id="309775" /> 
+     <player id="374677" /> 
+     <player id="421671" /> 
+     <player id="431336" /> 
+     <player id="432535" /> 
+     <player id="440985" /> 
+     <player id="471869" /> 
+     <player id="474428" /> 
+     <player id="484677" /> 
+     <player id="497475" /> 
+     <player id="497482" /> 
+     <player id="498353" /> 
+     <player id="498359" /> 
+     <player id="498483" /> 
+     <player id="503144" /> 
+     <player id="503383" /> 
+     <player id="503415" /> 
+     <player id="505024" /> 
+     <player id="505694" /> 
+     <player id="586245" /> 
+     <player id="4788" /> 
+     <player id="5206" /> 
+     <player id="10427" /> 
+     <player id="19142" /> 
+     <player id="153909" /> 
+     <player id="218038" /> 
+     <player id="269462" /> 
+     <player id="282889" /> 
+     <player id="300874" /> 
+     <player id="307926" /> 
+     <player id="365269" /> 
+     <player id="428932" /> 
+     <player id="443606" /> 
+     <player id="472072" /> 
+     <player id="497486" /> 
+     <player id="505788" /> 
+     <player id="564999" /> 
+     <player id="567176" /> 
+     <player id="578379" /> 
+   </players> 
+   <coaches> 
+     <coach id="88255" /> 
+     <coach id="110725" /> 
+     <coach id="223939" /> 
+     <coach id="377881" /> 
+   </coaches> 
+</team>

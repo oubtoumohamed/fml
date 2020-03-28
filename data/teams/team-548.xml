@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>548</id> 
+   <name>نادي ملادا بوليسلاف لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/548.png</image> 
+   <country>التشيك</country> 
+   <adrese>U stadionu 1118/II</adrese> 
+   <website>http://www.fkmb.cz</website> 
+   <creation-date>1902</creation-date> 
+   <players> 
+     <player id="14887" /> 
+     <player id="37937" /> 
+     <player id="135417" /> 
+     <player id="298839" /> 
+     <player id="320083" /> 
+     <player id="377493" /> 
+     <player id="480013" /> 
+     <player id="14910" /> 
+     <player id="14984" /> 
+     <player id="46328" /> 
+     <player id="46414" /> 
+     <player id="65907" /> 
+     <player id="126651" /> 
+     <player id="134090" /> 
+     <player id="178208" /> 
+     <player id="213880" /> 
+     <player id="214329" /> 
+     <player id="269909" /> 
+     <player id="276895" /> 
+     <player id="330920" /> 
+     <player id="377503" /> 
+     <player id="386257" /> 
+     <player id="390835" /> 
+     <player id="398771" /> 
+     <player id="424985" /> 
+     <player id="427843" /> 
+     <player id="427845" /> 
+     <player id="438754" /> 
+     <player id="493019" /> 
+     <player id="499777" /> 
+     <player id="520721" /> 
+     <player id="14900" /> 
+     <player id="20683" /> 
+     <player id="42496" /> 
+     <player id="106542" /> 
+     <player id="110176" /> 
+     <player id="122207" /> 
+     <player id="134091" /> 
+     <player id="180599" /> 
+     <player id="191192" /> 
+     <player id="230653" /> 
+     <player id="335589" /> 
+     <player id="351593" /> 
+     <player id="402546" /> 
+     <player id="424986" /> 
+     <player id="452308" /> 
+     <player id="457556" /> 
+     <player id="466792" /> 
+     <player id="526584" /> 
+     <player id="534502" /> 
+     <player id="543491" /> 
+     <player id="577235" /> 
+     <player id="20534" /> 
+     <player id="64421" /> 
+     <player id="66340" /> 
+     <player id="95365" /> 
+     <player id="99306" /> 
+     <player id="272748" /> 
+     <player id="301800" /> 
+     <player id="335177" /> 
+     <player id="581045" /> 
+     <player id="615268" /> 
+   </players> 
+   <coaches> 
+     <coach id="233308" /> 
+     <coach id="233917" /> 
+   </coaches> 
+</team>

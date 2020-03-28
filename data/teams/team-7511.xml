@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>7511</id> 
+   <name>اتحاد الفتح الرياضي الرباطي</name> 
+   <image>https://s1.hesport.com/themes/desktop/img/teams/7511.png</image> 
+   <country>المغرب</country> 
+   <adrese>Avenue Ibn Khaldoun</adrese> 
+   <website>http://fus.ma</website> 
+   <creation-date>1946</creation-date> 
+   <players> 
+     <player id="39441" /> 
+     <player id="432149" /> 
+     <player id="447142" /> 
+     <player id="447143" /> 
+     <player id="515614" /> 
+     <player id="631280" /> 
+     <player id="646227" /> 
+     <player id="137507" /> 
+     <player id="152509" /> 
+     <player id="194267" /> 
+     <player id="319067" /> 
+     <player id="326715" /> 
+     <player id="405616" /> 
+     <player id="405620" /> 
+     <player id="447146" /> 
+     <player id="483085" /> 
+     <player id="488612" /> 
+     <player id="491855" /> 
+     <player id="515615" /> 
+     <player id="564543" /> 
+     <player id="631286" /> 
+     <player id="631323" /> 
+     <player id="13757" /> 
+     <player id="37890" /> 
+     <player id="169975" /> 
+     <player id="215352" /> 
+     <player id="233217" /> 
+     <player id="271173" /> 
+     <player id="288898" /> 
+     <player id="315094" /> 
+     <player id="326561" /> 
+     <player id="405638" /> 
+     <player id="447147" /> 
+     <player id="447148" /> 
+     <player id="453645" /> 
+     <player id="453646" /> 
+     <player id="488611" /> 
+     <player id="488616" /> 
+     <player id="491858" /> 
+     <player id="515617" /> 
+     <player id="631338" /> 
+     <player id="633205" /> 
+     <player id="647427" /> 
+     <player id="647428" /> 
+     <player id="648272" /> 
+     <player id="648273" /> 
+     <player id="899" /> 
+     <player id="59220" /> 
+     <player id="231029" /> 
+     <player id="274965" /> 
+     <player id="276935" /> 
+     <player id="327632" /> 
+     <player id="378603" /> 
+     <player id="447152" /> 
+     <player id="483728" /> 
+     <player id="507152" /> 
+     <player id="614341" /> 
+     <player id="631103" /> 
+     <player id="631833" /> 
+     <player id="634529" /> 
+     <player id="634532" /> 
+   </players> 
+   <coaches> 
+     <coach id="3778" /> 
+     <coach id="650140" /> 
+   </coaches> 
+</team>

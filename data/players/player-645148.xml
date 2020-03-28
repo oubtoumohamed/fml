@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2153</team_id> 
+   <id>645148</id> 
+   <name>W. Kenne</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/645148.png</image> 
+   <position>مدافع</position> 
+   <nationality>السويد</nationality> 
+   <birth-day>2003-05-19</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

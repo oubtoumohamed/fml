@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>310</id> 
+   <name>سوسييداد ديبورتيفا بالميراس</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/310.png</image> 
+   <country>البرازيل</country> 
+   <adrese>Rua Turiaçu 1840, Perdizes</adrese> 
+   <website>http://www.palmeiras.com.br</website> 
+   <creation-date>1914</creation-date> 
+   <players> 
+     <player id="16938" /> 
+     <player id="32538" /> 
+     <player id="71262" /> 
+     <player id="292017" /> 
+     <player id="495150" /> 
+     <player id="556440" /> 
+     <player id="556441" /> 
+     <player id="608824" /> 
+     <player id="4734" /> 
+     <player id="8912" /> 
+     <player id="9106" /> 
+     <player id="35360" /> 
+     <player id="73083" /> 
+     <player id="112507" /> 
+     <player id="161746" /> 
+     <player id="170091" /> 
+     <player id="184542" /> 
+     <player id="191207" /> 
+     <player id="233604" /> 
+     <player id="257112" /> 
+     <player id="268729" /> 
+     <player id="288433" /> 
+     <player id="288912" /> 
+     <player id="328427" /> 
+     <player id="365417" /> 
+     <player id="394546" /> 
+     <player id="409612" /> 
+     <player id="413619" /> 
+     <player id="434424" /> 
+     <player id="475117" /> 
+     <player id="506219" /> 
+     <player id="599593" /> 
+     <player id="602499" /> 
+     <player id="2059" /> 
+     <player id="3288" /> 
+     <player id="10085" /> 
+     <player id="10461" /> 
+     <player id="32368" /> 
+     <player id="73005" /> 
+     <player id="136155" /> 
+     <player id="174010" /> 
+     <player id="180856" /> 
+     <player id="183186" /> 
+     <player id="228965" /> 
+     <player id="234159" /> 
+     <player id="242453" /> 
+     <player id="278575" /> 
+     <player id="302708" /> 
+     <player id="336256" /> 
+     <player id="343407" /> 
+     <player id="373415" /> 
+     <player id="415133" /> 
+     <player id="435665" /> 
+     <player id="446345" /> 
+     <player id="467977" /> 
+     <player id="469424" /> 
+     <player id="469495" /> 
+     <player id="475118" /> 
+     <player id="477059" /> 
+     <player id="491311" /> 
+     <player id="521572" /> 
+     <player id="560275" /> 
+     <player id="592501" /> 
+     <player id="602497" /> 
+     <player id="613305" /> 
+     <player id="648503" /> 
+     <player id="9428" /> 
+     <player id="17593" /> 
+     <player id="74056" /> 
+     <player id="78745" /> 
+     <player id="82057" /> 
+     <player id="112183" /> 
+     <player id="194812" /> 
+     <player id="267275" /> 
+     <player id="282209" /> 
+     <player id="291015" /> 
+     <player id="350121" /> 
+     <player id="396117" /> 
+     <player id="409255" /> 
+     <player id="419005" /> 
+     <player id="428406" /> 
+     <player id="446562" /> 
+     <player id="540985" /> 
+     <player id="577095" /> 
+   </players> 
+   <coaches> 
+     <coach id="387" /> 
+     <coach id="9132" /> 
+     <coach id="118668" /> 
+     <coach id="126533" /> 
+     <coach id="169546" /> 
+     <coach id="446348" /> 
+     <coach id="473997" /> 
+     <coach id="645887" /> 
+   </coaches> 
+</team>

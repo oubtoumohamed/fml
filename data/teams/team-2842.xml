@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2842</id> 
+   <name>FK Čukarički Stankom</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2842.png</image> 
+   <country>صربيا</country> 
+   <adrese>Beogradskog Bataljona 25</adrese> 
+   <website>http://www.fkcukaricki.rs</website> 
+   <creation-date>1926</creation-date> 
+   <players> 
+     <player id="47358" /> 
+     <player id="129124" /> 
+     <player id="136892" /> 
+     <player id="463402" /> 
+     <player id="593051" /> 
+     <player id="10997" /> 
+     <player id="134346" /> 
+     <player id="161799" /> 
+     <player id="228861" /> 
+     <player id="269999" /> 
+     <player id="310375" /> 
+     <player id="383441" /> 
+     <player id="385235" /> 
+     <player id="441345" /> 
+     <player id="463403" /> 
+     <player id="463405" /> 
+     <player id="464187" /> 
+     <player id="464200" /> 
+     <player id="491260" /> 
+     <player id="611627" /> 
+     <player id="5060" /> 
+     <player id="89506" /> 
+     <player id="90083" /> 
+     <player id="90289" /> 
+     <player id="145007" /> 
+     <player id="162000" /> 
+     <player id="162615" /> 
+     <player id="189122" /> 
+     <player id="286205" /> 
+     <player id="303788" /> 
+     <player id="322461" /> 
+     <player id="376845" /> 
+     <player id="385253" /> 
+     <player id="391939" /> 
+     <player id="427787" /> 
+     <player id="436312" /> 
+     <player id="441265" /> 
+     <player id="448054" /> 
+     <player id="455945" /> 
+     <player id="463412" /> 
+     <player id="463415" /> 
+     <player id="463421" /> 
+     <player id="464180" /> 
+     <player id="464195" /> 
+     <player id="478833" /> 
+     <player id="482634" /> 
+     <player id="493694" /> 
+     <player id="509774" /> 
+     <player id="618001" /> 
+     <player id="7749" /> 
+     <player id="125975" /> 
+     <player id="268608" /> 
+     <player id="385259" /> 
+     <player id="385293" /> 
+     <player id="423587" /> 
+     <player id="464183" /> 
+     <player id="555539" /> 
+   </players> 
+   <coaches> 
+     <coach id="41440" /> 
+     <coach id="185604" /> 
+     <coach id="201488" /> 
+     <coach id="398151" /> 
+   </coaches> 
+</team>

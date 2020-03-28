@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1949</id> 
+   <name>FK Sutjeska Nikšić</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1949.png</image> 
+   <country>مونتينيغرو</country> 
+   <adrese>ul. Dragovica Luka bb</adrese> 
+   <website></website> 
+   <creation-date>1927</creation-date> 
+   <players> 
+     <player id="82800" /> 
+     <player id="212619" /> 
+     <player id="312466" /> 
+     <player id="509026" /> 
+     <player id="82802" /> 
+     <player id="92453" /> 
+     <player id="92662" /> 
+     <player id="104165" /> 
+     <player id="144439" /> 
+     <player id="158554" /> 
+     <player id="192082" /> 
+     <player id="269890" /> 
+     <player id="386299" /> 
+     <player id="424232" /> 
+     <player id="466660" /> 
+     <player id="550765" /> 
+     <player id="45542" /> 
+     <player id="76587" /> 
+     <player id="91069" /> 
+     <player id="132411" /> 
+     <player id="178788" /> 
+     <player id="214383" /> 
+     <player id="228442" /> 
+     <player id="286666" /> 
+     <player id="349567" /> 
+     <player id="361089" /> 
+     <player id="403135" /> 
+     <player id="424242" /> 
+     <player id="437387" /> 
+     <player id="475751" /> 
+     <player id="488156" /> 
+     <player id="509040" /> 
+     <player id="509046" /> 
+     <player id="33865" /> 
+     <player id="53866" /> 
+     <player id="82909" /> 
+     <player id="82982" /> 
+     <player id="121452" /> 
+     <player id="134326" /> 
+     <player id="161805" /> 
+     <player id="234541" /> 
+     <player id="253437" /> 
+     <player id="532161" /> 
+   </players> 
+   <coaches> 
+     <coach id="82906" /> 
+     <coach id="108526" /> 
+   </coaches> 
+</team>

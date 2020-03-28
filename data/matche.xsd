@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+    <xs:element name="matche" type="complexroot">
+        <xs:complexType>
+            <xs:sequence>
+                <!-- 
+                    id : Identification of match
+                    competition_id : id of competiton 
+                    date & time : date time of match
+                    status : state of match ( played, playing, planified )
+                    winner : result of match ( team_a, team_b, draw )
+                    stadium : place when be match play
+                    team_a, team_b : ids of teams
+                -->
+                <xs:element name="id" type="xs:integer" maxOccurs="1"/>
+                <xs:element name="competition_id" type="xs:integer" maxOccurs="1"/>
+                <xs:element name="date" type="xs:date" maxOccurs="1"/>
+                <xs:element name="time" type="xs:time" maxOccurs="1"/>
+                <xs:element name="status">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                        <xs:enumeration value="played"/>
+                        <xs:enumeration value="playing"/>
+                        <xs:enumeration value="planified"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element> 
+                <xs:element name="winner">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                        <xs:enumeration value="team_a"/>
+                        <xs:enumeration value="team_b"/>
+                        <xs:enumeration value="draw"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element> 
+                <xs:element name="stadium" type="xs:string" maxOccurs="1"/>
+                <xs:element name="team_a" type="xs:integer" maxOccurs="1"/>
+                <xs:element name="team_b" type="xs:integer" maxOccurs="1"/>
+
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+</xs:schema>

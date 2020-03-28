@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>5643</id> 
+   <name>الحزم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/5643.png</image> 
+   <country>السعودية</country> 
+   <adrese></adrese> 
+   <website>http://www.alhzmclub.com</website> 
+   <creation-date>1965</creation-date> 
+   <players> 
+     <player id="49132" /> 
+     <player id="233300" /> 
+     <player id="280633" /> 
+     <player id="370209" /> 
+     <player id="438223" /> 
+     <player id="567480" /> 
+     <player id="626172" /> 
+     <player id="66933" /> 
+     <player id="77456" /> 
+     <player id="143710" /> 
+     <player id="143713" /> 
+     <player id="143771" /> 
+     <player id="144217" /> 
+     <player id="218621" /> 
+     <player id="226923" /> 
+     <player id="309671" /> 
+     <player id="371317" /> 
+     <player id="402790" /> 
+     <player id="421278" /> 
+     <player id="438224" /> 
+     <player id="438226" /> 
+     <player id="438227" /> 
+     <player id="438228" /> 
+     <player id="463778" /> 
+     <player id="465468" /> 
+     <player id="476006" /> 
+     <player id="495440" /> 
+     <player id="529354" /> 
+     <player id="567487" /> 
+     <player id="42269" /> 
+     <player id="82459" /> 
+     <player id="138385" /> 
+     <player id="143716" /> 
+     <player id="143776" /> 
+     <player id="158027" /> 
+     <player id="173732" /> 
+     <player id="176740" /> 
+     <player id="179182" /> 
+     <player id="276989" /> 
+     <player id="282248" /> 
+     <player id="295361" /> 
+     <player id="309179" /> 
+     <player id="375255" /> 
+     <player id="375851" /> 
+     <player id="378121" /> 
+     <player id="378291" /> 
+     <player id="414873" /> 
+     <player id="414899" /> 
+     <player id="438230" /> 
+     <player id="438231" /> 
+     <player id="438315" /> 
+     <player id="479336" /> 
+     <player id="567477" /> 
+     <player id="567484" /> 
+     <player id="611252" /> 
+     <player id="626171" /> 
+     <player id="22619" /> 
+     <player id="81371" /> 
+     <player id="99299" /> 
+     <player id="113282" /> 
+     <player id="138479" /> 
+     <player id="271927" /> 
+     <player id="280629" /> 
+     <player id="299922" /> 
+     <player id="313617" /> 
+     <player id="326130" /> 
+     <player id="360193" /> 
+     <player id="438232" /> 
+     <player id="438317" /> 
+     <player id="465482" /> 
+     <player id="470973" /> 
+     <player id="495445" /> 
+     <player id="567476" /> 
+     <player id="567478" /> 
+     <player id="567485" /> 
+     <player id="593255" /> 
+   </players> 
+   <coaches> 
+     <coach id="137816" /> 
+     <coach id="438242" /> 
+   </coaches> 
+</team>

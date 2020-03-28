@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>251</team_id> 
+   <id>558028</id> 
+   <name>J. Toualy Dié</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/558028.png</image> 
+   <position>مهاجم</position> 
+   <nationality>ساحل العاج</nationality> 
+   <birth-day>1999-02-26</birth-day> 
+   <length  unit="cm">171</length> 
+   <weight  unit="kg">65</weight> 
+</player>

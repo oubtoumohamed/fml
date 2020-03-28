@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2025</id> 
+   <name>ريال بيتيس بالومبي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2025.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Avenida de Heliópolis</adrese> 
+   <website>http://www.realbetisbalompie.es</website> 
+   <creation-date>1907</creation-date> 
+   <players> 
+     <player id="61869" /> 
+     <player id="62123" /> 
+     <player id="95877" /> 
+     <player id="216939" /> 
+     <player id="280411" /> 
+     <player id="289774" /> 
+     <player id="387305" /> 
+     <player id="396038" /> 
+     <player id="537436" /> 
+     <player id="3060" /> 
+     <player id="9407" /> 
+     <player id="100878" /> 
+     <player id="102705" /> 
+     <player id="103174" /> 
+     <player id="116484" /> 
+     <player id="150447" /> 
+     <player id="155061" /> 
+     <player id="279226" /> 
+     <player id="335134" /> 
+     <player id="393793" /> 
+     <player id="396788" /> 
+     <player id="464313" /> 
+     <player id="495873" /> 
+     <player id="495944" /> 
+     <player id="520034" /> 
+     <player id="330" /> 
+     <player id="425" /> 
+     <player id="3010" /> 
+     <player id="5394" /> 
+     <player id="39294" /> 
+     <player id="61687" /> 
+     <player id="122138" /> 
+     <player id="159057" /> 
+     <player id="177951" /> 
+     <player id="217652" /> 
+     <player id="279608" /> 
+     <player id="314220" /> 
+     <player id="316426" /> 
+     <player id="316437" /> 
+     <player id="365587" /> 
+     <player id="375571" /> 
+     <player id="392369" /> 
+     <player id="394220" /> 
+     <player id="403301" /> 
+     <player id="416047" /> 
+     <player id="442208" /> 
+     <player id="476557" /> 
+     <player id="495946" /> 
+     <player id="500158" /> 
+     <player id="537437" /> 
+     <player id="610215" /> 
+     <player id="58998" /> 
+     <player id="102896" /> 
+     <player id="111768" /> 
+     <player id="124086" /> 
+     <player id="134454" /> 
+     <player id="160640" /> 
+     <player id="166540" /> 
+     <player id="208858" /> 
+     <player id="260733" /> 
+     <player id="301156" /> 
+     <player id="393279" /> 
+     <player id="395613" /> 
+     <player id="405728" /> 
+     <player id="500171" /> 
+     <player id="610212" /> 
+   </players> 
+   <coaches> 
+     <coach id="34136" /> 
+     <coach id="209009" /> 
+     <coach id="231305" /> 
+     <coach id="292869" /> 
+     <coach id="530260" /> 
+     <coach id="530262" /> 
+     <coach id="530264" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>481</team_id> 
+   <id>449578</id> 
+   <name>م. باريسيتش</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/449578.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>كرواتيا</nationality> 
+   <birth-day>1999-04-30</birth-day> 
+   <length  unit="cm">كرواتيا</length> 
+   <weight  unit="kg"></weight> 
+</player>

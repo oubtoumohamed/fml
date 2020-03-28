@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2701</team_id> 
+   <id>616667</id> 
+   <name>B. Vištica</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/616667.png</image> 
+   <position>مدافع</position> 
+   <nationality>البوسنة والهرسك</nationality> 
+   <birth-day>2001-07-05</birth-day> 
+   <length  unit="cm">البوسنة</length> 
+   <weight  unit="kg"></weight> 
+</player>

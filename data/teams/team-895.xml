@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>895</id> 
+   <name>نادي ليل ميتروبول الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/895.png</image> 
+   <country>فرنسا</country> 
+   <adrese>261, boulevard de Tournai</adrese> 
+   <website>http://www.losc.fr</website> 
+   <creation-date>1944</creation-date> 
+   <players> 
+     <player id="20364" /> 
+     <player id="215632" /> 
+     <player id="302943" /> 
+     <player id="328222" /> 
+     <player id="429494" /> 
+     <player id="15805" /> 
+     <player id="42166" /> 
+     <player id="65807" /> 
+     <player id="146639" /> 
+     <player id="175868" /> 
+     <player id="217980" /> 
+     <player id="247874" /> 
+     <player id="298956" /> 
+     <player id="299858" /> 
+     <player id="320252" /> 
+     <player id="322520" /> 
+     <player id="396962" /> 
+     <player id="403444" /> 
+     <player id="433485" /> 
+     <player id="440122" /> 
+     <player id="460632" /> 
+     <player id="471681" /> 
+     <player id="483562" /> 
+     <player id="484720" /> 
+     <player id="501744" /> 
+     <player id="515918" /> 
+     <player id="616877" /> 
+     <player id="56963" /> 
+     <player id="167149" /> 
+     <player id="167964" /> 
+     <player id="191886" /> 
+     <player id="278710" /> 
+     <player id="290257" /> 
+     <player id="290444" /> 
+     <player id="306990" /> 
+     <player id="320071" /> 
+     <player id="327175" /> 
+     <player id="372191" /> 
+     <player id="373465" /> 
+     <player id="417527" /> 
+     <player id="419550" /> 
+     <player id="431336" /> 
+     <player id="432255" /> 
+     <player id="432259" /> 
+     <player id="446028" /> 
+     <player id="459963" /> 
+     <player id="475484" /> 
+     <player id="479184" /> 
+     <player id="485282" /> 
+     <player id="538696" /> 
+     <player id="561044" /> 
+     <player id="4572" /> 
+     <player id="42988" /> 
+     <player id="68184" /> 
+     <player id="193094" /> 
+     <player id="280626" /> 
+     <player id="282066" /> 
+     <player id="312250" /> 
+     <player id="317832" /> 
+     <player id="382409" /> 
+     <player id="393350" /> 
+     <player id="421589" /> 
+     <player id="425645" /> 
+     <player id="460023" /> 
+     <player id="481923" /> 
+     <player id="506164" /> 
+     <player id="561642" /> 
+   </players> 
+   <coaches> 
+     <coach id="110848" /> 
+     <coach id="312252" /> 
+     <coach id="393531" /> 
+   </coaches> 
+</team>

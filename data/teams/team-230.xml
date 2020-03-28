@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>230</id> 
+   <name>نادي ستاندار دو لييج</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/230.png</image> 
+   <country>بلجيكا</country> 
+   <adrese>Rue de la Centrale 2, Sclessin</adrese> 
+   <website>http://www.standard.be</website> 
+   <creation-date>1898</creation-date> 
+   <players> 
+     <player id="413" /> 
+     <player id="18317" /> 
+     <player id="317299" /> 
+     <player id="474627" /> 
+     <player id="618261" /> 
+     <player id="9919" /> 
+     <player id="70391" /> 
+     <player id="110663" /> 
+     <player id="129319" /> 
+     <player id="137394" /> 
+     <player id="158695" /> 
+     <player id="268062" /> 
+     <player id="275715" /> 
+     <player id="300093" /> 
+     <player id="351511" /> 
+     <player id="355445" /> 
+     <player id="421829" /> 
+     <player id="421835" /> 
+     <player id="424974" /> 
+     <player id="434918" /> 
+     <player id="466002" /> 
+     <player id="609326" /> 
+     <player id="647867" /> 
+     <player id="27271" /> 
+     <player id="53398" /> 
+     <player id="69303" /> 
+     <player id="129661" /> 
+     <player id="154152" /> 
+     <player id="155696" /> 
+     <player id="213289" /> 
+     <player id="214386" /> 
+     <player id="257595" /> 
+     <player id="270136" /> 
+     <player id="270586" /> 
+     <player id="298160" /> 
+     <player id="298223" /> 
+     <player id="314097" /> 
+     <player id="341661" /> 
+     <player id="409847" /> 
+     <player id="444234" /> 
+     <player id="489050" /> 
+     <player id="491798" /> 
+     <player id="533671" /> 
+     <player id="559547" /> 
+     <player id="559655" /> 
+     <player id="596652" /> 
+     <player id="608721" /> 
+     <player id="16616" /> 
+     <player id="36591" /> 
+     <player id="146358" /> 
+     <player id="230579" /> 
+     <player id="249901" /> 
+     <player id="280882" /> 
+     <player id="301169" /> 
+     <player id="401405" /> 
+     <player id="403829" /> 
+     <player id="405513" /> 
+     <player id="428247" /> 
+     <player id="431407" /> 
+     <player id="588578" /> 
+     <player id="615881" /> 
+   </players> 
+   <coaches> 
+     <coach id="13616" /> 
+     <coach id="114527" /> 
+     <coach id="229911" /> 
+     <coach id="292347" /> 
+     <coach id="417040" /> 
+     <coach id="528842" /> 
+   </coaches> 
+</team>

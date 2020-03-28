@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>961</id> 
+   <name>نادي بايرن ميونخ لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/961.png</image> 
+   <country>ألمانيا</country> 
+   <adrese>Säbener Straße 51</adrese> 
+   <website>http://www.fcbayern.telekom.de</website> 
+   <creation-date>1900</creation-date> 
+   <players> 
+     <player id="1970" /> 
+     <player id="16449" /> 
+     <player id="21049" /> 
+     <player id="284535" /> 
+     <player id="419944" /> 
+     <player id="420674" /> 
+     <player id="1975" /> 
+     <player id="5917" /> 
+     <player id="16381" /> 
+     <player id="35795" /> 
+     <player id="204842" /> 
+     <player id="213636" /> 
+     <player id="260016" /> 
+     <player id="308143" /> 
+     <player id="311705" /> 
+     <player id="314311" /> 
+     <player id="365207" /> 
+     <player id="374659" /> 
+     <player id="414368" /> 
+     <player id="439339" /> 
+     <player id="443314" /> 
+     <player id="460140" /> 
+     <player id="494553" /> 
+     <player id="506143" /> 
+     <player id="507718" /> 
+     <player id="523691" /> 
+     <player id="547188" /> 
+     <player id="549759" /> 
+     <player id="32" /> 
+     <player id="547" /> 
+     <player id="4470" /> 
+     <player id="13756" /> 
+     <player id="16386" /> 
+     <player id="38433" /> 
+     <player id="72408" /> 
+     <player id="79017" /> 
+     <player id="82507" /> 
+     <player id="213637" /> 
+     <player id="213651" /> 
+     <player id="242498" /> 
+     <player id="290257" /> 
+     <player id="394070" /> 
+     <player id="400422" /> 
+     <player id="403686" /> 
+     <player id="414694" /> 
+     <player id="426525" /> 
+     <player id="429772" /> 
+     <player id="441396" /> 
+     <player id="443745" /> 
+     <player id="454072" /> 
+     <player id="454574" /> 
+     <player id="460139" /> 
+     <player id="460141" /> 
+     <player id="460143" /> 
+     <player id="506145" /> 
+     <player id="506147" /> 
+     <player id="534639" /> 
+     <player id="561787" /> 
+     <player id="38215" /> 
+     <player id="41310" /> 
+     <player id="55796" /> 
+     <player id="258868" /> 
+     <player id="265385" /> 
+     <player id="307120" /> 
+     <player id="449466" /> 
+     <player id="460142" /> 
+     <player id="466200" /> 
+     <player id="466752" /> 
+     <player id="473422" /> 
+     <player id="516377" /> 
+     <player id="526557" /> 
+   </players> 
+   <coaches> 
+     <coach id="110747" /> 
+     <coach id="147766" /> 
+     <coach id="280595" /> 
+     <coach id="282522" /> 
+     <coach id="282523" /> 
+     <coach id="642576" /> 
+   </coaches> 
+</team>

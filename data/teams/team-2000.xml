@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2000</id> 
+   <name>نادي اولمبيا ليوبليانا</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2000.png</image> 
+   <country>سلوفينيا</country> 
+   <adrese>Dunajska cesta 159</adrese> 
+   <website>http://www.nkolimpija.si</website> 
+   <creation-date>1911</creation-date> 
+   <players> 
+     <player id="38639" /> 
+     <player id="38663" /> 
+     <player id="249754" /> 
+     <player id="374725" /> 
+     <player id="466617" /> 
+     <player id="518148" /> 
+     <player id="5267" /> 
+     <player id="35773" /> 
+     <player id="38739" /> 
+     <player id="85610" /> 
+     <player id="87824" /> 
+     <player id="101447" /> 
+     <player id="112433" /> 
+     <player id="162549" /> 
+     <player id="192376" /> 
+     <player id="214611" /> 
+     <player id="217644" /> 
+     <player id="258592" /> 
+     <player id="295504" /> 
+     <player id="302542" /> 
+     <player id="342265" /> 
+     <player id="406677" /> 
+     <player id="517534" /> 
+     <player id="556105" /> 
+     <player id="38699" /> 
+     <player id="82915" /> 
+     <player id="84676" /> 
+     <player id="134361" /> 
+     <player id="138933" /> 
+     <player id="157155" /> 
+     <player id="192216" /> 
+     <player id="198980" /> 
+     <player id="200091" /> 
+     <player id="213601" /> 
+     <player id="215687" /> 
+     <player id="217203" /> 
+     <player id="233992" /> 
+     <player id="274254" /> 
+     <player id="318354" /> 
+     <player id="374753" /> 
+     <player id="408049" /> 
+     <player id="421699" /> 
+     <player id="449622" /> 
+     <player id="469847" /> 
+     <player id="514290" /> 
+     <player id="556107" /> 
+     <player id="612265" /> 
+     <player id="1753" /> 
+     <player id="13316" /> 
+     <player id="39216" /> 
+     <player id="80366" /> 
+     <player id="134636" /> 
+     <player id="289838" /> 
+     <player id="296993" /> 
+     <player id="308845" /> 
+     <player id="332909" /> 
+     <player id="339207" /> 
+     <player id="378681" /> 
+     <player id="396035" /> 
+     <player id="404770" /> 
+     <player id="413305" /> 
+     <player id="466640" /> 
+     <player id="476000" /> 
+     <player id="504524" /> 
+     <player id="608533" /> 
+     <player id="619075" /> 
+   </players> 
+   <coaches> 
+     <coach id="13438" /> 
+     <coach id="33220" /> 
+     <coach id="36573" /> 
+     <coach id="134832" /> 
+     <coach id="181810" /> 
+     <coach id="221091" /> 
+     <coach id="640640" /> 
+   </coaches> 
+</team>

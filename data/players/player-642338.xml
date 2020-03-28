@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>1276</team_id> 
+   <id>642338</id> 
+   <name>D. Cleonise</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/642338.png</image> 
+   <position>مهاجم</position> 
+   <nationality>هولندا</nationality> 
+   <birth-day>2001-12-08</birth-day> 
+   <length  unit="cm"></length> 
+   <weight  unit="kg"></weight> 
+</player>

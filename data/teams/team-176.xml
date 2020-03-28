@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>176</id> 
+   <name>لاسكلينتس</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/176.png</image> 
+   <country>النمسا</country> 
+   <adrese>Ziegeleistraße</adrese> 
+   <website>http://www.lask.at</website> 
+   <creation-date>1908</creation-date> 
+   <players> 
+     <player id="10992" /> 
+     <player id="35636" /> 
+     <player id="245446" /> 
+     <player id="258598" /> 
+     <player id="408137" /> 
+     <player id="451001" /> 
+     <player id="486449" /> 
+     <player id="2817" /> 
+     <player id="20973" /> 
+     <player id="88987" /> 
+     <player id="135546" /> 
+     <player id="137442" /> 
+     <player id="141187" /> 
+     <player id="144167" /> 
+     <player id="245458" /> 
+     <player id="253021" /> 
+     <player id="335755" /> 
+     <player id="409337" /> 
+     <player id="427116" /> 
+     <player id="435961" /> 
+     <player id="454287" /> 
+     <player id="476883" /> 
+     <player id="478254" /> 
+     <player id="509721" /> 
+     <player id="541338" /> 
+     <player id="11204" /> 
+     <player id="20451" /> 
+     <player id="128954" /> 
+     <player id="197096" /> 
+     <player id="199100" /> 
+     <player id="233995" /> 
+     <player id="251352" /> 
+     <player id="262693" /> 
+     <player id="301392" /> 
+     <player id="301478" /> 
+     <player id="334289" /> 
+     <player id="403686" /> 
+     <player id="409300" /> 
+     <player id="438018" /> 
+     <player id="465234" /> 
+     <player id="494552" /> 
+     <player id="539154" /> 
+     <player id="35652" /> 
+     <player id="84099" /> 
+     <player id="102559" /> 
+     <player id="212638" /> 
+     <player id="270086" /> 
+     <player id="272883" /> 
+     <player id="331028" /> 
+     <player id="389217" /> 
+     <player id="395830" /> 
+     <player id="405507" /> 
+     <player id="424077" /> 
+     <player id="438019" /> 
+     <player id="470041" /> 
+     <player id="479645" /> 
+   </players> 
+   <coaches> 
+     <coach id="10994" /> 
+     <coach id="221312" /> 
+   </coaches> 
+</team>

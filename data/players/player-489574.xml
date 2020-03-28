@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="player.xsd"> 
+   <team_id>2705</team_id> 
+   <id>489574</id> 
+   <name>ا. تريفكوفيتش</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/players/150x150/489574.png</image> 
+   <position>حارس مرمى</position> 
+   <nationality>البوسنة والهرسك</nationality> 
+   <birth-day>1997-09-18</birth-day> 
+   <length  unit="cm">البوسنة</length> 
+   <weight  unit="kg">190</weight> 
+</player>

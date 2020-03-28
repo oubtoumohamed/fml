@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>9611</id> 
+   <name>نادي السيلية الرياضي</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/9611.png</image> 
+   <country>قطر</country> 
+   <adrese></adrese> 
+   <website>http://www.alsailiyaclub.net</website> 
+   <creation-date>1995</creation-date> 
+   <players> 
+     <player id="82163" /> 
+     <player id="82197" /> 
+     <player id="153571" /> 
+     <player id="200215" /> 
+     <player id="208806" /> 
+     <player id="209260" /> 
+     <player id="325781" /> 
+     <player id="479977" /> 
+     <player id="507114" /> 
+     <player id="514019" /> 
+     <player id="626646" /> 
+     <player id="10910" /> 
+     <player id="32928" /> 
+     <player id="68828" /> 
+     <player id="122768" /> 
+     <player id="148552" /> 
+     <player id="153597" /> 
+     <player id="465721" /> 
+     <player id="507115" /> 
+     <player id="514024" /> 
+     <player id="582443" /> 
+     <player id="1155" /> 
+     <player id="10914" /> 
+     <player id="12896" /> 
+     <player id="18812" /> 
+     <player id="33663" /> 
+     <player id="69548" /> 
+     <player id="79394" /> 
+     <player id="123411" /> 
+     <player id="153569" /> 
+     <player id="179177" /> 
+     <player id="208930" /> 
+     <player id="210406" /> 
+     <player id="299066" /> 
+     <player id="318163" /> 
+     <player id="322371" /> 
+     <player id="371175" /> 
+     <player id="419501" /> 
+     <player id="424861" /> 
+     <player id="431381" /> 
+     <player id="436438" /> 
+     <player id="469732" /> 
+     <player id="507103" /> 
+     <player id="513961" /> 
+     <player id="513980" /> 
+     <player id="514025" /> 
+     <player id="514027" /> 
+     <player id="514167" /> 
+     <player id="521460" /> 
+     <player id="521461" /> 
+     <player id="521487" /> 
+     <player id="559749" /> 
+     <player id="570230" /> 
+     <player id="570231" /> 
+     <player id="570238" /> 
+     <player id="575884" /> 
+     <player id="575885" /> 
+     <player id="591840" /> 
+     <player id="613858" /> 
+     <player id="626648" /> 
+     <player id="637553" /> 
+     <player id="643852" /> 
+     <player id="643853" /> 
+     <player id="47410" /> 
+     <player id="64806" /> 
+     <player id="110860" /> 
+     <player id="118493" /> 
+     <player id="120100" /> 
+     <player id="153570" /> 
+     <player id="209263" /> 
+     <player id="209264" /> 
+     <player id="392211" /> 
+     <player id="479976" /> 
+     <player id="479978" /> 
+     <player id="508751" /> 
+     <player id="641534" /> 
+   </players> 
+   <coaches> 
+     <coach id="183479" /> 
+     <coach id="332300" /> 
+     <coach id="522199" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1522</id> 
+   <name>نادي تفينتي لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1522.png</image> 
+   <country>هولندا</country> 
+   <adrese>Colosseum 65</adrese> 
+   <website>http://www.fctwente.nl</website> 
+   <creation-date>1965</creation-date> 
+   <players> 
+     <player id="137183" /> 
+     <player id="302548" /> 
+     <player id="355869" /> 
+     <player id="385269" /> 
+     <player id="643186" /> 
+     <player id="2122" /> 
+     <player id="8299" /> 
+     <player id="8910" /> 
+     <player id="171781" /> 
+     <player id="181479" /> 
+     <player id="216585" /> 
+     <player id="218010" /> 
+     <player id="257454" /> 
+     <player id="271044" /> 
+     <player id="271266" /> 
+     <player id="289358" /> 
+     <player id="297803" /> 
+     <player id="314067" /> 
+     <player id="319288" /> 
+     <player id="319299" /> 
+     <player id="320214" /> 
+     <player id="359933" /> 
+     <player id="396531" /> 
+     <player id="397601" /> 
+     <player id="399764" /> 
+     <player id="440488" /> 
+     <player id="453109" /> 
+     <player id="2269" /> 
+     <player id="2465" /> 
+     <player id="34836" /> 
+     <player id="92606" /> 
+     <player id="102912" /> 
+     <player id="103177" /> 
+     <player id="187249" /> 
+     <player id="190006" /> 
+     <player id="250740" /> 
+     <player id="319689" /> 
+     <player id="355865" /> 
+     <player id="372751" /> 
+     <player id="400910" /> 
+     <player id="404706" /> 
+     <player id="413832" /> 
+     <player id="421840" /> 
+     <player id="426582" /> 
+     <player id="463018" /> 
+     <player id="533671" /> 
+     <player id="576067" /> 
+     <player id="621347" /> 
+     <player id="621348" /> 
+     <player id="2101" /> 
+     <player id="65058" /> 
+     <player id="102911" /> 
+     <player id="226378" /> 
+     <player id="242831" /> 
+     <player id="262050" /> 
+     <player id="305026" /> 
+     <player id="305986" /> 
+     <player id="314277" /> 
+     <player id="347787" /> 
+     <player id="372473" /> 
+     <player id="385285" /> 
+     <player id="394246" /> 
+     <player id="452376" /> 
+     <player id="453507" /> 
+     <player id="479397" /> 
+     <player id="549124" /> 
+     <player id="563915" /> 
+     <player id="563916" /> 
+   </players> 
+   <coaches> 
+     <coach id="2292" /> 
+     <coach id="110872" /> 
+     <coach id="304905" /> 
+   </coaches> 
+</team>

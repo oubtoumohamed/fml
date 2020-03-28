@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>1551</id> 
+   <name>فورتونا سيتارد</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/1551.png</image> 
+   <country>هولندا</country> 
+   <adrese>Euregionaal Sport- & Congrescentrum, Sportcentrumlaan 6</adrese> 
+   <website>http://www.fortunasittard.nl</website> 
+   <creation-date>1968</creation-date> 
+   <players> 
+     <player id="84045" /> 
+     <player id="149937" /> 
+     <player id="177456" /> 
+     <player id="259581" /> 
+     <player id="296295" /> 
+     <player id="449678" /> 
+     <player id="525597" /> 
+     <player id="590321" /> 
+     <player id="590322" /> 
+     <player id="87822" /> 
+     <player id="134707" /> 
+     <player id="154243" /> 
+     <player id="176420" /> 
+     <player id="200856" /> 
+     <player id="217925" /> 
+     <player id="218151" /> 
+     <player id="258756" /> 
+     <player id="263309" /> 
+     <player id="272799" /> 
+     <player id="279740" /> 
+     <player id="316303" /> 
+     <player id="322326" /> 
+     <player id="376409" /> 
+     <player id="419548" /> 
+     <player id="428023" /> 
+     <player id="435350" /> 
+     <player id="436828" /> 
+     <player id="449679" /> 
+     <player id="459804" /> 
+     <player id="503870" /> 
+     <player id="503875" /> 
+     <player id="118640" /> 
+     <player id="160271" /> 
+     <player id="254767" /> 
+     <player id="281752" /> 
+     <player id="306063" /> 
+     <player id="316438" /> 
+     <player id="323285" /> 
+     <player id="334070" /> 
+     <player id="389203" /> 
+     <player id="404513" /> 
+     <player id="409707" /> 
+     <player id="426576" /> 
+     <player id="454456" /> 
+     <player id="494699" /> 
+     <player id="498556" /> 
+     <player id="499106" /> 
+     <player id="501820" /> 
+     <player id="503873" /> 
+     <player id="503874" /> 
+     <player id="504294" /> 
+     <player id="509764" /> 
+     <player id="520668" /> 
+     <player id="544998" /> 
+     <player id="571882" /> 
+     <player id="593522" /> 
+     <player id="600974" /> 
+     <player id="137651" /> 
+     <player id="270489" /> 
+     <player id="317200" /> 
+     <player id="319661" /> 
+     <player id="343631" /> 
+     <player id="374141" /> 
+     <player id="382409" /> 
+     <player id="393439" /> 
+     <player id="396472" /> 
+     <player id="423840" /> 
+     <player id="428893" /> 
+     <player id="433940" /> 
+     <player id="451000" /> 
+     <player id="498557" /> 
+     <player id="555622" /> 
+     <player id="618137" /> 
+   </players> 
+   <coaches> 
+     <coach id="1839" /> 
+     <coach id="347637" /> 
+     <coach id="553776" /> 
+     <coach id="614516" /> 
+   </coaches> 
+</team>

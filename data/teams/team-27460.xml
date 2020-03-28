@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>27460</id> 
+   <name>الاتحاد الرياضي بتطاوين</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/27460.png</image> 
+   <country>تونس</country> 
+   <adrese></adrese> 
+   <website></website> 
+   <creation-date>1996</creation-date> 
+   <players> 
+     <player id="138379" /> 
+     <player id="147724" /> 
+     <player id="360225" /> 
+     <player id="419964" /> 
+     <player id="463307" /> 
+     <player id="463316" /> 
+     <player id="463321" /> 
+     <player id="463332" /> 
+     <player id="556999" /> 
+     <player id="622376" /> 
+     <player id="91171" /> 
+     <player id="222571" /> 
+     <player id="263817" /> 
+     <player id="277235" /> 
+     <player id="311129" /> 
+     <player id="314627" /> 
+     <player id="344695" /> 
+     <player id="361393" /> 
+     <player id="392999" /> 
+     <player id="419748" /> 
+     <player id="424399" /> 
+     <player id="463303" /> 
+     <player id="463311" /> 
+     <player id="463322" /> 
+     <player id="463330" /> 
+     <player id="463331" /> 
+     <player id="589353" /> 
+     <player id="612863" /> 
+     <player id="622375" /> 
+     <player id="622378" /> 
+     <player id="74134" /> 
+     <player id="123675" /> 
+     <player id="138524" /> 
+     <player id="147718" /> 
+     <player id="237703" /> 
+     <player id="248014" /> 
+     <player id="262366" /> 
+     <player id="319081" /> 
+     <player id="336899" /> 
+     <player id="361401" /> 
+     <player id="393884" /> 
+     <player id="431913" /> 
+     <player id="463301" /> 
+     <player id="463302" /> 
+     <player id="463304" /> 
+     <player id="463305" /> 
+     <player id="463308" /> 
+     <player id="463310" /> 
+     <player id="463317" /> 
+     <player id="463320" /> 
+     <player id="463323" /> 
+     <player id="463329" /> 
+     <player id="463335" /> 
+     <player id="474780" /> 
+     <player id="485314" /> 
+     <player id="485963" /> 
+     <player id="498318" /> 
+     <player id="551652" /> 
+     <player id="557007" /> 
+     <player id="567518" /> 
+     <player id="571564" /> 
+     <player id="573588" /> 
+     <player id="611558" /> 
+     <player id="612864" /> 
+     <player id="622374" /> 
+     <player id="622380" /> 
+     <player id="626308" /> 
+     <player id="637133" /> 
+     <player id="71296" /> 
+     <player id="234263" /> 
+     <player id="277253" /> 
+     <player id="302373" /> 
+     <player id="317214" /> 
+     <player id="321057" /> 
+     <player id="321594" /> 
+     <player id="336859" /> 
+     <player id="342307" /> 
+     <player id="426036" /> 
+     <player id="429129" /> 
+     <player id="463306" /> 
+     <player id="463309" /> 
+     <player id="463328" /> 
+     <player id="463333" /> 
+     <player id="463334" /> 
+     <player id="555945" /> 
+     <player id="558666" /> 
+     <player id="605946" /> 
+     <player id="613577" /> 
+     <player id="622381" /> 
+     <player id="622382" /> 
+     <player id="622384" /> 
+     <player id="622385" /> 
+     <player id="626314" /> 
+   </players> 
+   <coaches> 
+     <coach id="231229" /> 
+     <coach id="231782" /> 
+     <coach id="245784" /> 
+     <coach id="323901" /> 
+     <coach id="463190" /> 
+     <coach id="566845" /> 
+   </coaches> 
+</team>

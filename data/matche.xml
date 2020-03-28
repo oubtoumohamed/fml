@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<matche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="matche.xsd">
+    <!-- id : Identification of match -->
+    <id>2582240</id>
+    <!-- competition_id : id of competiton  -->
+    <competition_id>17814</competition_id>
+    <!-- date & time : date time of match -->
+    <date>2019/03/20</date>
+    <time>19:00:00</time>
+    <!-- status : state of match ( played, playing, planified ) -->
+    <status>Played</status>
+    <!-- winner : result of match ( team_a, team_b, draw ) -->   
+    <winner>draw</winner>
+    <!-- stadium : place when be match play -->
+    <stadium>Casablanca استاد محمد الخامس</stadium>
+
+    <!-- team_a, team_b : ids of teams -->
+    <team_a id="3476" />
+    <team_b id="5554" />
+</matche>

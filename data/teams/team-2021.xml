@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2021</id> 
+   <name>نادى إشبيلية لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2021.png</image> 
+   <country>إسبانيا</country> 
+   <adrese>Calle Sevilla Fútbol Club</adrese> 
+   <website>http://www.sevillafc.es</website> 
+   <creation-date>1890</creation-date> 
+   <players> 
+     <player id="47011" /> 
+     <player id="165184" /> 
+     <player id="169962" /> 
+     <player id="240303" /> 
+     <player id="313007" /> 
+     <player id="335226" /> 
+     <player id="420430" /> 
+     <player id="475331" /> 
+     <player id="4589" /> 
+     <player id="8835" /> 
+     <player id="11744" /> 
+     <player id="15078" /> 
+     <player id="21093" /> 
+     <player id="62155" /> 
+     <player id="73166" /> 
+     <player id="86684" /> 
+     <player id="138779" /> 
+     <player id="143929" /> 
+     <player id="215638" /> 
+     <player id="307051" /> 
+     <player id="355909" /> 
+     <player id="367227" /> 
+     <player id="372821" /> 
+     <player id="393352" /> 
+     <player id="400831" /> 
+     <player id="420305" /> 
+     <player id="430809" /> 
+     <player id="460188" /> 
+     <player id="460192" /> 
+     <player id="20356" /> 
+     <player id="47041" /> 
+     <player id="48149" /> 
+     <player id="56484" /> 
+     <player id="65373" /> 
+     <player id="86404" /> 
+     <player id="91490" /> 
+     <player id="103184" /> 
+     <player id="103881" /> 
+     <player id="108457" /> 
+     <player id="163804" /> 
+     <player id="167964" /> 
+     <player id="180846" /> 
+     <player id="210285" /> 
+     <player id="241873" /> 
+     <player id="245171" /> 
+     <player id="279222" /> 
+     <player id="290932" /> 
+     <player id="317624" /> 
+     <player id="362179" /> 
+     <player id="383989" /> 
+     <player id="420293" /> 
+     <player id="420309" /> 
+     <player id="432142" /> 
+     <player id="460483" /> 
+     <player id="535534" /> 
+     <player id="566828" /> 
+     <player id="53937" /> 
+     <player id="62805" /> 
+     <player id="65056" /> 
+     <player id="83929" /> 
+     <player id="146646" /> 
+     <player id="191107" /> 
+     <player id="191108" /> 
+     <player id="214369" /> 
+     <player id="214882" /> 
+     <player id="214897" /> 
+     <player id="217913" /> 
+     <player id="310226" /> 
+     <player id="312839" /> 
+     <player id="331020" /> 
+     <player id="412661" /> 
+     <player id="420316" /> 
+     <player id="420324" /> 
+     <player id="453722" /> 
+     <player id="506400" /> 
+   </players> 
+   <coaches> 
+     <coach id="3124" /> 
+     <coach id="110783" /> 
+     <coach id="177478" /> 
+     <coach id="197889" /> 
+     <coach id="236374" /> 
+     <coach id="483194" /> 
+     <coach id="511019" /> 
+   </coaches> 
+</team>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<team xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="team.xsd"> 
+   <id>2214</id> 
+   <name>نادي بشكتاش لكرة القدم</name> 
+   <image>https://secure.cache.images.core.optasports.com/soccer/teams/150x150/2214.png</image> 
+   <country>تركيا</country> 
+   <adrese>Akaretler Süleyman Seba Caddesi 92</adrese> 
+   <website>http://www.bjk.com.tr</website> 
+   <creation-date>1903</creation-date> 
+   <players> 
+     <player id="4803" /> 
+     <player id="61656" /> 
+     <player id="205201" /> 
+     <player id="440940" /> 
+     <player id="470209" /> 
+     <player id="496191" /> 
+     <player id="1344" /> 
+     <player id="4520" /> 
+     <player id="4579" /> 
+     <player id="6408" /> 
+     <player id="20229" /> 
+     <player id="21790" /> 
+     <player id="36733" /> 
+     <player id="64457" /> 
+     <player id="85169" /> 
+     <player id="112451" /> 
+     <player id="130121" /> 
+     <player id="146680" /> 
+     <player id="214870" /> 
+     <player id="231721" /> 
+     <player id="423758" /> 
+     <player id="423763" /> 
+     <player id="423791" /> 
+     <player id="444179" /> 
+     <player id="460344" /> 
+     <player id="502955" /> 
+     <player id="505499" /> 
+     <player id="505500" /> 
+     <player id="540592" /> 
+     <player id="540596" /> 
+     <player id="578225" /> 
+     <player id="617891" /> 
+     <player id="2219" /> 
+     <player id="4577" /> 
+     <player id="10110" /> 
+     <player id="25072" /> 
+     <player id="46469" /> 
+     <player id="65976" /> 
+     <player id="71949" /> 
+     <player id="86485" /> 
+     <player id="102900" /> 
+     <player id="138136" /> 
+     <player id="153493" /> 
+     <player id="273193" /> 
+     <player id="306873" /> 
+     <player id="335200" /> 
+     <player id="405679" /> 
+     <player id="453573" /> 
+     <player id="459995" /> 
+     <player id="459997" /> 
+     <player id="460353" /> 
+     <player id="460358" /> 
+     <player id="502229" /> 
+     <player id="502950" /> 
+     <player id="502952" /> 
+     <player id="502956" /> 
+     <player id="563031" /> 
+     <player id="563033" /> 
+     <player id="591704" /> 
+     <player id="43" /> 
+     <player id="4581" /> 
+     <player id="4788" /> 
+     <player id="17898" /> 
+     <player id="59311" /> 
+     <player id="129859" /> 
+     <player id="215116" /> 
+     <player id="274219" /> 
+     <player id="282310" /> 
+     <player id="342717" /> 
+     <player id="421673" /> 
+     <player id="423800" /> 
+     <player id="460354" /> 
+   </players> 
+   <coaches> 
+     <coach id="110716" /> 
+     <coach id="110723" /> 
+     <coach id="222279" /> 
+     <coach id="490317" /> 
+     <coach id="502213" /> 
+   </coaches> 
+</team>
